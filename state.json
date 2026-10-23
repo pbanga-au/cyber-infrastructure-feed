@@ -1735,6 +1735,38 @@
       "category": "Cloud",
       "published": "2026-10-23T20:45:57.985534+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks": {
+      "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-23T20:55:05+00:00",
+      "description": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]"
+    },
+    "page:c73804e3a661cb19cff07b60": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T21:43:33.344733+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:708febc9c5a3f90efa3d80a8": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T21:43:33.344733+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:df6c63a04a7f348aed838084": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-10-23T21:43:33.344733+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1743,9 +1775,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "38a74a408f389dab7319ad45ccd8a1c4e4c0c558c2f8b1e3db4473cd786b43b4",
-    "https://status.cloud.google.com/": "792ce7b612bc2c66466e7f73d779376c5464e9d99ad645785b40790149f3b5e6",
-    "https://cloud.google.com/support/bulletins": "ce05db653f844c233c7f0f67e5a4dc4ffabf9e1ff9d125c1a50d24d679efa5a4",
+    "https://azure.status.microsoft/en-us/status": "16c25da6e755f34e4fe8b2bde330d89174a6245b004d00bda8285c0f1e532e05",
+    "https://status.cloud.google.com/": "3a1b57dd00b6e0dd8471bd626b7c37aec7843a5a5f8c19b2ec70ad7546b96ac4",
+    "https://cloud.google.com/support/bulletins": "edf91a372895767ab29306127d99d44d1d5e5d699de817dfe4a8a02e861fab21",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
