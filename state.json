@@ -1647,6 +1647,46 @@
       "category": "Cloud",
       "published": "2026-10-23T17:42:51.739619+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog": {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-23T12:00:00+00:00",
+      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-114625 Arista VeloCloud Orchestrator SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically tho"
+    },
+    "cve:CVE-2026-115812,CVE-2026-115813": {
+      "title": "CVE-2026-115812 and CVE-2026-115813: Issue in Amazon Web Services Multi Model Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-23T17:45:37+00:00",
+      "description": "Bulletin ID: 2026-148-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/23/2026 10:30 AM PDT Description: Amazon Web Services Multi Model Server (MMS) is an open source tool for serving machine learning models for inference. It was published by AWS on GitHub, PyPI, and Docker Hub, and reached end of life; its source repository has been archived and read-only since November 20, 2025. CVE-2026-115812: An issue in model archive extraction could allow a crafted model archive to write files outside the intended directory, potentially resulting in code execution with the privileges of the MMS process. CVE-2026-115813: An issue in the model download path could allow t"
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection": {
+      "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-23T18:54:41+00:00",
+      "description": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]"
+    },
+    "page:94a7e70431281f81c7b376d4": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T18:52:40.005837+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:f56a7cab77a62eea6ef2839e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T18:52:40.005837+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1655,8 +1695,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "82f70808a39039745d65b743b757926f215be3766a66150132fe567a1f70739d",
-    "https://status.cloud.google.com/": "f2b3cd5f075ee977b0a32d6dbff57e1bafb799663c6f874f76d04f58ba2c0b85",
+    "https://azure.status.microsoft/en-us/status": "9d2d9b8a3ffab00fbf10eaffdce642d0bd25d842544c828256b5d4ba77045dbd",
+    "https://status.cloud.google.com/": "19ef790809f8a2aae3035fc4e7cf8f5b0d1823e5b03376847e6cd3ff7b919865",
     "https://cloud.google.com/support/bulletins": "ce05db653f844c233c7f0f67e5a4dc4ffabf9e1ff9d125c1a50d24d679efa5a4",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
