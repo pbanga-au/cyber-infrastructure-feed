@@ -1,0 +1,1561 @@
+{
+  "items": {
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10": {
+      "title": "Siemens SIMATIC S7 Webserver API",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-10",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webserver API vers:intdot/<3.3.61, vers:intdot/<3.3.62 (CVE-2026-85114, CVE-2026-85115) CVSS Vendor Equipment v3 7.5 Siemens .NET Client Library for SIMATIC S7 Webserver API 2 Vulnerabilities Improper Limitation of a Pathname to"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08": {
+      "title": "Siemens APOGEE, TALON and Desigo PXC/PXM Products",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-08",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary The products listed below contain multiple vulnerabilities that could allow an attacker to cause a denial of service and potentially impact the availability of the affected device. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens APOGEE, TALON and Desigo PXC/PXM Products are affected: APOGEE MBC (PPC) (BACnet) vers:all/* (CVE-2026-102073, CVE-2026-102074, CVE-2026-102075, CVE-2026-102076) APOGEE MBC (PPC) (P2 Ethernet) vers:all/* (CVE-2026-102073, CVE-2026-102074, CVE-2026-102075, CVE"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12": {
+      "title": "Siemens RUGGEDCOM CROSSBOW",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modifying system configurations or causing a denial of service. Siemens has released a new version for RUGGEDCOM CROSSBOW and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW are affected: RUGGEDCOM CROSSBOW vers:intdot/<6.0 (CVE-2026-89196, CVE-2026-89197, CVE-2026-89198, CVE-2026-89199, CVE-2026-89200, CVE-2026-89201, CVE-2026-89202, CVE-2026-89203, CVE-2026-89204, CVE-2026"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18": {
+      "title": "Siemens RUGGEDCOM APE1808 Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update information. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-33387, CVE-2026-33388, CVE-2026-33389, CVE-2026-33391, CVE-2026-33920) CVSS Vendor Equipment v3 7.5 Siemens RUGGEDCOM APE1808 4 Vulnerabilities Improper Neutralization of Special Elements Used in a Template Engine, Incorrect Authorization, Lack of Administrator Control over Security, Cross-Site Reque"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02": {
+      "title": "Siemens Industrial Edge App Publisher",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the management server and execute arbitrary code (RCE) on the local machine through Node.js integration. Siemens has released an update for the Industrial Edge App Publisher and recommends to update to the latest version. The following versions of Siemens Industrial Edge App Publisher are affected: Industrial Edge App Publisher vers:intdot/<1.27.9 (CVE-2026-78556, CVE-2026-78557) CVSS Vendor Equipment v3 8.3 Siemens Industrial Edge"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11": {
+      "title": "Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP are affected: SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AB0) vers:intdot/>=3.1.7 SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AC0) vers:intdot/>=3.1.7 SIMATIC S7-1500 CPU 1518F-4 PN/DP MFP (6ES7518-4FX00-1AB0) vers:intdot/>=3.1.7 SIMATIC S7-1500 CPU 1518F-4 PN/DP MFP (6ES7518-4FX00-1"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13": {
+      "title": "Siemens WinCC",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59241) SIMATIC WinCC V8.0 vers:intdot/<8.0.0.11 (CVE-2026-59241) SIMATIC WinCC V8.1 vers:intdot/<8.1.7 (CVE-2026-59241) CVSS Vendor Equipment v3 8"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09": {
+      "title": "Siemens Industrial Edge Device Kit",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends specific countermeasures for products where fixes are not, or not yet available. The following versions of Siemens Industrial Edge Device Kit are affected: Industrial Edge Device Kit - arm64 V1.10 vers:"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04": {
+      "title": "Siemens Capital Embedded AR Classic",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-04",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary The products listed below contain an out-of-bounds read vulnerability that could allow an attacker to cause abnormal product behavior, instability, or denial of service. Siemens has released a new version for Capital Embedded AR Classic R20-11 and recommends updating to the latest version. Siemens is preparing further fix versions and recommends specific countermeasures for products where fixes are not, or not yet available. The following versions of Siemens Capital Embedded AR Classic are affected: Capital Embedded AR Classic 431-422 vers:all/* (CVE-2026-89208) Capital Embedded AR Classic R20-11 vers:intdot/<2303 (CVE-2026-89208) CVSS Vendor Equipment v3 5.3 Siemens Capita"
+    },
+    "url:https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01": {
+      "title": "InterSystems Corporation InterSystems IRIS for Health",
+      "url": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health 2026.2.0.221, 2026.1.0.235, 2025.3.0.226 (CVE-2026-111594, CVE-2026-111594, CVE-2026-111594) CVSS Vendor Equipment v3 8.1 InterSystems Corporation InterSystems IRIS for Health 1 Vulnerability Cleartext Transmission of Sensitive Information Background Critical Infrastructure Sectors: Healthcare and Public Health Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-111"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06": {
+      "title": "Siemens PSS(R)SINCAL",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to use the legacy WibuKey dongle license type. Siemens is actively preparing updates and recommends applicable mitigations for products where patches are currently unavailable. The following versions of Siemens PSS(R)SINCAL are affected: PSS(R)SINCAL V21.5 vers:all/* (CVE-2026-84854) PSS(R)SINCAL V22.0 vers:all/* (CVE-2026-84854) PSS(R)SINCAL V22.5 vers:intdot/<22.5.5 (CVE-2026-84854) CVSS Vendor Equipment v3 7 Siemens PS"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03": {
+      "title": "Siemens Software Center",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application. Siemens has released a new version for Siemens Software Center and recommends to update to the latest version. Please refer to our blog post for additional information about current known active exploitation and how to detect it. The following versions of Siemens Software Center are affected: Siemens Software Center vers:intdot/<4.0.9.8 (CVE-2026-110936) CVSS Vendor Equip"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15": {
+      "title": "Siemens RUGGEDCOM CROSSBOW Station Access Controller",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW Station Access Controller are affected: RUGGEDCOM CROSSBOW Station Access Controller (SAC) vers:intdot/<6.0 (CVE-2025-6965, CVE-2025-70873, CVE-2025-71316, CVE-2026-11822, CVE-2026-11824) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM CROSSBOW Station Acc"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07": {
+      "title": "Siemens SIMATIC IPCs",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SIMATIC IPCs are affected: SIMATIC IPC BX-21A vers:intdot/<31.01.13 (CVE-2026-72895) SIMATIC IPC RW-543A vers:intdot/<1.1.4 (CVE-2026-72895) SIMATIC IPC227G / IPC277G / IPC277G PRO / IPC327G / IPC377G vers:intdot/<28.01.15 (CVE-2026-72895) CVSS Vendor Equipment v3 7.7 Siemens SIMATIC IPC BX-21A 1 Vulnerability "
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17": {
+      "title": "Siemens Industrial Edge Devices",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Devices are affected: Industrial Edge Cloud Device (IECD) vers:intdot/<1.28.1 (CVE-2026-44414) Industrial Edge Own Device (IEOD) vers:intdot/<1.28.1 (CVE-2026-44414) Industrial Edge Virtual Device (IEVD) vers:intdot/"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14": {
+      "title": "Siemens SIMATIC S7 PLCs Web Server",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7 PLCs Web Server are affected: SIMATIC Drive Controller CPU 1504D TF (6ES7615-4DF10-0AB0) vers:all/* (CVE-2026-63350, CVE-2026-63351, CVE-2026-63352, CVE-2026-63353, CVE-2026-63354, CVE-2026-63355, CVE-2026-63356, CVE-2026-63357) SIMATIC Drive Controller CPU 1507D TF (6ES7615"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05": {
+      "title": "Siemens SENTRON 3NA COM Fuse",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-established to restore normal operation. The following versions of Siemens SENTRON 3NA COM Fuse are affected: SENTRON 3NA COM Fuse vers:intdot/<5.2 (CVE-2024-7322) CVSS Vendor Equipment v3 5.8 Siemens SENTRON 3NA COM Fuse 1 Vulnerability Improper Verification of Source of a Communication Channel Background Critical Infrastructure Sectors: Critical Manufacturing, Transportation Systems, Energy, Healthcare and Public Health, Fi"
+    },
+    "url:https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience": {
+      "title": "Managing AI Token Consumption for Operational Resilience",
+      "url": "https://www.cisa.gov/resources-tools/resources/managing-ai-token-consumption-operational-resilience",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "CISA, the Canadian Centre for Cyber Security (Cyber Centre), and partners are releasing joint guidance, Managing AI Token Consumption for Operational Resilience , to help organizations understand and manage token usage in support of operations. As organizations adopt third-party super intelligence (SI) services, token-based usage models can affect cost, performance, and access to critical services. Unmanaged token consumption may contribute to rising and unpredictable costs, reduced service availability, degraded performance, token exhaustion, and denial-of-tokens or denial-of-wallet attacks. The guidance outlines practical steps organizations can take to prioritize token allocation, design "
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16": {
+      "title": "Siemens SIMATIC S7-1500 TM MFP",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-16",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the SIMATIC S7-1500 TM MFP V1.1.1. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 TM MFP are affected: SIMATIC S7-1500 TM MFP - GNU/Linux subsystem vers:all/* CVSS Vendor Equipment v3 10 Siemens SIMATIC S7-1500 TM MFP - GNU/Linux subsystem 377 Vulnerabilities Access of Uninitialized Pointer, Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'), Deadlock, Detection of Error Condition Without Action, Double Free, Expired Pointer Dereference, Heap-based B"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01": {
+      "title": "Kiloview E3 NDI Encoder",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-01",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-22T12:00:00+00:00",
+      "description": "View CSAF Summary Successful exploitation of this these vulnerabilities could allow an attacker to fully compromise the device. The following versions of Kiloview E3 NDI Encoder are affected: E3 Firmware <1.30 (CVE-2026-109122, CVE-2026-111100, CVE-2026-96616, CVE-2026-105265, CVE-2026-110491, CVE-2026-107861, CVE-2026-110243, CVE-2026-92450, CVE-2026-110825) CVSS Vendor Equipment v3 9.9 Kiloview E3 Firmware 6 Vulnerabilities Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Missing Authentication for Critical Function, Insufficient Session Expiration, Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal'), NULL Pointer Derefe"
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching": {
+      "title": "Critical Vulnerabilities in PHP Require Immediate Patching",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-21T12:00:00+00:00",
+      "description": "CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP and affect all PHP installations serving web requests. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed exploitation of these vulnerabilities as of the time of publication, they pose a risk to organizations if left unpatched. CISA urges organizations to take the following actions: Identify and inventory systems running any version of PHP across your organizat"
+    },
+    "url:https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a": {
+      "title": "#StopRansomware: SafePay Ransomware",
+      "url": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-293a",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "Advisory at a Glance Title #StopRansomware: SafePay Ransomware Original Publication October 20, 2026 Executive Summary This advisory details recent activity by the SafePay ransomware group. SafePay actors have been highly active since August 2024, targeting businesses and critical infrastructure across North America, South America, Europe, and Australia. SafePay actors typically gain access to networks by stealing or guessing passwords, exploiting vulnerabilities in security systems, and using phishing tactics. Once inside the network, SafePay actors establish control by creating new accounts or taking over existing ones. They then use legitimate system tools to move through the network, ide"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05": {
+      "title": "Hitachi Energy RTU500 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-05",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. These vulnerabilities if exploited can have impact on confidentiality, integrity and availability of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 Product are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=13.5.1|<=13.5.4, vers:RTU500_series_CMU_Firmware/>=13.6.1|<=13.6.3, vers:RTU500_series_CMU_Firmware/>=13.7.1|<=13.7.8, vers:RTU500_series_CMU_Firmware/>=13.8.1|<=13.8.2, vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7.7 (CVE-2026-175"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04": {
+      "title": "Hitachi Energy MicroSCADA X SYS600 Product",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-04",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "View CSAF Summary Hitachi Energy is aware of multiple vulnerabilities that affect MicroSCADA X SYS600 product versions listed in this document. These vulnerabilities can be exploited to carry out various attacks on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MicroSCADA X SYS600 Product are affected: MicroSCADA X SYS600 vers:MicroSCADA_X_SYS600/<=10.7, 10.8 (CVE-2026-9852, CVE-2026-9853, CVE-2026-9854, CVE-2026-9853) CVSS Vendor Equipment v3 7.8 Hitachi Energy MicroSCADA X SYS600 2 Vulnerabilities Improper Neutralization of Formula Elements in a CSV File, Incorrect Implementation of A"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01": {
+      "title": "HMS Networks PEAK-System PCAN Windows drivers",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-01",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the Windows kernel. The following versions of HMS Networks PEAK-System PCAN Windows drivers are affected: PEAK-System Device Driver Setup <=5.1.2.1151 (CVE-2026-109576, CVE-2026-101103, CVE-2026-94188, CVE-2026-103672, CVE-2026-110322, CVE-2026-105960) PCAN Windows CAN device drivers <=5.1.2 (CVE-2026-109576, CVE-2026-101103, CVE-2026-94188, CVE-2026-103672, CVE-2026-110322, CVE-2026-105960) CVSS Vendor Equipment v3 7.1 HMS Networks PEAK-System Device Driver Setup 5 Vulnerabilities Out-of-bounds Write, Buffer Copy without Checking Size of Input ('Classic Buffer Overflow'), Improper Validation of Array Index, Untru"
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog": {
+      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/20/cisa-adds-six-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability CVE-2026-96655 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96656 Plex Media Server External Control of File Name or Path Vulnerability CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability CVE-2026-110936 Siemens Software Center Uncontrolled Search Path Element Vulnerability These types of vulnerabi"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03": {
+      "title": "Moxa AIG-302 ThingsPro Edge",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain and disclose sensitive information. The following versions of Moxa AIG-302 ThingsPro Edge are affected: Moxa AIG-302 ThingsPro Edge firmware <=1.4.0 (CVE-2026-109812, CVE-2026-109813) CVSS Vendor Equipment v3 8.1 Moxa Moxa AIG-302 ThingsPro Edge firmware 2 Vulnerabilities Missing Authorization, Use of Hard-coded Cryptographic Key Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-2026-109812 A missing authorization vulnerability exist"
+    },
+    "url:https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials": {
+      "title": "Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials",
+      "url": "https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-16T12:00:00+00:00",
+      "description": "CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login credentials and other sensitive information or install malware on targeted devices. Election officials, candidates, and political organizations may be attractive targets because of their access to voter registration data, current government officials, and sensitive campaign information. Cyber actors are increasingly using sophisticated phishing and smishing campaigns that closely resemble legitimate communications. These "
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support": {
+      "title": "CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-16T12:00:00+00:00",
+      "description": "CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulnerabilities (KEV) catalog on Oct. 16, 2026. CISA urges organizations with affected self-hosted Remote Support appliances to immediately take the following actions: Apply the BT26-05-RS patch, as outli"
+    },
+    "url:https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation": {
+      "title": "Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation",
+      "url": "https://www.cisa.gov/resources-tools/resources/key-practices-incident-readiness-and-response-super-intelligence-training-and-evaluation",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-16T12:00:00+00:00",
+      "description": "The National Institute of Standards and Technology (NIST), National Security Agency’s Super Intelligence Security Center (NSA SISC) and Cybersecurity and Infrastructure Security Agency (CISA) published Key Practices for Incident Readiness and Response in Super Intelligence Training and Evaluation . The product outlines ten voluntary core practices to help organizations that train and evaluate highly capable super intelligence (SI) agents—particularly pre-deployment, cutting edge SI agents with reduced safeguards or other high-risk, non-public systems—prepare for and manage SI control incidents. A SI control incident occurs when one or more SI agents takes uninstructed actions that conflict w"
+    },
+    "url:https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php": {
+      "title": "Critical security issue affecting PHP",
+      "url": "https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-21T12:00:00+00:00",
+      "description": "Updated: The NCSC is encouraging UK organisations to take immediate action to mitigate a security issue affecting PHP (CVE-2026-109618 and CVE-2026-109619)."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book": {
+      "title": "Introducing a new AI chapter in the NCSC research problem book",
+      "url": "https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-20T12:00:00+00:00",
+      "description": "A revolution is underway at the intersection of AI and cyber security."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance": {
+      "title": "Post-quantum updates to our TLS guidance",
+      "url": "https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-15T12:00:00+00:00",
+      "description": "The NCSC publishes its recommendations for configuring post-quantum cryptography in TLS. Now is time to migrate."
+    },
+    "url:https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data": {
+      "title": "Using TLS to protect data",
+      "url": "https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-15T12:00:00+00:00",
+      "description": "Recommended profiles to securely configure TLS for the most common versions and scenarios, with additional guidance for managing older versions."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk": {
+      "title": "Help the NCSC understand how organisations approach external attack surface risk",
+      "url": "https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-12T12:00:00+00:00",
+      "description": "We're looking to hear from people involved in evaluating, selecting or adopting EASM."
+    },
+    "url:https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data": {
+      "title": "China-linked malicious actors called out by UK and international partners for targeting sensitive data globally",
+      "url": "https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-08T12:00:00+00:00",
+      "description": "Joint advisory with international partners highlights malicious targeting of organisations from a range of sectors across the globe."
+    },
+    "url:https://www.ncsc.gov.uk/news/incident-affecting-asos-customers": {
+      "title": "Incident affecting ASOS customers",
+      "url": "https://www.ncsc.gov.uk/news/incident-affecting-asos-customers",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-06T12:00:00+00:00",
+      "description": "ASOS has said it is investigating a cyber incident and that some customer personal information may have been accessed."
+    },
+    "url:https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway": {
+      "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
+      "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-28T12:00:00+00:00",
+      "description": "The NCSC is urging UK organisations to promptly mitigate vulnerabilities affecting Citrix NetScaler ADC and Gateway, two of which are being actively exploited."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically": {
+      "title": "One does not simply defend agentically",
+      "url": "https://www.ncsc.gov.uk/blogs/one-does-not-simply-defend-agentically",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-21T12:00:00+00:00",
+      "description": "Defenders can’t use AI in the same way attackers can, but there’s much they can do to unlock the potential of agentic cyber defence."
+    },
+    "url:https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know": {
+      "title": "Adversary simulation: what you need to know",
+      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-17T12:00:00+00:00",
+      "description": "Adversary simulation ('red teaming') tests your ability to prevent, detect and respond to cyber attacks."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available": {
+      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
+      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-17T12:00:00+00:00",
+      "description": "Our view of good cyber adversary simulation – and how assured providers can deliver it."
+    },
+    "url:https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists": {
+      "title": "Iranian cyber targeting of dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-15T12:00:00+00:00",
+      "description": "Advisory on CHOSEN BRICK malware, including technical analysis and advice to help individuals and organisations protect themselves."
+    },
+    "url:https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists": {
+      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
+      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-15T12:00:00+00:00",
+      "description": "UK and allies provide advice to help organisations and individuals at risk detect and counter the threat from CHOSEN BRICK malware."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai": {
+      "title": "The hidden risks of shadow AI",
+      "url": "https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-09-07T12:00:00+00:00",
+      "description": "Understanding why staff use unapproved AI tools is key to managing the security challenges they can create."
+    },
+    "url:https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices": {
+      "title": "Disruptive cyber activity highlights risk from internet-exposed systems and edge devices",
+      "url": "https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-08-27T12:00:00+00:00",
+      "description": "Owners of operational technology encouraged to address avoidable vulnerabilities, and build long-term cyber resilience."
+    },
+    "cve:CVE-2026-109618,CVE-2026-109619": {
+      "title": "CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products  (Severity: HIGH)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-109618",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-23T03:45:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0307": {
+      "title": "CVE-2026-0307 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0307",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-17T00:55:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0317": {
+      "title": "CVE-2026-0317 PAN-OS: Denial of Service Vulnerability (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0317",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-15T18:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0322": {
+      "title": "CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0322",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-15T18:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0320": {
+      "title": "CVE-2026-0320 PAN-OS: Authenticated Admin Command Injection Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0320",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-15T18:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0321": {
+      "title": "CVE-2026-0321 PAN-OS: Denial of Service (DoS) Vulnerabilities in Network Services (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0321",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-15T18:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0313": {
+      "title": "CVE-2026-0313 Cortex XSOAR: OS Command Injection Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0313",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0315": {
+      "title": "CVE-2026-0315 GlobalProtect App: Local Privilege Escalation Vulnerability on macOS (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0315",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0312": {
+      "title": "CVE-2026-0312 Checkov by Prisma Cloud: Path Traversal Vulnerabilities (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0312",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0319": {
+      "title": "CVE-2026-0319 PAN-OS: Improper Input Handling Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0319",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0314": {
+      "title": "CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0314",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0316": {
+      "title": "CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0316",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0311": {
+      "title": "CVE-2026-0311 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0311",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "url:https://security.paloaltonetworks.com/PAN-SA-2026-0013": {
+      "title": "PAN-SA-2026-0013 Chromium: Monthly Vulnerability Update (October 2026) (Severity: HIGH)",
+      "url": "https://security.paloaltonetworks.com/PAN-SA-2026-0013",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0318": {
+      "title": "CVE-2026-0318 PAN-OS: Denial of Service (DoS) on Panorama (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0318",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-14T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0250": {
+      "title": "CVE-2026-0250 GlobalProtect App: Buffer Overflow Vulnerability during connection to Portal or Gateway (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0250",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-10-02T08:15:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0295": {
+      "title": "CVE-2026-0295 GlobalProtect App: Local Privilege Escalation via Race Condition on macOS (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0295",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-12T00:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0299": {
+      "title": "CVE-2026-0299 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0299",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-12T00:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0297": {
+      "title": "CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0297",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-12T00:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0298": {
+      "title": "CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0298",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-12T00:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0296": {
+      "title": "CVE-2026-0296 GlobalProtect App: Improper Certificate Validation Bypass Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0296",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-12T00:30:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0308": {
+      "title": "CVE-2026-0308 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability in the Web Interface (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0308",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0309": {
+      "title": "CVE-2026-0309 PAN-OS: Authenticated Command Injection in CLI with Luna HSM Configuration (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0309",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0304": {
+      "title": "CVE-2026-0304 Cortex XDR Broker VM: Privilege Escalation Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0304",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0310": {
+      "title": "CVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing  (Severity: HIGH)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0310",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2025-52989": {
+      "title": "2025-07 Security Bulletin: Junos OS and Junos OS Evolved: Annotate configuration command can be used for privilege escalation (CVE-2025-52989)",
+      "url": "https://supportportal.juniper.net/s/article/2025-07-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Annotate-configuration-command-can-be-used-for-privilege-escalation-CVE-2025-52989",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-16T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/On-Demand-Session-Smart-Router-SSR-and-Conductor-patch-release-notification": {
+      "title": "On Demand: Session Smart Router (SSR) and Conductor patch release notification",
+      "url": "https://supportportal.juniper.net/s/article/On-Demand-Session-Smart-Router-SSR-and-Conductor-patch-release-notification",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-16T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102081": {
+      "title": "2026-10 Security Bulletin: Junos OS: SRX 4000 Series, SRX5000 Series and MX Series with SPC3: With application services configured, high session churn causes memory leak which will ultimately impact traffic (CVE-2026-102081)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-4000-Series-SRX5000-Series-with-SPC3-With-application-services-configured-high-session-churn-causes-memory-leak-which-will-ultimately-impact-traffic-CVE-2026-102081",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-Multiple-vulnerabilities-resolved": {
+      "title": "2026-10 Security Bulletin: Junos OS Evolved: Multiple vulnerabilities resolved",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-Multiple-vulnerabilities-resolved",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Multiple-vulnerabilities-resolved": {
+      "title": "2026-10 Security Bulletin: Junos OS: MX Series: Multiple vulnerabilities resolved",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Multiple-vulnerabilities-resolved",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-resolved": {
+      "title": "2026-10 Security Bulletin: Junos OS: Multiple vulnerabilities resolved",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-resolved",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-vulnerabilities-resolved": {
+      "title": "2026-10 Security Bulletin: Junos OS and Junos OS Evolved: Multiple vulnerabilities resolved",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-vulnerabilities-resolved",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-SRX-Series-Multiple-vulnerabilities-resolved": {
+      "title": "2026-10 Security Bulletin: Junos OS and Junos OS Evolved: SRX Series: Multiple vulnerabilities resolved",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-SRX-Series-Multiple-vulnerabilities-resolved",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Juniper-Cloud-Native-Router-Multiple-vulnerabilities-resolved-in-26-2-release": {
+      "title": "2026-10 Security Bulletin: Juniper Cloud-Native Router: Multiple vulnerabilities resolved in 26.2 release",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Juniper-Cloud-Native-Router-Multiple-vulnerabilities-resolved-in-26-2-release",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102077": {
+      "title": "2026-10 Security Bulletin: Junos OS: MX Series with SPC3: In a NAT scenario malformed packets will lead to resource leaks and eventually traffic stops (CVE-2026-102077)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-with-SPC3-In-a-NAT-scenario-malformed-packets-will-lead-to-resource-leaks-and-eventually-traffic-stops-CVE-2026-102077",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102078": {
+      "title": "2026-10 Security Bulletin: Junos OS: SRX Series: A high volume of DNS traffic over TCP can lead to a flowd crash (CVE-2026-102078)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-A-high-volume-of-DNS-traffic-over-TCP-can-lead-to-a-flowd-crash-CVE-2026-102078",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102079": {
+      "title": "2026-10 Security Bulletin: Junos OS: MX Series: Missing Authorization for specific 'request' CLI commands allows command injection (CVE-2026-102079)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Missing-Authorization-for-specific-request-CLI-commands-allows-command-injection-CVE-2026-102079",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102080": {
+      "title": "2026-10 Security Bulletin: Junos OS: MX Series: Malformed SyncE or PTP clock input causes continuous RE switchover (CVE-2026-102080)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Malformed-SyncE-or-PTP-clock-input-causes-continuous-RE-switchover-CVE-2026-102080",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102082": {
+      "title": "2026-10 Security Bulletin: Junos OS: SRX Series: If TLS session resumption is configured and a specific TLS message is received a PFE crash occurs (CVE-2026-102082)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-If-TLS-session-resumption-is-configured-and-a-specific-TLS-message-is-received-a-PFE-crash-occurs-CVE-2026-102082",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102083": {
+      "title": "2026-10 Security Bulletin: Junos OS: SRX Series: With WebFiltering enabled prolonged HTTP session load can cause a crash (CVE-2026-102083)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-With-WebFiltering-enabled-prolonged-HTTP-session-load-can-cause-a-crash-CVE-2026-102083",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102084": {
+      "title": "2026-10 Security Bulletin: Junos OS: SRX Series: In an ADVPN scenario a malformed message from a peer causes Remote Code Execution (CVE-2026-102084)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-In-an-ADVPN-scenario-a-malformed-message-from-a-peer-causes-Remote-Code-Execution-CVE-2026-102084",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102085": {
+      "title": "2026-10 Security Bulletin: Junos OS Evolved: A port which has been inadvertently exposed can be reached by an attacker (CVE-2026-102085)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-A-port-which-has-been-inadvertently-exposed-can-be-reached-by-an-attacker-CVE-2026-102085",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102086": {
+      "title": "2026-10 Security Bulletin: Junos OS: SRX Series: Multiple DNS queries processed by SecIntel and DGA in the same session cause a flowd crash (CVE-2026-102086)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-Multiple-DNS-queries-processed-by-SecIntel-and-DGA-in-the-same-session-cause-a-flowd-crash-CVE-2026-102086",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-102087": {
+      "title": "2026-10 Security Bulletin: Junos OS and Junos OS Evolved: If in a traffic engineering scenario a specific valid BGP-LS attribute is received rpd crashes (CVE-2026-102087)",
+      "url": "https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-If-in-a-traffic-engineering-scenario-a-specific-valid-BGP-LS-attribute-is-received-rpd-crashes-CVE-2026-102087",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-10-14T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH": {
+      "title": "2025-08 Updated Reference Advisory: Junos OS and Junos OS Evolved: Multiple CVEs reported in OpenSSH",
+      "url": "https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-09-28T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://supportportal.juniper.net/s/article/2021-04-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-NTP-vulnerabilities-resolved": {
+      "title": "2021-04 Security Bulletin: Junos OS and Junos OS Evolved: Multiple NTP vulnerabilities resolved.",
+      "url": "https://supportportal.juniper.net/s/article/2021-04-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-NTP-vulnerabilities-resolved",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-09-04T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws": {
+      "title": "Issue in the Linux kernel virtio-net/TAP networking path affecting KVM-based hypervisors",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-15T19:03:20+00:00",
+      "description": "Bulletin ID: 2026-137-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/15/2026 10:30 AM PDT Description: AWS is aware of an issue in the Linux kernel's virtio-net/TAP networking path (CVE-2026-99999) that affects KVM-based hypervisors running unpatched Linux kernel versions 4.4 through 6.18. This issue could allow an actor with privileged access inside a guest virtual machine to send specially crafted network packets that corrupt host kernel memory that could result in disclosure of host memory or a denial of service. AWS-managed compute and container services, including Amazon EC2 instances, AWS Lambda, and AWS Fargate, are not affected. There is no action re"
+    },
+    "cve:CVE-2026-89049": {
+      "title": "CVE-2026-89049 - Server-side request forgery in the Session Manager port forwarding functionality in AWS Systems Manager Agent",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-107-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-10T18:44:24+00:00",
+      "description": "Bulletin ID: 2026-107-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 11:30 AM PDT Description: AWS Systems Manager Agent (SSM Agent) is software that runs on managed nodes (EC2 instances, on-premises servers, and other supported machines) and processes requests from the AWS Systems Manager service, enabling capabilities including Session Manager port forwarding to remote hosts. We identified CVE-2026-89049, a server-side request forgery issue in the remote-host port forwarding functionality. Due to improper validation of equivalent address representations, an authenticated user with port-forwarding permission could bypass the remote destination denyl"
+    },
+    "cve:CVE-2026-107783": {
+      "title": "CVE-2026-107783 - Insertion of sensitive information into log file in AWS Tools for PowerShell",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-132-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-09T15:56:44+00:00",
+      "description": "Bulletin ID: 2026-132-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/09/2026 08:30 AM PDT Description: AWS Tools for PowerShell V5 lets developers and administrators manage their AWS services from the PowerShell scripting environment. We identified CVE-2026-107783, where insertion of sensitive information into log file in AWS Tools for PowerShell before 5.0.306 might allow local users to recover an IAM user's cleartext AWS Management Console password from command output and log artifacts. Impacted versions: <= v5.0.305 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-89332": {
+      "title": "CVE-2026-89332 - Kiro IDE Sensitive Workspace Data Exfiltration via Agent-Written Workspace Configuration",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-111-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-11T19:08:25+00:00",
+      "description": "Bulletin ID: 2026-111-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 12:00 PM PDT Description: Kiro IDE is an agentic development environment that makes it easy for developers to ship real engineering work with the help of AI agents. We identified CVE-2026-89332, where the Kiro agent could modify a workspace's settings file in an untrusted workspace in Kiro IDE. A specially crafted repository could use this to point the Kiro Powers registry URL, which Kiro fetches when the Powers panel is opened, at an external endpoint, sending potentially sensitive workspace data to that endpoint. Kiro presented the edit to the user for approval, showing the insert"
+    },
+    "cve:CVE-2026-89090": {
+      "title": "CVE-2026-89090 - Denial of service in the event stream header decoder in AWS SDK for Go v2",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-11T17:09:09+00:00",
+      "description": "Bulletin ID: 2026-110-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 10:00 AM PDT Description: An issue exists in the the EventStream header decoder in AWS SDK for Go v2 in versions predating 2026-03-23. An actor can send a malformed EventStream response frame containing a crafted header value type byte outside the valid range, which can cause the host process to terminate. Impacted versions: < 2026-03-23 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-103956,CVE-2026-103957,CVE-2026-103958": {
+      "title": "CVE-2026-103956, CVE-2026-103957, and CVE-2026-103958 - Issues in Loom for AWS",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-124-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-02T19:21:29+00:00",
+      "description": "Bulletin ID: 2026-124-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/02/2026 12:00 PM PDT Description: Loom is an AWS Labs open-source AI agent orchestration platform. We have identified and addressed three issues in Loom for AWS, described below. We recommend upgrading to the latest version (1.7.0) and ensuring any forked or derivative code is patched to incorporate the new fixes. - CVE-2026-103956 ‐ Authentication bypass in Loom for AWS (CWE-306, CWE-1188) An issue in the authentication dependency in Loom for AWS versions <1.6.1 allowed any network client to obtain full administrative authority over the agent control plane ‐ including registering tool serv"
+    },
+    "cve:CVE-2026-94450": {
+      "title": "CVE-2026-94450 - Potential denial of service when configured to send Retry packets in s2n-quic",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-116-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-22T20:08:17+00:00",
+      "description": "Bulletin ID: 2026-116-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/22/2026 13:00 PM PDT Description: s2n-quic is a Rust implementation of the QUIC protocol. We identified CVE-2026-94450, an issue with improper validation of the Destination Connection ID length when a server is configured to send Retry packets. s2n-quic 1.88.0 and earlier allow an unauthenticated user to shut down a server endpoint via a single crafted UDP datagram. No AWS services are affected by this issue, and customers of AWS services do not need to take action. Only server endpoints specifically configured to issue Retry packets are affected. Impacted versions: <= v1.88.0 Please refer "
+    },
+    "cve:CVE-2026-115419": {
+      "title": "CVE-2026-115419 - Unintended disclosure of data element to wrong session in Strands Agents SDK A2A Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-22T20:07:11+00:00",
+      "description": "Bulletin ID: 2026-146-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 13:00 PM PDT Description: Strands Agents is an open-source SDK, available for Python and TypeScript, for building AI agents. The SDK includes an Agent2Agent (A2A) server component that exposes an agent over HTTP so other agents and clients can call it. We identified CVE-2026-115419, an issue where the A2A server did not properly isolate conversation state between callers. An authenticated remote user could access another caller's conversation history or influence model behavior for other callers in multi-tenant deployments. Impacted versions: - strands-agents (Python): all versions "
+    },
+    "cve:CVE-2026-107332": {
+      "title": "CVE-2026-107332 - Insecure default file permissions on cached credentials in AWS Toolkit for Visual Studio Code",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-129-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-08T17:43:09+00:00",
+      "description": "Bulletin ID: 2026-129-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/08/2026 10:30 PM PDT Description: AWS Toolkit for Visual Studio Code is an open source extension that lets developers work with AWS services, including Amazon CodeCatalyst, from within Visual Studio Code. We identified CVE-2026-107332, an issue in the CodeCatalyst connection handler. When a user connected to a CodeCatalyst Dev Environment, the extension cached the user's CodeCatalyst bearer token to a file with world-readable permissions and did not remove the file after the session ended. A local user or process on the same machine with access to the file system was able to read this file "
+    },
+    "cve:CVE-2026-112380": {
+      "title": "CVE-2026-112380 - Missing authorization in the WhatsApp channel in Kiro Crew",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-140-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-20T20:19:42+00:00",
+      "description": "Bulletin ID: 2026-140-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/20/2026 13:00 PM PDT Description: Kiro Crew is an open-source personal AI agent that can be reached from a web dashboard, a CLI, or messaging channels such as WhatsApp, and that runs tools on the operator's machine. We identified CVE-2026-112380, an authorization issue in the WhatsApp channel and the internal subagent run-control endpoints. In certain configurations where a WhatsApp group was added to an operator's allowed groups, or where the direct-message policy was set to open, a member of that WhatsApp group could send instructions to another session's subagent. The subagent then execu"
+    },
+    "cve:CVE-2026-108096": {
+      "title": "CVE-2026-108096: Improper authorization in query resolvers for SQL-backed models in AWS Amplify API Category",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-133-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-09T18:13:24+00:00",
+      "description": "Bulletin ID: 2026-133-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/09/2026 11:00 AM PDT Description: AWS Amplify API Category is a CDK Construct library for defining GraphQL data models with authorization rules as AWS AppSync APIs. We identified CVE-2026-108096, where improper authorization in the query resolvers generated by @aws-amplify/graphql-index-transformer might allow an authenticated remote user to read records owned by other users of the same application via crafted queries. Impacted versions: - @aws-amplify/graphql-index-transformer >=2.2.0, <3.1.2; - @aws-amplify/graphql-api-construct >=1.4.0, <1.21.4; - @aws-amplify/data-construct <1.17.4 Plea"
+    },
+    "cve:CVE-2026-85788": {
+      "title": "CVE-2026-85788 - Issue with awslabs mysql-mcp-server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-103-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-09T21:30:11+00:00",
+      "description": "Bulletin ID: 2026-103-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/09/2026 09:30 AM PDT Description: We identified an issue in awslabs.mysql-mcp-server (an open-source, self-hosted Model Context Protocol server distributed via github.com/awslabs/mcp and PyPI). In affected versions, under certain conditions the read-only enforcement could be circumvented via SQL inline comments, allowing a statement to run that the read-only check was expected to block. The read-only mode provided by the server is a best-effort safeguard and is not a substitute for correctly scoped database permissions; the effective boundary is the permissions of the configured MySQL user."
+    },
+    "cve:CVE-2026-107608": {
+      "title": "CVE-2026-107608: Improper link resolution in asset bundling output handling in aws-cdk-lib",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-131-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-08T19:44:26+00:00",
+      "description": "Bulletin ID: 2026-131-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/08/2026 12:30 PM PDT Description: AWS CDK is an open source framework that allows customers to build cloud infrastructure using their favorite programming language (Python, Typescript, C#, Go). That infrastructure is then able to be deployed with AWS CDK command line commands to AWS CloudFormation. We identified CVE-2026-107608, which is an issue where Docker files could be configured to insert symlinked files into the output of the AWS CDK asset bundling process when it was invoked with a Docker file. When bundling an asset using AWS CDK with a docker file, prior to 2.267.0, it was possibl"
+    },
+    "cve:CVE-2026-85787": {
+      "title": "CVE-2026-85787 - An incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server to modify data beyond the read-only scope",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-101-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-09T21:30:11+00:00",
+      "description": "Bulletin ID: 2026-101-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/04/2026 13:00 PM PDT Description: We have identified CVE-2026-85787, an incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server before version 1.1.7 might allow an unauthenticated actor to modify data beyond the read-only scope by placing crafted SQL into the content that is submitted when an authenticated user interacts with the MCP server. Impacted versions: any pypi package version < 1.1.7 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-92943": {
+      "title": "CVE-2026-92943 - Improper validation of certificate with host mismatch in AWS IoT Device SDK for Python",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-114-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-17T19:18:01+00:00",
+      "description": "Bulletin ID: 2026-115-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/17/2026 12:00 PM PDT Description: AWS IoT Device SDK for Python (AWSIoTPythonSDK) is an open source SDK that lets IoT devices and gateways connect to AWS IoT Core over MQTT. We identified CVE-2026-92943 in the MQTT client TLS connection layer, where the client did not validate that the server certificate matched the AWS IoT Core endpoint hostname. On Python 3.7 and later, an adversary-in-the-middle positioned on the network could present a certificate issued for an unrelated hostname by any certificate authority in the device trust store, impersonate the AWS IoT Core endpoint, read device t"
+    },
+    "cve:CVE-2026-103505": {
+      "title": "CVE-2026-103505 - Mount Option Injection in Amazon EFS CSI Driver",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-120-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-02T16:38:11+00:00",
+      "description": "Bulletin ID: 2026-120-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/01/2026 08:30 AM PDT Description: The Amazon EFS CSI Driver is a Container Storage Interface driver that allows Kubernetes clusters to use Amazon Elastic File System. We identified CVE-2026-103505, where an actor with PersistentVolume creation privileges can inject additional mount options through the mounttargetipmap volumeAttribute. Appending comma-separated values to a value inside that JSON map causes the mount utility to parse them as separate mount options. Impacted versions: >= v3.1.0 AND <= v3.4.2 Please refer to the article below for the most up-to-date and complete information rel"
+    },
+    "cve:CVE-2026-105812,CVE-2026-106032": {
+      "title": "CVE-2026-105812 and CVE-2026-106032: Issue with Bedrock AgentCore Starter Toolkit - Import Agent Code Injection and SSRF",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-127-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-06T20:41:24+00:00",
+      "description": "Bulletin ID: 2026-127-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/06/2026 13:30 PM PDT Description: bedrock-agentcore-starter-toolkit is an AWS-maintained open-source Python package, distributed via GitHub and PyPI, that provides a command-line interface for importing Amazon Bedrock Agents into local development environments. We identified CVE-2026-105812, a code injection issue that could allow arbitrary code execution when a specially crafted agent is imported and subsequently run or deployed, and CVE-2026-106032, an external reference handling issue that could cause unintended network requests or local file access during agent import. Affected versions"
+    },
+    "cve:CVE-2026-110812": {
+      "title": "CVE-2026-110812 - Deserialization of untrusted data in the Gremlin graph-import path in Amazon Neptune",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-136-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-15T16:41:28+00:00",
+      "description": "Bulletin ID: 2026-136-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/15/2026 09:30 AM PDT Description: Amazon Neptune is a fully managed graph database service. We identified CVE-2026-110812, an issue in Apache TinkerPop related to Gremlin functionality used by Amazon Neptune. Under certain conditions, an authenticated principal with Neptune data-plane (query) permissions could submit a request that causes the query engine to process untrusted input unsafely, which could lead to unintended activity within the query engine environment. This issue has been addressed in the engine versions listed below; we recommend customers upgrade. Impacted versions: >=1.2.0"
+    },
+    "cve:CVE-2026-104002": {
+      "title": "CVE-2026-104002: Fail-open error handling in the data masking utility in Powertools for AWS Lambda (Python)",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-123-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-01T21:15:48+00:00",
+      "description": "Bulletin ID: 2026-123-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/01/2026 14:00 PM PDT Description: Powertools for AWS Lambda (Python) is a developer toolkit that implements serverless best practices and increases developer velocity. We identified CVE-2026-104002, a fail-open error handling issue within the data masking utility of Powertools for AWS Lambda (Python). This issue might allow actors to read sensitive field values that the application intended to mask. Impacted versions: >=3.6.0 AND <=3.34.0 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-107352": {
+      "title": "CVE-2026-107352 - Missing authorization checks in Amazon Athena engine version 3 request handling",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-128-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-07T20:19:18+00:00",
+      "description": "Bulletin ID: 2026-128-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/07/2026 13:00 PM PDT Description: Missing authorization checks in Amazon Athena engine version 3 request handling could have allowed an authenticated user to read limited query metadata (AWS account identifiers and SQL statement text) from other AWS accounts. AWS remediated the issue on September 1, 2026, and has confirmed no customer metadata was accessed. Query results, credentials, and Amazon S3 data were not affected. No customer action is required. Resolution: This issue was addressed service-side on September 1, 2026. Please refer to the article below for the most up-to-date and compl"
+    },
+    "cve:CVE-2026-112407": {
+      "title": "CVE-2026-112407 - Incorrect privilege assignment in AWS CICD-toolchain-for-serverless-applications",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-141-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-20T20:39:30+00:00",
+      "description": "Bulletin ID: 2026-141-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/20/2026 13:30 PM PDT Description: CICD-toolchain-for-serverless-applications is an AWS sample application that provisions a CI/CD pipeline for serverless applications through the AWS Serverless Application Repository. We identified CVE-2026-112407, an incorrect privilege assignment in the IAM policy of AWS CICD-toolchain-for-serverless-applications before 1.0.11 that allows remote authenticated users with push access to the application source repository to escalate privileges and access or modify resources outside the application stack in the same AWS account via application templates deplo"
+    },
+    "cve:CVE-2026-94384": {
+      "title": "CVE-2026-94384 - Missing Authorization in AmazonConnectSalesforceLambda sfExecuteAWSService",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-115-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-22T17:10:17+00:00",
+      "description": "Bulletin ID: 2026-115-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/22/2026 10:00 AM PDT Description: Amazon Connect Salesforce Lambda (AmazonConnectSalesforceLambda) is a Serverless Application Repository application that provides Lambda functions for integrating Amazon Connect with Salesforce. We identified CVE-2026-94384, a missing authorization issue in the sfExecuteAWSService Lambda function, which is used only during initial setup. The function dispatches caller-supplied parameters to privileged AWS service APIs without validating the caller's authorization. As a result, an IAM principal with lambda:InvokeFunction permission on the function can perfor"
+    },
+    "cve:CVE-2026-115414": {
+      "title": "CVE-2026-115414 - OS Command Injection Issue in SAM CLI Terraform Hook",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-145-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-22T18:50:58+00:00",
+      "description": "Bulletin ID: 2026-145-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 11:30 AM PDT Description: AWS SAM CLI is an open-source framework for building serverless applications. We identified CVE-2026-115414, an OS command injection issue in the Terraform hook (sam build --hook-name terraform) in AWS SAM CLI. The Terraform hook generates a Makefile recipe that interpolates a Terraform resource address without fully neutralizing shell metacharacters, which could allow an actor who can influence the Terraform configuration or plan file consumed by a build to execute arbitrary commands as the build user on the host running the build. Impacted versions: >=1.6"
+    },
+    "cve:CVE-2026-84942": {
+      "title": "CVE-2026-84942 - Stored Cross-Site Scripting via Vega Expression Function Bypass in OpenSearch Dashboards",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-102-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-09T21:30:11+00:00",
+      "description": "Bulletin ID: 2026-102-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/08/2026 12:30 PM PDT Description: A stored cross-site scripting (XSS) issue in the Vega expression function implementation in OpenSearch Dashboards allows a remote authenticated actor with dashboard write permissions to execute arbitrary JavaScript in the context of other users' browser sessions by saving a crafted Vega visualization. Affedted products & versions: OpenSearch Dashboards (open-source, self-managed): - Affected: v2.0.0, v2.1.0, v2.2.0, v2.3.0, v2.4.0, v2.5.0, v.2.6.0, v2.7.0, v2.8.0, v2.9.0, v2.10.0, v2.11.0, v2.12.0, v2.13.0, v2.14.0, v2.15.0, v2.16.0, v2.17.0, v2.18.0, v2.19"
+    },
+    "cve:CVE-2026-85228": {
+      "title": "CVE-2026-85228 - Integer overflow in tensor buffer validation in Deep Java Library",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-106-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-10T17:13:16+00:00",
+      "description": "Bulletin ID: 2026-106-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 10:00 AM PDT Description: Deep Java Library (DJL) is an open-source, engine-agnostic Java framework for deep learning, developed and maintained by Amazon. AWS identified CVE-2026-85228, an integer overflow in the tensor buffer validation component of DJL on all platforms. A crafted tensor payload declaring a shape whose computed byte size exceeds the 32-bit signed integer range causes the size to wrap, allowing an undersized buffer to pass validation; a subsequent tensor operation then reads out of bounds. If leveraged, a remote, unauthenticated actor could obtain information from a"
+    },
+    "cve:CVE-2026-100308": {
+      "title": "CVE-2026-100308 - GluonTS arbitrary command execution during model deserialization",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-119-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-29T15:17:30+00:00",
+      "description": "Bulletin ID: 2026-119-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/29/2026 08:00 AM PDT Description: GluonTS is an open source library for deep learning based time series models. We identified CVE-2026-100308 that allows arbitrary command execution upon deserialization of untrusted model artifacts. Deserialization of untrusted data in the model loading component in Amazon GluonTS before 0.17.0 might allow context-dependent attackers to execute arbitrary operating system commands with the privileges of the loading process via a crafted serialized model directory. The issue arises whenever a user calls Predictor.deserialize() or any RepresentablePredictor.de"
+    },
+    "cve:CVE-2026-86831": {
+      "title": "CVE-2026-86831: Improper validation of pod identifier uniqueness in aws-network-policy-agent in Amazon EKS",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-113-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-16T20:16:23+00:00",
+      "description": "Bulletin ID: 2026-113-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/16/2026 12:30 PM PDT Description: Network Policy Agent is an EKS Policy management feature. We identified CVE-2026-86831, a cross-namespace NetworkPolicy bypass in Amazon EKS Network Policy Agent (aws-network-policy-agent) before v1.4.0. Pod identifiers are constructed by concatenating the pod name and namespace with a hyphen delimiter, which is a legal character in both Kubernetes pod names and namespace names. This ambiguity can produce identical identifiers for pods across different namespaces, potentially allowing NetworkPolicy enforcement to be bypassed. Impacted versions: - 1.14.0<1.2"
+    },
+    "cve:CVE-2026-97662": {
+      "title": "CVE-2026-97662 - Argument injection in AWS security-agent-mcp-server diff scan",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-121-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-01T18:16:35+00:00",
+      "description": "Bulletin ID: 2026-121-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/01/2026 10:30 AM PDT Description: security-agent-mcp-server is an open-source Model Context Protocol (MCP) server, published by AWS in the awslabs/mcp repository, that AI assistants use to run local security scans (including differential \"diff\" scans) over source code. We identified CVE-2026-97662, an argument injection issue in the diff scan operation: a crafted reference value supplied to the scan is interpreted as a command-line option rather than a revision, which lets a context-dependent actor create, overwrite, or truncate arbitrary files on the host outside the intended workspace dir"
+    },
+    "cve:CVE-2026-105811": {
+      "title": "CVE-2026-105811 - Authorization bypass through a user-controlled key in the Amazon Q Business Lambda hook sample in QnABot on AWS",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-126-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-07T18:25:26+00:00",
+      "description": "Bulletin ID: 2026-126-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/06/2026 13:00 PM PDT Description: QnABot on AWS is a sample solution of a multi-channel, multi-language conversational interface (chatbot) that responds to your customer's questions, answers, and feedback. We identified CVE-2026-105811 in the optional Amazon Q Business Lambda hook sample of QnABot on AWS. The Amazon Q Business Lambda hook sample (q-business-lambda-hook) is an optional integration sample included in the QnABot on AWS repository. It requires separate, manual deployment and additional setup; it is not deployed automatically with QnABot. Customers who have not deployed this sam"
+    },
+    "cve:CVE-2026-102551,CVE-2026-102552": {
+      "title": "CVE-2026-102551 & CVE-2026-102552 - Issue with FreeRTOS-Plus-TCP",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-139-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-16T17:34:49+00:00",
+      "description": "Bulletin ID: 2026-139-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/16/2026 10:15 AM PDT Description: FreeRTOS-Plus-TCP is an open-source, thread-safe TCP/IP stack for the FreeRTOS kernel, distributed by Amazon for use on embedded and IoT devices. AWS identified two issues with FreeRTOS-Plus-TCP, affecting multiple versions. CVE-2026-102551: improper verification of the source of a communication channel in the IPv6 Router Advertisement handler. The handler does not fully validate that a received Router Advertisement originates from an on-link source before acting on it. Under certain conditions, a remote third-party might influence an endpoint's IPv6 gatewa"
+    },
+    "cve:CVE-2026-104020": {
+      "title": "CVE-2026-104020 - Uncontrolled recursion in the Ion reader in Amazon Ion Python",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-122-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-01T20:50:19+00:00",
+      "description": "Bulletin ID: 2026-122-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/01/2026 13:30 PM PDT Description: Amazon Ion Python is an open-source Python implementation of the Amazon Ion data notation. We identified CVE-2026-104020, an issue in the Ion reader in Amazon Ion Python before version 0.15.0 where a crafted, deeply nested Ion value could cause the application to raise an error or crash, resulting in a denial of service. Impacted versions: < 0.15.0 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-110310": {
+      "title": "CVE-2026-110310 - RSA PKCS#1 v1.5 padding oracle via legacy envelope key format downgrade in Amazon S3 Encryption Client for .NET",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-135-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-14T19:48:49+00:00",
+      "description": "Bulletin ID: 2026-135-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/14/2026 12:30 PM PDT Description: We identified CVE-2026-110310, an issue in Amazon S3 encryption client for .NET that could allow a remote user who can read encrypted objects in the S3 bucket can force a padding downgrade by altering the padding scheme recorded in an object's metadata to legacy PKCS#1 v1.5. Since this padding scheme is susceptible to the Bleichenbacher attack, the user can use a PKCS#1 v1.5 padding oracle to recover the RSA-wrapped envelope key and decrypt the object. Impacted versions: >= 2.1.0; 3.0.0 to 3.2.1; 4.0.0 to 4.0.2 Please refer to the article below for the most"
+    },
+    "cve:CVE-2026-18061": {
+      "title": "CVE-2026-18061 - XML External Entity (XXE) in AWS Advanced JDBC Wrapper RemoteQueryCachePlugin",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-109-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-11T16:37:01+00:00",
+      "description": "Bulletin ID: 2026-109-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 09:30 AM PDT Description: The AWS Advanced JDBC Wrapper is an open-source library that enhances existing JDBC drivers with AWS-specific capabilities such as Aurora failover, IAM authentication, and automated SQL query caching for applications connecting to Amazon Aurora, RDS MySQL, and RDS MariaDB. We identified CVE-2026-18061, an improper restriction of XML external entity (XXE) references in the optional RemoteQueryCachePlugin. When this plugin is enabled with a shared cache, an actor with write access to that cache infrastructure might place crafted XML in a cached column value. "
+    },
+    "cve:CVE-2026-112408": {
+      "title": "CVE-2026-112408 - Missing bucket ownership verification in Amazon SageMaker Python SDK default_bucket()",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-142-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-21T21:32:10+00:00",
+      "description": "Bulletin ID: 2026-142-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/21/2026 12:30 PM PDT Description: The Amazon SageMaker Python SDK is an open-source library for training and deploying machine learning models on Amazon SageMaker. We identified CVE-2026-112408, an issue in the default_bucket() function. The SDK uses a predictably named Amazon S3 bucket and does not check that the caller's AWS account owns it. A remote actor who creates that bucket first could achieve code execution in a remote SageMaker execution environment and obtain IAM credentials. Impacted versions: - V2: < 2.257.3 - V3: >= 3.0.0 and < 3.10.0 Please refer to the article below for the "
+    },
+    "cve:CVE-2026-96883": {
+      "title": "CVE-2026-96883 - Type confusion in AWS pgcollection allows remote code execution",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-118-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-24T19:17:16+00:00",
+      "description": "Bulletin ID: 2026-118-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/24/2026 12:00 PM PDT Description: pgcollection is an open source extension to PostgreSQL. We identified CVE-2026-96883, an issue in pgcollection's type coercion logic. When requesting a stored icollection value as a type incompatible with how it was actually stored causes the extension to misinterprets the datum's representation, allowing an authenticated database user to crash the PostgreSQL backend or execute arbitrary code. Impacted versions: pgcollection v2.0.0 through v2.1.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security "
+    },
+    "cve:CVE-2026-87912,CVE-2026-87913": {
+      "title": "CVE-2026-87912 and CVE-2026-87913: Missing S3 bucket ownership verification in the AWS Security Agent plugin for aws-agents-for-devsecops and MCP Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-105-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-09T21:30:11+00:00",
+      "description": "Bulletin ID: 2026-105-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 08:30 AM PDT Description: AWS Security Agent is a managed AWS service that provides AI-powered code security reviews, threat modeling, and penetration testing. We identified CVE-2026-87912, where a missing S3 bucket ownership verification in the AWS Security Agent plugin in Amazon aws-agents-for-devsecops before version 1.1.0 might allow remote attackers to obtain the private source archive of a scanned workspace, including credentials and infrastructure state contained in that archive, via a pre-registered storage bucket whose name is derived from a publicly known account identifie"
+    },
+    "cve:CVE-2026-115416": {
+      "title": "CVE-2026-115416 - Incorrect authorization checks in Amazon Athena engine version 3 query processing",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-22T16:58:02+00:00",
+      "description": "Bulletin ID: 2026-144-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 09:30 AM PDT Description: Amazon Athena is an interactive query service that allows you to analyze data in Amazon S3 using standard SQL. We identified CVE-2026-115416, an issue in Amazon Athena engine version 3 query processing where incorrect authorization checks could have allowed an authenticated user to read AWS account identifiers and SQL statement text query metadata from other AWS accounts. Query results, and data stored in Amazon S3 or other data sources, were not accessible through this issue. Impacted versions: Amazon Athena engine version 3 Please refer to the article bel"
+    },
+    "cve:CVE-2026-104019": {
+      "title": "CVE-2026-104019 - OS command injection in the Studio Space startup script in Amazon SageMaker Distribution",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-125-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-02T20:25:48+00:00",
+      "description": "Bulletin ID: 2026-125-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/02/2026 13:00 PM PDT Description: Amazon SageMaker Unified Studio is an AWS service that unifies data, analytics, and AI development. It lets you find and access your organization's data and act on it with integrated, purpose-built tools. We identified CVE-2026-104019, an issue with the startup of SageMaker Spaces in SageMaker Unified Studio. The startup script in a SageMaker Space performs a network validation against all the available SageMaker connections in a project. Under certain conditions, improper sanitization of connection details during this validation could allow arbitrary code "
+    },
+    "cve:CVE-2026-86830": {
+      "title": "CVE-2026-86830 - Incorrect privilege assignment in Temporary Elevated Access Management (TEAM) for AWS IAM Identity Center",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-14T18:04:59+00:00",
+      "description": "Bulletin ID: 2026-112-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/14/2026 10:45 AM PDT Description: Temporary Elevated Access Management (TEAM) is an open source AWS sample solution for managing temporary elevated access via AWS IAM Identity Center. We identified CVE-2026-86830, where an authenticated user with application-level access could gain unintended temporary elevated access to AWS accounts managed by TEAM. Impacted versions: <1.5.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-109587,CVE-2026-109588": {
+      "title": "CVE-2026-109587 & CVE-2026-109588 - Issue with FreeRTOS-Kernel",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-138-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-16T17:34:49+00:00",
+      "description": "Bulletin ID: 2026-138-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/16/2026 10:00 AM PDT Description: FreeRTOS-Kernel is a real-time operating system kernel for microcontrollers and small microprocessors, distributed by Amazon. AWS identified two issues with the FreeRTOS-Kernel Arm Cortex-R82 (Armv8-R AArch64) MPU port, affecting multiple versions. CVE-2026-109587: incorrect authorization in the Arm Cortex-R82 MPU port. On MPU-enabled builds, the port does not correctly enforce the memory-region boundaries assigned to an unprivileged task when it passes a buffer argument to an MPU system call. Under certain conditions, an unprivileged task might read and wr"
+    },
+    "cve:CVE-2026-87911": {
+      "title": "CVE-2026-87911",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-104-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-09T21:30:11+00:00",
+      "description": "Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
+    },
+    "cve:CVE-2026-115417": {
+      "title": "CVE-2026-115417 - Memory allocation with excessive size value in the MQTT 3.1.1 compatibility adapter in aws-c-mqtt",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-147-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-22T20:40:51+00:00",
+      "description": "Bulletin ID: 2026-147-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 13:30 PM PDT Description: aws-c-mqtt is a C99 implementation of the MQTT 3.1.1 and MQTT5 specifications, distributed as part of the AWS Common Runtime (CRT) and bundled in the AWS IoT Device SDK for C++ v2. We identified CVE-2026-115417, a memory allocation with excessive size value (CWE-789) in the library's MQTT 3.1.1 compatibility adapter. Under certain conditions, a remote actor could cause a denial of service of the client process. Impacted versions: >= 0.9.1 AND < 0.16.2 Please refer to the article below for the most up-to-date and complete information related to this AWS Secu"
+    },
+    "cve:CVE-2026-110248": {
+      "title": "CVE-2026-110248 - Insertion of sensitive information into log files in Amazon SageMaker Python SDK",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-134-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-14T18:38:55+00:00",
+      "description": "Bulletin ID: 2026-134-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/14/2026 11:30 AM PDT Description: Amazon SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker. We identified CVE-2026-110248, an issue in the git_utils.py component of Amazon SageMaker Python SDK. When a Git clone operation fails, repository credentials in subprocess error output are written to CloudWatch Logs without redaction. An authenticated remote user with access to those logs is able to obtain the plaintext credentials. Impacted versions: - Amazon SageMaker Python SDK V2 versions before 2.257.3 - Amazon SageMaker Python"
+    },
+    "cve:CVE-2026-89065,CVE-2026-89066": {
+      "title": "CVE-2026-89065 and CVE-2026-89066: Issue with projen - Path traversal and OS command injection",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-108-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-11T16:10:27+00:00",
+      "description": "Bulletin ID: 2026-108-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 09:00 AM PDT Description: projen is an open-source tool for defining and synthesizing software project configurations as code. AWS identified two issues in projen affecting the generated file manifest cleanup component and the task synthesis component. - CVE-2026-89065 — Relative path traversal in the generated file manifest cleanup component in projen before 0.101.37 might allow context-dependent attackers to recursively delete files and directories outside the project directory, via crafted entries in the version-controlled generated file manifest (.projen/files.json) that is cons"
+    },
+    "cve:CVE-2026-95985": {
+      "title": "CVE-2026-95985 - Kiro IDE Allows Agentic Writes to Global Configurations While Working in Untrusted Workspaces",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-117-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-09-24T17:21:34+00:00",
+      "description": "Bulletin ID: 2026-117-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/24/2026 10:00 AM PDT Description: Kiro is an agentic IDE that users install on their desktop. We identified CVE-2026-95985. The file write tool in Kiro IDE before version 1.0.242 might allow remote unauthenticated actors to execute arbitrary commands and to inject crafted instructions into the agent's context. When a user runs the agent in a crafted repository as an untrusted workspace, sending any message can cause agent modifications to auto-loaded global configuration paths. Impacted versions: < 1.0.242 Please refer to the article below for the most up-to-date and complete information re"
+    },
+    "cve:CVE-2026-107322": {
+      "title": "CVE-2026-107322 - OS command injection in Amazon Agent Plugins for AWS databases-on-aws",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-130-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-08T19:29:19+00:00",
+      "description": "Bulletin ID: 2026-130-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/08/2026 11:30 AM PDT Description: Amazon Agent Plugins for AWS is an open source collection of plugins that extends supported AI coding agents with AWS-focused workflows and tool integrations. The databases-on-aws plugin provides database design, development, migration, and operational guidance, including Aurora DSQL helper scripts. We identified CVE-2026-107322, where an incomplete list of disallowed inputs in databases-on-aws versions before 1.7.1 could allow a remote unauthenticated actor to supply crafted content that an agent ingests. The affected code is not a listening network servic"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders": {
+      "title": "You gave your AI agent access, but who is giving it orders?",
+      "url": "https://www.bleepingcomputer.com/news/security/you-gave-your-ai-agent-access-but-who-is-giving-it-orders/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-23T14:00:10+00:00",
+      "description": "AI agents can be manipulated through malicious emails, websites, and plugins into executing commands, stealing data, or deleting files using their legitimate permissions. Gen Digital explains how its Agent Trust Hub helps protect agents through skill verification, secure connectivity, and runtime controls that intercept dangerous act [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws": {
+      "title": "HPE patches eight max severity RCE and auth bypass AOS flaws",
+      "url": "https://www.bleepingcomputer.com/news/security/hpe-patches-eight-max-severity-rce-and-auth-bypass-aos-flaws/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-23T12:48:00+00:00",
+      "description": "Hewlett Packard Enterprise (HPE) released security updates to patch 72 vulnerabilities in the Aruba Operating System (ArubaOS), including eight maximum-severity authentication bypass and code execution issues. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach": {
+      "title": "Railway warns devs to rotate secrets after potential breach",
+      "url": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T21:25:31+00:00",
+      "description": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts": {
+      "title": "Capcom confirms data breach affecting 11.7 million accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T20:22:45+00:00",
+      "description": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware": {
+      "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+      "url": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T19:12:51+00:00",
+      "description": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks": {
+      "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T17:18:22+00:00",
+      "description": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps": {
+      "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T15:49:32+00:00",
+      "description": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response": {
+      "title": "Machine speed attacks require machine speed detection and response",
+      "url": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T14:02:12+00:00",
+      "description": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches": {
+      "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+      "url": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T13:09:12+00:00",
+      "description": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability": {
+      "title": "GitLab warns of new max severity code execution vulnerability",
+      "url": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T11:41:48+00:00",
+      "description": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa": {
+      "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+      "url": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-22T08:27:11+00:00",
+      "description": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks": {
+      "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+      "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-21T22:16:26+00:00",
+      "description": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected": {
+      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+      "url": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-21T21:43:27+00:00",
+      "description": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery": {
+      "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+      "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-21T20:31:48+00:00",
+      "description": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers": {
+      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-21T18:34:42+00:00",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]"
+    },
+    "url:https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware": {
+      "title": "In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware",
+      "url": "https://www.securityweek.com/in-other-news-tor-exit-relays-hijacked-banks-spot-rogue-ai-agents-self-rebuilding-macos-ransomware/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T14:23:37+00:00",
+      "description": "Noteworthy stories that might have slipped under the radar: Russia’s APT28 hit NATO defense firms, PingCAP source code stolen, ShinyHunters negotiator probe. The post In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge": {
+      "title": "Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge",
+      "url": "https://www.securityweek.com/mirai-botnet-operators-join-php2shell-attacks-as-aslr-bypass-exploits-emerge/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T12:45:52+00:00",
+      "description": "Researchers tie PHP2Shell attempts to a Mirai botnet and show an ASLR bypass, but no successful compromise has been confirmed yet. The post Mirai Botnet Operators Join PHP2Shell Attacks as ASLR Bypass Exploits Emerge appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks": {
+      "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
+      "url": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T10:31:16+00:00",
+      "description": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months": {
+      "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
+      "url": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T09:58:34+00:00",
+      "description": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/11-million-impacted-by-capcom-data-breach": {
+      "title": "11 Million Impacted by Capcom Data Breach",
+      "url": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T08:34:14+00:00",
+      "description": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records": {
+      "title": "Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’",
+      "url": "https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T08:25:06+00:00",
+      "description": "In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack": {
+      "title": "LiteLLM Compromised in Fresh Supply Chain Attack",
+      "url": "https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T08:10:46+00:00",
+      "description": "Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products": {
+      "title": "Atlassian Patches 75 Flaws in Data Center and Server Products",
+      "url": "https://www.securityweek.com/atlassian-patches-75-third-party-flaws-in-data-center-and-server-products/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T07:54:47+00:00",
+      "description": "Atlassian’s October bulletin lists 176 vulnerability entries, including 14 critical-severity issues, all in third-party components. The post Atlassian Patches 75 Flaws in Data Center and Server Products appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016": {
+      "title": "Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016",
+      "url": "https://www.securityweek.com/irans-prince-of-persia-apt-hosts-cc-in-us-for-first-time-since-2016/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-23T06:39:29+00:00",
+      "description": "After a three-month lull, Prince of Persia hid a Tornado C&C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&C in US for First Time Since 2016 appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit": {
+      "title": "Hacker Conversations: Corey Thuen and the Evil Bit",
+      "url": "https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-22T14:31:34+00:00",
+      "description": "Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek ."
+    },
+    "url:https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle": {
+      "title": "Disgraced eMudhra drops out of TLS business after using cert private key of 4",
+      "url": "https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-22T20:17:52+00:00",
+      "description": "Flubbed key signing \"ceremony\" allowed minting of web credentials for any site."
+    },
+    "url:https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability": {
+      "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+      "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-22T15:25:02+00:00",
+      "description": "Hackers were already probing the bug before defenders were told it existed."
+    },
+    "url:https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email": {
+      "title": "333 Tor exit nodes hijacked to intercept SSH traffic and retrieve plaintext email",
+      "url": "https://arstechnica.com/information-technology/2026/10/300-tor-exit-nodes-hijacked-to-intercept-ssh-traffic-and-retrieve-plaintext-email/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-22T11:30:33+00:00",
+      "description": "For 3 days this month, 333 exit nodes were hacked in hopes of stealing sensitive data."
+    },
+    "url:https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches": {
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "url": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-21T02:12:18+00:00",
+      "description": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites."
+    },
+    "url:https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs": {
+      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
+      "url": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-20T19:47:35+00:00",
+      "description": "Intermediate certs allow anyone to mint web credentials for any Internet server."
+    },
+    "url:https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations": {
+      "title": "Meta Muse exposes users' personal and business secrets when they share conversations",
+      "url": "https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-20T12:33:13+00:00",
+      "description": "Meta is suspending the sharing feature while it investigates its privacy."
+    },
+    "url:https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware": {
+      "title": "PSA: Patch your Plex media server before someone hacks it",
+      "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-19T19:39:19+00:00",
+      "description": "A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes."
+    },
+    "url:https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites": {
+      "title": "OpenAI models hacked a crypto wallet and breached more websites",
+      "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-16T20:59:01+00:00",
+      "description": "The actions could have resulted in criminal charges had humans been behind the keyboard."
+    },
+    "url:https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware": {
+      "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+      "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-15T20:32:41+00:00",
+      "description": "The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads."
+    },
+    "url:https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security": {
+      "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+      "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-14T21:35:09+00:00",
+      "description": "Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet."
+    },
+    "url:https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices": {
+      "title": "Anthropic warns small AI models could self-replicate through IoT devices",
+      "url": "https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-14T12:55:06+00:00",
+      "description": "\"Small weight-based replicators\" could usher in a new generation of computer worms."
+    },
+    "url:https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027": {
+      "title": "Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027",
+      "url": "https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-08T19:57:17+00:00",
+      "description": "Free SSL/TLS certificate lifetimes reduce to 64 days in February."
+    },
+    "url:https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services": {
+      "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+      "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-06T19:21:14+00:00",
+      "description": "Compromise of 3 domain registries allows hackers to walk off with unauthorized certs."
+    },
+    "url:https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic": {
+      "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+      "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-06T12:21:53+00:00",
+      "description": "The reports of OpenAI agents harming third-party sites keep coming."
+    },
+    "url:https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp": {
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-05T22:26:35+00:00",
+      "description": "Trust gaps in the new protocol spread malicious prompts from one agent to another."
+    },
+    "url:https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents": {
+      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
+      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-02T23:03:16+00:00",
+      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ."
+    },
+    "url:https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data": {
+      "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+      "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-01T20:28:45+00:00",
+      "description": "It has been a bad month for federal government cybersecurity."
+    },
+    "url:https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails": {
+      "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+      "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-09-30T20:44:48+00:00",
+      "description": "A simple email gives the attackers the ability to remotely inject OS commands."
+    },
+    "url:https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates": {
+      "title": "Cloudflare plans to issue quantum-safe TLS certificates",
+      "url": "https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-09-30T11:15:14+00:00",
+      "description": "The move will be part of a major overhaul of the ecosystem for website authentication."
+    },
+    "url:https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users": {
+      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
+      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-09-25T19:38:59+00:00",
+      "description": "Ads appearing all over the Internet are trying to scam people."
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0": {
+      "title": "OpenSSL 4.1.0",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-10-23T12:23:31+00:00",
+      "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl::Easy .  Use"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta2": {
+      "title": "OpenSSL 4.1.0-beta2",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta2",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-10-09T12:22:55+00:00",
+      "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl::Easy .  Use"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.0.3": {
+      "title": "OpenSSL 4.0.3",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.3",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-09-29T13:53:57+00:00",
+      "description": "OpenSSL 4.0.3 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed a use-after-free in X.509 extension cache under concurrent use. ( CVE-2026-84783 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-3.6.5": {
+      "title": "OpenSSL 3.6.5",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-3.6.5",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-09-29T14:01:50+00:00",
+      "description": "OpenSSL 3.6.5 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-3.5.9": {
+      "title": "OpenSSL 3.5.9",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-3.5.9",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-09-29T14:10:08+00:00",
+      "description": "OpenSSL 3.5.9 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-3.4.8": {
+      "title": "OpenSSL 3.4.8",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-3.4.8",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-09-29T14:19:12+00:00",
+      "description": "OpenSSL 3.4.8 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar multiplication on ARM64 and RISC-V. ( CVE-2026-54875 ) Fixed out-of-bounds access aft"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta1": {
+      "title": "OpenSSL 4.1.0-beta1",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta1",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-09-23T13:24:11+00:00",
+      "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-alpha1": {
+      "title": "OpenSSL 4.1.0-alpha1",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-alpha1",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-09-09T13:28:44+00:00",
+      "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.0.2": {
+      "title": "OpenSSL 4.0.2",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.2",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-08-25T11:44:22+00:00",
+      "description": "OpenSSL 4.0.2 is a security patch release.  The most severe CVE fixed in this release is Moderate. This release incorporates the following bug fixes and mitigations: Fixed QUIC server being able to trigger double free when processing INITIAL packet. ( CVE-2026-18798 ) Fixed heap buffer overflow in CMS key unwrapping. ( CVE-2026-63072 ) Fixed invalid pointer dereference in CMP server via crafted protectionAlg . ( CVE-2026-63076 ) Fixed unbounded memory growth in QUIC server incoming channel queue. ( CVE-2026-14456 ) Fixed RPK server signature algorithm selection being able to dereference a missing certificate. ( CVE-2026-14457 ) Fixed excessive memory use buffering DTLS records for a future e"
+    },
+    "url:https://github.com/openssl/openssl/releases/tag/openssl-3.6.4": {
+      "title": "OpenSSL 3.6.4",
+      "url": "https://github.com/openssl/openssl/releases/tag/openssl-3.6.4",
+      "source": "OpenSSL Releases",
+      "category": "Infrastructure",
+      "published": "2026-08-25T11:53:03+00:00",
+      "description": "OpenSSL 3.6.4 is a security patch release.  The most severe CVE fixed in this release is Moderate. This release incorporates the following bug fixes and mitigations: Fixed QUIC server being able to trigger double free when processing INITIAL packet. ( CVE-2026-18798 ) Fixed heap buffer overflow in CMS key unwrapping. ( CVE-2026-63072 ) Fixed invalid pointer dereference in CMP server via crafted protectionAlg . ( CVE-2026-63076 ) Fixed unbounded memory growth in QUIC server incoming channel queue. ( CVE-2026-14456 ) Fixed RPK server signature algorithm selection being able to dereference a missing certificate. ( CVE-2026-14457 ) Fixed excessive memory use buffering DTLS records for a future e"
+    },
+    "url:https://status.aws.amazon.com/": {
+      "title": "Service disruption: Increased Error Rates",
+      "url": "https://status.aws.amazon.com/",
+      "source": "AWS Service Health RSS",
+      "category": "Cloud",
+      "published": "2026-09-15T10:27:10+00:00",
+      "description": "We are providing an update on the disruption affecting the Middle East (UAE) (me-central-1) Region. After a thorough assessment, we have determined that we are unable to restore access to the resources and data hosted exclusively in the mec1-az2 Availability Zone. We continue to work on recovering regional resources, as well as zonal resources hosted in the other affected Availability Zones (mec1-az1 and mec1-az3).\n\nSince the disruption began in March, most customers have been able to re-establish their operations in other Regions by restoring backups or copying data that remained accessible. AWS Support remains available to help customers who need assistance moving their applications to alt"
+    }
+  },
+  "pages": {
+    "https://docs.megaport.com/whatsnew/": "fc72574d8c3ea1acdec15c41b6086160f30ac1da5bfeb53b5eb3fe6cb294e553",
+    "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
+    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
+    "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
+    "https://azure.status.microsoft/en-us/status": "9736c82fe59a649bd57123e5df31d5ab6358ed4a36c7ae70a8961448e2814f08",
+    "https://status.cloud.google.com/": "da2c7d64dfa3b53f61ab99c022416c104c1da20b1f91014de37048020367fb35",
+    "https://cloud.google.com/support/bulletins": "ce05db653f844c233c7f0f67e5a4dc4ffabf9e1ff9d125c1a50d24d679efa5a4",
+    "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
+    "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
+    "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
+  }
+}

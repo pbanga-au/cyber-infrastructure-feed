@@ -1,0 +1,211 @@
+{
+  "last_run_utc": "2026-10-23T15:27:53.924111+00:00",
+  "sources_successful": 22,
+  "failures": [
+    "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
+    "ACSC Advisories: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww",
+    "Arista Security: No RSS/Atom entries returned",
+    "ZPE PSIRT: Page content unavailable or too short",
+    "HPE Security Bulletins: HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne",
+    "HPE Aruba Security Bulletins: Page content unavailable or too short",
+    "Microsoft Security Response Center: Page content unavailable or too short",
+    "AWS Health Status: Page content unavailable or too short"
+  ],
+  "items_published": 193,
+  "source_results": [
+    {
+      "source": "CISA Advisories",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 30
+    },
+    {
+      "source": "ACSC Alerts",
+      "mode": "rss",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy"
+    },
+    {
+      "source": "ACSC Advisories",
+      "mode": "rss",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww"
+    },
+    {
+      "source": "UK NCSC",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 20
+    },
+    {
+      "source": "Palo Alto Networks",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 25
+    },
+    {
+      "source": "Juniper Security",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 40
+    },
+    {
+      "source": "Mist Security",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 10
+    },
+    {
+      "source": "Arista Security",
+      "mode": "rss",
+      "status": "failed",
+      "error": "No RSS/Atom entries returned"
+    },
+    {
+      "source": "AWS Security",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 47
+    },
+    {
+      "source": "BleepingComputer",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 15
+    },
+    {
+      "source": "SecurityWeek",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 10
+    },
+    {
+      "source": "Ars Technica Security",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 20
+    },
+    {
+      "source": "OpenSSL Releases",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 10
+    },
+    {
+      "source": "AWS Service Health RSS",
+      "mode": "rss",
+      "status": "ok",
+      "entries_available": 38
+    },
+    {
+      "source": "ZPE PSIRT",
+      "mode": "page-change",
+      "status": "failed",
+      "error": "Page content unavailable or too short"
+    },
+    {
+      "source": "Megaport Updates",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "HPE Security Bulletins",
+      "mode": "page-change",
+      "status": "failed",
+      "error": "HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne"
+    },
+    {
+      "source": "Azure Updates",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "GoDaddy Certificate Advisories",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "Mozilla CA Incidents",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "Arista Security Advisories",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "HPE Aruba Security Bulletins",
+      "mode": "page-change",
+      "status": "failed",
+      "error": "Page content unavailable or too short"
+    },
+    {
+      "source": "Microsoft Security Response Center",
+      "mode": "page-change",
+      "status": "failed",
+      "error": "Page content unavailable or too short"
+    },
+    {
+      "source": "Azure Service Health",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "AWS Health Status",
+      "mode": "page-change",
+      "status": "failed",
+      "error": "Page content unavailable or too short"
+    },
+    {
+      "source": "Google Cloud Service Health",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "Google Cloud Security Bulletins",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "Sectigo Knowledge Base",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "Lets Encrypt Blog",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    },
+    {
+      "source": "GoDaddy Help",
+      "mode": "page-change",
+      "status": "ok",
+      "changed": false,
+      "note": "Page monitoring only; no individual advisories extracted"
+    }
+  ],
+  "feed_sources": 14,
+  "page_monitors": 16,
+  "note": "Page-monitor success means page readable, not that advisories were extracted"
+}
