@@ -1,0 +1,26 @@
+{
+  "feeds": [
+    {"name":"CISA Advisories","url":"https://www.cisa.gov/cybersecurity-advisories/all.xml","category":"Security"},
+    {"name":"ACSC Alerts","url":"https://www.cyber.gov.au/rss/alerts","category":"Security"},
+    {"name":"ACSC Advisories","url":"https://www.cyber.gov.au/rss/advisories","category":"Security"},
+    {"name":"UK NCSC","url":"https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml","category":"Security"},
+    {"name":"Palo Alto Networks","url":"https://security.paloaltonetworks.com/rss.xml","category":"Network"},
+    {"name":"Juniper Security","url":"https://supportportal.juniper.net/knowledgerss?type=Security","category":"Network"},
+    {"name":"Mist Security","url":"https://www.mist.com/documentation/category/security-alerts/feed/","category":"Network"},
+    {"name":"Arista Security","url":"https://www.arista.com/en/support/advisories-notices/security-advisory-rss","category":"Network"},
+    {"name":"AWS Security","url":"https://aws.amazon.com/security/security-bulletins/rss/feed/","category":"Cloud"},
+    {"name":"Google Cloud Bulletins","url":"https://cloud.google.com/feeds/gcp-security-bulletins.xml","category":"Cloud"},
+    {"name":"BleepingComputer","url":"https://www.bleepingcomputer.com/feed/","category":"News"},
+    {"name":"SecurityWeek","url":"https://www.securityweek.com/feed/","category":"News"},
+    {"name":"Ars Technica Security","url":"https://arstechnica.com/security/feed/","category":"News"},
+    {"name":"OpenSSL Releases","url":"https://github.com/openssl/openssl/releases.atom","category":"Infrastructure"}
+  ],
+  "pages": [
+    {"name":"ZPE PSIRT","url":"https://psirt.zpesystems.com/portal/en/kb/psirt/cve","category":"Network"},
+    {"name":"Megaport Updates","url":"https://docs.megaport.com/whatsnew/","category":"Network"},
+    {"name":"HPE Security Bulletins","url":"https://www.hpe.com/us/en/support/security-bulletins.html","category":"Network"},
+    {"name":"Azure Updates","url":"https://azure.microsoft.com/en-us/updates/","category":"Cloud"},
+    {"name":"GoDaddy Certificate Advisories","url":"https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095","category":"PKI"},
+    {"name":"Mozilla CA Incidents","url":"https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---","category":"PKI"}
+  ]
+}
