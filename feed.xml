@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:49:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:47:37 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 23 Oct 2026 16:47:37 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 23 Oct 2026 16:47:37 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Quest Diagnostics confirms data breach exposed patient records</title>
+      <link>https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/</guid>
+      <description>[News] BleepingComputer: American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]</description>
+      <pubDate>Fri, 23 Oct 2026 16:40:07 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1525,6 +1549,22 @@ Since the disruption began in March, most customers have been able to re-establi
       <title>CVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing  (Severity: HIGH)</title>
       <link>https://security.paloaltonetworks.com/CVE-2026-0310</link>
       <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0310</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0305 Prisma Access Agent: Information Disclosure Vulnerability on Linux (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0305</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0305</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0303 Checkov by Prisma Cloud: Code Execution via Auto-Loaded Configuration File (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0303</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0303</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
       <category>Network</category>

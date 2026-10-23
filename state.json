@@ -1567,6 +1567,46 @@
       "category": "Cloud",
       "published": "2026-10-23T15:49:34.151424+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-0305": {
+      "title": "CVE-2026-0305 Prisma Access Agent: Information Disclosure Vulnerability on Linux (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0305",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0303": {
+      "title": "CVE-2026-0303 Checkov by Prisma Cloud: Code Execution via Auto-Loaded Configuration File (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0303",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "url:https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records": {
+      "title": "Quest Diagnostics confirms data breach exposed patient records",
+      "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-23T16:40:07+00:00",
+      "description": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]"
+    },
+    "page:387f528db510adf65ae7fcd3": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T16:47:37.684053+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:7479cd04aac0426b89a1146b": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T16:47:37.684053+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1575,8 +1615,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "cdb9279a86b8b76d5d7e7382c4d05f6fa971bbc057d80d0d75fb36ce410031da",
-    "https://status.cloud.google.com/": "6b3a0c271cb7c1c77e7e785d3d021b19045dd8d19558335110fdd967aca917f3",
+    "https://azure.status.microsoft/en-us/status": "907ffffb70860dbe4242f4d38e821fb97496620ed2e6d7fe2855f1bcf2d2ee68",
+    "https://status.cloud.google.com/": "925ab7b82a5a6203351151a18584cc0bea519345252bdffb45065e31a29a62c9",
     "https://cloud.google.com/support/bulletins": "ce05db653f844c233c7f0f67e5a4dc4ffabf9e1ff9d125c1a50d24d679efa5a4",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
