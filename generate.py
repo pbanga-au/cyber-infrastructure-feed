@@ -78,6 +78,7 @@ def main():
     old_pages = state.get('pages', {})
     items = dict(old_items)
     failures = []
+    results = []
     successful = 0
 
     for source in config['feeds']:
@@ -88,6 +89,7 @@ def main():
             if not parsed.entries:
                 raise ValueError('No RSS/Atom entries returned')
             successful += 1
+            results.append({'source':source['name'],'mode':'rss','status':'ok','entries_available':len(parsed.entries)})
             for e in parsed.entries[:60]:
                 title = BeautifulSoup(e.get('title', ''), 'html.parser').get_text(' ', strip=True)[:240]
                 url = e.get('link', '')
@@ -104,8 +106,9 @@ def main():
                 existing = items.get(key)
                 if existing is None or (source['category'] != 'News' and existing.get('category') == 'News'):
                     items[key] = item
-        except (requests.RequestException, ValueError, Exception) as exc:
+        except Exception as exc:
             failures.append(f"{source['name']}: {str(exc)[:160]}")
+            results.append({'source':source['name'],'mode':'rss','status':'failed','error':str(exc)[:160]})
 
     for source in config['pages']:
         try:
@@ -128,8 +131,10 @@ def main():
                               'description': 'A monitored official page changed. This is a change notification, not a verified new security advisory.'}
             old_pages[source['url']] = digest
             successful += 1
+            results.append({'source':source['name'],'mode':'page-change','status':'ok','changed':bool(previous and previous != digest)})
         except Exception as exc:
             failures.append(f"{source['name']}: {str(exc)[:160]}")
+            results.append({'source':source['name'],'mode':'page-change','status':'failed','error':str(exc)[:160]})
 
     if successful == 0 and not items:
         raise RuntimeError('No sources available; refusing to publish an empty feed')
@@ -160,7 +165,7 @@ def main():
     ET.ElementTree(rss).write(os.path.join(BASE, 'feed.xml'), encoding='utf-8', xml_declaration=True)
     save_json('state.json', {'items': items, 'pages': old_pages})
     with open(os.path.join(BASE, 'status.json'), 'w', encoding='utf-8') as f:
-        json.dump({'last_run_utc': NOW.isoformat(), 'sources_successful': successful, 'failures': failures, 'items_published': len(ordered)}, f, indent=2)
+        json.dump({'last_run_utc': NOW.isoformat(), 'sources_successful': successful, 'failures': failures, 'items_published': len(ordered), 'source_results': results}, f, indent=2)
     print(f'Published {len(ordered)} items; {successful} sources succeeded; {len(failures)} failed')
     for failure in failures:
         print('WARNING:', failure)

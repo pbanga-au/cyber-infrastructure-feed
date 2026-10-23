@@ -1,26 +1,166 @@
 {
   "feeds": [
-    {"name":"CISA Advisories","url":"https://www.cisa.gov/cybersecurity-advisories/all.xml","category":"Security"},
-    {"name":"ACSC Alerts","url":"https://www.cyber.gov.au/rss/alerts","category":"Security"},
-    {"name":"ACSC Advisories","url":"https://www.cyber.gov.au/rss/advisories","category":"Security"},
-    {"name":"UK NCSC","url":"https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml","category":"Security"},
-    {"name":"Palo Alto Networks","url":"https://security.paloaltonetworks.com/rss.xml","category":"Network"},
-    {"name":"Juniper Security","url":"https://supportportal.juniper.net/knowledgerss?type=Security","category":"Network"},
-    {"name":"Mist Security","url":"https://www.mist.com/documentation/category/security-alerts/feed/","category":"Network"},
-    {"name":"Arista Security","url":"https://www.arista.com/en/support/advisories-notices/security-advisory-rss","category":"Network"},
-    {"name":"AWS Security","url":"https://aws.amazon.com/security/security-bulletins/rss/feed/","category":"Cloud"},
-    {"name":"Google Cloud Bulletins","url":"https://cloud.google.com/feeds/gcp-security-bulletins.xml","category":"Cloud"},
-    {"name":"BleepingComputer","url":"https://www.bleepingcomputer.com/feed/","category":"News"},
-    {"name":"SecurityWeek","url":"https://www.securityweek.com/feed/","category":"News"},
-    {"name":"Ars Technica Security","url":"https://arstechnica.com/security/feed/","category":"News"},
-    {"name":"OpenSSL Releases","url":"https://github.com/openssl/openssl/releases.atom","category":"Infrastructure"}
+    {
+      "name": "CISA Advisories",
+      "url": "https://www.cisa.gov/cybersecurity-advisories/all.xml",
+      "category": "Security"
+    },
+    {
+      "name": "ACSC Alerts",
+      "url": "https://www.cyber.gov.au/rss/alerts",
+      "category": "Security"
+    },
+    {
+      "name": "ACSC Advisories",
+      "url": "https://www.cyber.gov.au/rss/advisories",
+      "category": "Security"
+    },
+    {
+      "name": "UK NCSC",
+      "url": "https://www.ncsc.gov.uk/api/1/services/v1/all-rss-feed.xml",
+      "category": "Security"
+    },
+    {
+      "name": "Palo Alto Networks",
+      "url": "https://security.paloaltonetworks.com/rss.xml",
+      "category": "Network"
+    },
+    {
+      "name": "Juniper Security",
+      "url": "https://supportportal.juniper.net/knowledgerss?type=Security",
+      "category": "Network"
+    },
+    {
+      "name": "Mist Security",
+      "url": "https://www.mist.com/documentation/category/security-alerts/feed/",
+      "category": "Network"
+    },
+    {
+      "name": "Arista Security",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory-rss",
+      "category": "Network"
+    },
+    {
+      "name": "AWS Security",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/feed/",
+      "category": "Cloud"
+    },
+    {
+      "name": "Google Cloud Bulletins",
+      "url": "https://cloud.google.com/feeds/gcp-security-bulletins.xml",
+      "category": "Cloud"
+    },
+    {
+      "name": "BleepingComputer",
+      "url": "https://www.bleepingcomputer.com/feed/",
+      "category": "News"
+    },
+    {
+      "name": "SecurityWeek",
+      "url": "https://www.securityweek.com/feed/",
+      "category": "News"
+    },
+    {
+      "name": "Ars Technica Security",
+      "url": "https://arstechnica.com/security/feed/",
+      "category": "News"
+    },
+    {
+      "name": "OpenSSL Releases",
+      "url": "https://github.com/openssl/openssl/releases.atom",
+      "category": "Infrastructure"
+    }
   ],
   "pages": [
-    {"name":"ZPE PSIRT","url":"https://psirt.zpesystems.com/portal/en/kb/psirt/cve","category":"Network"},
-    {"name":"Megaport Updates","url":"https://docs.megaport.com/whatsnew/","category":"Network"},
-    {"name":"HPE Security Bulletins","url":"https://www.hpe.com/us/en/support/security-bulletins.html","category":"Network"},
-    {"name":"Azure Updates","url":"https://azure.microsoft.com/en-us/updates/","category":"Cloud"},
-    {"name":"GoDaddy Certificate Advisories","url":"https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095","category":"PKI"},
-    {"name":"Mozilla CA Incidents","url":"https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---","category":"PKI"}
+    {
+      "name": "ZPE PSIRT",
+      "url": "https://psirt.zpesystems.com/portal/en/kb/psirt/cve",
+      "category": "Network"
+    },
+    {
+      "name": "Megaport Updates",
+      "url": "https://docs.megaport.com/whatsnew/",
+      "category": "Network"
+    },
+    {
+      "name": "HPE Security Bulletins",
+      "url": "https://www.hpe.com/us/en/support/security-bulletins.html",
+      "category": "Network"
+    },
+    {
+      "name": "Azure Updates",
+      "url": "https://azure.microsoft.com/en-us/updates/",
+      "category": "Cloud"
+    },
+    {
+      "name": "GoDaddy Certificate Advisories",
+      "url": "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095",
+      "category": "PKI"
+    },
+    {
+      "name": "Mozilla CA Incidents",
+      "url": "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---",
+      "category": "PKI"
+    },
+    {
+      "name": "Arista Security Advisories",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "category": "Network"
+    },
+    {
+      "name": "HPE Aruba Security Bulletins",
+      "url": "https://support.hpe.com/hpesc/public/docDisplay?docId=emr_na-c04249485",
+      "category": "Network"
+    },
+    {
+      "name": "Microsoft Security Response Center",
+      "url": "https://msrc.microsoft.com/update-guide",
+      "category": "Cloud"
+    },
+    {
+      "name": "Azure Service Health",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "category": "Cloud"
+    },
+    {
+      "name": "AWS Health Status",
+      "url": "https://health.aws.amazon.com/health/status",
+      "category": "Cloud"
+    },
+    {
+      "name": "Google Cloud Service Health",
+      "url": "https://status.cloud.google.com/",
+      "category": "Cloud"
+    },
+    {
+      "name": "Google Cloud Security Bulletins",
+      "url": "https://cloud.google.com/support/bulletins",
+      "category": "Cloud"
+    },
+    {
+      "name": "DigiCert Security Advisories",
+      "url": "https://www.digicert.com/support/security-advisories",
+      "category": "PKI"
+    },
+    {
+      "name": "Sectigo Knowledge Base",
+      "url": "https://www.sectigo.com/knowledge-base",
+      "category": "PKI"
+    },
+    {
+      "name": "Lets Encrypt Blog",
+      "url": "https://letsencrypt.org/blog/",
+      "category": "PKI"
+    },
+    {
+      "name": "GoDaddy Help",
+      "url": "https://www.godaddy.com/help/ssl-certificates-1000006",
+      "category": "PKI"
+    },
+    {
+      "name": "Megaport Network Status",
+      "url": "https://status.megaport.com/",
+      "category": "Network"
+    }
   ]
 }
