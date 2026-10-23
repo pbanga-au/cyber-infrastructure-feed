@@ -11,6 +11,8 @@ import json
 import os
 import re
 import tempfile
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 import xml.etree.ElementTree as ET
 from urllib.parse import urlsplit, urlunsplit
 
@@ -23,6 +25,7 @@ NOW = dt.datetime.now(dt.timezone.utc)
 HEADERS = {'User-Agent': 'CyberInfrastructureFeed/1.0 (+public GitHub Pages RSS aggregator)'}
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
+SESSION.mount("https://", HTTPAdapter(max_retries=Retry(total=2, backoff_factor=0.6, status_forcelist=[429, 500, 502, 503, 504])))
 
 
 def read_json(name, default):
@@ -83,11 +86,13 @@ def main():
 
     for source in config['feeds']:
         try:
-            r = SESSION.get(source['url'], timeout=18)
+            r = SESSION.get(source['url'], timeout=(8, 25))
             r.raise_for_status()
             parsed = feedparser.parse(r.content)
             if not parsed.entries:
                 raise ValueError('No RSS/Atom entries returned')
+            if parsed.bozo and not parsed.entries:
+                raise ValueError('Malformed RSS/Atom feed')
             successful += 1
             results.append({'source':source['name'],'mode':'rss','status':'ok','entries_available':len(parsed.entries)})
             for e in parsed.entries[:60]:
@@ -112,7 +117,7 @@ def main():
 
     for source in config['pages']:
         try:
-            r = SESSION.get(source['url'], timeout=18)
+            r = SESSION.get(source['url'], timeout=(8, 25))
             r.raise_for_status()
             soup = BeautifulSoup(r.text, 'html.parser')
             for tag in soup(['script', 'style', 'nav', 'footer', 'header']):
@@ -131,7 +136,7 @@ def main():
                               'description': 'A monitored official page changed. This is a change notification, not a verified new security advisory.'}
             old_pages[source['url']] = digest
             successful += 1
-            results.append({'source':source['name'],'mode':'page-change','status':'ok','changed':bool(previous and previous != digest)})
+            results.append({'source':source['name'],'mode':'page-change','status':'ok','changed':bool(previous and previous != digest),'note':'Page monitoring only; no individual advisories extracted'})
         except Exception as exc:
             failures.append(f"{source['name']}: {str(exc)[:160]}")
             results.append({'source':source['name'],'mode':'page-change','status':'failed','error':str(exc)[:160]})
@@ -165,7 +170,7 @@ def main():
     ET.ElementTree(rss).write(os.path.join(BASE, 'feed.xml'), encoding='utf-8', xml_declaration=True)
     save_json('state.json', {'items': items, 'pages': old_pages})
     with open(os.path.join(BASE, 'status.json'), 'w', encoding='utf-8') as f:
-        json.dump({'last_run_utc': NOW.isoformat(), 'sources_successful': successful, 'failures': failures, 'items_published': len(ordered), 'source_results': results}, f, indent=2)
+        json.dump({'last_run_utc': NOW.isoformat(), 'sources_successful': successful, 'failures': failures, 'items_published': len(ordered), 'source_results': results, 'feed_sources':len(config['feeds']), 'page_monitors':len(config['pages']), 'note':'Page-monitor success means page readable, not that advisories were extracted'}, f, indent=2)
     print(f'Published {len(ordered)} items; {successful} sources succeeded; {len(failures)} failed')
     for failure in failures:
         print('WARNING:', failure)

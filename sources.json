@@ -46,11 +46,6 @@
       "category": "Cloud"
     },
     {
-      "name": "Google Cloud Bulletins",
-      "url": "https://cloud.google.com/feeds/gcp-security-bulletins.xml",
-      "category": "Cloud"
-    },
-    {
       "name": "BleepingComputer",
       "url": "https://www.bleepingcomputer.com/feed/",
       "category": "News"
@@ -69,6 +64,11 @@
       "name": "OpenSSL Releases",
       "url": "https://github.com/openssl/openssl/releases.atom",
       "category": "Infrastructure"
+    },
+    {
+      "name": "AWS Service Health RSS",
+      "url": "https://status.aws.amazon.com/rss/all.rss",
+      "category": "Cloud"
     }
   ],
   "pages": [
@@ -138,11 +138,6 @@
       "category": "Cloud"
     },
     {
-      "name": "DigiCert Security Advisories",
-      "url": "https://www.digicert.com/support/security-advisories",
-      "category": "PKI"
-    },
-    {
       "name": "Sectigo Knowledge Base",
       "url": "https://www.sectigo.com/knowledge-base",
       "category": "PKI"
@@ -156,11 +151,6 @@
       "name": "GoDaddy Help",
       "url": "https://www.godaddy.com/help/ssl-certificates-1000006",
       "category": "PKI"
-    },
-    {
-      "name": "Megaport Network Status",
-      "url": "https://status.megaport.com/",
-      "category": "Network"
     }
   ]
 }
