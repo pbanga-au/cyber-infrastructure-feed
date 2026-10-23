@@ -1607,6 +1607,46 @@
       "category": "Cloud",
       "published": "2026-10-23T16:47:37.684053+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-0306": {
+      "title": "CVE-2026-0306 Prisma Access Agent: EndPoint DLP Bypass Vulnerability on Windows (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0306",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-09-09T16:00:00+00:00",
+      "description": ""
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january": {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in January",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-23T17:05:07+00:00",
+      "description": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]"
+    },
+    "url:https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report": {
+      "title": "Knicks sent employees fake offer of championship rings in phishing test: Report",
+      "url": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-23T16:51:59+00:00",
+      "description": "Corporate phishing tests are common, but this one was especially cruel."
+    },
+    "page:40e5958daa05ca3deb8eb631": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T17:42:51.739619+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:a66e51d37096716ff6d80397": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T17:42:51.739619+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1615,8 +1655,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "907ffffb70860dbe4242f4d38e821fb97496620ed2e6d7fe2855f1bcf2d2ee68",
-    "https://status.cloud.google.com/": "925ab7b82a5a6203351151a18584cc0bea519345252bdffb45065e31a29a62c9",
+    "https://azure.status.microsoft/en-us/status": "82f70808a39039745d65b743b757926f215be3766a66150132fe567a1f70739d",
+    "https://status.cloud.google.com/": "f2b3cd5f075ee977b0a32d6dbff57e1bafb799663c6f874f76d04f58ba2c0b85",
     "https://cloud.google.com/support/bulletins": "ce05db653f844c233c7f0f67e5a4dc4ffabf9e1ff9d125c1a50d24d679efa5a4",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
