@@ -1687,6 +1687,30 @@
       "category": "Cloud",
       "published": "2026-10-23T18:52:40.005837+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-115845": {
+      "title": "CVE-2026-115845 - Incomplete validation in the run_script Python sandbox in AWS MCP Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-149-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-23T19:09:22+00:00",
+      "description": "Bulletin ID: 2026-149-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/23/2026 12:00 PM PDT Description: AWS MCP Server is a managed server that gives AI agents access to AWS through the Model Context Protocol (MCP), including a run_script tool that runs Python scripts in a sandboxed environment. We identified CVE-2026-115845, an issue in the Python code validator of the run_script tool in AWS MCP Server. An incomplete list of disallowed inputs might allow an authenticated remote user to execute arbitrary code within their own isolated session environment via a crafted script. Impacted versions: N/A (managed service, exclusively hosted) Please refer to the art"
+    },
+    "page:83e378f6e01a0f2b9a3eeda4": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T19:43:27.782175+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:3ae3d4c65ac65ad9f87a1956": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-23T19:43:27.782175+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1695,8 +1719,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "9d2d9b8a3ffab00fbf10eaffdce642d0bd25d842544c828256b5d4ba77045dbd",
-    "https://status.cloud.google.com/": "19ef790809f8a2aae3035fc4e7cf8f5b0d1823e5b03376847e6cd3ff7b919865",
+    "https://azure.status.microsoft/en-us/status": "e638876ac4bcaa5f9974c75cad768cb0d9f3b02c8c982b87bed13dcc7f945e0e",
+    "https://status.cloud.google.com/": "e9d58fd4d7523610ca47e92806bc0ba3694a683e9c724eb634876acf7c1dee56",
     "https://cloud.google.com/support/bulletins": "ce05db653f844c233c7f0f67e5a4dc4ffabf9e1ff9d125c1a50d24d679efa5a4",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
