@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Oct 2026 15:11:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 15:19:48 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In Other News: Tor Exit Relays Hijacked, Banks Spot Rogue AI Agents, Self-Rebuilding macOS Ransomware</title>
@@ -656,9 +656,9 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>CVE-2026-0320 PAN-OS: Authenticated Admin Command Injection Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0320</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0320</guid>
+      <title>CVE-2026-0321 PAN-OS: Denial of Service (DoS) Vulnerabilities in Network Services (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0321</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0321</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
       <category>Network</category>
@@ -672,9 +672,9 @@
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0321 PAN-OS: Denial of Service (DoS) Vulnerabilities in Network Services (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0321</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0321</guid>
+      <title>CVE-2026-0320 PAN-OS: Authenticated Admin Command Injection Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0320</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0320</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
       <category>Network</category>
@@ -696,18 +696,18 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Post-quantum updates to our TLS guidance</title>
-      <link>https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance</guid>
-      <description>[Security] UK NCSC: The NCSC publishes its recommendations for configuring post-quantum cryptography in TLS. Now is time to migrate.</description>
-      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
       <title>Using TLS to protect data</title>
       <link>https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data</link>
       <guid isPermaLink="false">https://www.ncsc.gov.uk/guidance/using-tls-to-protect-data</guid>
       <description>[Security] UK NCSC: Recommended profiles to securely configure TLS for the most common versions and scenarios, with additional guidance for managing older versions.</description>
+      <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Post-quantum updates to our TLS guidance</title>
+      <link>https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance</link>
+      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/post-quantum-updates-to-our-tls-guidance</guid>
+      <description>[Security] UK NCSC: The NCSC publishes its recommendations for configuring post-quantum cryptography in TLS. Now is time to migrate.</description>
       <pubDate>Thu, 15 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
@@ -736,9 +736,9 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>CVE-2026-0312 Checkov by Prisma Cloud: Path Traversal Vulnerabilities (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0312</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0312</guid>
+      <title>CVE-2026-0313 Cortex XSOAR: OS Command Injection Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0313</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0313</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
@@ -752,17 +752,17 @@
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0311 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0311</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0311</guid>
+      <title>CVE-2026-0312 Checkov by Prisma Cloud: Path Traversal Vulnerabilities (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0312</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0312</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0319 PAN-OS: Improper Input Handling Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0319</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0319</guid>
+      <title>CVE-2026-0311 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0311</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0311</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
@@ -776,17 +776,9 @@
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0316</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0316</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0313 Cortex XSOAR: OS Command Injection Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0313</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0313</guid>
+      <title>PAN-SA-2026-0013 Chromium: Monthly Vulnerability Update (October 2026) (Severity: HIGH)</title>
+      <link>https://security.paloaltonetworks.com/PAN-SA-2026-0013</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/PAN-SA-2026-0013</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
@@ -800,9 +792,17 @@
       <category>Network</category>
     </item>
     <item>
-      <title>PAN-SA-2026-0013 Chromium: Monthly Vulnerability Update (October 2026) (Severity: HIGH)</title>
-      <link>https://security.paloaltonetworks.com/PAN-SA-2026-0013</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/PAN-SA-2026-0013</guid>
+      <title>CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0316</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0316</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0319 PAN-OS: Improper Input Handling Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0319</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0319</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
@@ -1328,20 +1328,22 @@
       <category>Security</category>
     </item>
     <item>
+      <title>Service disruption: Increased Error Rates</title>
+      <link>https://status.aws.amazon.com/</link>
+      <guid isPermaLink="false">https://status.aws.amazon.com/</guid>
+      <description>[Cloud] AWS Service Health RSS: We are providing an update on the disruption affecting the Middle East (UAE) (me-central-1) Region. After a thorough assessment, we have determined that we are unable to restore access to the resources and data hosted exclusively in the mec1-az2 Availability Zone. We continue to work on recovering regional resources, as well as zonal resources hosted in the other affected Availability Zones (mec1-az1 and mec1-az3).
+
+Since the disruption began in March, most customers have been able to re-establish their operations in other Regions by restoring backups or copying data that remained accessible. AWS Support remains available to help customers who need assistance moving their applications to alt</description>
+      <pubDate>Tue, 15 Sep 2026 10:27:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
       <title>CVE-2026-86830 - Incorrect privilege assignment in Temporary Elevated Access Management (TEAM) for AWS IAM Identity Center</title>
       <link>https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/</link>
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-112-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/14/2026 10:45 AM PDT Description: Temporary Elevated Access Management (TEAM) is an open source AWS sample solution for managing temporary elevated access via AWS IAM Identity Center. We identified CVE-2026-86830, where an authenticated user with application-level access could gain unintended temporary elevated access to AWS accounts managed by TEAM. Impacted versions: &lt;1.5.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin.</description>
       <pubDate>Mon, 14 Sep 2026 18:04:59 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0298</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0298</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
-      <category>Network</category>
     </item>
     <item>
       <title>CVE-2026-0295 GlobalProtect App: Local Privilege Escalation via Race Condition on macOS (Severity: MEDIUM)</title>
@@ -1360,17 +1362,25 @@
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0296 GlobalProtect App: Improper Certificate Validation Bypass Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0296</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0296</guid>
+      <title>CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0297</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0297</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0297</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0297</guid>
+      <title>CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0298</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0298</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0296 GlobalProtect App: Improper Certificate Validation Bypass Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0296</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0296</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
       <category>Network</category>
@@ -1464,17 +1474,17 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>CVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing  (Severity: HIGH)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0310</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0310</guid>
+      <title>CVE-2026-0308 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability in the Web Interface (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0308</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0308</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0308 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability in the Web Interface (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0308</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0308</guid>
+      <title>CVE-2026-0309 PAN-OS: Authenticated Command Injection in CLI with Luna HSM Configuration (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0309</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0309</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
@@ -1488,9 +1498,9 @@
       <category>Network</category>
     </item>
     <item>
-      <title>CVE-2026-0306 Prisma Access Agent: EndPoint DLP Bypass Vulnerability on Windows (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0306</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0306</guid>
+      <title>CVE-2026-0304 Cortex XDR Broker VM: Privilege Escalation Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0304</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0304</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
