@@ -1983,6 +1983,30 @@
       "category": "Cloud",
       "published": "2026-10-24T13:41:39.344943+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot": {
+      "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+      "url": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-24T14:17:32+00:00",
+      "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [...]"
+    },
+    "page:5a2c81c58d2b219226a4025d": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-24T14:42:14.343953+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:393d003bf62f4d9c0b6fd6b7": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-24T14:42:14.343953+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1991,8 +2015,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "8d881c61d2a9e81a37969893c8fcc295b5ab074fec8535ce76f2028954240b8e",
-    "https://status.cloud.google.com/": "6141b1540e4354c72020c5fdbe76dbe5d2548d75020fbb853e67de3d9f3d1afd",
+    "https://azure.status.microsoft/en-us/status": "e9172722c37e7b6f864d50fdbe424df2d209ca47101fdd754fa3c02c773d53dc",
+    "https://status.cloud.google.com/": "a67debe98e1110953690667580aa415f9e5dd1c800621b9d87ecc623c31f29c4",
     "https://cloud.google.com/support/bulletins": "8efae56d235d2af88ee2f18a0eaa2b7ce4d9056e95a4db9ad7f413683a14f343",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
