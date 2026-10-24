@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-10-24T06:53:27.943293+00:00",
+  "last_run_utc": "2026-10-24T07:44:28.621187+00:00",
   "sources_successful": 22,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
@@ -11,7 +11,7 @@
     "Microsoft Security Response Center: Page content unavailable or too short",
     "AWS Health Status: Page content unavailable or too short"
   ],
-  "items_published": 239,
+  "items_published": 241,
   "source_results": [
     {
       "source": "CISA Advisories",
