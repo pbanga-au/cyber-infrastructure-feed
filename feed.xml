@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Oct 2026 11:43:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 12:51:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 24 Oct 2026 12:51:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 24 Oct 2026 12:51:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1968,22 +1984,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <description>[Security] UK NCSC: Owners of operational technology encouraged to address avoidable vulnerabilities, and build long-term cyber resilience.</description>
       <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>OpenSSL 3.6.4</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-3.6.4</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-3.6.4</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 3.6.4 is a security patch release.  The most severe CVE fixed in this release is Moderate. This release incorporates the following bug fixes and mitigations: Fixed QUIC server being able to trigger double free when processing INITIAL packet. ( CVE-2026-18798 ) Fixed heap buffer overflow in CMS key unwrapping. ( CVE-2026-63072 ) Fixed invalid pointer dereference in CMP server via crafted protectionAlg . ( CVE-2026-63076 ) Fixed unbounded memory growth in QUIC server incoming channel queue. ( CVE-2026-14456 ) Fixed RPK server signature algorithm selection being able to dereference a missing certificate. ( CVE-2026-14457 ) Fixed excessive memory use buffering DTLS records for a future e</description>
-      <pubDate>Tue, 25 Aug 2026 11:53:03 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>OpenSSL 4.0.2</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-4.0.2</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-4.0.2</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 4.0.2 is a security patch release.  The most severe CVE fixed in this release is Moderate. This release incorporates the following bug fixes and mitigations: Fixed QUIC server being able to trigger double free when processing INITIAL packet. ( CVE-2026-18798 ) Fixed heap buffer overflow in CMS key unwrapping. ( CVE-2026-63072 ) Fixed invalid pointer dereference in CMP server via crafted protectionAlg . ( CVE-2026-63076 ) Fixed unbounded memory growth in QUIC server incoming channel queue. ( CVE-2026-14456 ) Fixed RPK server signature algorithm selection being able to dereference a missing certificate. ( CVE-2026-14457 ) Fixed excessive memory use buffering DTLS records for a future e</description>
-      <pubDate>Tue, 25 Aug 2026 11:44:22 +0000</pubDate>
-      <category>Infrastructure</category>
     </item>
   </channel>
 </rss>

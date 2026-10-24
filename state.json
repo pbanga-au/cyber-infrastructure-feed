@@ -1520,22 +1520,6 @@
       "published": "2026-09-09T13:28:44+00:00",
       "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:"
     },
-    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.0.2": {
-      "title": "OpenSSL 4.0.2",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.0.2",
-      "source": "OpenSSL Releases",
-      "category": "Infrastructure",
-      "published": "2026-08-25T11:44:22+00:00",
-      "description": "OpenSSL 4.0.2 is a security patch release.  The most severe CVE fixed in this release is Moderate. This release incorporates the following bug fixes and mitigations: Fixed QUIC server being able to trigger double free when processing INITIAL packet. ( CVE-2026-18798 ) Fixed heap buffer overflow in CMS key unwrapping. ( CVE-2026-63072 ) Fixed invalid pointer dereference in CMP server via crafted protectionAlg . ( CVE-2026-63076 ) Fixed unbounded memory growth in QUIC server incoming channel queue. ( CVE-2026-14456 ) Fixed RPK server signature algorithm selection being able to dereference a missing certificate. ( CVE-2026-14457 ) Fixed excessive memory use buffering DTLS records for a future e"
-    },
-    "url:https://github.com/openssl/openssl/releases/tag/openssl-3.6.4": {
-      "title": "OpenSSL 3.6.4",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-3.6.4",
-      "source": "OpenSSL Releases",
-      "category": "Infrastructure",
-      "published": "2026-08-25T11:53:03+00:00",
-      "description": "OpenSSL 3.6.4 is a security patch release.  The most severe CVE fixed in this release is Moderate. This release incorporates the following bug fixes and mitigations: Fixed QUIC server being able to trigger double free when processing INITIAL packet. ( CVE-2026-18798 ) Fixed heap buffer overflow in CMS key unwrapping. ( CVE-2026-63072 ) Fixed invalid pointer dereference in CMP server via crafted protectionAlg . ( CVE-2026-63076 ) Fixed unbounded memory growth in QUIC server incoming channel queue. ( CVE-2026-14456 ) Fixed RPK server signature algorithm selection being able to dereference a missing certificate. ( CVE-2026-14457 ) Fixed excessive memory use buffering DTLS records for a future e"
-    },
     "url:https://status.aws.amazon.com/": {
       "title": "Service disruption: Increased Error Rates",
       "url": "https://status.aws.amazon.com/",
@@ -1975,6 +1959,22 @@
       "category": "Cloud",
       "published": "2026-10-24T11:43:22.258040+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:64b8bedb16295dec4e0e61fe": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-24T12:51:27.695879+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:ca0978e8b31a7b7ebb3c311c": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-24T12:51:27.695879+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -1983,8 +1983,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "cddc28af282c24d9d25ab2c53f6d6e12707c0f1d699751685195b9ea2bc1d0d0",
-    "https://status.cloud.google.com/": "dbf1a8901891ffc4314f1e67d9d7fcca79763052215007b6f06bfff424be94a4",
+    "https://azure.status.microsoft/en-us/status": "dfb56c3c55d5e6dfdc326fa631af7ae776227bd33094f3460d94e5c2ccd6ba0e",
+    "https://status.cloud.google.com/": "5ddc39152eb494343b2ef12a013910466f86a249c6355d5d8b73062d86748ba5",
     "https://cloud.google.com/support/bulletins": "8efae56d235d2af88ee2f18a0eaa2b7ce4d9056e95a4db9ad7f413683a14f343",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
