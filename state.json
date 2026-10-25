@@ -2191,6 +2191,22 @@
       "category": "Cloud",
       "published": "2026-10-25T04:43:52.639891+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:ecfbb1b252682baa737cd8c4": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-25T05:42:21.627689+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:af70bc055dc3ca3fc9433016": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-25T05:42:21.627689+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -2199,8 +2215,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "4e0ca5a506de67b71386954ccad1af2f14781b77a23f7311ffe560126c55f455",
-    "https://status.cloud.google.com/": "4b881efc921c6d1256bc331608a50fbf56e07deccfc2e50c59d984e31f638e50",
+    "https://azure.status.microsoft/en-us/status": "a9f6f4ff8095d8a11b005947aaa8c53eed599d1462cd7f070729ecfc3f873430",
+    "https://status.cloud.google.com/": "830422e419b903efcb8f5c9bd1b8cd2f126aad8f3f816cc2ee184c4381b8c92b",
     "https://cloud.google.com/support/bulletins": "1fa281200f0e399f2c8522a4149d99d25c4dc72be15c484076bb9cb2cd336d55",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
