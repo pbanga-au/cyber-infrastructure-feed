@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 22:39:17 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:37:35 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 25 Oct 2026 23:37:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 25 Oct 2026 23:37:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2392,22 +2408,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 09 Sep 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>OpenSSL 4.1.0-alpha1</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-alpha1</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-alpha1</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:</description>
-      <pubDate>Wed, 09 Sep 2026 13:28:44 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>The hidden risks of shadow AI</title>
-      <link>https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai</guid>
-      <description>[Security] UK NCSC: Understanding why staff use unapproved AI tools is key to managing the security challenges they can create.</description>
-      <pubDate>Mon, 07 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>
