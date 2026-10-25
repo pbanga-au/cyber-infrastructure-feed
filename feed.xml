@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 20:40:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 21:41:42 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 25 Oct 2026 21:41:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 25 Oct 2026 21:41:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2392,14 +2408,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <description>[Network] Juniper Security: </description>
       <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>Disruptive cyber activity highlights risk from internet-exposed systems and edge devices</title>
-      <link>https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/disruptive-cyber-activity-highlights-risk-from-internet-exposed-systems-and-edge-devices</guid>
-      <description>[Security] UK NCSC: Owners of operational technology encouraged to address avoidable vulnerabilities, and build long-term cyber resilience.</description>
-      <pubDate>Thu, 27 Aug 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>
