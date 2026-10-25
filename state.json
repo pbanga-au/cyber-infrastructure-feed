@@ -2127,6 +2127,14 @@
       "category": "Cloud",
       "published": "2026-10-25T00:52:20.614911+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:6c700e179bf774aa312556e9": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-25T01:41:28.093811+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -2136,7 +2144,7 @@
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://azure.status.microsoft/en-us/status": "c0f8430a26f02766ec55a9ecd2603a9896745e688df6d6a8b71627288bee7bfb",
-    "https://status.cloud.google.com/": "7c3ec934d14e8d7666adc267fd0b7ea98333dc5b41b5ac9f5f681f9a6efa11f5",
+    "https://status.cloud.google.com/": "b384cfa24aa56f9151837ce354e81720e91fe338dc4cbef162d05fda48b6eab4",
     "https://cloud.google.com/support/bulletins": "1fa281200f0e399f2c8522a4149d99d25c4dc72be15c484076bb9cb2cd336d55",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
