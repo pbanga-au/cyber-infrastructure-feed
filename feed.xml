@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 02:44:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 03:45:26 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 25 Oct 2026 03:45:26 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 25 Oct 2026 03:45:26 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-111943: eMudhra intermediate CA key recovery in AWS trust bundles</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-150-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/24/2026 20:00 PM PDT Summary: AWS identified CVE-2026-111943, a key-generation flaw at external CA eMudhra/emSign that made intermediate CA private keys recoverable. Three roots are affected: AAA Certificate Services, emSign Root TLS CA - G3, and emSign ECC Root CA - G3. They shipped in AWS-owned trust bundles, exposing soft-fail TLS clients to man-in-the-middle risk. AWS is removing the roots. Customers using CloudFront custom origins or ALB OIDC/JWT auth should check whether their certificates chain to an affected root and reissue from a different CA before enforcement. Please refer to th</description>
+      <pubDate>Sun, 25 Oct 2026 03:07:57 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>

@@ -2151,6 +2151,30 @@
       "category": "Cloud",
       "published": "2026-10-25T02:44:14.527085+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-111943": {
+      "title": "CVE-2026-111943: eMudhra intermediate CA key recovery in AWS trust bundles",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-25T03:07:57+00:00",
+      "description": "Bulletin ID: 2026-150-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/24/2026 20:00 PM PDT Summary: AWS identified CVE-2026-111943, a key-generation flaw at external CA eMudhra/emSign that made intermediate CA private keys recoverable. Three roots are affected: AAA Certificate Services, emSign Root TLS CA - G3, and emSign ECC Root CA - G3. They shipped in AWS-owned trust bundles, exposing soft-fail TLS clients to man-in-the-middle risk. AWS is removing the roots. Customers using CloudFront custom origins or ALB OIDC/JWT auth should check whether their certificates chain to an affected root and reissue from a different CA before enforcement. Please refer to th"
+    },
+    "page:f5b20427468c8178ac2868b6": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-25T03:45:26.404653+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:85b5684eba8420a0d4992c3a": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-25T03:45:26.404653+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -2159,8 +2183,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "595cf806c1f83f50b15999d86c9de86a4852ba0e3e1d136073db696fb6dd49f6",
-    "https://status.cloud.google.com/": "2deaf3197dc677e21a1e9a5ba5ae825f4358f6bc0638c77472cdec23bcd2734d",
+    "https://azure.status.microsoft/en-us/status": "4037a6b5f2f4ad59f1198a0e537cc8ad368498e8c77d8c22e1772e7047e20122",
+    "https://status.cloud.google.com/": "2e7eb3b77058283d5d32b21deafa8d5df39149ed08e44b90279f22722067b0c8",
     "https://cloud.google.com/support/bulletins": "1fa281200f0e399f2c8522a4149d99d25c4dc72be15c484076bb9cb2cd336d55",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
