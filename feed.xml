@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 09:55:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 10:52:02 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 10:52:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 10:52:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Kali Linux 2026.3 released with 6 new tools, desktop updates</title>
+      <link>https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/</guid>
+      <description>[News] BleepingComputer: Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 10:26:52 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages</title>
+      <link>https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</guid>
+      <description>[News] SecurityWeek: An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 10:21:57 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -669,14 +701,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 24 Oct 2026 15:42:59 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 24 Oct 2026 14:42:14 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2381,30 +2405,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <title>CVE-2026-0299 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM)</title>
       <link>https://security.paloaltonetworks.com/CVE-2026-0299</link>
       <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0299</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0297</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0297</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0298</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0298</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0296 GlobalProtect App: Improper Certificate Validation Bypass Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0296</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0296</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
       <category>Network</category>
