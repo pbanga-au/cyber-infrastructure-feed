@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 08:56:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 09:55:59 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 09:55:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 09:55:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>PHP2Shell security flaws now sucessfully exploited in the wild</title>
+      <link>https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/</guid>
+      <description>[News] BleepingComputer: Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 09:19:57 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Mythos 5 Ignored Real-World Harm in July Attack</title>
+      <link>https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</guid>
+      <description>[News] SecurityWeek: The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 09:10:03 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -366,14 +398,6 @@
       <description>[News] SecurityWeek: Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on SecurityWeek .</description>
       <pubDate>Sun, 25 Oct 2026 11:00:00 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 25 Oct 2026 10:42:45 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2384,30 +2408,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-89332 - Kiro IDE Sensitive Workspace Data Exfiltration via Agent-Written Workspace Configuration</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-111-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-111-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-111-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 12:00 PM PDT Description: Kiro IDE is an agentic development environment that makes it easy for developers to ship real engineering work with the help of AI agents. We identified CVE-2026-89332, where the Kiro agent could modify a workspace's settings file in an untrusted workspace in Kiro IDE. A specially crafted repository could use this to point the Kiro Powers registry URL, which Kiro fetches when the Powers panel is opened, at an external endpoint, sending potentially sensitive workspace data to that endpoint. Kiro presented the edit to the user for approval, showing the insert</description>
-      <pubDate>Fri, 11 Sep 2026 19:08:25 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-89090 - Denial of service in the event stream header decoder in AWS SDK for Go v2</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-110-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 10:00 AM PDT Description: An issue exists in the the EventStream header decoder in AWS SDK for Go v2 in versions predating 2026-03-23. An actor can send a malformed EventStream response frame containing a crafted header value type byte outside the valid range, which can cause the host process to terminate. Impacted versions: &lt; 2026-03-23 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin.</description>
-      <pubDate>Fri, 11 Sep 2026 17:09:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-18061 - XML External Entity (XXE) in AWS Advanced JDBC Wrapper RemoteQueryCachePlugin</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-109-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-109-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-109-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 09:30 AM PDT Description: The AWS Advanced JDBC Wrapper is an open-source library that enhances existing JDBC drivers with AWS-specific capabilities such as Aurora failover, IAM authentication, and automated SQL query caching for applications connecting to Amazon Aurora, RDS MySQL, and RDS MariaDB. We identified CVE-2026-18061, an improper restriction of XML external entity (XXE) references in the optional RemoteQueryCachePlugin. When this plugin is enabled with a shared cache, an actor with write access to that cache infrastructure might place crafted XML in a cached column value. </description>
-      <pubDate>Fri, 11 Sep 2026 16:37:01 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
