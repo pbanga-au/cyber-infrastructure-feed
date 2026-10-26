@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 17:48:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 18:59:12 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 18:59:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 18:59:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-111497 Portfolio Status: Impact of Brotli Vulnerability (CVE-2026-111497) on Palo Alto Networks Products (Severity: CRITICAL)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-111497</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-111497</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Mon, 26 Oct 2026 18:45:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -54,14 +78,6 @@
       <description>[News] BleepingComputer: A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]</description>
       <pubDate>Mon, 26 Oct 2026 16:27:57 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 16:14:21 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2390,22 +2406,6 @@
       <description>[Infrastructure] OpenSSL Releases: OpenSSL 4.0.3 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed a use-after-free in X.509 extension cache under concurrent use. ( CVE-2026-84783 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed</description>
       <pubDate>Tue, 29 Sep 2026 13:53:57 +0000</pubDate>
       <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway</title>
-      <link>https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway</guid>
-      <description>[Security] UK NCSC: The NCSC is urging UK organisations to promptly mitigate vulnerabilities affecting Citrix NetScaler ADC and Gateway, two of which are being actively exploited.</description>
-      <pubDate>Mon, 28 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>2025-08 Updated Reference Advisory: Junos OS and Junos OS Evolved: Multiple CVEs reported in OpenSSH</title>
-      <link>https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Mon, 28 Sep 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>

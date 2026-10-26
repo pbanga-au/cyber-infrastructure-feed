@@ -1,9 +1,10 @@
 {
-  "last_run_utc": "2026-10-26T17:48:26.794867+00:00",
-  "sources_successful": 22,
+  "last_run_utc": "2026-10-26T18:59:12.724417+00:00",
+  "sources_successful": 21,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
     "ACSC Advisories: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww",
+    "Mist Security: 404 Client Error: Not Found for url: https://www.mist.com/documentation/category/security-alerts/feed/",
     "Arista Security: No RSS/Atom entries returned",
     "ZPE PSIRT: Page content unavailable or too short",
     "HPE Security Bulletins: HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne",
@@ -52,8 +53,8 @@
     {
       "source": "Mist Security",
       "mode": "rss",
-      "status": "ok",
-      "entries_available": 10
+      "status": "failed",
+      "error": "404 Client Error: Not Found for url: https://www.mist.com/documentation/category/security-alerts/feed/"
     },
     {
       "source": "Arista Security",
