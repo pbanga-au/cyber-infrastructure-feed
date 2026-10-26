@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 10:52:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:01:50 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 13:01:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 13:01:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>953 Online Stores Infected in Long-Lasting Malware Campaign</title>
+      <link>https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/</guid>
+      <description>[News] SecurityWeek: Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 12:46:44 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</title>
+      <link>https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</guid>
+      <description>[News] SecurityWeek: The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 11:47:52 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -253,14 +285,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 25 Oct 2026 21:41:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 25 Oct 2026 20:40:27 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2384,30 +2408,6 @@
 Since the disruption began in March, most customers have been able to re-establish their operations in other Regions by restoring backups or copying data that remained accessible. AWS Support remains available to help customers who need assistance moving their applications to alt</description>
       <pubDate>Tue, 15 Sep 2026 10:27:10 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-86830 - Incorrect privilege assignment in Temporary Elevated Access Management (TEAM) for AWS IAM Identity Center</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-112-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/14/2026 10:45 AM PDT Description: Temporary Elevated Access Management (TEAM) is an open source AWS sample solution for managing temporary elevated access via AWS IAM Identity Center. We identified CVE-2026-86830, where an authenticated user with application-level access could gain unintended temporary elevated access to AWS accounts managed by TEAM. Impacted versions: &lt;1.5.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin.</description>
-      <pubDate>Mon, 14 Sep 2026 18:04:59 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-0295 GlobalProtect App: Local Privilege Escalation via Race Condition on macOS (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0295</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0295</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0299 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0299</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0299</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 12 Sep 2026 00:30:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
