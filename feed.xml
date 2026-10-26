@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 20:47:14 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 20:47:14 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 20:47:14 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/</guid>
+      <description>[News] BleepingComputer: OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 20:46:49 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI</title>
+      <link>https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/</guid>
+      <description>[News] SecurityWeek: A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 20:20:56 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1037,14 +1069,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 24 Oct 2026 01:49:53 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 24 Oct 2026 01:01:35 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2382,30 +2406,6 @@
       <description>[News] Ars Technica Security: A simple email gives the attackers the ability to remotely inject OS commands.</description>
       <pubDate>Wed, 30 Sep 2026 20:44:48 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Cloudflare plans to issue quantum-safe TLS certificates</title>
-      <link>https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/09/cloudflare-plans-to-issue-quantum-safe-tls-certificates/</guid>
-      <description>[News] Ars Technica Security: The move will be part of a major overhaul of the ecosystem for website authentication.</description>
-      <pubDate>Wed, 30 Sep 2026 11:15:14 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-100308 - GluonTS arbitrary command execution during model deserialization</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-119-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-119-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-119-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/29/2026 08:00 AM PDT Description: GluonTS is an open source library for deep learning based time series models. We identified CVE-2026-100308 that allows arbitrary command execution upon deserialization of untrusted model artifacts. Deserialization of untrusted data in the model loading component in Amazon GluonTS before 0.17.0 might allow context-dependent attackers to execute arbitrary operating system commands with the privileges of the loading process via a crafted serialized model directory. The issue arises whenever a user calls Predictor.deserialize() or any RepresentablePredictor.de</description>
-      <pubDate>Tue, 29 Sep 2026 15:17:30 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenSSL 3.4.8</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-3.4.8</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-3.4.8</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 3.4.8 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar multiplication on ARM64 and RISC-V. ( CVE-2026-54875 ) Fixed out-of-bounds access aft</description>
-      <pubDate>Tue, 29 Sep 2026 14:19:12 +0000</pubDate>
-      <category>Infrastructure</category>
     </item>
   </channel>
 </rss>
