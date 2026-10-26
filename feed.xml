@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 18:59:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 19:50:51 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 19:50:51 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 19:50:51 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>DreamHost forces password resets in ongoing "incident"</title>
+      <link>https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/</guid>
+      <description>[News] BleepingComputer: DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 19:26:20 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-3.4.8</guid>
       <description>[Infrastructure] OpenSSL Releases: OpenSSL 3.4.8 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar multiplication on ARM64 and RISC-V. ( CVE-2026-54875 ) Fixed out-of-bounds access aft</description>
       <pubDate>Tue, 29 Sep 2026 14:19:12 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>OpenSSL 3.5.9</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-3.5.9</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-3.5.9</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 3.5.9 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar</description>
-      <pubDate>Tue, 29 Sep 2026 14:10:08 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>OpenSSL 3.6.5</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-3.6.5</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-3.6.5</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 3.6.5 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar</description>
-      <pubDate>Tue, 29 Sep 2026 14:01:50 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>OpenSSL 4.0.3</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-4.0.3</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-4.0.3</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 4.0.3 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed a use-after-free in X.509 extension cache under concurrent use. ( CVE-2026-84783 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed QUIC unvalidated amplification credit may be over-accounted. ( CVE-2026-35191 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed</description>
-      <pubDate>Tue, 29 Sep 2026 13:53:57 +0000</pubDate>
       <category>Infrastructure</category>
     </item>
   </channel>
