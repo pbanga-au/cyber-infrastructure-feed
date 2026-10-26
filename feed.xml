@@ -5,13 +5,29 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 08:00:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:56:07 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 08:56:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 08:56:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 08:00:44 +0000</pubDate>
       <category>Cloud</category>
     </item>
@@ -53,14 +69,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 05:47:17 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 04:47:25 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2399,14 +2407,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-109-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-109-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 09:30 AM PDT Description: The AWS Advanced JDBC Wrapper is an open-source library that enhances existing JDBC drivers with AWS-specific capabilities such as Aurora failover, IAM authentication, and automated SQL query caching for applications connecting to Amazon Aurora, RDS MySQL, and RDS MariaDB. We identified CVE-2026-18061, an improper restriction of XML external entity (XXE) references in the optional RemoteQueryCachePlugin. When this plugin is enabled with a shared cache, an actor with write access to that cache infrastructure might place crafted XML in a cached column value. </description>
       <pubDate>Fri, 11 Sep 2026 16:37:01 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-89065 and CVE-2026-89066: Issue with projen - Path traversal and OS command injection</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-108-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-108-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-108-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 09:00 AM PDT Description: projen is an open-source tool for defining and synthesizing software project configurations as code. AWS identified two issues in projen affecting the generated file manifest cleanup component and the task synthesis component. - CVE-2026-89065 — Relative path traversal in the generated file manifest cleanup component in projen before 0.101.37 might allow context-dependent attackers to recursively delete files and directories outside the project directory, via crafted entries in the version-controlled generated file manifest (.projen/files.json) that is cons</description>
-      <pubDate>Fri, 11 Sep 2026 16:10:27 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
