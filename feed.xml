@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 03:48:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 04:47:25 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 04:47:25 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 04:47:25 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2390,22 +2406,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <link>https://aws.amazon.com/security/security-bulletins/rss/2026-101-aws/</link>
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-101-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-101-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/04/2026 13:00 PM PDT Description: We have identified CVE-2026-85787, an incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server before version 1.1.7 might allow an unauthenticated actor to modify data beyond the read-only scope by placing crafted SQL into the content that is submitted when an authenticated user interacts with the MCP server. Impacted versions: any pypi package version &lt; 1.1.7 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin.</description>
-      <pubDate>Wed, 09 Sep 2026 21:30:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-84942 - Stored Cross-Site Scripting via Vega Expression Function Bypass in OpenSearch Dashboards</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-102-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-102-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-102-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/08/2026 12:30 PM PDT Description: A stored cross-site scripting (XSS) issue in the Vega expression function implementation in OpenSearch Dashboards allows a remote authenticated actor with dashboard write permissions to execute arbitrary JavaScript in the context of other users' browser sessions by saving a crafted Vega visualization. Affedted products &amp; versions: OpenSearch Dashboards (open-source, self-managed): - Affected: v2.0.0, v2.1.0, v2.2.0, v2.3.0, v2.4.0, v2.5.0, v.2.6.0, v2.7.0, v2.8.0, v2.9.0, v2.10.0, v2.11.0, v2.12.0, v2.13.0, v2.14.0, v2.15.0, v2.16.0, v2.17.0, v2.18.0, v2.19</description>
-      <pubDate>Wed, 09 Sep 2026 21:30:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-87912 and CVE-2026-87913: Missing S3 bucket ownership verification in the AWS Security Agent plugin for aws-agents-for-devsecops and MCP Server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-105-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-105-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-105-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 08:30 AM PDT Description: AWS Security Agent is a managed AWS service that provides AI-powered code security reviews, threat modeling, and penetration testing. We identified CVE-2026-87912, where a missing S3 bucket ownership verification in the AWS Security Agent plugin in Amazon aws-agents-for-devsecops before version 1.1.0 might allow remote attackers to obtain the private source archive of a scanned workspace, including credentials and infrastructure state contained in that archive, via a pre-registered storage bucket whose name is derived from a publicly known account identifie</description>
       <pubDate>Wed, 09 Sep 2026 21:30:11 +0000</pubDate>
       <category>Cloud</category>
     </item>
