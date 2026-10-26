@@ -2687,6 +2687,38 @@
       "category": "Cloud",
       "published": "2026-10-26T16:14:21.682016+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-115418": {
+      "title": "CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-26T16:50:46+00:00",
+      "description": "Bulletin ID: 2026-151-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/26/2026 09:30 AM PDT Description: The AWS Cloud Development Kit (CDK) @aws-cdk/aws-redshift-alpha module provides experimental constructs that manage Amazon Redshift users, tables and privileges. We identified CVE-2026-115418, an issue where crafted user names, comments or passwords set in these constructs could change the SQL that runs with Amazon Redshift superuser privileges at deployment, including granting access to all cluster users. Exploiting the issue requires the ability to influence the CDK application's construct property values. Impacted versions: <2.274.0-alpha.0 Please refer "
+    },
+    "url:https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches": {
+      "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+      "url": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-26T16:27:57+00:00",
+      "description": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]"
+    },
+    "page:327d6ff3452b777c8fcec296": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-26T16:59:02.105023+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:956e6276d1f685bfab985125": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-26T16:59:02.105023+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -2695,8 +2727,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "9d2d9b8a3ffab00fbf10eaffdce642d0bd25d842544c828256b5d4ba77045dbd",
-    "https://status.cloud.google.com/": "9219a5fd3a4fba3b918c786e60bdee6efabea1d2adab6b06198016d4143b366e",
+    "https://azure.status.microsoft/en-us/status": "f42b654bd53dbfc6efd8187315eeefa6e66a45b5b76a8a7fa83ad65b73e28a7a",
+    "https://status.cloud.google.com/": "edc9d1cfb08fcfea5599905090140d9795178bde1d7e4f521b0c038c2c003ed0",
     "https://cloud.google.com/support/bulletins": "1fa281200f0e399f2c8522a4149d99d25c4dc72be15c484076bb9cb2cd336d55",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

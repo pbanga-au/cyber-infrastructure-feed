@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 16:14:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 16:59:02 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 16:59:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 16:59:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-151-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/26/2026 09:30 AM PDT Description: The AWS Cloud Development Kit (CDK) @aws-cdk/aws-redshift-alpha module provides experimental constructs that manage Amazon Redshift users, tables and privileges. We identified CVE-2026-115418, an issue where crafted user names, comments or passwords set in these constructs could change the SQL that runs with Amazon Redshift superuser privileges at deployment, including granting access to all cluster users. Exploiting the issue requires the ability to influence the CDK application's construct property values. Impacted versions: &lt;2.274.0-alpha.0 Please refer </description>
+      <pubDate>Mon, 26 Oct 2026 16:50:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/</guid>
+      <description>[News] BleepingComputer: A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 16:27:57 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2374,38 +2406,6 @@
       <description>[News] Ars Technica Security: Ads appearing all over the Internet are trying to scam people.</description>
       <pubDate>Fri, 25 Sep 2026 19:38:59 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-96883 - Type confusion in AWS pgcollection allows remote code execution</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-118-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-118-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-118-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/24/2026 12:00 PM PDT Description: pgcollection is an open source extension to PostgreSQL. We identified CVE-2026-96883, an issue in pgcollection's type coercion logic. When requesting a stored icollection value as a type incompatible with how it was actually stored causes the extension to misinterprets the datum's representation, allowing an authenticated database user to crash the PostgreSQL backend or execute arbitrary code. Impacted versions: pgcollection v2.0.0 through v2.1.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security </description>
-      <pubDate>Thu, 24 Sep 2026 19:17:16 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-95985 - Kiro IDE Allows Agentic Writes to Global Configurations While Working in Untrusted Workspaces</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-117-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-117-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-117-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/24/2026 10:00 AM PDT Description: Kiro is an agentic IDE that users install on their desktop. We identified CVE-2026-95985. The file write tool in Kiro IDE before version 1.0.242 might allow remote unauthenticated actors to execute arbitrary commands and to inject crafted instructions into the agent's context. When a user runs the agent in a crafted repository as an untrusted workspace, sending any message can cause agent modifications to auto-loaded global configuration paths. Impacted versions: &lt; 1.0.242 Please refer to the article below for the most up-to-date and complete information re</description>
-      <pubDate>Thu, 24 Sep 2026 17:21:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenSSL 4.1.0-beta1</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta1</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta1</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:</description>
-      <pubDate>Wed, 23 Sep 2026 13:24:11 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>CVE-2026-94450 - Potential denial of service when configured to send Retry packets in s2n-quic</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-116-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-116-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-116-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/22/2026 13:00 PM PDT Description: s2n-quic is a Rust implementation of the QUIC protocol. We identified CVE-2026-94450, an issue with improper validation of the Destination Connection ID length when a server is configured to send Retry packets. s2n-quic 1.88.0 and earlier allow an unauthenticated user to shut down a server endpoint via a single crafted UDP datagram. No AWS services are affected by this issue, and customers of AWS services do not need to take action. Only server endpoints specifically configured to issue Retry packets are affected. Impacted versions: &lt;= v1.88.0 Please refer </description>
-      <pubDate>Tue, 22 Sep 2026 20:08:17 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
