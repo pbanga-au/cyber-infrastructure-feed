@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 20:47:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:44:17 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 21:44:17 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 21:44:17 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Former pentester used ARTEX AI to steal 8.2 million data records</title>
+      <link>https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/</guid>
+      <description>[News] BleepingComputer: South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 21:08:28 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -685,14 +709,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 25 Oct 2026 08:44:24 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 25 Oct 2026 07:46:01 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/</guid>
       <description>[News] Ars Technica Security: It has been a bad month for federal government cybersecurity.</description>
       <pubDate>Thu, 01 Oct 2026 20:28:45 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-97662 - Argument injection in AWS security-agent-mcp-server diff scan</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-121-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-121-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-121-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/01/2026 10:30 AM PDT Description: security-agent-mcp-server is an open-source Model Context Protocol (MCP) server, published by AWS in the awslabs/mcp repository, that AI assistants use to run local security scans (including differential "diff" scans) over source code. We identified CVE-2026-97662, an argument injection issue in the diff scan operation: a crafted reference value supplied to the scan is interpreted as a command-line option rather than a revision, which lets a context-dependent actor create, overwrite, or truncate arbitrary files on the host outside the intended workspace dir</description>
-      <pubDate>Thu, 01 Oct 2026 18:16:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Attackers have been exploiting critical Zimbra flaw to steal emails</title>
-      <link>https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/</guid>
-      <description>[News] Ars Technica Security: A simple email gives the attackers the ability to remotely inject OS commands.</description>
-      <pubDate>Wed, 30 Sep 2026 20:44:48 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
