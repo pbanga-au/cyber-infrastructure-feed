@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 07:00:59 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 08:00:44 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 08:00:44 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 08:00:44 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -854,14 +870,6 @@
       <description>[News] BleepingComputer: Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millions of computers. [...]</description>
       <pubDate>Fri, 23 Oct 2026 20:55:05 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 20:45:57 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2399,14 +2407,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-108-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-108-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 09:00 AM PDT Description: projen is an open-source tool for defining and synthesizing software project configurations as code. AWS identified two issues in projen affecting the generated file manifest cleanup component and the task synthesis component. - CVE-2026-89065 — Relative path traversal in the generated file manifest cleanup component in projen before 0.101.37 might allow context-dependent attackers to recursively delete files and directories outside the project directory, via crafted entries in the version-controlled generated file manifest (.projen/files.json) that is cons</description>
       <pubDate>Fri, 11 Sep 2026 16:10:27 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-89049 - Server-side request forgery in the Session Manager port forwarding functionality in AWS Systems Manager Agent</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-107-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-107-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-107-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 11:30 AM PDT Description: AWS Systems Manager Agent (SSM Agent) is software that runs on managed nodes (EC2 instances, on-premises servers, and other supported machines) and processes requests from the AWS Systems Manager service, enabling capabilities including Session Manager port forwarding to remote hosts. We identified CVE-2026-89049, a server-side request forgery issue in the remote-host port forwarding functionality. Due to improper validation of equivalent address representations, an authenticated user with port-forwarding permission could bypass the remote destination denyl</description>
-      <pubDate>Thu, 10 Sep 2026 18:44:24 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
