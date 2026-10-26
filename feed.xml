@@ -5,8 +5,72 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 13:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 15:14:44 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 15:14:44 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 15:14:44 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Industrial Vendors Check Products for PHP2Shell Vulnerabilities</title>
+      <link>https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 14:52:14 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Genesys Hack Exposes Customer Data From Internal Systems</title>
+      <link>https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</guid>
+      <description>[News] SecurityWeek: The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 14:40:48 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Stolen AI Reasoning Could Help China Build Cheaper Rivals</title>
+      <link>https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/</guid>
+      <description>[News] SecurityWeek: Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI. The post Stolen AI Reasoning Could Help China Build Cheaper Rivals appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 14:30:09 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>When an AI Agent Is the Incident, the Identity Record Is the Evidence</title>
+      <link>https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/</guid>
+      <description>[News] BleepingComputer: A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 14:00:10 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Chinese man extradited for role in $36 million cryptocurrency scam</title>
+      <link>https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/</guid>
+      <description>[News] BleepingComputer: A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]</description>
+      <pubDate>Mon, 26 Oct 2026 13:56:44 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>PHP2Shell Exploitation Moves From Probes to Working Shells</title>
+      <link>https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</guid>
+      <description>[News] SecurityWeek: Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 26 Oct 2026 13:30:10 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -997,14 +1061,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-148-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/23/2026 10:30 AM PDT Description: Amazon Web Services Multi Model Server (MMS) is an open source tool for serving machine learning models for inference. It was published by AWS on GitHub, PyPI, and Docker Hub, and reached end of life; its source repository has been archived and read-only since November 20, 2025. CVE-2026-115812: An issue in model archive extraction could allow a crafted model archive to write files outside the intended directory, potentially resulting in code execution with the privileges of the MMS process. CVE-2026-115813: An issue in the model download path could allow t</description>
       <pubDate>Fri, 23 Oct 2026 17:45:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 17:42:51 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2350,64 +2406,6 @@
       <description>[Security] UK NCSC: Defenders can’t use AI in the same way attackers can, but there’s much they can do to unlock the potential of agentic cyber defence.</description>
       <pubDate>Mon, 21 Sep 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>CVE-2026-92943 - Improper validation of certificate with host mismatch in AWS IoT Device SDK for Python</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-114-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-114-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-115-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/17/2026 12:00 PM PDT Description: AWS IoT Device SDK for Python (AWSIoTPythonSDK) is an open source SDK that lets IoT devices and gateways connect to AWS IoT Core over MQTT. We identified CVE-2026-92943 in the MQTT client TLS connection layer, where the client did not validate that the server certificate matched the AWS IoT Core endpoint hostname. On Python 3.7 and later, an adversary-in-the-middle positioned on the network could present a certificate issued for an unrelated hostname by any certificate authority in the device trust store, impersonate the AWS IoT Core endpoint, read device t</description>
-      <pubDate>Thu, 17 Sep 2026 19:18:01 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Adversary simulation: what you need to know</title>
-      <link>https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know</guid>
-      <description>[Security] UK NCSC: Adversary simulation ('red teaming') tests your ability to prevent, detect and respond to cyber attacks.</description>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Cyber Adversary Simulation (CyAS): scheme documents now available</title>
-      <link>https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available</guid>
-      <description>[Security] UK NCSC: Our view of good cyber adversary simulation – and how assured providers can deliver it.</description>
-      <pubDate>Thu, 17 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>CVE-2026-86831: Improper validation of pod identifier uniqueness in aws-network-policy-agent in Amazon EKS</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-113-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-113-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-113-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/16/2026 12:30 PM PDT Description: Network Policy Agent is an EKS Policy management feature. We identified CVE-2026-86831, a cross-namespace NetworkPolicy bypass in Amazon EKS Network Policy Agent (aws-network-policy-agent) before v1.4.0. Pod identifiers are constructed by concatenating the pod name and namespace with a hyphen delimiter, which is a legal character in both Kubernetes pod names and namespace names. This ambiguity can produce identical identifiers for pods across different namespaces, potentially allowing NetworkPolicy enforcement to be bypassed. Impacted versions: - 1.14.0&lt;1.2</description>
-      <pubDate>Wed, 16 Sep 2026 20:16:23 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Iranian cyber targeting of dissidents, activists and journalists</title>
-      <link>https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists</guid>
-      <description>[Security] UK NCSC: Advisory on CHOSEN BRICK malware, including technical analysis and advice to help individuals and organisations protect themselves.</description>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists</title>
-      <link>https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists</guid>
-      <description>[Security] UK NCSC: UK and allies provide advice to help organisations and individuals at risk detect and counter the threat from CHOSEN BRICK malware.</description>
-      <pubDate>Tue, 15 Sep 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Service disruption: Increased Error Rates</title>
-      <link>https://status.aws.amazon.com/</link>
-      <guid isPermaLink="false">https://status.aws.amazon.com/</guid>
-      <description>[Cloud] AWS Service Health RSS: We are providing an update on the disruption affecting the Middle East (UAE) (me-central-1) Region. After a thorough assessment, we have determined that we are unable to restore access to the resources and data hosted exclusively in the mec1-az2 Availability Zone. We continue to work on recovering regional resources, as well as zonal resources hosted in the other affected Availability Zones (mec1-az1 and mec1-az3).
-
-Since the disruption began in March, most customers have been able to re-establish their operations in other Regions by restoring backups or copying data that remained accessible. AWS Support remains available to help customers who need assistance moving their applications to alt</description>
-      <pubDate>Tue, 15 Sep 2026 10:27:10 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>

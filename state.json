@@ -1613,7 +1613,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-23T17:42:51.739619+00:00",
+      "published": "2026-10-26T15:14:44.787416+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:a66e51d37096716ff6d80397": {
@@ -2615,6 +2615,62 @@
       "category": "Cloud",
       "published": "2026-10-26T13:01:50.454396+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence": {
+      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+      "url": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-26T14:00:10+00:00",
+      "description": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam": {
+      "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-26T13:56:44+00:00",
+      "description": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]"
+    },
+    "url:https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities": {
+      "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+      "url": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-26T14:52:14+00:00",
+      "description": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems": {
+      "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+      "url": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-26T14:40:48+00:00",
+      "description": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals": {
+      "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+      "url": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-26T14:30:09+00:00",
+      "description": "Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI. The post Stolen AI Reasoning Could Help China Build Cheaper Rivals appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells": {
+      "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+      "url": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-26T13:30:10+00:00",
+      "description": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek ."
+    },
+    "page:b6b4376fa1454d70b6da85a2": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-26T15:14:44.787416+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -2623,8 +2679,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "47c801c812d927e8d9a41b5484a9cc0a45e7670bb9e853744bc84e0199ca9d93",
-    "https://status.cloud.google.com/": "9fe476e39de2725ac7e51b5c3f83f57a16b80e7c6c4679cbb93adc349c454a46",
+    "https://azure.status.microsoft/en-us/status": "82f70808a39039745d65b743b757926f215be3766a66150132fe567a1f70739d",
+    "https://status.cloud.google.com/": "b641d9629f761b6fed4927010cde7fd9267b41b6fc669dcbdaef50ffd9021df2",
     "https://cloud.google.com/support/bulletins": "1fa281200f0e399f2c8522a4149d99d25c4dc72be15c484076bb9cb2cd336d55",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
