@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Oct 2026 04:47:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:47:17 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 05:47:17 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 26 Oct 2026 05:47:17 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2391,22 +2407,6 @@ Since the disruption began in March, most customers have been able to re-establi
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-106-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-106-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 10:00 AM PDT Description: Deep Java Library (DJL) is an open-source, engine-agnostic Java framework for deep learning, developed and maintained by Amazon. AWS identified CVE-2026-85228, an integer overflow in the tensor buffer validation component of DJL on all platforms. A crafted tensor payload declaring a shape whose computed byte size exceeds the 32-bit signed integer range causes the size to wrap, allowing an undersized buffer to pass validation; a subsequent tensor operation then reads out of bounds. If leveraged, a remote, unauthenticated actor could obtain information from a</description>
       <pubDate>Thu, 10 Sep 2026 17:13:16 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-85788 - Issue with awslabs mysql-mcp-server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-103-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-103-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-103-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/09/2026 09:30 AM PDT Description: We identified an issue in awslabs.mysql-mcp-server (an open-source, self-hosted Model Context Protocol server distributed via github.com/awslabs/mcp and PyPI). In affected versions, under certain conditions the read-only enforcement could be circumvented via SQL inline comments, allowing a statement to run that the read-only check was expected to block. The read-only mode provided by the server is a best-effort safeguard and is not a substitute for correctly scoped database permissions; the effective boundary is the permissions of the configured MySQL user.</description>
-      <pubDate>Wed, 09 Sep 2026 21:30:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-85787 - An incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server to modify data beyond the read-only scope</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-101-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-101-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-101-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/04/2026 13:00 PM PDT Description: We have identified CVE-2026-85787, an incomplete list of disallowed inputs in the SQL validation component in Amazon awslabs postgres-mcp-server before version 1.1.7 might allow an unauthenticated actor to modify data beyond the read-only scope by placing crafted SQL into the content that is submitted when an authenticated user interacts with the MCP server. Impacted versions: any pypi package version &lt; 1.1.7 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin.</description>
-      <pubDate>Wed, 09 Sep 2026 21:30:11 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
