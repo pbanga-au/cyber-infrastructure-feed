@@ -3199,6 +3199,38 @@
       "category": "Cloud",
       "published": "2026-10-27T17:54:04.507395+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-115413": {
+      "title": "CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-27T18:14:19+00:00",
+      "description": "Bulletin ID: 2026-152-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/27/2026 11:00 AM PDT Description: The AWS API MCP Server is an open source Model Context Protocol (MCP) server that enables AI assistants to interact with AWS services and resources through AWS CLI commands. It can be configured to serve the streamable-http transport with OAuth authentication, validating a bearer token against an identity provider nominated by the operator. We identified CVE-2026-115413 in versions >=1.3.0 and <1.6.0, the server validates a token's signature, issuer and expiry, but not the claim identifying the application the token was issued for. Impacted versions: >=1.3."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates": {
+      "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-27T18:20:28+00:00",
+      "description": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]"
+    },
+    "page:15449282cf6dc3b0ab2fc2ac": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T18:55:07.001218+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:381fdceeb322d29760b1e6af": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T18:55:07.001218+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3207,8 +3239,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "32cc22e0d70b6b12406a72637c355266eb20f4d937d66d1673e2a971d2a5cc84",
-    "https://status.cloud.google.com/": "077816ef813d7958318bf2a018085f4638d1599cc1f790f0159fcd78b1d2e894",
+    "https://azure.status.microsoft/en-us/status": "78c5a65ac5c71da000f4a82cfb9471acce5ed061d9bda4a20800ffa234b034f8",
+    "https://status.cloud.google.com/": "b8119c2638f6fdb85fc4c60c5931eaade4b9ebc59b71df582988d721981f2d6f",
     "https://cloud.google.com/support/bulletins": "6bbed7c297a543afe61898a0719ecec6c41d89d5ff05e974a449b1d0457bb85a",
     "https://www.sectigo.com/knowledge-base": "87539aa2f0b8797e14a5f3727080fcb1840cb3f01b8a556026d9732eb8b16826",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

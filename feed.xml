@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 17:54:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 18:55:07 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 18:55:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 18:55:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Microsoft releases Windows OOB updates to distrust eMudhra certificates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/</guid>
+      <description>[News] BleepingComputer: Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 18:20:28 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-115413 - AWS API MCP Server OAuth token audience validation bypass</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-152-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-152-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/27/2026 11:00 AM PDT Description: The AWS API MCP Server is an open source Model Context Protocol (MCP) server that enables AI assistants to interact with AWS services and resources through AWS CLI commands. It can be configured to serve the streamable-http transport with OAuth authentication, validating a bearer token against an identity provider nominated by the operator. We identified CVE-2026-115413 in versions &gt;=1.3.0 and &lt;1.6.0, the server validates a token's signature, issuer and expiry, but not the claim identifying the application the token was issued for. Impacted versions: &gt;=1.3.</description>
+      <pubDate>Tue, 27 Oct 2026 18:14:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2374,38 +2406,6 @@
       <description>[News] Ars Technica Security: Incident hitting 700 supermarkets exploited outdated devices exposed to the Internet.</description>
       <pubDate>Wed, 14 Oct 2026 21:35:09 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-110310 - RSA PKCS#1 v1.5 padding oracle via legacy envelope key format downgrade in Amazon S3 Encryption Client for .NET</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-135-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-135-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-135-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/14/2026 12:30 PM PDT Description: We identified CVE-2026-110310, an issue in Amazon S3 encryption client for .NET that could allow a remote user who can read encrypted objects in the S3 bucket can force a padding downgrade by altering the padding scheme recorded in an object's metadata to legacy PKCS#1 v1.5. Since this padding scheme is susceptible to the Bleichenbacher attack, the user can use a PKCS#1 v1.5 padding oracle to recover the RSA-wrapped envelope key and decrypt the object. Impacted versions: &gt;= 2.1.0; 3.0.0 to 3.2.1; 4.0.0 to 4.0.2 Please refer to the article below for the most</description>
-      <pubDate>Wed, 14 Oct 2026 19:48:49 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-110248 - Insertion of sensitive information into log files in Amazon SageMaker Python SDK</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-134-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-134-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-134-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/14/2026 11:30 AM PDT Description: Amazon SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker. We identified CVE-2026-110248, an issue in the git_utils.py component of Amazon SageMaker Python SDK. When a Git clone operation fails, repository credentials in subprocess error output are written to CloudWatch Logs without redaction. An authenticated remote user with access to those logs is able to obtain the plaintext credentials. Impacted versions: - Amazon SageMaker Python SDK V2 versions before 2.257.3 - Amazon SageMaker Python</description>
-      <pubDate>Wed, 14 Oct 2026 18:38:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-0313 Cortex XSOAR: OS Command Injection Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0313</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0313</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0315 GlobalProtect App: Local Privilege Escalation Vulnerability on macOS (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0315</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0315</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
