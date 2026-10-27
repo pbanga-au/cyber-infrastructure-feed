@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 21:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 22:46:28 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 22:46:28 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 22:46:28 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/</guid>
+      <description>[News] BleepingComputer: OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 22:43:27 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>UNM Health ransomware attack disrupts patient care, surgeries</title>
+      <link>https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/</guid>
+      <description>[News] BleepingComputer: The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 22:07:34 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -54,14 +86,6 @@
       <description>[News] Ars Technica Security: Critical flaw in EDK2 allows attackers to execute code early in the boot process.</description>
       <pubDate>Tue, 27 Oct 2026 20:25:55 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 19:50:31 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2382,30 +2406,6 @@
       <description>[Network] Juniper Security: </description>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>On Demand: Session Smart Router (SSR) and Conductor patch release notification</title>
-      <link>https://supportportal.juniper.net/s/article/On-Demand-Session-Smart-Router-SSR-and-Conductor-patch-release-notification</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/On-Demand-Session-Smart-Router-SSR-and-Conductor-patch-release-notification</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Targeted ads delivered 0-click exploits to install mercenary malware</title>
-      <link>https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/</guid>
-      <description>[News] Ars Technica Security: The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.</description>
-      <pubDate>Thu, 15 Oct 2026 20:32:41 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Issue in the Linux kernel virtio-net/TAP networking path affecting KVM-based hypervisors</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-137-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/15/2026 10:30 AM PDT Description: AWS is aware of an issue in the Linux kernel's virtio-net/TAP networking path (CVE-2026-99999) that affects KVM-based hypervisors running unpatched Linux kernel versions 4.4 through 6.18. This issue could allow an actor with privileged access inside a guest virtual machine to send specially crafted network packets that corrupt host kernel memory that could result in disclosure of host memory or a denial of service. AWS-managed compute and container services, including Amazon EC2 instances, AWS Lambda, and AWS Fargate, are not affected. There is no action re</description>
-      <pubDate>Thu, 15 Oct 2026 19:03:20 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
