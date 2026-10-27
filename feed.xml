@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 06:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 07:55:58 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 07:55:58 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 07:55:58 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems</title>
+      <link>https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/</guid>
+      <description>[News] SecurityWeek: Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 07:14:27 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -557,14 +581,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 04:47:25 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 03:48:04 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-129-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-129-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/08/2026 10:30 PM PDT Description: AWS Toolkit for Visual Studio Code is an open source extension that lets developers work with AWS services, including Amazon CodeCatalyst, from within Visual Studio Code. We identified CVE-2026-107332, an issue in the CodeCatalyst connection handler. When a user connected to a CodeCatalyst Dev Environment, the extension cached the user's CodeCatalyst bearer token to a file with world-readable permissions and did not remove the file after the session ended. A local user or process on the same machine with access to the file system was able to read this file </description>
       <pubDate>Thu, 08 Oct 2026 17:43:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>China-linked malicious actors called out by UK and international partners for targeting sensitive data globally</title>
-      <link>https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/china-linked-actors-called-out-by-uk-and-international-partners-for-targeting-sensitive-data</guid>
-      <description>[Security] UK NCSC: Joint advisory with international partners highlights malicious targeting of organisations from a range of sectors across the globe.</description>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>CVE-2026-107352 - Missing authorization checks in Amazon Athena engine version 3 request handling</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-128-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-128-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-128-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/07/2026 13:00 PM PDT Description: Missing authorization checks in Amazon Athena engine version 3 request handling could have allowed an authenticated user to read limited query metadata (AWS account identifiers and SQL statement text) from other AWS accounts. AWS remediated the issue on September 1, 2026, and has confirmed no customer metadata was accessed. Query results, credentials, and Amazon S3 data were not affected. No customer action is required. Resolution: This issue was addressed service-side on September 1, 2026. Please refer to the article below for the most up-to-date and compl</description>
-      <pubDate>Wed, 07 Oct 2026 20:19:18 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
