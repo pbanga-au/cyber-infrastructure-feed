@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:58:12 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 14:58:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 14:58:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Tailscale warns of SSH flaws allowing root privilege escalation</title>
+      <link>https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/</guid>
+      <description>[News] BleepingComputer: The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 14:09:46 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest</title>
+      <link>https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/</guid>
+      <description>[News] BleepingComputer: Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 14:01:11 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -261,14 +293,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 27 Oct 2026 03:47:00 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 02:44:57 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2379,30 +2403,6 @@
       <title>2026-10 Security Bulletin: Junos OS: MX Series: Multiple vulnerabilities resolved</title>
       <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Multiple-vulnerabilities-resolved</link>
       <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Multiple-vulnerabilities-resolved</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: Multiple vulnerabilities resolved</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-resolved</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Multiple-vulnerabilities-resolved</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS and Junos OS Evolved: Multiple vulnerabilities resolved</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-vulnerabilities-resolved</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-vulnerabilities-resolved</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS and Junos OS Evolved: SRX Series: Multiple vulnerabilities resolved</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-SRX-Series-Multiple-vulnerabilities-resolved</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-SRX-Series-Multiple-vulnerabilities-resolved</guid>
       <description>[Network] Juniper Security: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>Network</category>
