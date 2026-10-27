@@ -2493,7 +2493,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-26T08:56:07.332152+00:00",
+      "published": "2026-10-27T09:51:27.916421+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:bbd5d04b383756d4d5f1833e": {
@@ -2951,6 +2951,38 @@
       "category": "Cloud",
       "published": "2026-10-27T08:53:31.564380+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators": {
+      "title": "From industry concern to practical action: the value of working with regulators",
+      "url": "https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-10-27T12:00:00+00:00",
+      "description": "How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers": {
+      "title": "Energy giant ENGIE discloses data breach affecting customers",
+      "url": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-27T09:25:50+00:00",
+      "description": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]"
+    },
+    "url:https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover": {
+      "title": "Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover",
+      "url": "https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-27T09:44:50+00:00",
+      "description": "Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek ."
+    },
+    "page:376ddf9f8962a0440e15e525": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T09:51:27.916421+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -2959,8 +2991,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "8fa98249410bd4ccc93b94ab304717563b0112f0e9e09fd183b339c62798dfb1",
-    "https://status.cloud.google.com/": "76a83b4a0e2476377c1022d2a46314733721261d33e634ba79b80fb05357b5a2",
+    "https://azure.status.microsoft/en-us/status": "c3b2a25e47096e680b3f5f004e7de3f3e926ef3e3e8aa53a86c9ee21d1f64fc1",
+    "https://status.cloud.google.com/": "d5975dfcb0ef2550c0a4243e544c4608539acbf9fb3db27a2eaff178673e5e6e",
     "https://cloud.google.com/support/bulletins": "6bbed7c297a543afe61898a0719ecec6c41d89d5ff05e974a449b1d0457bb85a",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

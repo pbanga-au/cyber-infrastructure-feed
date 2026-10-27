@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 08:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 09:51:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>From industry concern to practical action: the value of working with regulators</title>
+      <link>https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators</link>
+      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators</guid>
+      <description>[Security] UK NCSC: How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 09:51:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 09:51:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</title>
+      <link>https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</guid>
+      <description>[News] SecurityWeek: Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 09:44:50 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Energy giant ENGIE discloses data breach affecting customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/</guid>
+      <description>[News] BleepingComputer: French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 09:25:50 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -534,14 +574,6 @@
       <description>[News] SecurityWeek: The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .</description>
       <pubDate>Mon, 26 Oct 2026 09:10:03 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 08:56:07 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-133-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-133-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/09/2026 11:00 AM PDT Description: AWS Amplify API Category is a CDK Construct library for defining GraphQL data models with authorization rules as AWS AppSync APIs. We identified CVE-2026-108096, where improper authorization in the query resolvers generated by @aws-amplify/graphql-index-transformer might allow an authenticated remote user to read records owned by other users of the same application via crafted queries. Impacted versions: - @aws-amplify/graphql-index-transformer &gt;=2.2.0, &lt;3.1.2; - @aws-amplify/graphql-api-construct &gt;=1.4.0, &lt;1.21.4; - @aws-amplify/data-construct &lt;1.17.4 Plea</description>
       <pubDate>Fri, 09 Oct 2026 18:13:24 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-107783 - Insertion of sensitive information into log file in AWS Tools for PowerShell</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-132-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-132-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-132-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/09/2026 08:30 AM PDT Description: AWS Tools for PowerShell V5 lets developers and administrators manage their AWS services from the PowerShell scripting environment. We identified CVE-2026-107783, where insertion of sensitive information into log file in AWS Tools for PowerShell before 5.0.306 might allow local users to recover an IAM user's cleartext AWS Management Console password from command output and log artifacts. Impacted versions: &lt;= v5.0.305 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin.</description>
-      <pubDate>Fri, 09 Oct 2026 15:56:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenSSL 4.1.0-beta2</title>
-      <link>https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta2</link>
-      <guid isPermaLink="false">https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta2</guid>
-      <description>[Infrastructure] OpenSSL Releases: OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl::Easy .  Use</description>
-      <pubDate>Fri, 09 Oct 2026 12:22:55 +0000</pubDate>
-      <category>Infrastructure</category>
-    </item>
-    <item>
-      <title>Let's Encrypt cuts certificate lifetimes to 64 days starting February 2027</title>
-      <link>https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/</link>
-      <guid isPermaLink="false">https://arstechnica.com/gadgets/2026/10/lets-encrypt-cuts-certificate-lifetimes-to-64-days-starting-february-2027/</guid>
-      <description>[News] Ars Technica Security: Free SSL/TLS certificate lifetimes reduce to 64 days in February.</description>
-      <pubDate>Thu, 08 Oct 2026 19:57:17 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-107608: Improper link resolution in asset bundling output handling in aws-cdk-lib</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-131-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-131-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-131-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/08/2026 12:30 PM PDT Description: AWS CDK is an open source framework that allows customers to build cloud infrastructure using their favorite programming language (Python, Typescript, C#, Go). That infrastructure is then able to be deployed with AWS CDK command line commands to AWS CloudFormation. We identified CVE-2026-107608, which is an issue where Docker files could be configured to insert symlinked files into the output of the AWS CDK asset bundling process when it was invoked with a Docker file. When bundling an asset using AWS CDK with a docker file, prior to 2.267.0, it was possibl</description>
-      <pubDate>Thu, 08 Oct 2026 19:44:26 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
