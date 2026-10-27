@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 15:56:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 16:57:04 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 16:57:04 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 16:57:04 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Sectigo Knowledge Base — official page changed (review required)</title>
+      <link>https://www.sectigo.com/knowledge-base</link>
+      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
+      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 16:57:04 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>Warp discloses breach exposing AI agent logs, user telemetry data</title>
+      <link>https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/</guid>
+      <description>[News] BleepingComputer: Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 16:15:39 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -124,6 +156,22 @@
       <link>https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators</link>
       <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators</guid>
       <description>[Security] UK NCSC: How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-02</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code (CVE-2023-4863), bypass authentication (CVE-2026-16436 and CVE-2026-16437), or perform arbitrary operations (CVE-2026-16438), resulting in information disclosure, tampering with, destruction, or deletion of information, and a denial-of-service (DoS) condition of the system. The following versions of Mitsubishi Electric GENESIS, GENESIS64, ICONICS Suite, Hyper Historian, AnalytiX, MobileHMI, IoTWorX, MC Works64, GENESIS32 and BizViz are affected: Mitsubishi Electric GENESIS64 &gt;=10.97|&lt;=10.97.2 (CVE-2023-4863) Mitsubishi Electric ICONICS Suite &gt;=10.97|&lt;=10.97.2 (CVE-2023-4863) M</description>
+      <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>EPICS Base</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-300-01</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition, corrupt memory, disclose sensitive information, or potentially execute arbitrary code. The following versions of EPICS Base are affected: EPICS Base release &lt;=7.0.10 (CVE-2026-114595, CVE-2026-114596, CVE-2026-114597, CVE-2026-114598) CVSS Vendor Equipment v3 9.8 The EPICS Community EPICS Base release 3 Vulnerabilities Integer Overflow or Wraparound, Improper Handling of Length Parameter Inconsistency, Access of Resource Using Incompatible Type ('Type Confusion') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwid</description>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
@@ -2358,54 +2406,6 @@
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0314 GlobalProtect App: Local Denial of Service (DoS) on Windows (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0314</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0314</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0316 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0316</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0316</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0311 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0311</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0311</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>PAN-SA-2026-0013 Chromium: Monthly Vulnerability Update (October 2026) (Severity: HIGH)</title>
-      <link>https://security.paloaltonetworks.com/PAN-SA-2026-0013</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/PAN-SA-2026-0013</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0318 PAN-OS: Denial of Service (DoS) on Panorama (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0318</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0318</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 14 Oct 2026 16:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Anthropic warns small AI models could self-replicate through IoT devices</title>
-      <link>https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/anthropic-warns-small-ai-models-could-self-replicate-through-iot-devices/</guid>
-      <description>[News] Ars Technica Security: "Small weight-based replicators" could usher in a new generation of computer worms.</description>
-      <pubDate>Wed, 14 Oct 2026 12:55:06 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
