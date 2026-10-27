@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:47:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:57:46 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 12:57:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 12:57:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Unexplained DreamHost Incident Prompts Email, FTP Password Resets</title>
+      <link>https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/</guid>
+      <description>[News] SecurityWeek: The company says it reacted to an issue affecting some of its systems, including DreamHost webmail. The post Unexplained DreamHost Incident Prompts Email, FTP Password Resets appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 12:02:06 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>From industry concern to practical action: the value of working with regulators</title>
       <link>https://www.ncsc.gov.uk/blogs/industry-concern-practical-action-value-working-regulators</link>
@@ -14,6 +38,14 @@
       <description>[Security] UK NCSC: How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity</description>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18</title>
+      <link>https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ios-macos-27-2-patch-286-bugs-fix-for-exploited-flaw-backported-to-ios-18/</guid>
+      <description>[News] SecurityWeek: Apple patched 286 vulnerabilities in iOS and macOS 27.2 and brought the fix for an exploited CoreGraphics zero-day to older iPhones. The post iOS, macOS 27.2 Patch 286 Bugs; Fix for Exploited Flaw Backported to iOS 18 appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 11:49:57 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -29,14 +61,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 27 Oct 2026 11:47:28 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 10:49:27 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2379,30 +2403,6 @@
       <title>2026-10 Security Bulletin: Junos OS: MX Series: Missing Authorization for specific 'request' CLI commands allows command injection (CVE-2026-102079)</title>
       <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Missing-Authorization-for-specific-request-CLI-commands-allows-command-injection-CVE-2026-102079</link>
       <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Missing-Authorization-for-specific-request-CLI-commands-allows-command-injection-CVE-2026-102079</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: MX Series: Malformed SyncE or PTP clock input causes continuous RE switchover (CVE-2026-102080)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Malformed-SyncE-or-PTP-clock-input-causes-continuous-RE-switchover-CVE-2026-102080</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Malformed-SyncE-or-PTP-clock-input-causes-continuous-RE-switchover-CVE-2026-102080</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: SRX Series: If TLS session resumption is configured and a specific TLS message is received a PFE crash occurs (CVE-2026-102082)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-If-TLS-session-resumption-is-configured-and-a-specific-TLS-message-is-received-a-PFE-crash-occurs-CVE-2026-102082</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-If-TLS-session-resumption-is-configured-and-a-specific-TLS-message-is-received-a-PFE-crash-occurs-CVE-2026-102082</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: SRX Series: With WebFiltering enabled prolonged HTTP session load can cause a crash (CVE-2026-102083)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-With-WebFiltering-enabled-prolonged-HTTP-session-load-can-cause-a-crash-CVE-2026-102083</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-With-WebFiltering-enabled-prolonged-HTTP-session-load-can-cause-a-crash-CVE-2026-102083</guid>
       <description>[Network] Juniper Security: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>Network</category>
