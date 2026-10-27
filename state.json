@@ -3271,6 +3271,30 @@
       "category": "Cloud",
       "published": "2026-10-27T20:47:04.468830+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data": {
+      "title": "Hackers hijack Convertr analytics script to steal payment card data",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-27T20:57:25+00:00",
+      "description": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]"
+    },
+    "page:6c910c54ffc3ff47d71fd813": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T21:45:50.282224+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:6a0819995630523266f4fd5e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T21:45:50.282224+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3279,8 +3303,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "940a8eb9787bc169b4a3bb3474f8a5113cc6f2623ae9ed6af5e76233c6f50599",
-    "https://status.cloud.google.com/": "f4989ba7ea398d1c18b78a878d12ded480ea971f13405b641b7ba6299aa5b7e9",
+    "https://azure.status.microsoft/en-us/status": "310a870fc3ef27a3e674440f1b99ae97ab8692db1aa4ce0d0c39daa7b9349a22",
+    "https://status.cloud.google.com/": "ef38dcf7823e401edc20f282bde96881c7133d6b30879c449033adb4e0b1a8fc",
     "https://cloud.google.com/support/bulletins": "6bbed7c297a543afe61898a0719ecec6c41d89d5ff05e974a449b1d0457bb85a",
     "https://www.sectigo.com/knowledge-base": "87539aa2f0b8797e14a5f3727080fcb1840cb3f01b8a556026d9732eb8b16826",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

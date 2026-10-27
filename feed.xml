@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 20:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:45:50 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 21:45:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 21:45:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Hackers hijack Convertr analytics script to steal payment card data</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/</guid>
+      <description>[News] BleepingComputer: A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 20:57:25 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,30 +2406,6 @@
       <description>[Cloud] AWS Security: Bulletin ID: 2026-137-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/15/2026 10:30 AM PDT Description: AWS is aware of an issue in the Linux kernel's virtio-net/TAP networking path (CVE-2026-99999) that affects KVM-based hypervisors running unpatched Linux kernel versions 4.4 through 6.18. This issue could allow an actor with privileged access inside a guest virtual machine to send specially crafted network packets that corrupt host kernel memory that could result in disclosure of host memory or a denial of service. AWS-managed compute and container services, including Amazon EC2 instances, AWS Lambda, and AWS Fargate, are not affected. There is no action re</description>
       <pubDate>Thu, 15 Oct 2026 19:03:20 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-0317 PAN-OS: Denial of Service Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0317</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0317</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0322 PAN-OS: Authenticated Remote Code Execution (RCE) in the Management Interface (Severity: HIGH)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0322</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0322</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0320 PAN-OS: Authenticated Admin Command Injection Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0320</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0320</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Thu, 15 Oct 2026 18:30:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
