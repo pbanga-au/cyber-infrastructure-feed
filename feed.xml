@@ -5,8 +5,16 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 02:44:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 03:47:00 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 03:47:00 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2397,14 +2405,6 @@
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</guid>
       <description>[News] Ars Technica Security: Compromise of 3 domain registries allows hackers to walk off with unauthorized certs.</description>
       <pubDate>Tue, 06 Oct 2026 19:21:14 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>OpenAI agents tried to hack Wikipedia tools and flooded it with traffic</title>
-      <link>https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/</guid>
-      <description>[News] Ars Technica Security: The reports of OpenAI agents harming third-party sites keep coming.</description>
-      <pubDate>Tue, 06 Oct 2026 12:21:53 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
