@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:57:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 14:00:19 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 14:00:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 14:00:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk</title>
+      <link>https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/</guid>
+      <description>[News] SecurityWeek: A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 13:30:28 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>HPE Patches Dozens of Critical Flaws in Networking Products</title>
+      <link>https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/</guid>
+      <description>[News] SecurityWeek: Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 13:13:58 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2371,38 +2403,6 @@
       <title>2026-10 Security Bulletin: Junos OS and Junos OS Evolved: SRX Series: Multiple vulnerabilities resolved</title>
       <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-SRX-Series-Multiple-vulnerabilities-resolved</link>
       <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-SRX-Series-Multiple-vulnerabilities-resolved</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Juniper Cloud-Native Router: Multiple vulnerabilities resolved in 26.2 release</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Juniper-Cloud-Native-Router-Multiple-vulnerabilities-resolved-in-26-2-release</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Juniper-Cloud-Native-Router-Multiple-vulnerabilities-resolved-in-26-2-release</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: MX Series with SPC3: In a NAT scenario malformed packets will lead to resource leaks and eventually traffic stops (CVE-2026-102077)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-with-SPC3-In-a-NAT-scenario-malformed-packets-will-lead-to-resource-leaks-and-eventually-traffic-stops-CVE-2026-102077</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-with-SPC3-In-a-NAT-scenario-malformed-packets-will-lead-to-resource-leaks-and-eventually-traffic-stops-CVE-2026-102077</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: SRX Series: A high volume of DNS traffic over TCP can lead to a flowd crash (CVE-2026-102078)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-A-high-volume-of-DNS-traffic-over-TCP-can-lead-to-a-flowd-crash-CVE-2026-102078</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-A-high-volume-of-DNS-traffic-over-TCP-can-lead-to-a-flowd-crash-CVE-2026-102078</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: MX Series: Missing Authorization for specific 'request' CLI commands allows command injection (CVE-2026-102079)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Missing-Authorization-for-specific-request-CLI-commands-allows-command-injection-CVE-2026-102079</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Missing-Authorization-for-specific-request-CLI-commands-allows-command-injection-CVE-2026-102079</guid>
       <description>[Network] Juniper Security: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>Network</category>

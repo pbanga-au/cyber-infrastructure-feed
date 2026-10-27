@@ -3055,6 +3055,38 @@
       "category": "Cloud",
       "published": "2026-10-27T12:57:46.155751+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk": {
+      "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+      "url": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-27T13:30:28+00:00",
+      "description": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products": {
+      "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
+      "url": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-27T13:13:58+00:00",
+      "description": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek ."
+    },
+    "page:8b1ac1cacbf37db4d2b096de": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T14:00:19.538031+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:7bfa06d64b71003f00797698": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T14:00:19.538031+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3063,8 +3095,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "6006ceffbd7d563a223447ab7d19cb15689208c2ab1b69b365c475e3f4450fe5",
-    "https://status.cloud.google.com/": "a035b0c2b903a343befd7f50d8fa84cc7c94b8d8d9ea610ca6a49856fa4f0306",
+    "https://azure.status.microsoft/en-us/status": "7566c62b15444cbbc4529ebba72899220a0a3bb9bbe747945d06f0cf6daa08f1",
+    "https://status.cloud.google.com/": "367429819a44dbc095d0b45dcbc2ce55f08ba731ea235cf92b025ab6f0aaabbc",
     "https://cloud.google.com/support/bulletins": "6bbed7c297a543afe61898a0719ecec6c41d89d5ff05e974a449b1d0457bb85a",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
