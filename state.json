@@ -3111,6 +3111,30 @@
       "category": "Cloud",
       "published": "2026-10-27T14:58:12.756883+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws": {
+      "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+      "url": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-27T15:26:12+00:00",
+      "description": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek ."
+    },
+    "page:885481d8514a60e6ab467313": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T15:56:21.071144+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:70fd61c674266852ba9fb4aa": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-27T15:56:21.071144+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3119,8 +3143,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "98e6b05612f3e020956f4600584c6258bf9c1f582e840d3920e8db8e50de9d81",
-    "https://status.cloud.google.com/": "f72027acf9248fee215026caa2186a2eaae3f983785f347531aba80438c87d44",
+    "https://azure.status.microsoft/en-us/status": "940a8eb9787bc169b4a3bb3474f8a5113cc6f2623ae9ed6af5e76233c6f50599",
+    "https://status.cloud.google.com/": "6256728d578ebd06d5c8eb9adcc6769f0f4303bcb2b6f5966371b338728895d4",
     "https://cloud.google.com/support/bulletins": "6bbed7c297a543afe61898a0719ecec6c41d89d5ff05e974a449b1d0457bb85a",
     "https://www.sectigo.com/knowledge-base": "b226a70fd601ff5f58315439a4f33cefd091cb12fc83511593e89271d69b5463",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

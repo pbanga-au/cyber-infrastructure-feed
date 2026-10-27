@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 14:58:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 15:56:21 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 15:56:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 15:56:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws</title>
+      <link>https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/</guid>
+      <description>[News] SecurityWeek: Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 15:26:12 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,30 +2406,6 @@
       <description>[News] Ars Technica Security: "Small weight-based replicators" could usher in a new generation of computer worms.</description>
       <pubDate>Wed, 14 Oct 2026 12:55:06 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: SRX 4000 Series, SRX5000 Series and MX Series with SPC3: With application services configured, high session churn causes memory leak which will ultimately impact traffic (CVE-2026-102081)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-4000-Series-SRX5000-Series-with-SPC3-With-application-services-configured-high-session-churn-causes-memory-leak-which-will-ultimately-impact-traffic-CVE-2026-102081</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-4000-Series-SRX5000-Series-with-SPC3-With-application-services-configured-high-session-churn-causes-memory-leak-which-will-ultimately-impact-traffic-CVE-2026-102081</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS Evolved: Multiple vulnerabilities resolved</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-Multiple-vulnerabilities-resolved</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-Multiple-vulnerabilities-resolved</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: MX Series: Multiple vulnerabilities resolved</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Multiple-vulnerabilities-resolved</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-MX-Series-Multiple-vulnerabilities-resolved</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
