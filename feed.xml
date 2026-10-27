@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 09:51:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 10:49:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>From industry concern to practical action: the value of working with regulators</title>
@@ -14,6 +14,46 @@
       <description>[Security] UK NCSC: How industry, the NCSC and the FCA worked together to help organisations share information while protecting market integrity</description>
       <pubDate>Tue, 27 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 10:49:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 10:49:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI</title>
+      <link>https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/</guid>
+      <description>[News] SecurityWeek: Anthropic presents its own initial public offering as a step toward mitigating the risks it believes AI poses. The post Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 10:44:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Apple backports CoreGraphics zero-day patches to older iPhones</title>
+      <link>https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/</guid>
+      <description>[News] BleepingComputer: ​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in "extremely sophisticated" targeted attacks on iOS devices. [...]</description>
+      <pubDate>Tue, 27 Oct 2026 10:36:12 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>This is Fine: What NetScaler Zero-Days Tell Us About the New Normal</title>
+      <link>https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/</guid>
+      <description>[News] SecurityWeek: Keep your patch management pipelines primed in case another round of Citrix NetScaler patches get released soon. The post This is Fine: What NetScaler Zero-Days Tell Us About the New Normal appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 10:02:24 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -2366,46 +2406,6 @@
       <description>[Network] Juniper Security: </description>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS Evolved: A port which has been inadvertently exposed can be reached by an attacker (CVE-2026-102085)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-A-port-which-has-been-inadvertently-exposed-can-be-reached-by-an-attacker-CVE-2026-102085</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-Evolved-A-port-which-has-been-inadvertently-exposed-can-be-reached-by-an-attacker-CVE-2026-102085</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS: SRX Series: Multiple DNS queries processed by SecIntel and DGA in the same session cause a flowd crash (CVE-2026-102086)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-Multiple-DNS-queries-processed-by-SecIntel-and-DGA-in-the-same-session-cause-a-flowd-crash-CVE-2026-102086</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-SRX-Series-Multiple-DNS-queries-processed-by-SecIntel-and-DGA-in-the-same-session-cause-a-flowd-crash-CVE-2026-102086</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>2026-10 Security Bulletin: Junos OS and Junos OS Evolved: If in a traffic engineering scenario a specific valid BGP-LS attribute is received rpd crashes (CVE-2026-102087)</title>
-      <link>https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-If-in-a-traffic-engineering-scenario-a-specific-valid-BGP-LS-attribute-is-received-rpd-crashes-CVE-2026-102087</link>
-      <guid isPermaLink="false">https://supportportal.juniper.net/s/article/2026-10-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-If-in-a-traffic-engineering-scenario-a-specific-valid-BGP-LS-attribute-is-received-rpd-crashes-CVE-2026-102087</guid>
-      <description>[Network] Juniper Security: </description>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Help the NCSC understand how organisations approach external attack surface risk</title>
-      <link>https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/help-ncsc-understand-how-organisations-approach-external-attack-surface-risk</guid>
-      <description>[Security] UK NCSC: We're looking to hear from people involved in evaluating, selecting or adopting EASM.</description>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>CVE-2026-108096: Improper authorization in query resolvers for SQL-backed models in AWS Amplify API Category</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-133-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-133-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-133-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/09/2026 11:00 AM PDT Description: AWS Amplify API Category is a CDK Construct library for defining GraphQL data models with authorization rules as AWS AppSync APIs. We identified CVE-2026-108096, where improper authorization in the query resolvers generated by @aws-amplify/graphql-index-transformer might allow an authenticated remote user to read records owned by other users of the same application via crafted queries. Impacted versions: - @aws-amplify/graphql-index-transformer &gt;=2.2.0, &lt;3.1.2; - @aws-amplify/graphql-api-construct &gt;=1.4.0, &lt;1.21.4; - @aws-amplify/data-construct &lt;1.17.4 Plea</description>
-      <pubDate>Fri, 09 Oct 2026 18:13:24 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
