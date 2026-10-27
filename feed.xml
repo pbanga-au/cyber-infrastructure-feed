@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:00:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:52:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 01:52:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 27 Oct 2026 01:52:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics</title>
+      <link>https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/</guid>
+      <description>[News] SecurityWeek: The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 27 Oct 2026 01:30:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1173,14 +1197,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 23 Oct 2026 22:42:19 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 21:43:33 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2390,22 +2406,6 @@
       <description>[Security] UK NCSC: ASOS has said it is investigating a cyber incident and that some customer personal information may have been accessed.</description>
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>MCP for agent-to-agent comms may be the riskiest protocol you've never heard of</title>
-      <link>https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/</guid>
-      <description>[News] Ars Technica Security: Trust gaps in the new protocol spread malicious prompts from one agent to another.</description>
-      <pubDate>Mon, 05 Oct 2026 22:26:35 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Apple changes full-disk access permissions to curb abuse from AI agents</title>
-      <link>https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/</guid>
-      <description>[News] Ars Technica Security: Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.</description>
-      <pubDate>Fri, 02 Oct 2026 23:03:16 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
