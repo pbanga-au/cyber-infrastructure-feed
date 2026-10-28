@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:55:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 18:59:46 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 18:59:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 18:59:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Discord to let search engines index public server messages</title>
+      <link>https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</guid>
+      <description>[News] BleepingComputer: Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]</description>
+      <pubDate>Wed, 28 Oct 2026 18:44:16 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</guid>
       <description>[News] BleepingComputer: Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]</description>
       <pubDate>Thu, 22 Oct 2026 17:18:22 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-115416 - Incorrect authorization checks in Amazon Athena engine version 3 query processing</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-144-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 09:30 AM PDT Description: Amazon Athena is an interactive query service that allows you to analyze data in Amazon S3 using standard SQL. We identified CVE-2026-115416, an issue in Amazon Athena engine version 3 query processing where incorrect authorization checks could have allowed an authenticated user to read AWS account identifiers and SQL statement text query metadata from other AWS accounts. Query results, and data stored in Amazon S3 or other data sources, were not accessible through this issue. Impacted versions: Amazon Athena engine version 3 Please refer to the article bel</description>
-      <pubDate>Thu, 22 Oct 2026 16:58:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Microsoft shares how to fix broken Exchange Online EWS apps</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/</guid>
-      <description>[News] BleepingComputer: Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]</description>
-      <pubDate>Thu, 22 Oct 2026 15:49:32 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers got a four-day head start on epic PHP2Shell vulnerability</title>
-      <link>https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</guid>
-      <description>[News] Ars Technica Security: Hackers were already probing the bug before defenders were told it existed.</description>
-      <pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>

@@ -3751,6 +3751,30 @@
       "category": "Cloud",
       "published": "2026-10-28T17:55:18.491250+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages": {
+      "title": "Discord to let search engines index public server messages",
+      "url": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-28T18:44:16+00:00",
+      "description": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]"
+    },
+    "page:3c5d068729808f5496370e41": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T18:59:46.610471+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:2378c01e68d15382f9d324b3": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T18:59:46.610471+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3759,8 +3783,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "ca8670155a4164827f7494a632e27ecf799067ea945f1a70a6b538daaa77917d",
-    "https://status.cloud.google.com/": "1de2f6eddb8eecaccc99ef29532742aecf9a6ea9a39a88b53ac9796a21dd039e",
+    "https://azure.status.microsoft/en-us/status": "faebe9546c3dd6cd71a286771702e1a79fbb6c161d98bc29ef7a7d8fa06c259d",
+    "https://status.cloud.google.com/": "211e507ecbc08dfcd4053a5b0e0b33218063211acb4325fe7d2651399c3d34c3",
     "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
