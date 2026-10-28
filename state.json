@@ -3189,7 +3189,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-27T23:42:56.820758+00:00",
+      "published": "2026-10-28T09:00:09.638975+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:21a1242d384aaf54d5d83963": {
@@ -3447,6 +3447,22 @@
       "category": "Cloud",
       "published": "2026-10-28T08:08:11.395386+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts": {
+      "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+      "url": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-28T08:37:24+00:00",
+      "description": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek ."
+    },
+    "page:e67a0b5e345b7cceae525c93": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T09:00:09.638975+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3455,8 +3471,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "3012426a90a177c1a030c5114be74fea3b874346dc266a969675fa022bdf929a",
-    "https://status.cloud.google.com/": "11f6a24dd0195ecabd29231a02062aef9361ef978e70b60a512fd22fbf4d9b7f",
+    "https://azure.status.microsoft/en-us/status": "32cc22e0d70b6b12406a72637c355266eb20f4d937d66d1673e2a971d2a5cc84",
+    "https://status.cloud.google.com/": "c0b0f559729f873d73670d735a93e823b173607b5eccd7c35c5dc068d403c191",
     "https://cloud.google.com/support/bulletins": "952922e3f22386ecc9285233e4be26981258e748fa495c3efff8867a3afae024",
     "https://www.sectigo.com/knowledge-base": "87539aa2f0b8797e14a5f3727080fcb1840cb3f01b8a556026d9732eb8b16826",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

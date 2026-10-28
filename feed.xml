@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 08:08:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:00:09 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 09:00:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 09:00:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts</title>
+      <link>https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/</guid>
+      <description>[News] SecurityWeek: CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 08:37:24 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -133,14 +157,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 28 Oct 2026 01:10:49 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 23:42:56 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2390,22 +2406,6 @@
       <description>[Cloud] AWS Security: Bulletin ID: 2026-140-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/20/2026 13:00 PM PDT Description: Kiro Crew is an open-source personal AI agent that can be reached from a web dashboard, a CLI, or messaging channels such as WhatsApp, and that runs tools on the operator's machine. We identified CVE-2026-112380, an authorization issue in the WhatsApp channel and the internal subagent run-control endpoints. In certain configurations where a WhatsApp group was added to an operator's allowed groups, or where the direct-message policy was set to open, a member of that WhatsApp group could send instructions to another session's subagent. The subagent then execu</description>
       <pubDate>Tue, 20 Oct 2026 20:19:42 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>The Internet goes on high alert after discovery of 8 compromised TLS certs</title>
-      <link>https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/</guid>
-      <description>[News] Ars Technica Security: Intermediate certs allow anyone to mint web credentials for any Internet server.</description>
-      <pubDate>Tue, 20 Oct 2026 19:47:35 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Meta Muse exposes users' personal and business secrets when they share conversations</title>
-      <link>https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/meta-muse-exposes-users-personal-and-business-secrets-when-they-share-conversations/</guid>
-      <description>[News] Ars Technica Security: Meta is suspending the sharing feature while it investigates its privacy.</description>
-      <pubDate>Tue, 20 Oct 2026 12:33:13 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
