@@ -3357,7 +3357,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-28T02:03:36.119088+00:00",
+      "published": "2026-10-28T16:00:47.066958+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:9597d5b89ed9c6483b0777f2": {
@@ -3663,6 +3663,46 @@
       "category": "Cloud",
       "published": "2026-10-28T15:03:37.525542+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-118029": {
+      "title": "CVE-2026-118029 - Unverified ownership of the default Athena query result location in AWS SDK for pandas",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-28T15:40:38+00:00",
+      "description": "Bulletin ID: 2026-153-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/28/2026 08:30 AM PDT Description: AWS SDK for pandas (awswrangler) is an open-source Python library that integrates pandas with AWS data services such as Amazon Athena, Amazon S3, and AWS Glue. We identified CVE-2026-118029 in the Athena module, where unverified ownership of the default query result location could allow a remote user to read Athena query results and tamper with result sets returned to the caller via a pre-created S3 bucket. Impacted versions: awswrangler < 3.16.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security "
+    },
+    "url:https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison": {
+      "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
+      "url": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-28T15:05:06+00:00",
+      "description": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek ."
+    },
+    "page:a39ec37712244b32760857dd": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T16:00:47.066958+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:1c748a285566ec585402da33": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-10-28T16:00:47.066958+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:d813ee0167a7a06a966a0137": {
+      "title": "Sectigo Knowledge Base — official page changed (review required)",
+      "url": "https://www.sectigo.com/knowledge-base",
+      "source": "Sectigo Knowledge Base",
+      "category": "PKI",
+      "published": "2026-10-28T16:00:47.066958+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3671,10 +3711,10 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "940a8eb9787bc169b4a3bb3474f8a5113cc6f2623ae9ed6af5e76233c6f50599",
-    "https://status.cloud.google.com/": "ce329cd102e928b25c468d40ed4417acd9656efb7d412899a919ecadfb08f745",
-    "https://cloud.google.com/support/bulletins": "952922e3f22386ecc9285233e4be26981258e748fa495c3efff8867a3afae024",
-    "https://www.sectigo.com/knowledge-base": "87539aa2f0b8797e14a5f3727080fcb1840cb3f01b8a556026d9732eb8b16826",
+    "https://azure.status.microsoft/en-us/status": "6e758803f28af40a46940ae6bb57d7d59ff06012353239b5a6f915e869385dbf",
+    "https://status.cloud.google.com/": "f6b06485d2d27b858d7f4f08ebd46b0bb6fd56b61a86b769f597d8d4b0d8670f",
+    "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
+    "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }

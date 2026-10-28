@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 15:03:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:00:47 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Sectigo Knowledge Base — official page changed (review required)</title>
+      <link>https://www.sectigo.com/knowledge-base</link>
+      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
+      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>CVE-2026-118029 - Unverified ownership of the default Athena query result location in AWS SDK for pandas</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-153-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/28/2026 08:30 AM PDT Description: AWS SDK for pandas (awswrangler) is an open-source Python library that integrates pandas with AWS data services such as Amazon Athena, Amazon S3, and AWS Glue. We identified CVE-2026-118029 in the Athena module, where unverified ownership of the default query result location could allow a remote user to read Athena query results and tamper with result sets returned to the caller via a pre-created S3 bucket. Impacted versions: awswrangler &lt; 3.16.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security </description>
+      <pubDate>Wed, 28 Oct 2026 15:40:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</title>
+      <link>https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</guid>
+      <description>[News] SecurityWeek: Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -333,14 +381,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 28 Oct 2026 02:55:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 02:03:36 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2364,46 +2404,6 @@
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12</link>
       <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-12</guid>
       <description>[Security] CISA Advisories: View CSAF Summary RUGGEDCOM CROSSBOW contains multiple vulnerabilities that could allow an attacker to execute arbitrary SQL commands on the underlying database, retrieve sensitive administrative credentials, escalate privileges, and perform unauthorized operations such as modifying system configurations or causing a denial of service. Siemens has released a new version for RUGGEDCOM CROSSBOW and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW are affected: RUGGEDCOM CROSSBOW vers:intdot/&lt;6.0 (CVE-2026-89196, CVE-2026-89197, CVE-2026-89198, CVE-2026-89199, CVE-2026-89200, CVE-2026-89201, CVE-2026-89202, CVE-2026-89203, CVE-2026-89204, CVE-2026</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM APE1808 Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-18</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Nozomi Networks has published information on vulnerabilities in Nozomi Guardian/CMC. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Siemens recommends to contact customer support to receive patch and update information. The following versions of Siemens RUGGEDCOM APE1808 Devices are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-33387, CVE-2026-33388, CVE-2026-33389, CVE-2026-33391, CVE-2026-33920) CVSS Vendor Equipment v3 7.5 Siemens RUGGEDCOM APE1808 4 Vulnerabilities Improper Neutralization of Special Elements Used in a Template Engine, Incorrect Authorization, Lack of Administrator Control over Security, Cross-Site Reque</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens Industrial Edge App Publisher</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-02</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary The Industrial Edge App Publisher contains a vulnerability chain involving improper certificate validation and the rendering of unescaped data from backend responses. These issues can be combined to allow an attacker on the network to impersonate the management server and execute arbitrary code (RCE) on the local machine through Node.js integration. Siemens has released an update for the Industrial Edge App Publisher and recommends to update to the latest version. The following versions of Siemens Industrial Edge App Publisher are affected: Industrial Edge App Publisher vers:intdot/&lt;1.27.9 (CVE-2026-78556, CVE-2026-78557) CVSS Vendor Equipment v3 8.3 Siemens Industrial Edge</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-11</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Multiple vulnerabilities have been identified in the additional GNU/Linux subsystem of the firmware version V3.1.7 for the SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP (incl. SIPLUS variant). Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7-1500 CPU 1518(F)-4 PN/DP MFP are affected: SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AB0) vers:intdot/&gt;=3.1.7 SIMATIC S7-1500 CPU 1518-4 PN/DP MFP (6ES7518-4AX00-1AC0) vers:intdot/&gt;=3.1.7 SIMATIC S7-1500 CPU 1518F-4 PN/DP MFP (6ES7518-4FX00-1AB0) vers:intdot/&gt;=3.1.7 SIMATIC S7-1500 CPU 1518F-4 PN/DP MFP (6ES7518-4FX00-1</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens WinCC</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-13</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Multiple SIMATIC WinCC versions are affected by a database privilege escalation vulnerability that could allow an authenticated user with access to the database to execute commands on the underlying host system. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59241) SIMATIC WinCC V8.0 vers:intdot/&lt;8.0.0.11 (CVE-2026-59241) SIMATIC WinCC V8.1 vers:intdot/&lt;8.1.7 (CVE-2026-59241) CVSS Vendor Equipment v3 8</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens Industrial Edge Device Kit</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-09</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Users of Industrial Edge Devices are advised to consult the respective Security Advisories for their devices (for Siemens Industrial Edge devices see Additional Information). Industrial Edge Device Kit contains multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens recommends specific countermeasures for products where fixes are not, or not yet available. The following versions of Siemens Industrial Edge Device Kit are affected: Industrial Edge Device Kit - arm64 V1.10 vers:</description>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
