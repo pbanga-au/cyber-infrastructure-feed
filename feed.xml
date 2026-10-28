@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 13:07:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 14:09:13 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 14:09:13 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 14:09:13 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>InfraTrust report warns of exploited flaws in critical network infrastructure</title>
+      <link>https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/</guid>
+      <description>[News] BleepingComputer: Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]</description>
+      <pubDate>Wed, 28 Oct 2026 14:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Upwind Security Raises $400 Million at $3.8 Billion Valuation</title>
+      <link>https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</guid>
+      <description>[News] SecurityWeek: The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 13:56:50 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Even after PHP2Shell, blast radius matters more than a CVSS score</title>
+      <link>https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/</guid>
+      <description>[News] BleepingComputer: PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]</description>
+      <pubDate>Wed, 28 Oct 2026 13:50:59 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Chrome and Firefox Updates Patch Over 200 Vulnerabilities</title>
+      <link>https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 13:39:35 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices</title>
+      <link>https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/</guid>
+      <description>[News] SecurityWeek: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 13:10:34 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2348,62 +2404,6 @@
       <link>https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01</link>
       <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-295-01</guid>
       <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to view transmitted data and use that data to log into the device. The following versions of InterSystems Corporation InterSystems IRIS for Health are affected: InterSystems IRIS for Health 2026.2.0.221, 2026.1.0.235, 2025.3.0.226 (CVE-2026-111594, CVE-2026-111594, CVE-2026-111594) CVSS Vendor Equipment v3 8.1 InterSystems Corporation InterSystems IRIS for Health 1 Vulnerability Cleartext Transmission of Sensitive Information Background Critical Infrastructure Sectors: Healthcare and Public Health Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-111</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens PSS(R)SINCAL</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-06</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary PSS(R)SINCAL uses WibuKey third-party product that contains an out-of-bounds write vulnerability. An attacker could exploit this vulnerability to cause a system crash, resulting in a denial-of-service condition. This affects PSS SINCAL only when configured to use the legacy WibuKey dongle license type. Siemens is actively preparing updates and recommends applicable mitigations for products where patches are currently unavailable. The following versions of Siemens PSS(R)SINCAL are affected: PSS(R)SINCAL V21.5 vers:all/* (CVE-2026-84854) PSS(R)SINCAL V22.0 vers:all/* (CVE-2026-84854) PSS(R)SINCAL V22.5 vers:intdot/&lt;22.5.5 (CVE-2026-84854) CVSS Vendor Equipment v3 7 Siemens PS</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens Software Center</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-03</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary The affected application loads dynamic-link libraries (DLLs) from an uncontrolled search path. This could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code execution with the privileges of the affected application. Siemens has released a new version for Siemens Software Center and recommends to update to the latest version. Please refer to our blog post for additional information about current known active exploitation and how to detect it. The following versions of Siemens Software Center are affected: Siemens Software Center vers:intdot/&lt;4.0.9.8 (CVE-2026-110936) CVSS Vendor Equip</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens RUGGEDCOM CROSSBOW Station Access Controller</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-15</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary RUGGEDCOM CROSSBOW Station Access Controller (SAC) contains multiple vulnerabilities in the integrated SQLite component that could allow an attacker to execute arbitrary code, cause a denial of service, or obtain sensitive information. Siemens has released a new version for RUGGEDCOM CROSSBOW Station Access Controller (SAC) and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW Station Access Controller are affected: RUGGEDCOM CROSSBOW Station Access Controller (SAC) vers:intdot/&lt;6.0 (CVE-2025-6965, CVE-2025-70873, CVE-2025-71316, CVE-2026-11822, CVE-2026-11824) CVSS Vendor Equipment v3 9.8 Siemens RUGGEDCOM CROSSBOW Station Acc</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens SIMATIC IPCs</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-07</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to boot an operating system or UEFI application signed with that test key, bypassing UEFI Secure Boot protections even when Secure Boot is enabled. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SIMATIC IPCs are affected: SIMATIC IPC BX-21A vers:intdot/&lt;31.01.13 (CVE-2026-72895) SIMATIC IPC RW-543A vers:intdot/&lt;1.1.4 (CVE-2026-72895) SIMATIC IPC227G / IPC277G / IPC277G PRO / IPC327G / IPC377G vers:intdot/&lt;28.01.15 (CVE-2026-72895) CVSS Vendor Equipment v3 7.7 Siemens SIMATIC IPC BX-21A 1 Vulnerability </description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens Industrial Edge Devices</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-17</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Siemens Industrial Edge Devices contain multiple path traversal vulnerabilities that could facilitate an authenticated remote attacker to access sensitive internal information. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens Industrial Edge Devices are affected: Industrial Edge Cloud Device (IECD) vers:intdot/&lt;1.28.1 (CVE-2026-44414) Industrial Edge Own Device (IEOD) vers:intdot/&lt;1.28.1 (CVE-2026-44414) Industrial Edge Virtual Device (IEVD) vers:intdot/</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens SIMATIC S7 PLCs Web Server</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-14</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary SIMATIC S7-1500 devices contain multiple vulnerabilities in the web server that could allow an attacker to execute malicious code in an authorized user’s browser session and perform PLC operations within the scope of that user’s authorization. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC S7 PLCs Web Server are affected: SIMATIC Drive Controller CPU 1504D TF (6ES7615-4DF10-0AB0) vers:all/* (CVE-2026-63350, CVE-2026-63351, CVE-2026-63352, CVE-2026-63353, CVE-2026-63354, CVE-2026-63355, CVE-2026-63356, CVE-2026-63357) SIMATIC Drive Controller CPU 1507D TF (6ES7615</description>
-      <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens SENTRON 3NA COM Fuse</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-295-05</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary SENTRON 3NA COM Fuse contains a Denial-of-Service vulnerability. Improper handling of a network management message could allow an attacker to trigger a denial-of-service (DoS) condition. Successful exploitation may require the affected network to be re-established to restore normal operation. The following versions of Siemens SENTRON 3NA COM Fuse are affected: SENTRON 3NA COM Fuse vers:intdot/&lt;5.2 (CVE-2024-7322) CVSS Vendor Equipment v3 5.8 Siemens SENTRON 3NA COM Fuse 1 Vulnerability Improper Verification of Source of a Communication Channel Background Critical Infrastructure Sectors: Critical Manufacturing, Transportation Systems, Energy, Healthcare and Public Health, Fi</description>
       <pubDate>Thu, 22 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
