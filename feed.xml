@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 19:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 20:53:53 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 20:53:53 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 20:53:53 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Police seize Virtualine bulletproof service tied to ransowmare, cybercrime</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/</guid>
+      <description>[News] BleepingComputer: U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]</description>
+      <pubDate>Wed, 28 Oct 2026 20:47:22 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
@@ -254,6 +278,14 @@
       <description>[News] SecurityWeek: The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .</description>
       <pubDate>Wed, 28 Oct 2026 12:00:59 +0000</pubDate>
       <category>News</category>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/10/28/cisa-adds-two-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41709 Broadcom VMWare ESX Insufficient Logging Vulnerability CVE-2026-46300 Linux Kernel Missing Initialization of a Variable Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agenci</description>
+      <pubDate>Wed, 28 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -2374,38 +2406,6 @@
       <description>[Cloud] AWS Security: Bulletin ID: 2026-147-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 13:30 PM PDT Description: aws-c-mqtt is a C99 implementation of the MQTT 3.1.1 and MQTT5 specifications, distributed as part of the AWS Common Runtime (CRT) and bundled in the AWS IoT Device SDK for C++ v2. We identified CVE-2026-115417, a memory allocation with excessive size value (CWE-789) in the library's MQTT 3.1.1 compatibility adapter. Under certain conditions, a remote actor could cause a denial of service of the client process. Impacted versions: &gt;= 0.9.1 AND &lt; 0.16.2 Please refer to the article below for the most up-to-date and complete information related to this AWS Secu</description>
       <pubDate>Thu, 22 Oct 2026 20:40:51 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Capcom confirms data breach affecting 11.7 million accounts</title>
-      <link>https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/</guid>
-      <description>[News] BleepingComputer: Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]</description>
-      <pubDate>Thu, 22 Oct 2026 20:22:45 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Disgraced eMudhra drops out of TLS business after using cert private key of 4</title>
-      <link>https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/</guid>
-      <description>[News] Ars Technica Security: Flubbed key signing "ceremony" allowed minting of web credentials for any site.</description>
-      <pubDate>Thu, 22 Oct 2026 20:17:52 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-115419 - Unintended disclosure of data element to wrong session in Strands Agents SDK A2A Server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-146-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 13:00 PM PDT Description: Strands Agents is an open-source SDK, available for Python and TypeScript, for building AI agents. The SDK includes an Agent2Agent (A2A) server component that exposes an agent over HTTP so other agents and clients can call it. We identified CVE-2026-115419, an issue where the A2A server did not properly isolate conversation state between callers. An authenticated remote user could access another caller's conversation history or influence model behavior for other callers in multi-tenant deployments. Impacted versions: - strands-agents (Python): all versions </description>
-      <pubDate>Thu, 22 Oct 2026 20:07:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>LiteLLM release pipeline hacked to distribute info-stealer malware</title>
-      <link>https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</guid>
-      <description>[News] BleepingComputer: Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]</description>
-      <pubDate>Thu, 22 Oct 2026 19:12:51 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
