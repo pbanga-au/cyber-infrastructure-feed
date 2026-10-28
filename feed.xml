@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 02:55:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 03:55:16 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 03:55:16 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 03:55:16 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 03:55:16 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,30 +2406,6 @@
       <description>[Security] CISA Advisories: CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-96652 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96654 Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability CVE-2026-96655 Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability CVE-2026-96656 Plex Media Server External Control of File Name or Path Vulnerability CVE-2026-106931 EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability CVE-2026-110936 Siemens Software Center Uncontrolled Search Path Element Vulnerability These types of vulnerabi</description>
       <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>Moxa AIG-302 ThingsPro Edge</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-293-03</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain and disclose sensitive information. The following versions of Moxa AIG-302 ThingsPro Edge are affected: Moxa AIG-302 ThingsPro Edge firmware &lt;=1.4.0 (CVE-2026-109812, CVE-2026-109813) CVSS Vendor Equipment v3 8.1 Moxa Moxa AIG-302 ThingsPro Edge firmware 2 Vulnerabilities Missing Authorization, Use of Hard-coded Cryptographic Key Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-2026-109812 A missing authorization vulnerability exist</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Introducing a new AI chapter in the NCSC research problem book</title>
-      <link>https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/introducing-new-ai-chapter-ncsc-research-problem-book</guid>
-      <description>[Security] UK NCSC: A revolution is underway at the intersection of AI and cyber security.</description>
-      <pubDate>Tue, 20 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>PSA: Patch your Plex media server before someone hacks it</title>
-      <link>https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</guid>
-      <description>[News] Ars Technica Security: A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.</description>
-      <pubDate>Mon, 19 Oct 2026 19:39:19 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
