@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 02:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:55:45 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 02:55:45 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 02:55:45 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/</guid>
       <description>[News] Ars Technica Security: A researcher says attacks chaining 4 vulnerabilities is hacking unpatched boxes.</description>
       <pubDate>Mon, 19 Oct 2026 19:39:19 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-0307 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0307</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0307</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Sat, 17 Oct 2026 00:55:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>OpenAI models hacked a crypto wallet and breached more websites</title>
-      <link>https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/</guid>
-      <description>[News] Ars Technica Security: The actions could have resulted in criminal charges had humans been behind the keyboard.</description>
-      <pubDate>Fri, 16 Oct 2026 20:59:01 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
