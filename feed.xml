@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Oct 2026 23:42:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 01:10:49 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 01:10:49 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 01:10:49 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2390,22 +2406,6 @@
       <description>[Cloud] AWS Security: Bulletin ID: 2026-138-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/16/2026 10:00 AM PDT Description: FreeRTOS-Kernel is a real-time operating system kernel for microcontrollers and small microprocessors, distributed by Amazon. AWS identified two issues with the FreeRTOS-Kernel Arm Cortex-R82 (Armv8-R AArch64) MPU port, affecting multiple versions. CVE-2026-109587: incorrect authorization in the Arm Cortex-R82 MPU port. On MPU-enabled builds, the port does not correctly enforce the memory-region boundaries assigned to an unprivileged task when it passes a buffer argument to an MPU system call. Under certain conditions, an unprivileged task might read and wr</description>
       <pubDate>Fri, 16 Oct 2026 17:34:49 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Cyber Threat Actors Use a Variety of Techniques to Target Election and Campaign Officials</title>
-      <link>https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials</link>
-      <guid isPermaLink="false">https://www.cisa.gov/resources-tools/resources/cyber-threat-actors-use-variety-techniques-target-election-and-campaign-officials</guid>
-      <description>[Security] CISA Advisories: CISA and the Federal Bureau of Investigation (FBI) released a Public Service Announcement (PSA) warning election and campaign officials about cyber threats during the 2026 U.S. midterm elections. Malicious cyber actors may use phishing and smishing techniques to steal login credentials and other sensitive information or install malware on targeted devices. Election officials, candidates, and political organizations may be attractive targets because of their access to voter registration data, current government officials, and sensitive campaign information. Cyber actors are increasingly using sophisticated phishing and smishing campaigns that closely resemble legitimate communications. These </description>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>CISA Urges Patching Critical Vulnerability in BeyondTrust Remote Support</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/10/16/cisa-urges-patching-critical-vulnerability-beyondtrust-remote-support</guid>
-      <description>[Security] CISA Advisories: CISA is aware of critical authentication bypass vulnerability CVE-2026-102764 , affecting BeyondTrust Remote Support (formerly Bomgar) versions 26.2.3 and earlier. Patches are available for supported versions (24.3.1 and later); organizations using older versions must upgrade first. Cyber threat actors are actively exploiting the vulnerability to gain initial access, then establishing persistence, escalating privileges, and moving laterally. CISA added CVE-2026-102764 to its Known Exploited Vulnerabilities (KEV) catalog on Oct. 16, 2026. CISA urges organizations with affected self-hosted Remote Support appliances to immediately take the following actions: Apply the BT26-05-RS patch, as outli</description>
-      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>
