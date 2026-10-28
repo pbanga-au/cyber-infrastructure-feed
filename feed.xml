@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 22:50:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:46:42 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 23:46:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 23:46:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -77,14 +93,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-154-AWS Publication Date: 10/28/2026 12:30 PM PDT Description: We identified CVE-2026-115415, an issue where the environment tool accepted a masking parameter from the large language model (LLM) through its tool schema. A crafted prompt, delivered through content the agent is asked to process, could instruct the model to call the tool with masking turned off. The tool would then return the agent host's environment variables in cleartext, including cloud credentials and API keys, without prompting the operator for consent. Impacted versions: &gt;= 0.1.0 AND &lt; 0.8.6 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bu</description>
       <pubDate>Wed, 28 Oct 2026 19:39:08 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 18:59:46 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2398,14 +2406,6 @@
       <description>[News] SecurityWeek: After a three-month lull, Prince of Persia hid a Tornado C&amp;C server on US shared hosting, its first US-based server since 2016. The post Iran’s Prince of Persia APT Hosts C&amp;C in US for First Time Since 2016 appeared first on SecurityWeek .</description>
       <pubDate>Fri, 23 Oct 2026 06:39:29 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products  (Severity: HIGH)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-109618</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-109618</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Fri, 23 Oct 2026 03:45:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
