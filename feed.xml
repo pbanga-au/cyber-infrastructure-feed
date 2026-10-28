@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 10:55:55 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 10:55:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 10:55:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Long-Hidden Flaws Patched in EPICS Research Facility Control Software</title>
+      <link>https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/</guid>
+      <description>[News] SecurityWeek: Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 10:48:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CISA warns of hackers now exploiting critical Node2Shell flaw</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/</guid>
+      <description>[News] BleepingComputer: On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]</description>
+      <pubDate>Wed, 28 Oct 2026 10:46:23 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Nobody Trusts the Security Questionnaire. We Rely on It Anyway.</title>
+      <link>https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/</guid>
+      <description>[News] SecurityWeek: The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It Anyway. appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 10:30:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/</guid>
       <description>[News] BleepingComputer: Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]</description>
       <pubDate>Thu, 22 Oct 2026 08:27:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks</title>
-      <link>https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/</guid>
-      <description>[News] BleepingComputer: Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]</description>
-      <pubDate>Wed, 21 Oct 2026 22:16:26 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected</title>
-      <link>https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/</guid>
-      <description>[News] BleepingComputer: Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]</description>
-      <pubDate>Wed, 21 Oct 2026 21:43:27 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-112408 - Missing bucket ownership verification in Amazon SageMaker Python SDK default_bucket()</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-142-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-142-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-142-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/21/2026 12:30 PM PDT Description: The Amazon SageMaker Python SDK is an open-source library for training and deploying machine learning models on Amazon SageMaker. We identified CVE-2026-112408, an issue in the default_bucket() function. The SDK uses a predictably named Amazon S3 bucket and does not check that the caller's AWS account owns it. A remote actor who creates that bucket first could achieve code execution in a remote SageMaker execution environment and obtain IAM credentials. Impacted versions: - V2: &lt; 2.257.3 - V3: &gt;= 3.0.0 and &lt; 3.10.0 Please refer to the article below for the </description>
-      <pubDate>Wed, 21 Oct 2026 21:32:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Lazarus hackers use post-quantum cryptography for malware delivery</title>
-      <link>https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/</guid>
-      <description>[News] BleepingComputer: North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]</description>
-      <pubDate>Wed, 21 Oct 2026 20:31:48 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/</guid>
-      <description>[News] BleepingComputer: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]</description>
-      <pubDate>Wed, 21 Oct 2026 18:34:42 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
