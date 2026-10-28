@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 09:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 09:58:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 09:58:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 09:58:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise</title>
+      <link>https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/</guid>
+      <description>[News] SecurityWeek: The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 09:48:24 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Nefilim and Hive ransomware affiliate gets 70 months in prison</title>
+      <link>https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/</guid>
+      <description>[News] BleepingComputer: A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]</description>
+      <pubDate>Wed, 28 Oct 2026 09:43:15 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers Start Probing Fresh Oracle EBS Vulnerability</title>
+      <link>https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/</guid>
+      <description>[News] SecurityWeek: CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 28 Oct 2026 09:14:23 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2366,46 +2406,6 @@
       <description>[News] BleepingComputer: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]</description>
       <pubDate>Wed, 21 Oct 2026 18:34:42 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Critical Vulnerabilities in PHP Require Immediate Patching</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/10/21/critical-vulnerabilities-php-require-immediate-patching</guid>
-      <description>[Security] CISA Advisories: CISA strongly urges organizations to immediately patch the recently disclosed critical vulnerabilities in PHP, CVE-2026-109618 and CVE-2026-109619 . These vulnerabilities, known as “php2shell,” allow for unauthenticated remote code execution in PHP and affect all PHP installations serving web requests. Organizations should immediately update to PHP 8.5.12, 8.4.27, 8.3.36, or 8.2.35 to fix these vulnerabilities. While CISA has not observed exploitation of these vulnerabilities as of the time of publication, they pose a risk to organizations if left unpatched. CISA urges organizations to take the following actions: Identify and inventory systems running any version of PHP across your organizat</description>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Critical security issue affecting PHP</title>
-      <link>https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/critical-security-issue-affecting-php</guid>
-      <description>[Security] UK NCSC: Updated: The NCSC is encouraging UK organisations to take immediate action to mitigate a security issue affecting PHP (CVE-2026-109618 and CVE-2026-109619).</description>
-      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>PHP warns it plans to release 2 emergency patches imminently</title>
-      <link>https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/</guid>
-      <description>[News] Ars Technica Security: Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.</description>
-      <pubDate>Wed, 21 Oct 2026 02:12:18 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-112407 - Incorrect privilege assignment in AWS CICD-toolchain-for-serverless-applications</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-141-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-141-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-141-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/20/2026 13:30 PM PDT Description: CICD-toolchain-for-serverless-applications is an AWS sample application that provisions a CI/CD pipeline for serverless applications through the AWS Serverless Application Repository. We identified CVE-2026-112407, an incorrect privilege assignment in the IAM policy of AWS CICD-toolchain-for-serverless-applications before 1.0.11 that allows remote authenticated users with push access to the application source repository to escalate privileges and access or modify resources outside the application stack in the same AWS account via application templates deplo</description>
-      <pubDate>Tue, 20 Oct 2026 20:39:30 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-112380 - Missing authorization in the WhatsApp channel in Kiro Crew</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-140-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-140-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-140-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/20/2026 13:00 PM PDT Description: Kiro Crew is an open-source personal AI agent that can be reached from a web dashboard, a CLI, or messaging channels such as WhatsApp, and that runs tools on the operator's machine. We identified CVE-2026-112380, an authorization issue in the WhatsApp channel and the internal subagent run-control endpoints. In certain configurations where a WhatsApp group was added to an operator's allowed groups, or where the direct-message policy was set to open, a member of that WhatsApp group could send instructions to another session's subagent. The subagent then execu</description>
-      <pubDate>Tue, 20 Oct 2026 20:19:42 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>

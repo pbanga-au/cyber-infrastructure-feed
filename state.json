@@ -3463,6 +3463,46 @@
       "category": "Cloud",
       "published": "2026-10-28T09:00:09.638975+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison": {
+      "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-28T09:43:15+00:00",
+      "description": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]"
+    },
+    "url:https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise": {
+      "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+      "url": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-28T09:48:24+00:00",
+      "description": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability": {
+      "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+      "url": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-28T09:14:23+00:00",
+      "description": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek ."
+    },
+    "page:19a2ca18af6d88fb897acb45": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T09:58:18.208026+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:ef47eefb9cf2ca2021fcbc79": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T09:58:18.208026+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3471,8 +3511,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "32cc22e0d70b6b12406a72637c355266eb20f4d937d66d1673e2a971d2a5cc84",
-    "https://status.cloud.google.com/": "c0b0f559729f873d73670d735a93e823b173607b5eccd7c35c5dc068d403c191",
+    "https://azure.status.microsoft/en-us/status": "15799c91011f41cf801d89681b2ff755a78c9c5aaf00be6a36177a9b3d002b3a",
+    "https://status.cloud.google.com/": "1cf1dba82b87adf05bcd70b2ebdaa388c3676e3177f8f77fec126564547298b7",
     "https://cloud.google.com/support/bulletins": "952922e3f22386ecc9285233e4be26981258e748fa495c3efff8867a3afae024",
     "https://www.sectigo.com/knowledge-base": "87539aa2f0b8797e14a5f3727080fcb1840cb3f01b8a556026d9732eb8b16826",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
