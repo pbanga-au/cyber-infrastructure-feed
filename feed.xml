@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 17:00:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 17:55:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 17:55:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 17:55:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/</guid>
       <description>[News] Ars Technica Security: Hackers were already probing the bug before defenders were told it existed.</description>
       <pubDate>Thu, 22 Oct 2026 15:25:02 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hacker Conversations: Corey Thuen and the Evil Bit</title>
-      <link>https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hacker-conversations-corey-thuen-and-the-evil-bit/</guid>
-      <description>[News] SecurityWeek: Corey Thuen hires hackers for what he calls ‘the evil bit’ — an adversarial streak he believes is either there or it isn’t. The post Hacker Conversations: Corey Thuen and the Evil Bit appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 22 Oct 2026 14:31:34 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Machine speed attacks require machine speed detection and response</title>
-      <link>https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/</guid>
-      <description>[News] BleepingComputer: Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster detection and automated containment are critical. [...]</description>
-      <pubDate>Thu, 22 Oct 2026 14:02:12 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
