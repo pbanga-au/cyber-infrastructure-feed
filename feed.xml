@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Oct 2026 18:59:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 19:55:50 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 28 Oct 2026 19:55:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-115415 - Secret masking bypass in the environment tool in Strands Agents Tools</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-154-AWS Publication Date: 10/28/2026 12:30 PM PDT Description: We identified CVE-2026-115415, an issue where the environment tool accepted a masking parameter from the large language model (LLM) through its tool schema. A crafted prompt, delivered through content the agent is asked to process, could instruct the model to call the tool with masking turned off. The tool would then return the agent host's environment variables in cleartext, including cloud credentials and API keys, without prompting the operator for consent. Impacted versions: &gt;= 0.1.0 AND &lt; 0.8.6 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bu</description>
+      <pubDate>Wed, 28 Oct 2026 19:39:08 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/</guid>
       <description>[News] BleepingComputer: Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]</description>
       <pubDate>Thu, 22 Oct 2026 19:12:51 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-115414 - OS Command Injection Issue in SAM CLI Terraform Hook</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-145-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-145-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-145-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/22/2026 11:30 AM PDT Description: AWS SAM CLI is an open-source framework for building serverless applications. We identified CVE-2026-115414, an OS command injection issue in the Terraform hook (sam build --hook-name terraform) in AWS SAM CLI. The Terraform hook generates a Makefile recipe that interpolates a Terraform resource address without fully neutralizing shell metacharacters, which could allow an actor who can influence the Terraform configuration or plan file consumed by a build to execute arbitrary commands as the build user on the host running the build. Impacted versions: &gt;=1.6</description>
-      <pubDate>Thu, 22 Oct 2026 18:50:58 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Arista patches new VeloCloud Orchestrator zero-day exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/</guid>
-      <description>[News] BleepingComputer: Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]</description>
-      <pubDate>Thu, 22 Oct 2026 17:18:22 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>

@@ -3775,6 +3775,22 @@
       "category": "Cloud",
       "published": "2026-10-28T18:59:46.610471+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-115415": {
+      "title": "CVE-2026-115415 - Secret masking bypass in the environment tool in Strands Agents Tools",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-154-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-28T19:39:08+00:00",
+      "description": "Bulletin ID: 2026-154-AWS Publication Date: 10/28/2026 12:30 PM PDT Description: We identified CVE-2026-115415, an issue where the environment tool accepted a masking parameter from the large language model (LLM) through its tool schema. A crafted prompt, delivered through content the agent is asked to process, could instruct the model to call the tool with masking turned off. The tool would then return the agent host's environment variables in cleartext, including cloud credentials and API keys, without prompting the operator for consent. Impacted versions: >= 0.1.0 AND < 0.8.6 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bu"
+    },
+    "page:4a31bd5715234bb37dad16cc": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-28T19:55:50.655592+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3784,7 +3800,7 @@
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://azure.status.microsoft/en-us/status": "faebe9546c3dd6cd71a286771702e1a79fbb6c161d98bc29ef7a7d8fa06c259d",
-    "https://status.cloud.google.com/": "211e507ecbc08dfcd4053a5b0e0b33218063211acb4325fe7d2651399c3d34c3",
+    "https://status.cloud.google.com/": "222eb055efcaf56d0883e11a2325e4c0a8f6b88945d14f23e8d7786078d22838",
     "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
