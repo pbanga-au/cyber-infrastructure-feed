@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-10-29T16:03:58.155830+00:00",
+  "last_run_utc": "2026-10-29T17:03:13.183763+00:00",
   "sources_successful": 22,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
@@ -65,7 +65,7 @@
       "source": "AWS Security",
       "mode": "rss",
       "status": "ok",
-      "entries_available": 48
+      "entries_available": 40
     },
     {
       "source": "BleepingComputer",
@@ -194,7 +194,7 @@
       "source": "Lets Encrypt Blog",
       "mode": "page-change",
       "status": "ok",
-      "changed": false,
+      "changed": true,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {

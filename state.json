@@ -4215,6 +4215,54 @@
       "category": "Cloud",
       "published": "2026-10-29T16:03:58.155830+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-119115": {
+      "title": "CVE-2026-119115 - Incorrect authorization in issuer resolution in AWS Private CA Connector for Kubernetes",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-156-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-29T16:45:45+00:00",
+      "description": "Bulletin ID: 2026-156-AWS Publication Date: 10/29/2026 09:30 AM PDT Description: We are aware of CVE-2026-119115, an incorrect authorization issue in the issuer resolution logic. In affected versions, under certain conditions, an authenticated user whose approval policy only authorizes a namespace-scoped issuer could obtain certificates, including subordinate CA certificates, signed by a cluster-scoped issuer they are not authorized to use. Impacted versions: - aws-privateca-issuer before v1.10.1 - AWS Private CA Connector for Kubernetes EKS add-on before v1.10.1-eksbuild.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulleti"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches": {
+      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+      "url": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-29T16:10:31+00:00",
+      "description": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]"
+    },
+    "url:https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis": {
+      "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+      "url": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-29T16:30:00+00:00",
+      "description": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis appeared first on SecurityWeek ."
+    },
+    "page:02781c83c2b13f524a54e3b4": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T17:03:13.183763+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:af91288179c4587bc3ed7e32": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T17:03:13.183763+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:edda11e125742e0d697cbc6d": {
+      "title": "Lets Encrypt Blog — official page changed (review required)",
+      "url": "https://letsencrypt.org/blog/",
+      "source": "Lets Encrypt Blog",
+      "category": "PKI",
+      "published": "2026-10-29T17:03:13.183763+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4223,11 +4271,11 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "0d8514a2087129c45511769283b3ddbc0e3612fc410a6d4a0b48b27260231fb8",
-    "https://status.cloud.google.com/": "4559d4a7d6da75eb629f706aacf6e826d01f00b5a31fb2b6c541e003ea324135",
+    "https://azure.status.microsoft/en-us/status": "d2134af7cd59aa1daa00031ffe48f66a472a586f9f3530923155d9b6019c0369",
+    "https://status.cloud.google.com/": "2e6361e72ea6b5ae23c8b31e3105b9498efb4bf442fd7ca3c16ed3082788d41a",
     "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
-    "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
+    "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }
 }
