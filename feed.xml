@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 01:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:04:55 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 02:04:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 02:04:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</guid>
       <description>[News] SecurityWeek: The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .</description>
       <pubDate>Fri, 23 Oct 2026 08:34:14 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’</title>
-      <link>https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/quest-diagnostics-reports-cyber-breach-affecting-certain-patient-records/</guid>
-      <description>[News] SecurityWeek: In a regulatory filing, Quest Diagnostics reported unauthorized access to its Quanum Lab Services Manager, a platform where certain clients can place test orders. The post Quest Diagnostics Data Breach Exposed ‘Certain Patient Records’ appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 23 Oct 2026 08:25:06 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>LiteLLM Compromised in Fresh Supply Chain Attack</title>
-      <link>https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/litellm-compromised-in-fresh-supply-chain-attack/</guid>
-      <description>[News] SecurityWeek: Hackers used compromised GitHub CLI OAuth tokens to push and approve malicious packages on PyPI and Docker. The post LiteLLM Compromised in Fresh Supply Chain Attack appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 23 Oct 2026 08:10:46 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
