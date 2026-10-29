@@ -4007,6 +4007,30 @@
       "category": "Cloud",
       "published": "2026-10-29T09:59:44.735643+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network": {
+      "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
+      "url": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-29T10:29:25+00:00",
+      "description": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek ."
+    },
+    "page:f0175ff259b4550365f9267b": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T10:57:21.291348+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:20cba3cbee76cec4a8fe4b6e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T10:57:21.291348+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4015,8 +4039,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "35e37adf8fa2f5d0a5e690683c696caf74536e4b46354a88fa41a7522418bb14",
-    "https://status.cloud.google.com/": "78d26a1bfb6f9e3cf31d2640b4bc1daa24b670bb83679d806149f9010e4539a5",
+    "https://azure.status.microsoft/en-us/status": "e68dd330d437827395ac50327f9f6028477f056e86942ef17dfdb09b0bc34c77",
+    "https://status.cloud.google.com/": "fe3f84b0c82aa4397d233cd99304a85ddc4133eb35b202f2bc3a4dd959f81f99",
     "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",

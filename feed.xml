@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 09:59:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 10:57:21 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 10:57:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 10:57:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network</title>
+      <link>https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/</guid>
+      <description>[News] SecurityWeek: Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 29 Oct 2026 10:29:25 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,30 +2406,6 @@
       <description>[News] BleepingComputer: Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]</description>
       <pubDate>Fri, 23 Oct 2026 18:54:41 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 18:52:40 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-115812 and CVE-2026-115813: Issue in Amazon Web Services Multi Model Server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-148-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/23/2026 10:30 AM PDT Description: Amazon Web Services Multi Model Server (MMS) is an open source tool for serving machine learning models for inference. It was published by AWS on GitHub, PyPI, and Docker Hub, and reached end of life; its source repository has been archived and read-only since November 20, 2025. CVE-2026-115812: An issue in model archive extraction could allow a crafted model archive to write files outside the intended directory, potentially resulting in code execution with the privileges of the MMS process. CVE-2026-115813: An issue in the model download path could allow t</description>
-      <pubDate>Fri, 23 Oct 2026 17:45:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 17:42:51 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
