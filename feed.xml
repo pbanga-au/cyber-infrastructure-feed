@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 13:09:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 14:13:07 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 14:13:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 14:13:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>3 Ways AI Agents Already Operate in Your Browser</title>
+      <link>https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/</guid>
+      <description>[News] BleepingComputer: AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]</description>
+      <pubDate>Thu, 29 Oct 2026 14:00:10 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/</guid>
+      <description>[News] BleepingComputer: The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]</description>
+      <pubDate>Thu, 29 Oct 2026 13:59:48 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities</title>
+      <link>https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 29 Oct 2026 13:42:52 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts</title>
+      <link>https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/</guid>
+      <description>[News] SecurityWeek: BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 29 Oct 2026 13:26:49 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -126,14 +174,6 @@
       <description>[News] SecurityWeek: Cisco on Wednesday released fixes for an exploited vulnerability affecting its Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) software. Tracked as CVE-2026-76418 and assigned a CVSS score of 8.6, the bug resides in the Remote Access SSL VPN service. Attackers can exploit it remotely, without authenticating, to force the device […] The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .</description>
       <pubDate>Thu, 29 Oct 2026 09:47:10 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 09:02:31 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 24 Oct 2026 03:44:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 24 Oct 2026 02:43:27 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 24 Oct 2026 01:49:53 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 24 Oct 2026 01:01:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 23:40:50 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 23:40:50 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>

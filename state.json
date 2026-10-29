@@ -3981,7 +3981,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-29T09:02:31.869789+00:00",
+      "published": "2026-10-29T14:13:07.357273+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:7182ebffde2a9ee24f3d1fa4": {
@@ -4095,6 +4095,46 @@
       "category": "Cloud",
       "published": "2026-10-29T13:09:12.279615+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser": {
+      "title": "3 Ways AI Agents Already Operate in Your Browser",
+      "url": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-29T14:00:10+00:00",
+      "description": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional security tools may struggle to distinguish their activity from human users. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks": {
+      "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-29T13:59:48+00:00",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]"
+    },
+    "url:https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities": {
+      "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
+      "url": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-29T13:42:52+00:00",
+      "description": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts": {
+      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
+      "url": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-29T13:26:49+00:00",
+      "description": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek ."
+    },
+    "page:e88156201d3dcad1aee0a831": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T14:13:07.357273+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4103,8 +4143,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "a9804894ee7c393cbe8a68950e6397604070fb0510ee157176c95f1738f5b3eb",
-    "https://status.cloud.google.com/": "8173295664756dd9a72ad40ef837edd992af27ba7eb4e4be36d26619de22a1cd",
+    "https://azure.status.microsoft/en-us/status": "69eaa871483eca0553b4a22a6eac026f73137493c3d089aa91b72264f3c5eee5",
+    "https://status.cloud.google.com/": "bba331af814670e2b239761c3ec6ee320803fbeb43d4a76ac90d6ad83eb89b92",
     "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
