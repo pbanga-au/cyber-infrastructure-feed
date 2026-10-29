@@ -4359,6 +4359,22 @@
       "category": "Cloud",
       "published": "2026-10-29T20:54:50.955041+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced": {
+      "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+      "url": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-29T21:47:25+00:00",
+      "description": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]"
+    },
+    "page:057646827d17d38ca55aef19": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T21:53:04.439294+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4368,7 +4384,7 @@
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://azure.status.microsoft/en-us/status": "11941a1b2b6a6ec58ddf64af5c2fbcd909b24a2c0ba47e1a20402e045aa3e8a1",
-    "https://status.cloud.google.com/": "778f0d0f465d46832c564f39a95aef4c255ef797f6bc7ccf2ef39006c7900e2b",
+    "https://status.cloud.google.com/": "9b7dc59063205392ef36b5802d2b825d60c757bd241241e30055b2579cf9b963",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
