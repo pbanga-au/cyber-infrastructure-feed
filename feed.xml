@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 10:57:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 11:54:30 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 11:54:30 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 11:54:30 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>New Cisco firewall zero-day exploited to crash SSL VPN devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/</guid>
+      <description>[News] BleepingComputer: Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]</description>
+      <pubDate>Thu, 29 Oct 2026 11:10:13 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net</title>
+      <link>https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/</guid>
+      <description>[News] SecurityWeek: The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -181,14 +213,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 29 Oct 2026 02:04:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 01:09:05 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2382,30 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 23 Oct 2026 20:45:57 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 23 Oct 2026 19:43:27 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-115845 - Incomplete validation in the run_script Python sandbox in AWS MCP Server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-149-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-149-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-149-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/23/2026 12:00 PM PDT Description: AWS MCP Server is a managed server that gives AI agents access to AWS through the Model Context Protocol (MCP), including a run_script tool that runs Python scripts in a sandboxed environment. We identified CVE-2026-115845, an issue in the Python code validator of the run_script tool in AWS MCP Server. An incomplete list of disallowed inputs might allow an authenticated remote user to execute arbitrary code within their own isolated session environment via a crafted script. Impacted versions: N/A (managed service, exclusively hosted) Please refer to the art</description>
-      <pubDate>Fri, 23 Oct 2026 19:09:22 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Microsoft Teams to get AI-powered, context-aware phishing detection</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/</guid>
-      <description>[News] BleepingComputer: Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]</description>
-      <pubDate>Fri, 23 Oct 2026 18:54:41 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
