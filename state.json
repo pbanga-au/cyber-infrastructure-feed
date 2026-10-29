@@ -4085,7 +4085,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-29T13:09:12.279615+00:00",
+      "published": "2026-10-29T19:01:39.890268+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:14e021dec6ed4b7f05d39a84": {
@@ -4287,6 +4287,22 @@
       "category": "Cloud",
       "published": "2026-10-29T17:57:29.545632+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware": {
+      "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-29T18:38:26+00:00",
+      "description": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]"
+    },
+    "page:50a55e339b7985e3617d162f": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T19:01:39.890268+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4295,8 +4311,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "b1d04703c7431adeefadb788514ac5617dabf9f797f8e975010f6a420115f47b",
-    "https://status.cloud.google.com/": "9420113dc978a7e534301fff2f007a7f3075e0490e9faae0a24648dca14430a6",
+    "https://azure.status.microsoft/en-us/status": "a9804894ee7c393cbe8a68950e6397604070fb0510ee157176c95f1738f5b3eb",
+    "https://status.cloud.google.com/": "0b1df1ca22c388c06d6ae6d1de9ed30fc777b275171e5f88aa88c20aed60b409",
     "https://cloud.google.com/support/bulletins": "5d0e0f59cd5dc05c9e8dae069155fd7af6bf275d83e58b1d7c65d49ec8402ebf",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
