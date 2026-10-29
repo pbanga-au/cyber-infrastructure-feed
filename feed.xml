@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:04:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:57:40 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 02:57:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 29 Oct 2026 02:57:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/</guid>
       <description>[News] SecurityWeek: The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek .</description>
       <pubDate>Fri, 23 Oct 2026 10:31:16 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Attackers Exploit Third Arista VCO Zero-Day in Four Months</title>
-      <link>https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/</guid>
-      <description>[News] SecurityWeek: The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 23 Oct 2026 09:58:34 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>11 Million Impacted by Capcom Data Breach</title>
-      <link>https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/</guid>
-      <description>[News] SecurityWeek: The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 23 Oct 2026 08:34:14 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
