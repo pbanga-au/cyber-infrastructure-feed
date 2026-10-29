@@ -3413,7 +3413,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-28T17:00:05.278522+00:00",
+      "published": "2026-10-29T08:11:13.964884+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:74d59794fff64bac91bedf0a": {
@@ -3951,6 +3951,22 @@
       "category": "Cloud",
       "published": "2026-10-29T07:09:10.990402+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day": {
+      "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+      "url": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-29T08:01:05+00:00",
+      "description": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek ."
+    },
+    "page:218cd6e4bfb8d769b1c887da": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-29T08:11:13.964884+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -3959,8 +3975,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "4ab681faff8ec8258a4a1f251b694a0024aaa918f9f05084a733d47c81a099b7",
-    "https://status.cloud.google.com/": "aebfcf6213492f71a64f8521a269466ef7f0467fe67f47c04648d0c9f9599c6b",
+    "https://azure.status.microsoft/en-us/status": "400d4fda929cf4f7a7d2d586b918f49ab885c6437630321950122b791a8faa90",
+    "https://status.cloud.google.com/": "5b4b84a96c2d9fc5b44310ee05e4e027ec0aea7a0e01ea88f20c60a7dffabdf7",
     "https://cloud.google.com/support/bulletins": "6c11f167e790f4c9b067ede626e284bffcbf1d95ce5606a34fcb875735785b33",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "040b0513d9561c0e08c9b86df354bf9a9e519e508fcfe1f7a3ab54e7ac115650",
