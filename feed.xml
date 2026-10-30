@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:59:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 16:56:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 16:56:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 16:56:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-119116 and CVE-2026-119148 - Issues in AWS Nitro Enclaves SDK for C</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-157-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-157-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-157-AWS Publication Date: 10/30/2026 09:00 AM PDT Description: We identified CVE-2026-119116, a use-after-free in the SetClient command handler of the kmstool-enclave example application, where an application that executes on the parent EC2 instance could send crafted messages over vsock to corrupt heap memory inside the enclave and execute arbitrary code within it. Only enclave images that include kmstool-enclave, or code derived from it, are affected. We also identified CVE-2026-119148, an input validation issue in the SDK library where the AWS KMS server name is built from a caller-supplied region string. A third party could supply a crafted region to impersonate KMS to </description>
+      <pubDate>Fri, 30 Oct 2026 16:34:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
@@ -333,14 +357,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 30 Oct 2026 05:55:22 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 04:57:32 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 08:00:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 07:00:59 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 07:00:59 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
