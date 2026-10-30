@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 20:52:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:48:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 21:48:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 21:48:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Anthropic VS code extension on Cursor backdoored for nearly 12 hours</title>
+      <link>https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/</guid>
+      <description>[News] Ars Technica Security: It's still unknown how attackers got access to Anthropic's verified Cursor account.</description>
+      <pubDate>Fri, 30 Oct 2026 21:09:54 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Linux kernel flaw allows remote root attacks on MPTCP servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/</guid>
+      <description>[News] BleepingComputer: Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]</description>
+      <pubDate>Fri, 30 Oct 2026 21:09:46 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -501,14 +533,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 30 Oct 2026 01:11:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 23:48:10 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2382,30 +2406,6 @@
       <description>[Security] CISA Advisories: CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog and updated the PHP Alert, Critical Vulnerabilities in PHP Require Immediate Patching : CVE-2026-109618 – PHP Memory Corruption Vulnerability CVE-2026-109619 – PHP Stale Internal Request-State Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires </description>
       <pubDate>Mon, 26 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts</title>
-      <link>https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/</guid>
-      <description>[News] SecurityWeek: The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 26 Oct 2026 11:47:52 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 10:52:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 10:52:02 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
