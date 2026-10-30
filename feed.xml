@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 13:06:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 14:09:28 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 14:09:28 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 14:09:28 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone</title>
+      <link>https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/</guid>
+      <description>[News] BleepingComputer: Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]</description>
+      <pubDate>Fri, 30 Oct 2026 14:00:10 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Passkeys Are Better Than Passwords. But They Are Not Enough.</title>
+      <link>https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</guid>
+      <description>[News] SecurityWeek: For decades, passwords have been one of cybersecurity’s most persistent weaknesses. Users forget them, reuse them, share them, and surrender them to convincing phishing sites. Attackers steal credentials, automate credential stuffing, and increasingly use artificial intelligence to make social engineering more effective. What are passkeys? Passkeys promise to eliminate much of this problem. Built on […] The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
+      <link>https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/</guid>
+      <description>[News] Ars Technica Security: Binance scrambles to freeze billions after record-breaking hack linked to North Korea.</description>
+      <pubDate>Fri, 30 Oct 2026 13:46:39 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Bulletproof Host Virtualine Loses Its Domain to FBI Seizure</title>
+      <link>https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/</guid>
+      <description>[News] SecurityWeek: It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 30 Oct 2026 13:36:12 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2357,54 +2405,6 @@
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 01:55:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 01:55:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 01:07:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 01:07:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 25 Oct 2026 23:37:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 25 Oct 2026 23:37:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 25 Oct 2026 22:39:17 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>

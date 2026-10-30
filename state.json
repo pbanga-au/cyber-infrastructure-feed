@@ -4679,6 +4679,54 @@
       "category": "Cloud",
       "published": "2026-10-30T13:06:42.520958+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone": {
+      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+      "url": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-30T14:00:10+00:00",
+      "description": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit trust between networks and how its security-focused mobile service helps defend against them. [...]"
+    },
+    "url:https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough": {
+      "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+      "url": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-30T14:00:00+00:00",
+      "description": "For decades, passwords have been one of cybersecurity’s most persistent weaknesses. Users forget them, reuse them, share them, and surrender them to convincing phishing sites. Attackers steal credentials, automate credential stuffing, and increasingly use artificial intelligence to make social engineering more effective. What are passkeys? Passkeys promise to eliminate much of this problem. Built on […] The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure": {
+      "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
+      "url": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-30T13:36:12+00:00",
+      "description": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek ."
+    },
+    "url:https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist": {
+      "title": "Hackers steal $6.3 billion from Binance in record crypto heist",
+      "url": "https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-10-30T13:46:39+00:00",
+      "description": "Binance scrambles to freeze billions after record-breaking hack linked to North Korea."
+    },
+    "page:d7da7997ee4ab33daa737e2e": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-10-30T14:09:28.189351+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:926b6861120cffab4bb730df": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-30T14:09:28.189351+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4687,8 +4735,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "9560c3d73d62bdee4431091a6d962f9f7ff2c1c2d96e2008dbd6134e1f9ccff4",
-    "https://status.cloud.google.com/": "389648a232122b9697138d38da2c98af25fb232d3f93aa4824204048ee77c19f",
+    "https://azure.status.microsoft/en-us/status": "e1df69f86c7bef7e24308d394ed254d5d8a63495f1a45ea5d9dfee845dfcc0df",
+    "https://status.cloud.google.com/": "3e7f4ba47fbbf3588206eae386b56fb4fa0bd432be9794989f15eb4c26510a54",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
