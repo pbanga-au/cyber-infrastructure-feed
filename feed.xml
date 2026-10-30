@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Oct 2026 17:51:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 18:56:40 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 18:56:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 30 Oct 2026 18:56:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-119117 - Insertion of sensitive information into a log file and process argument list in the Amazon Kinesis Producer Library for Java</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-159-AWS Publication Date: 10/30/2026 11:00 AM PDT Description: We published CVE-2026-119117. Insertion of sensitive information into a log file in Amazon Kinesis Producer Library for Java before 1.0.8, when the library's logger is configured at DEBUG log level, might allow local users to obtain the AWS credentials that the library resolved for the application. Separately, affected versions of the library pass these credentials to the native child process as command-line arguments, where a local user can read them from the process argument list. Impacted versions: - com.amazonaws:amazon-kinesis-producer &lt;= 0.15.12 - oftware.amazon.kinesis:amazon-kinesis-producer &lt; 1.0.8 Plea</description>
+      <pubDate>Fri, 30 Oct 2026 18:18:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -192,12 +216,12 @@
       <category>News</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 11:52:39 +0000</pubDate>
-      <category>Cloud</category>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importan</description>
+      <pubDate>Fri, 30 Oct 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/</guid>
       <description>[News] SecurityWeek: An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages appeared first on SecurityWeek .</description>
       <pubDate>Mon, 26 Oct 2026 10:21:57 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 09:55:59 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>PHP2Shell security flaws now sucessfully exploited in the wild</title>
-      <link>https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/</guid>
-      <description>[News] BleepingComputer: Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]</description>
-      <pubDate>Mon, 26 Oct 2026 09:19:57 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Mythos 5 Ignored Real-World Harm in July Attack</title>
-      <link>https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/</guid>
-      <description>[News] SecurityWeek: The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 26 Oct 2026 09:10:03 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>

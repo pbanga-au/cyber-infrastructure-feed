@@ -3189,7 +3189,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-30T11:52:39.337547+00:00",
+      "published": "2026-10-30T18:56:40.578965+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:21a1242d384aaf54d5d83963": {
@@ -4815,6 +4815,30 @@
       "category": "Cloud",
       "published": "2026-10-30T17:51:34.218492+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog": {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/10/30/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-10-30T12:00:00+00:00",
+      "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-118527 Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importan"
+    },
+    "cve:CVE-2026-119117": {
+      "title": "CVE-2026-119117 - Insertion of sensitive information into a log file and process argument list in the Amazon Kinesis Producer Library for Java",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-159-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-30T18:18:40+00:00",
+      "description": "Bulletin ID: 2026-159-AWS Publication Date: 10/30/2026 11:00 AM PDT Description: We published CVE-2026-119117. Insertion of sensitive information into a log file in Amazon Kinesis Producer Library for Java before 1.0.8, when the library's logger is configured at DEBUG log level, might allow local users to obtain the AWS credentials that the library resolved for the application. Separately, affected versions of the library pass these credentials to the native child process as command-line arguments, where a local user can read them from the process argument list. Impacted versions: - com.amazonaws:amazon-kinesis-producer <= 0.15.12 - oftware.amazon.kinesis:amazon-kinesis-producer < 1.0.8 Plea"
+    },
+    "page:369da607dde83f71fd46843a": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-30T18:56:40.578965+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4823,8 +4847,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "ffff63be8d905d3ff59e988b779ef22160a59a03e17638004658c576a6bc53e0",
-    "https://status.cloud.google.com/": "a32a17ace751d9c2ca32c692a45a27f9d2fb409230a38bb2ac8aa17291a8fb0e",
+    "https://azure.status.microsoft/en-us/status": "32cc22e0d70b6b12406a72637c355266eb20f4d937d66d1673e2a971d2a5cc84",
+    "https://status.cloud.google.com/": "0d10e4686f30c5fbf0ab036bba27d621a2037f9cb5efa6df8df74c0b5539b71d",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
