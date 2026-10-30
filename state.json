@@ -3885,7 +3885,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-29T09:59:44.735643+00:00",
+      "published": "2026-10-30T10:00:00.911903+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:066f5116ffd835aded5f2cbf": {
@@ -4559,6 +4559,38 @@
       "category": "Cloud",
       "published": "2026-10-30T09:02:56.896416+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop": {
+      "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-10-30T09:18:13+00:00",
+      "description": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]"
+    },
+    "url:https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack": {
+      "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+      "url": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-30T09:41:36+00:00",
+      "description": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux": {
+      "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+      "url": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-10-30T09:32:27+00:00",
+      "description": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek ."
+    },
+    "page:a6bcf547965c550570040b89": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-30T10:00:00.911903+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4567,8 +4599,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "940a8eb9787bc169b4a3bb3474f8a5113cc6f2623ae9ed6af5e76233c6f50599",
-    "https://status.cloud.google.com/": "ea44bfafccde5d58f98888f89dd3c42eb548dcf33cf28ed4e733ba3af43be8ac",
+    "https://azure.status.microsoft/en-us/status": "35e37adf8fa2f5d0a5e690683c696caf74536e4b46354a88fa41a7522418bb14",
+    "https://status.cloud.google.com/": "ee40553cf69ed3347e0c66030a189a5eb8f073ec285f32d42f1e75b0901b53bc",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "b44e4cb9efda203d3c006176eb94e9a1ac7ce08f39932e472b6b9d24d62f687d",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
