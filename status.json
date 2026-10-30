@@ -1,15 +1,17 @@
 {
-  "last_run_utc": "2026-10-29T23:48:10.563444+00:00",
-  "sources_successful": 22,
+  "last_run_utc": "2026-10-30T01:11:45.527722+00:00",
+  "sources_successful": 20,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
     "ACSC Advisories: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww",
     "Arista Security: No RSS/Atom entries returned",
     "ZPE PSIRT: Page content unavailable or too short",
     "HPE Security Bulletins: HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne",
+    "GoDaddy Certificate Advisories: 403 Client Error: Forbidden for url: https://www.godaddy.com/en-ca/help/what-is-the-cpcps-certificate-profile-bug-43095",
     "HPE Aruba Security Bulletins: Page content unavailable or too short",
     "Microsoft Security Response Center: Page content unavailable or too short",
-    "AWS Health Status: Page content unavailable or too short"
+    "AWS Health Status: Page content unavailable or too short",
+    "GoDaddy Help: 403 Client Error: Forbidden for url: https://www.godaddy.com/en-ca/help/ssl-certificates-1000006"
   ],
   "items_published": 300,
   "source_results": [
@@ -126,9 +128,8 @@
     {
       "source": "GoDaddy Certificate Advisories",
       "mode": "page-change",
-      "status": "ok",
-      "changed": false,
-      "note": "Page monitoring only; no individual advisories extracted"
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://www.godaddy.com/en-ca/help/what-is-the-cpcps-certificate-profile-bug-43095"
     },
     {
       "source": "Mozilla CA Incidents",
@@ -200,9 +201,8 @@
     {
       "source": "GoDaddy Help",
       "mode": "page-change",
-      "status": "ok",
-      "changed": false,
-      "note": "Page monitoring only; no individual advisories extracted"
+      "status": "failed",
+      "error": "403 Client Error: Forbidden for url: https://www.godaddy.com/en-ca/help/ssl-certificates-1000006"
     }
   ],
   "feed_sources": 14,
