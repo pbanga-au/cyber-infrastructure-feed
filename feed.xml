@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 10:46:38 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 11:46:11 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 31 Oct 2026 11:46:11 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 31 Oct 2026 11:46:11 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Syrian Hacker Gets Prison Time in US After Over a Decade on the Run</title>
+      <link>https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/</guid>
+      <description>[News] SecurityWeek: A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on SecurityWeek .</description>
+      <pubDate>Sat, 31 Oct 2026 11:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1062,14 +1086,6 @@
       <description>[Security] CISA Advisories: CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-111357 Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability CVE-2026-97229 GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the i</description>
       <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 11:54:30 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 16:59:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 26 Oct 2026 16:59:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-115418 - SQL injection in the database-query custom resource handlers in Amazon Web Services (AWS)</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-151-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-151-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/26/2026 09:30 AM PDT Description: The AWS Cloud Development Kit (CDK) @aws-cdk/aws-redshift-alpha module provides experimental constructs that manage Amazon Redshift users, tables and privileges. We identified CVE-2026-115418, an issue where crafted user names, comments or passwords set in these constructs could change the SQL that runs with Amazon Redshift superuser privileges at deployment, including granting access to all cluster users. Exploiting the issue requires the ability to influence the CDK application's construct property values. Impacted versions: &lt;2.274.0-alpha.0 Please refer </description>
-      <pubDate>Mon, 26 Oct 2026 16:50:46 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
