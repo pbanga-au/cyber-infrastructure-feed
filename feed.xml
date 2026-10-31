@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 04:54:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:51:35 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 31 Oct 2026 05:51:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 31 Oct 2026 05:51:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-160-AWS Publication Date: 10/30/2026 22:15 PM PDT Description: AWS is aware of CVE-2026-98432, a memory issue in the Linux kernel IPv4 TCP handshake path affecting kernel versions 4.4 and later that could result in remote code execution. Updated kernel packages are available for Amazon Linux 2 and Amazon Linux 2023, and we recommend customers running self-managed Linux instances update and reboot. AWS is applying updates to managed services and no customer action is required for those services. For full details and per-service guidance, see the complete bulletin at https://aws.amazon.com/security/security-bulletins/2026-160-aws/ Please refer to the article below for the mos</description>
+      <pubDate>Sat, 31 Oct 2026 05:21:05 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1696,14 +1720,6 @@
       <category>News</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 21:45:50 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2390,22 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 26 Oct 2026 15:14:44 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Industrial Vendors Check Products for PHP2Shell Vulnerabilities</title>
-      <link>https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/</guid>
-      <description>[News] SecurityWeek: Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 26 Oct 2026 14:52:14 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Genesys Hack Exposes Customer Data From Internal Systems</title>
-      <link>https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/</guid>
-      <description>[News] SecurityWeek: The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 26 Oct 2026 14:40:48 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>

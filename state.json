@@ -3285,7 +3285,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-27T21:45:50.282224+00:00",
+      "published": "2026-10-31T05:51:35.790294+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:6a0819995630523266f4fd5e": {
@@ -4943,6 +4943,22 @@
       "category": "Cloud",
       "published": "2026-10-31T04:54:08.845132+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-98432": {
+      "title": "CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-10-31T05:21:05+00:00",
+      "description": "Bulletin ID: 2026-160-AWS Publication Date: 10/30/2026 22:15 PM PDT Description: AWS is aware of CVE-2026-98432, a memory issue in the Linux kernel IPv4 TCP handshake path affecting kernel versions 4.4 and later that could result in remote code execution. Updated kernel packages are available for Amazon Linux 2 and Amazon Linux 2023, and we recommend customers running self-managed Linux instances update and reboot. AWS is applying updates to managed services and no customer action is required for those services. For full details and per-service guidance, see the complete bulletin at https://aws.amazon.com/security/security-bulletins/2026-160-aws/ Please refer to the article below for the mos"
+    },
+    "page:b5d8e25d59eb77e3c31c92cd": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-10-31T05:51:35.790294+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -4951,8 +4967,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "e44963055c9a208c1554f248a0a6184a642717ec57cbfe38d3fc11e011251f7f",
-    "https://status.cloud.google.com/": "15a6e8ff3391938a82de0c2ee813b0ba7d9e3c5fd78b939c51c9cb85064281a6",
+    "https://azure.status.microsoft/en-us/status": "310a870fc3ef27a3e674440f1b99ae97ab8692db1aa4ce0d0c39daa7b9349a22",
+    "https://status.cloud.google.com/": "05f9997087ebf1fef18714ac62cd025a63e55eed3bee5bd3adacf958d3b7b752",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
