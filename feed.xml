@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 02:04:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 02:56:23 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 31 Oct 2026 02:56:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 31 Oct 2026 02:56:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/</guid>
       <description>[News] BleepingComputer: A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]</description>
       <pubDate>Mon, 26 Oct 2026 14:00:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Chinese man extradited for role in $36 million cryptocurrency scam</title>
-      <link>https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/</guid>
-      <description>[News] BleepingComputer: A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]</description>
-      <pubDate>Mon, 26 Oct 2026 13:56:44 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>PHP2Shell Exploitation Moves From Probes to Working Shells</title>
-      <link>https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/</guid>
-      <description>[News] SecurityWeek: Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 26 Oct 2026 13:30:10 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
