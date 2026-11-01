@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 14:48:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 15:45:14 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 01 Nov 2026 15:45:14 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 01 Nov 2026 15:45:14 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Alpine Linux rebuilds GitLab after attempted RCE attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/</guid>
+      <description>[News] BleepingComputer: Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise. [...]</description>
+      <pubDate>Sun, 01 Nov 2026 15:11:21 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 27 Oct 2026 09:51:27 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover</title>
-      <link>https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/dead-popcorn-time-updater-put-millions-of-computers-at-risk-of-takeover/</guid>
-      <description>[News] SecurityWeek: Running at system boot, it periodically polled the update domain to execute any code served, with full privileges. The post Dead Popcorn Time Updater Put Millions of Computers at Risk of Takeover appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 27 Oct 2026 09:44:50 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Energy giant ENGIE discloses data breach affecting customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/</guid>
-      <description>[News] BleepingComputer: French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]</description>
-      <pubDate>Tue, 27 Oct 2026 09:25:50 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 08:53:31 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
