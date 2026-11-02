@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 11:09:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 12:02:13 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 12:02:13 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 12:02:13 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Malicious Claude Code Extension Served in Cursor Supply Chain Attack</title>
+      <link>https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/</guid>
+      <description>[News] SecurityWeek: The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 02 Nov 2026 11:29:39 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Synology warns of C3RB3R ransomware attacks targeting NAS devices</title>
+      <link>https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/synology-warns-customers-of-ongoing-c3rb3r-ransomware-attacks/</guid>
+      <description>[News] BleepingComputer: Taiwanese network-attached storage (NAS) appliance maker Synology warned customers to update their devices immediately due to a surge in C3RB3r ransomware attacks. [...]</description>
+      <pubDate>Mon, 02 Nov 2026 11:28:42 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -765,14 +797,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 31 Oct 2026 07:03:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 05:51:35 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2382,30 +2406,6 @@
       <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 27 Oct 2026 16:57:04 +0000</pubDate>
       <category>PKI</category>
-    </item>
-    <item>
-      <title>Warp discloses breach exposing AI agent logs, user telemetry data</title>
-      <link>https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/</guid>
-      <description>[News] BleepingComputer: Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]</description>
-      <pubDate>Tue, 27 Oct 2026 16:15:39 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 15:56:21 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws</title>
-      <link>https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/</guid>
-      <description>[News] SecurityWeek: Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 27 Oct 2026 15:26:12 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
