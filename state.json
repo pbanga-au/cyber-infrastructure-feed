@@ -3533,7 +3533,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-28T10:55:55.873772+00:00",
+      "published": "2026-11-02T15:03:58.163753+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:92812a0c3e9807ae88fe6007": {
@@ -5583,6 +5583,70 @@
       "category": "Cloud",
       "published": "2026-11-02T13:21:12.228528+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances": {
+      "title": "BTCPay Server warns of hot wallet thefts targeting outdated instances",
+      "url": "https://www.bleepingcomputer.com/news/security/btcpay-server-warns-of-hot-wallet-thefts-targeting-outdated-instances/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-02T15:03:07+00:00",
+      "description": "The maintainer of BTCPay Server, an open-source cryptocurrency payment processor, has urged users to install the latest version as hackers have been draining \"hot wallets\" on instances running older versions. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years": {
+      "title": "Your Mobile Carrier Stores Your Call Logs for Years",
+      "url": "https://www.bleepingcomputer.com/news/security/your-mobile-carrier-stores-your-call-logs-for-years/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-02T15:01:11+00:00",
+      "description": "Mobile carriers can retain years of call and text metadata, exposing sensitive details about customers' relationships, locations, and daily routines if breached. Cape examines the privacy risks of long-term telecom data retention and how its mobile service reduces exposure by automatically deleting call records. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets": {
+      "title": "Hackers disrupt refrigeration systems at European supermarkets",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-02T14:28:39+00:00",
+      "description": "A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update": {
+      "title": "Microsoft fixes Smart App Control broken by October Windows update",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-02T13:57:29+00:00",
+      "description": "Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]"
+    },
+    "url:https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk": {
+      "title": "Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk",
+      "url": "https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-02T14:44:18+00:00",
+      "description": "The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people": {
+      "title": "Revolve Data Breach Impacts at Least 180,000 People",
+      "url": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-02T13:35:21+00:00",
+      "description": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward": {
+      "title": "Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward",
+      "url": "https://www.securityweek.com/google-introduces-250000-root-in-cloud-bug-bounty-reward/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-02T13:25:11+00:00",
+      "description": "The top payout is for high-impact architectural research demonstrating full administrative control. The post Google Introduces $250,000 Root-in-Cloud Bug Bounty Reward appeared first on SecurityWeek ."
+    },
+    "page:b45addde4c5a9243ada05605": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-02T15:03:58.163753+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -5591,8 +5655,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "05a24f8d7389d110a18d65e9c817502abfdc22b44d779445c4dc97b693eaf496",
-    "https://status.cloud.google.com/": "fedbc874dc36bbe462e10a69954c5870a5b78800ea96643c88044594c22bb8f2",
+    "https://azure.status.microsoft/en-us/status": "9d10644cdc6bf2b14acc23784907807a61b18a27b79312ffd4e9af89e25c5f41",
+    "https://status.cloud.google.com/": "c42f08bd97e70a087d5b462bcaf8a8083f17f1a0899e25566efd413842af783e",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
