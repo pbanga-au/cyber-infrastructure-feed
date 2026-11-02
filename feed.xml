@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:11:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 17:13:41 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 17:13:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 17:13:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-119301 - Improper neutralization of quoting syntax in Apache Iceberg SQL identifier generation in AWS SDK for pandas</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-161-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-161-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-161-AWS Publication Date: 11/02/2026 08:30 AM PST Description: We are aware of CVE-2026-119301 in the Apache Iceberg write component, where improper neutralization of quoting syntax in SQL identifier construction could allow an authenticated user with permission to modify AWS Glue Data Catalog metadata to read any table that a separate, more privileged principal can access and write to the table that principal is updating via a crafted column name. Impacted versions: awswrangler &gt;= 3.5.2, &lt; 3.17.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article</description>
+      <pubDate>Mon, 02 Nov 2026 16:40:57 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,30 +2406,6 @@
       <description>[Network] Juniper Security: </description>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 23:42:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Japan's GMO urges customers to shut down PCs amid ransomware threat</title>
-      <link>https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/</guid>
-      <description>[News] BleepingComputer: The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]</description>
-      <pubDate>Tue, 27 Oct 2026 23:35:51 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 22:46:28 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
