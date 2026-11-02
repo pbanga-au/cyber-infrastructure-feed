@@ -3637,7 +3637,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-01T20:47:00.296521+00:00",
+      "published": "2026-11-02T18:06:01.957167+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:50133c10d47eab8edbfc4300": {
@@ -5687,6 +5687,22 @@
       "category": "Cloud",
       "published": "2026-11-02T17:13:41.064176+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-119085": {
+      "title": "CVE-2026-119085 - Template injection in the publishing component of Virtual Engineering Workbench",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-162-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-02T17:41:34+00:00",
+      "description": "Bulletin ID: 2026-162-AWS Publication Date: 11/02/2026 09:30 AM PST Description: Virtual Engineering Workbench (VEW) is an open-source platform where platform engineers define and publish development environments, and developers provision them on demand through a web portal. We identified CVE-2026-119085, where improper neutralization of special elements used in a template engine in the publishing component of Amazon Virtual Engineering Workbench (VEW) could allow a remote authenticated third party to run arbitrary code with the permissions of the publishing Lambda's IAM role. Impacted versions: All commits before c146486 (PR #31, merged 2026-05-04) Please refer to the article below for the "
+    },
+    "page:91389b42eda905d0a5e57d8e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-02T18:06:01.957167+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -5695,8 +5711,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "8f864fe035d95bf83a4f93c7482e7f41fdb60c3fb2484606c1482ddbcb62931b",
-    "https://status.cloud.google.com/": "f67a550ce662740203e360f83953b93815730fc10f04126d3ef7b99cd1909afa",
+    "https://azure.status.microsoft/en-us/status": "42a45e885d48e63fc1d3e72680d0957d1f7df051c90cf2177ced675affa57660",
+    "https://status.cloud.google.com/": "bebe629bd88587bfe7ad213b627819d11ea71f544f0ec4ffba09c057b79f0464",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
