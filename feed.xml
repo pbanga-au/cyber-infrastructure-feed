@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 09:17:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 11:09:23 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 11:09:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 11:09:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Chainalysis Discloses Data Breach Following AI-Driven Cyberattack</title>
+      <link>https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/chainalysis-discloses-data-breach-following-ai-driven-cyberattack/</guid>
+      <description>[News] SecurityWeek: The attackers used offensive agentic techniques to access the company’s systems and internal tools. The post Chainalysis Discloses Data Breach Following AI-Driven Cyberattack appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 02 Nov 2026 10:27:49 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Ivanti patches two more Connect Secure zero-days chained in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/</guid>
+      <description>[News] BleepingComputer: Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]</description>
+      <pubDate>Mon, 02 Nov 2026 09:33:26 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack</title>
+      <link>https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/polymarket-returns-3-9-million-to-traders-as-debugbear-cites-dns-hijack/</guid>
+      <description>[News] SecurityWeek: DebugBear says its DNS records were compromised via its domain registrar, and early findings show a single customer was targeted. The post Polymarket Returns $3.9 Million to Traders as DebugBear Cites DNS Hijack appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 02 Nov 2026 09:33:15 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2366,46 +2406,6 @@
       <description>[News] SecurityWeek: Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on SecurityWeek .</description>
       <pubDate>Tue, 27 Oct 2026 15:26:12 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 14:58:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 14:58:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Tailscale warns of SSH flaws allowing root privilege escalation</title>
-      <link>https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/</guid>
-      <description>[News] BleepingComputer: The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]</description>
-      <pubDate>Tue, 27 Oct 2026 14:09:46 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest</title>
-      <link>https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/</guid>
-      <description>[News] BleepingComputer: Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which attack techniques deserve immediate attention and which remain emerging risks. [...]</description>
-      <pubDate>Tue, 27 Oct 2026 14:01:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 14:00:19 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
