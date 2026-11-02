@@ -3925,7 +3925,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-31T13:53:01.864680+00:00",
+      "published": "2026-11-02T09:17:35.619387+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:4d5a8f8191ce12f35969db44": {
@@ -5471,6 +5471,30 @@
       "category": "Cloud",
       "published": "2026-11-02T07:40:40.787594+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist": {
+      "title": "FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist",
+      "url": "https://www.securityweek.com/fbi-flags-over-600-addresses-tied-to-north-koreas-binance-heist/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-02T08:40:36+00:00",
+      "description": "The FBI has officially pinned the $6 billion Binance hack on North Korea’s TraderTraitor as the attackers launder the stolen crypto. The post FBI Flags Over 600 Addresses Tied to North Korea’s Binance Heist appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain": {
+      "title": "Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain",
+      "url": "https://www.securityweek.com/ivanti-patches-two-more-zero-days-exploited-in-connect-secure-attack-chain/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-02T07:57:49+00:00",
+      "description": "CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek ."
+    },
+    "page:4ed36143ab57ea13b11ae275": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-02T09:17:35.619387+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -5479,8 +5503,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "5a92349f8930e6f7f577a01566eb5e616999631993b0272833ca394d58b765b9",
-    "https://status.cloud.google.com/": "fb61794e040b5ff7aa012ae8f65c78a496062414852567ffb6ac14b982228d72",
+    "https://azure.status.microsoft/en-us/status": "e44963055c9a208c1554f248a0a6184a642717ec57cbfe38d3fc11e011251f7f",
+    "https://status.cloud.google.com/": "3b1f248a6e82c3df7cf1e623fc7786b05da662dc1fbc7bb2979b3114f7a016b4",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
