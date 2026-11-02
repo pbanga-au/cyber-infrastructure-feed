@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Nov 2026 12:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 13:21:12 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 13:21:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 02 Nov 2026 13:21:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Over 1,000 GitLab servers vulnerable to ongoing RCE attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/over-1-000-gitlab-servers-vulnerable-to-code-execution-attacks/</guid>
+      <description>[News] BleepingComputer: Over 1,000 Internet-exposed GitLab servers are still unpatched against a maximum-severity flaw actively exploited in remote code execution attacks. [...]</description>
+      <pubDate>Mon, 02 Nov 2026 12:47:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,30 +2406,6 @@
       <description>[Cloud] AWS Security: Bulletin ID: 2026-152-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/27/2026 11:00 AM PDT Description: The AWS API MCP Server is an open source Model Context Protocol (MCP) server that enables AI assistants to interact with AWS services and resources through AWS CLI commands. It can be configured to serve the streamable-http transport with OAuth authentication, validating a bearer token against an identity provider nominated by the operator. We identified CVE-2026-115413 in versions &gt;=1.3.0 and &lt;1.6.0, the server validates a token's signature, issuer and expiry, but not the claim identifying the application the token was issued for. Impacted versions: &gt;=1.3.</description>
       <pubDate>Tue, 27 Oct 2026 18:14:19 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 17:54:04 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 16:57:04 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Sectigo Knowledge Base — official page changed (review required)</title>
-      <link>https://www.sectigo.com/knowledge-base</link>
-      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
-      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 27 Oct 2026 16:57:04 +0000</pubDate>
-      <category>PKI</category>
     </item>
   </channel>
 </rss>
