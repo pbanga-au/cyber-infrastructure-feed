@@ -3741,7 +3741,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-28T17:55:18.491250+00:00",
+      "published": "2026-11-02T21:52:12.931845+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:3745e2aa6ca5d87b272c5bf1": {
@@ -5759,6 +5759,30 @@
       "category": "Cloud",
       "published": "2026-11-02T20:53:44.738499+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-116635": {
+      "title": "CVE-2026-116635 - Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-02T21:43:24+00:00",
+      "description": "Bulletin ID: 2026-164-AWS Publication Date: 11/02/2026 13:30 PM PST Description: We identified CVE-2026-116635. Under certain conditions, improper limitation of a pathname to a restricted directory in the deployment status component of the MCP server might allow an actor who can influence the MCP agent to read the contents of JSON files outside the intended deployment status directory. Where write access has been enabled, to create or overwrite JSON files outside that directory. Impacted versions: < v0.2.1 of awslabs.aws-serverless-mcp-server Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs": {
+      "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
+      "url": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-02T21:40:14+00:00",
+      "description": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]"
+    },
+    "page:1d7189fb250de7aa762ac57d": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-02T21:52:12.931845+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -5767,8 +5791,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "1f7363588cf4cb213d777546d49a08f22e9a70abc94aa132e236747f5479afd6",
-    "https://status.cloud.google.com/": "55eb7769f73fa8da12c8ea9492a595ce2b2de7baa58c10aea9b7b0e3670b4561",
+    "https://azure.status.microsoft/en-us/status": "ca8670155a4164827f7494a632e27ecf799067ea945f1a70a6b538daaa77917d",
+    "https://status.cloud.google.com/": "8476240c1872bb2b151a9bc72b56f2f757061edad9f6fef669e0992b970dcdd1",
     "https://cloud.google.com/support/bulletins": "6a9ad822440b2f936dad07c46ee57b8caacb2101eb86034a5d80de9d02f4e667",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
