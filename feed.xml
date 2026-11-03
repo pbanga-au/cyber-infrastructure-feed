@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:03:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:56:48 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
@@ -22,6 +22,22 @@
       <description>[Security] UK NCSC: An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 11:56:48 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 11:56:48 +0000</pubDate>
+      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -1680,14 +1696,6 @@
       <category>News</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 08:11:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2398,14 +2406,6 @@
       <description>[Cloud] AWS Security: Bulletin ID: 2026-153-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/28/2026 08:30 AM PDT Description: AWS SDK for pandas (awswrangler) is an open-source Python library that integrates pandas with AWS data services such as Amazon Athena, Amazon S3, and AWS Glue. We identified CVE-2026-118029 in the Athena module, where unverified ownership of the default query result location could allow a remote user to read Athena query results and tamper with result sets returned to the caller via a pre-created S3 bucket. Impacted versions: awswrangler &lt; 3.16.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security </description>
       <pubDate>Wed, 28 Oct 2026 15:40:38 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison</title>
-      <link>https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</guid>
-      <description>[News] SecurityWeek: Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
