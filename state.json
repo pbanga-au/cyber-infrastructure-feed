@@ -4709,7 +4709,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-31T16:46:41.278932+00:00",
+      "published": "2026-11-03T14:26:38.607984+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:926b6861120cffab4bb730df": {
@@ -5999,6 +5999,38 @@
       "category": "Cloud",
       "published": "2026-11-03T13:15:29.213846+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack": {
+      "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+      "url": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-03T14:00:00+00:00",
+      "description": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown": {
+      "title": "Police seizes over 100 servers in investment scam crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-03T13:33:49+00:00",
+      "description": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]"
+    },
+    "url:https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode": {
+      "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
+      "url": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-03T14:12:44+00:00",
+      "description": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first on SecurityWeek ."
+    },
+    "page:0b42b8d759a7ba0a64000d95": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-03T14:26:38.607984+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6007,8 +6039,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "bda2569fffc2a304f9760b6324bc70292f29aff3957a3aba7d7d5e5fdb0bc9b7",
-    "https://status.cloud.google.com/": "ca7e77c9c9ddcbf379a321aa2509e009189dc3d7d5d211b662065e066bf1e250",
+    "https://azure.status.microsoft/en-us/status": "e1df69f86c7bef7e24308d394ed254d5d8a63495f1a45ea5d9dfee845dfcc0df",
+    "https://status.cloud.google.com/": "fd5d652e6475080b981004c6824106935a1f7f2c0dac2779dd802f958fbb3ff2",
     "https://cloud.google.com/support/bulletins": "8603d361f3d48cdf3d06b5aa4e3ac55940e4c4721a67412b25a051b3c623e829",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

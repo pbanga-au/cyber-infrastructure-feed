@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 13:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:26:38 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 14:26:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 14:26:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode</title>
+      <link>https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/</guid>
+      <description>[News] SecurityWeek: The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 14:12:44 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>UK school estate hit by 3AM ransomware in suspected AI-assisted attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/</guid>
+      <description>[News] BleepingComputer: A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]</description>
+      <pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Police seizes over 100 servers in investment scam crackdown</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/</guid>
+      <description>[News] BleepingComputer: European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]</description>
+      <pubDate>Tue, 03 Nov 2026 13:33:49 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1165,14 +1205,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 31 Oct 2026 17:42:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 16:46:41 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2374,38 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 28 Oct 2026 18:59:46 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Discord to let search engines index public server messages</title>
-      <link>https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/</guid>
-      <description>[News] BleepingComputer: Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]</description>
-      <pubDate>Wed, 28 Oct 2026 18:44:16 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 17:55:18 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 17:00:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Sony ISP subsidiary data breach exposes 2.5 million customer records</title>
-      <link>https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/</guid>
-      <description>[News] BleepingComputer: Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]</description>
-      <pubDate>Wed, 28 Oct 2026 16:45:47 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
