@@ -3917,7 +3917,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-02T09:17:35.619387+00:00",
+      "published": "2026-11-03T20:00:10.060470+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:4d5a8f8191ce12f35969db44": {
@@ -6135,6 +6135,22 @@
       "category": "Cloud",
       "published": "2026-11-03T19:04:39.607842+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-121652": {
+      "title": "CVE-2026-121652 - Stored cross-site scripting (XSS) in AWS Amplify maplibre-gl-js-amplify popup rendering",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-167-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:54:53+00:00",
+      "description": "Bulletin ID: 2026-167-AWS Publication Date: 11/03/2026 10:30 AM PST Description: maplibre-gl-js-amplify is an open-source AWS Amplify library that integrates Amazon Location Service with MapLibre GL JS to render maps, markers, popups, and geofencing controls in web applications. We identified CVE-2026-121652, where a stored cross-site scripting (XSS) issue in the library's popup and geofence-control rendering. Impacted versions: <= 4.0.2 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article"
+    },
+    "page:e150c2422a12c1ca4345e6e3": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-03T20:00:10.060470+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6143,8 +6159,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "78c5a65ac5c71da000f4a82cfb9471acce5ed061d9bda4a20800ffa234b034f8",
-    "https://status.cloud.google.com/": "2ae2ad2cfe66bfd0409968502ecfeed818db81f5535c3ddae2623c564ecda6b7",
+    "https://azure.status.microsoft/en-us/status": "e44963055c9a208c1554f248a0a6184a642717ec57cbfe38d3fc11e011251f7f",
+    "https://status.cloud.google.com/": "c02e36cfd4403ce1f88a808811e3f872ae6887643d4231b727b5152e5add65ff",
     "https://cloud.google.com/support/bulletins": "8603d361f3d48cdf3d06b5aa4e3ac55940e4c4721a67412b25a051b3c623e829",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

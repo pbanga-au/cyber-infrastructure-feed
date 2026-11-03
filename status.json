@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-03T19:04:39.607842+00:00",
+  "last_run_utc": "2026-11-03T20:00:10.060470+00:00",
   "sources_successful": 22,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
@@ -65,7 +65,7 @@
       "source": "AWS Security",
       "mode": "rss",
       "status": "ok",
-      "entries_available": 39
+      "entries_available": 41
     },
     {
       "source": "BleepingComputer",
