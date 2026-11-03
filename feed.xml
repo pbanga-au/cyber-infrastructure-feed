@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 07:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 09:01:35 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
@@ -22,6 +22,38 @@
       <description>[Security] UK NCSC: An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 09:01:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 09:01:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training</title>
+      <link>https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/</guid>
+      <description>[News] SecurityWeek: The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 08:49:03 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Over 100 European Stores Hit as Supermarket Fridge Attacks Return</title>
+      <link>https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/</guid>
+      <description>[News] SecurityWeek: Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 07:43:24 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -245,14 +277,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-163-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-163-AWS Publication Date: 11/02/2026 11:00 AM PST Description: aidlc-traceability is an open source command-line tool, formerly published in the awslabs/aidlc-workflows repository, that generates traceability-matrix reports from a project's AI-DLC artifact files. We identified CVE-2026-120497, where stored cross-site scripting (XSS) in the HTML report generator in the aidlc-traceability CLI could allow an actor who can modify a project's AI-DLC artifact files to execute arbitrary script in the browser of a user who opens a generated HTML traceability report via crafted artifact titles or descriptions. Impacted versions: &gt;=0.1.0 AND &lt;commit 96cf0ea (fixed 2026-07-03) Please </description>
       <pubDate>Mon, 02 Nov 2026 19:19:50 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 02 Nov 2026 19:06:49 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</guid>
       <description>[News] SecurityWeek: The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek .</description>
       <pubDate>Wed, 28 Oct 2026 13:56:50 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Even after PHP2Shell, blast radius matters more than a CVSS score</title>
-      <link>https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/</guid>
-      <description>[News] BleepingComputer: PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vulnerabilities to reduce the damage from a breach. [...]</description>
-      <pubDate>Wed, 28 Oct 2026 13:50:59 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Chrome and Firefox Updates Patch Over 200 Vulnerabilities</title>
-      <link>https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/</guid>
-      <description>[News] SecurityWeek: The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 28 Oct 2026 13:39:35 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices</title>
-      <link>https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/</guid>
-      <description>[News] SecurityWeek: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 28 Oct 2026 13:10:34 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
