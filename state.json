@@ -3381,7 +3381,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-30T05:55:22.957907+00:00",
+      "published": "2026-11-03T21:55:27.730826+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:6e5d06e6cf5dbe0f65cf3a4b": {
@@ -6167,6 +6167,38 @@
       "category": "Cloud",
       "published": "2026-11-03T20:57:09.418034+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog": {
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-03T12:00:00+00:00",
+      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilit"
+    },
+    "cve:CVE-2026-119084": {
+      "title": "CVE-2026-119084 - Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T21:32:29+00:00",
+      "description": "Bulletin ID: 2026-168-AWS Publication Date: 11/03/2026 13:00 PM PST Description: We identified CVE-2026-119084, an issue in Amazon Redshift JDBC Driver versions prior to 2.3.0. Under certain conditions, the driver could load and execute arbitrary classes when processing JDBC connection URL parameters or AWS credentials profile fields. Impacted versions: Amazon Redshift JDBC Driver < 2.3.0 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app": {
+      "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+      "url": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-03T21:28:44+00:00",
+      "description": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]"
+    },
+    "page:1510a05a028982b2f4feb0d8": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-03T21:55:27.730826+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6175,8 +6207,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "6448326ed38410dc691ccb24fef54f3332554a6306198111719c06ea9140fd64",
-    "https://status.cloud.google.com/": "9cadecf6ac2f3562501c3605846fb8381a4be2bdba24bd1bb80346b41116ddaf",
+    "https://azure.status.microsoft/en-us/status": "3012426a90a177c1a030c5114be74fea3b874346dc266a969675fa022bdf929a",
+    "https://status.cloud.google.com/": "abb7c86e2f5600a1df8aad82a2e0a1e90231918f0c9a7df921f71ebc59673780",
     "https://cloud.google.com/support/bulletins": "8603d361f3d48cdf3d06b5aa4e3ac55940e4c4721a67412b25a051b3c623e829",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

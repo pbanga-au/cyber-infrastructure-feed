@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 20:57:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 21:55:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 21:55:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 21:55:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-119084 - Remote Code Execution via Unsafe Class Loading in Amazon Redshift JDBC Driver Connection Parameters</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-168-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-168-AWS Publication Date: 11/03/2026 13:00 PM PST Description: We identified CVE-2026-119084, an issue in Amazon Redshift JDBC Driver versions prior to 2.3.0. Under certain conditions, the driver could load and execute arbitrary classes when processing JDBC connection URL parameters or AWS credentials profile fields. Impacted versions: Amazon Redshift JDBC Driver &lt; 2.3.0 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article</description>
+      <pubDate>Tue, 03 Nov 2026 21:32:29 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>WorkOS says attacker used ARTEX AI to breach internal sales app</title>
+      <link>https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/</guid>
+      <description>[News] BleepingComputer: Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]</description>
+      <pubDate>Tue, 03 Nov 2026 21:28:44 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -276,6 +308,14 @@
       <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01</link>
       <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01</guid>
       <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.29.x (CVE-2026-63017) PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x (CVE-2026-63017, CVE-2026-63774) PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x (CVE-2026-63017, CVE-2026-63774) CVSS Vendor Equipment v3 9 Subnet Solutions PowerSYSTEM Center 2 Vulnerabilities Incorrect Authorization, Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') Background Critical Infrastructure Sectors: Critical Manufacturing</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/03/cisa-adds-one-known-exploited-vulnerability-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-119977 WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilit</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
@@ -1928,14 +1968,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 05:55:22 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 29 Oct 2026 09:59:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August</title>
-      <link>https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/attackers-exploit-second-cisco-firewall-vpn-zero-day-since-august/</guid>
-      <description>[News] SecurityWeek: Cisco on Wednesday released fixes for an exploited vulnerability affecting its Secure Firewall Adaptive Security Appliance (ASA) and Secure Firewall Threat Defense (FTD) software. Tracked as CVE-2026-76418 and assigned a CVSS score of 8.6, the bug resides in the Remote Access SSL VPN service. Attackers can exploit it remotely, without authenticating, to force the device […] The post Attackers Exploit Second Cisco Firewall VPN Zero-Day Since August appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 09:47:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 09:02:31 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million</title>
-      <link>https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/</guid>
-      <description>[News] SecurityWeek: Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 08:27:16 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 08:11:13 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
