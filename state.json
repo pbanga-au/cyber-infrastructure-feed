@@ -3213,7 +3213,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-28T05:53:19.954112+00:00",
+      "published": "2026-11-03T19:04:39.607842+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:381fdceeb322d29760b1e6af": {
@@ -6111,6 +6111,30 @@
       "category": "Cloud",
       "published": "2026-11-03T17:58:09.457768+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-119922": {
+      "title": "CVE-2026-119922 - Babelfish for PostgreSQL Privilege Escalation",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-165-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:26:54+00:00",
+      "description": "Bulletin ID: 2026-165-AWS Publication Date: 11/03/2026 10:00 AM PST Description: Improper access control in the Babelfish for PostgreSQL extension versions 1.2-1.5, 2.1-2.15, 3.1-3.12, 4.0-4.8, 5.1-5.4 allows remote authenticated users to elevate their privileges. We recommend you upgrade to Babelfish for PostgreSQL extension versions Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges": {
+      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+      "url": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-03T18:51:04+00:00",
+      "description": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]"
+    },
+    "page:422b4ea0923fbf4bd7fb893e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-03T19:04:39.607842+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6119,8 +6143,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "565cf200f8a1df078a23368064bf53f3c664e744cbff026159063595ebc10658",
-    "https://status.cloud.google.com/": "ba2a9b243c624e85bbd33f2ad7d5e1f184a35f9fd18a928099374ff5fa22adb0",
+    "https://azure.status.microsoft/en-us/status": "78c5a65ac5c71da000f4a82cfb9471acce5ed061d9bda4a20800ffa234b034f8",
+    "https://status.cloud.google.com/": "2ae2ad2cfe66bfd0409968502ecfeed818db81f5535c3ddae2623c564ecda6b7",
     "https://cloud.google.com/support/bulletins": "8603d361f3d48cdf3d06b5aa4e3ac55940e4c4721a67412b25a051b3c623e829",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
