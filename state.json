@@ -712,14 +712,6 @@
       "published": "2026-09-28T00:00:00+00:00",
       "description": ""
     },
-    "url:https://supportportal.juniper.net/s/article/2021-04-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-NTP-vulnerabilities-resolved": {
-      "title": "2021-04 Security Bulletin: Junos OS and Junos OS Evolved: Multiple NTP vulnerabilities resolved.",
-      "url": "https://supportportal.juniper.net/s/article/2021-04-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Multiple-NTP-vulnerabilities-resolved",
-      "source": "Juniper Security",
-      "category": "Network",
-      "published": "2026-09-04T00:00:00+00:00",
-      "description": ""
-    },
     "url:https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws": {
       "title": "Issue in the Linux kernel virtio-net/TAP networking path affecting KVM-based hypervisors",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws/",
@@ -5333,7 +5325,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-01T18:54:27.408009+00:00",
+      "published": "2026-11-03T01:15:41.022206+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:09692544dc9407853d9327ad": {
@@ -5807,6 +5799,30 @@
       "category": "Cloud",
       "published": "2026-11-02T23:47:04.973398+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years": {
+      "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
+      "url": "https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-11-03T12:00:00+00:00",
+      "description": "The NCSC warns that ‘tech on the cheap’ has left UK organisations exposed to AI uncovering and exploiting longstanding cyber security weaknesses and calls for urgent investment in resilience."
+    },
+    "url:https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion": {
+      "title": "Artificial intelligence and cyber intrusion",
+      "url": "https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-11-03T12:00:00+00:00",
+      "description": "An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028."
+    },
+    "page:e4e39400db361a7e4bee72ef": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-03T01:15:41.022206+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -5815,8 +5831,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "d2134af7cd59aa1daa00031ffe48f66a472a586f9f3530923155d9b6019c0369",
-    "https://status.cloud.google.com/": "c1bc7586c4d5222748c1cd60bc57b2033a4df757f6c632ffd4b284fd44d803c2",
+    "https://azure.status.microsoft/en-us/status": "6201bf73b8734a065ba825aaea3b8c90e586bb69a1b2dfc2fc16a5926398bf75",
+    "https://status.cloud.google.com/": "2799ef299a44860c1787a0dda44730686991d457e1bf7823d6ef6cf4618aed7a",
     "https://cloud.google.com/support/bulletins": "414e984a12863e237dde79c583c1bd4c7571ce6a765f54182cd0ee296460a86e",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
