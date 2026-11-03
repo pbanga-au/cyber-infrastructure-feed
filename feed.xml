@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 10:03:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 11:03:44 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
@@ -22,6 +22,22 @@
       <description>[Security] UK NCSC: An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 11:03:44 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Harvard University data breach exposed info of 851,000 accounts</title>
+      <link>https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/</guid>
+      <description>[News] BleepingComputer: Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]</description>
+      <pubDate>Tue, 03 Nov 2026 10:53:25 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/</guid>
       <description>[News] SecurityWeek: Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .</description>
       <pubDate>Wed, 28 Oct 2026 15:05:06 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 15:03:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Microsoft urges Entra ID admins to migrate users to passkeys</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</guid>
-      <description>[News] BleepingComputer: Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]</description>
-      <pubDate>Wed, 28 Oct 2026 14:48:32 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>

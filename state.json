@@ -5935,6 +5935,22 @@
       "category": "Cloud",
       "published": "2026-11-03T10:03:48.740166+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts": {
+      "title": "Harvard University data breach exposed info of 851,000 accounts",
+      "url": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-03T10:53:25+00:00",
+      "description": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]"
+    },
+    "page:240f1a27e1f750cd237cb081": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-03T11:03:44.737620+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -5944,7 +5960,7 @@
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://azure.status.microsoft/en-us/status": "940a8eb9787bc169b4a3bb3474f8a5113cc6f2623ae9ed6af5e76233c6f50599",
-    "https://status.cloud.google.com/": "88df397f3250ee3d20cedf3d883589a88990571efa6745d0b623e2f4ac3e5b60",
+    "https://status.cloud.google.com/": "79c7fcbf313b368864260221a89c2f6c80bbd788e9172d4e035bd8cbf46a024e",
     "https://cloud.google.com/support/bulletins": "8603d361f3d48cdf3d06b5aa4e3ac55940e4c4721a67412b25a051b3c623e829",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
