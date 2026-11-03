@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 06:02:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 07:24:07 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
@@ -22,6 +22,22 @@
       <description>[Security] UK NCSC: An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 07:24:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 07:24:07 +0000</pubDate>
+      <category>Cloud</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -822,14 +838,6 @@
       <description>[News] SecurityWeek: The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on SecurityWeek .</description>
       <pubDate>Sun, 01 Nov 2026 11:15:00 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 01 Nov 2026 10:49:42 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2398,14 +2406,6 @@
       <description>[News] SecurityWeek: FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on SecurityWeek .</description>
       <pubDate>Wed, 28 Oct 2026 13:10:34 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 13:07:28 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
