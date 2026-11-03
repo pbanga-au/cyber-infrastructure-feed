@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 11:56:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:15:29 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 13:15:29 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 13:15:29 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Android’s November 2026 Updates Patch Over 200 Vulnerabilities</title>
+      <link>https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 12:21:49 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Node-RED Flaw Exploited in Attacks</title>
+      <link>https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/</guid>
+      <description>[News] SecurityWeek: Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 12:10:19 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs</title>
+      <link>https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/</guid>
+      <description>[News] BleepingComputer: Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]</description>
+      <pubDate>Tue, 03 Nov 2026 12:05:52 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
       <link>https://www.ncsc.gov.uk/news/cyber-chief-uk-facing-ai-powered-attacks-on-critical-infrastructure-in-two-years</link>
@@ -2366,46 +2406,6 @@
       <description>[News] BleepingComputer: Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]</description>
       <pubDate>Wed, 28 Oct 2026 16:45:47 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Sectigo Knowledge Base — official page changed (review required)</title>
-      <link>https://www.sectigo.com/knowledge-base</link>
-      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
-      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 16:00:47 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>Volt Typhoon hides zero-day attacks using 'Silent Train' framework</title>
-      <link>https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/</guid>
-      <description>[News] BleepingComputer: Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]</description>
-      <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-118029 - Unverified ownership of the default Athena query result location in AWS SDK for pandas</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-153-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-153-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/28/2026 08:30 AM PDT Description: AWS SDK for pandas (awswrangler) is an open-source Python library that integrates pandas with AWS data services such as Amazon Athena, Amazon S3, and AWS Glue. We identified CVE-2026-118029 in the Athena module, where unverified ownership of the default query result location could allow a remote user to read Athena query results and tamper with result sets returned to the caller via a pre-created S3 bucket. Impacted versions: awswrangler &lt; 3.16.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security </description>
-      <pubDate>Wed, 28 Oct 2026 15:40:38 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
