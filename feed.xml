@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 16:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 17:06:46 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google dismantles botnet secretly running on 1.3 million Android TV boxes</title>
+      <link>https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/</link>
+      <guid isPermaLink="false">https://arstechnica.com/google/2026/11/google-dismantles-botnet-secretly-running-on-1-3-million-android-tv-boxes/</guid>
+      <description>[News] Ars Technica Security: Google has cut ties with the company behind the botnet campaign.</description>
+      <pubDate>Tue, 03 Nov 2026 17:08:21 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 17:06:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 17:06:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>UEFI bootkit infected fully patched Windows machines. Is Microsoft to blame?</title>
       <link>https://arstechnica.com/security/2026/11/uefi-bootkit-infected-fully-patched-windows-machines-is-microsoft-to-blame/</link>
@@ -148,6 +172,14 @@
       <link>https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion</link>
       <guid isPermaLink="false">https://www.ncsc.gov.uk/report/artificial-intelligence-and-cyber-intrusion</guid>
       <description>[Security] UK NCSC: An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.</description>
+      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Subnet Solutions PowerSYSTEM Center</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 &lt;=5.29.x (CVE-2026-63017) PowerSYSTEM Center 2024 &gt;=6.0.x|&lt;=6.2.x (CVE-2026-63017, CVE-2026-63774) PowerSYSTEM Center 2026 &gt;=7.0.x|&lt;=7.1.x (CVE-2026-63017, CVE-2026-63774) CVSS Vendor Equipment v3 9 Subnet Solutions PowerSYSTEM Center 2 Vulnerabilities Incorrect Authorization, Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') Background Critical Infrastructure Sectors: Critical Manufacturing</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
@@ -317,14 +349,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 03 Nov 2026 04:00:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 03 Nov 2026 03:02:42 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 29 Oct 2026 02:04:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 01:09:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 23:46:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 22:50:15 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
