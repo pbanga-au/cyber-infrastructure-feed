@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Nov 2026 09:01:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 10:03:48 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years</title>
@@ -22,6 +22,38 @@
       <description>[Security] UK NCSC: An NCSC assessment that examines current AI-enabled threat trends and projections of the threat landscape to 2028.</description>
       <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 10:03:48 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 03 Nov 2026 10:03:48 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028</title>
+      <link>https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/</guid>
+      <description>[News] SecurityWeek: The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028 appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 09:49:12 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Google Dismantles XCPE Botnet of 1.3 Million Android Devices</title>
+      <link>https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/</guid>
+      <description>[News] SecurityWeek: The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 03 Nov 2026 09:22:09 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -805,14 +837,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 01 Nov 2026 14:48:33 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 01 Nov 2026 13:54:30 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/</guid>
       <description>[News] BleepingComputer: Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]</description>
       <pubDate>Wed, 28 Oct 2026 14:48:32 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 28 Oct 2026 14:09:13 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>InfraTrust report warns of exploited flaws in critical network infrastructure</title>
-      <link>https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/</guid>
-      <description>[News] BleepingComputer: Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as "PHP2Shell" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]</description>
-      <pubDate>Wed, 28 Oct 2026 14:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Upwind Security Raises $400 Million at $3.8 Billion Valuation</title>
-      <link>https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/</guid>
-      <description>[News] SecurityWeek: The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 28 Oct 2026 13:56:50 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
