@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-04T21:56:55.782498+00:00",
+  "last_run_utc": "2026-11-04T22:57:17.657547+00:00",
   "sources_successful": 21,
   "failures": [
     "CISA Advisories: 403 Client Error: Forbidden for url: https://www.cisa.gov/cybersecurity-advisories/all.xml",
@@ -181,7 +181,7 @@
       "source": "Google Cloud Security Bulletins",
       "mode": "page-change",
       "status": "ok",
-      "changed": true,
+      "changed": false,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {
