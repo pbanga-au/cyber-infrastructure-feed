@@ -4709,7 +4709,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-03T14:26:38.607984+00:00",
+      "published": "2026-11-04T21:56:55.782498+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:926b6861120cffab4bb730df": {
@@ -6559,6 +6559,38 @@
       "category": "Cloud",
       "published": "2026-11-04T21:00:36.193301+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-122266": {
+      "title": "CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-04T21:53:42+00:00",
+      "description": "Bulletin ID: 2026-170-AWS Publication Date: 11/04/2026 13:30 PM PST Description: We identified CVE-2026-122266, an issue in Amazon EKS Network Policy Agent (aws-network-policy-agent). Improper isolation of shared eBPF connection tracking state might allow an authenticated adjacent user to bypass NetworkPolicy ingress enforcement on co-located pods. Impacted versions: - aws-network-policy-agent < 1.3.7 - Amazon VPC CNI Managed Add-on < 1.22.3 Refer to the article below for the most up-to-date and complete information. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks": {
+      "title": "Vercel rolls out new protection against stolen session cookie attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-04T21:31:18+00:00",
+      "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]"
+    },
+    "page:23d9abc5cd3c8d61823b3578": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T21:56:55.782498+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:8dcb5d6ec6e7464232a5a6a4": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-04T21:56:55.782498+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6567,9 +6599,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "ac2b4fac3f54006f247ac8de57200deb86e570574ee604ed627d8fff7e194be2",
-    "https://status.cloud.google.com/": "63ad23a4624c771128625f9e933f75d3f4b2b153f5068c3a9531f51bd9028891",
-    "https://cloud.google.com/support/bulletins": "0f89577f96a971f59c386c37e30b34d8ccc3ac4fd6fbd89e31f2a4f9a6a1448b",
+    "https://azure.status.microsoft/en-us/status": "e1df69f86c7bef7e24308d394ed254d5d8a63495f1a45ea5d9dfee845dfcc0df",
+    "https://status.cloud.google.com/": "2dcf30178bfde995441cfea546dc2ccad074f3eaeb988a27e1d3d9e4d3375ea9",
+    "https://cloud.google.com/support/bulletins": "75964515a857f351b47dc5aa0a33574a43c895f75b09d7d6d2305f8b0da6c93d",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"

@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 21:00:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 21:56:55 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 21:56:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 21:56:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 21:56:55 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-170-AWS Publication Date: 11/04/2026 13:30 PM PST Description: We identified CVE-2026-122266, an issue in Amazon EKS Network Policy Agent (aws-network-policy-agent). Improper isolation of shared eBPF connection tracking state might allow an authenticated adjacent user to bypass NetworkPolicy ingress enforcement on co-located pods. Impacted versions: - aws-network-policy-agent &lt; 1.3.7 - Amazon VPC CNI Managed Add-on &lt; 1.22.3 Refer to the article below for the most up-to-date and complete information. Read this article</description>
+      <pubDate>Wed, 04 Nov 2026 21:53:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Vercel rolls out new protection against stolen session cookie attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</guid>
+      <description>[News] BleepingComputer: Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]</description>
+      <pubDate>Wed, 04 Nov 2026 21:31:18 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -638,14 +678,6 @@
       <description>[News] SecurityWeek: Hackers exploited a flaw in third-party software and stole the personal information of school district staff and students. The post Frontline Education Data Breach Impacts Over 1.3 Million appeared first on SecurityWeek .</description>
       <pubDate>Tue, 03 Nov 2026 14:32:38 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 03 Nov 2026 14:26:38 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 30 Oct 2026 02:06:40 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 01:11:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 23:48:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut</title>
-      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/</guid>
-      <description>[News] BleepingComputer: OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]</description>
-      <pubDate>Thu, 29 Oct 2026 23:35:52 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 22:52:07 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
