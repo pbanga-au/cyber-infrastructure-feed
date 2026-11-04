@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 19:10:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 20:06:25 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 20:06:25 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 20:06:25 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-122192 - Guest Access to Firecracker Process Memory After a Failed Memory Discard</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-169-AWS Publication Date: 11/04/2026 11:30 AM PST Description: We identified CVE-2026-122192, an issue in Firecracker v0.23.0 through v1.16.1 that, under certain host memory conditions, can let a root user in a guest read or modify memory of the Firecracker process. It affects VMs restored from a snapshot using the File memory backend with a balloon or virtio-mem device. Impacted versions: Firecracker v0.23.0 through v1.16.1, inclusive. Refer to the article below for the most up-to-date and complete information. Read this article</description>
+      <pubDate>Wed, 04 Nov 2026 19:40:33 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -22,6 +46,14 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 04 Nov 2026 19:10:05 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>DreamHost confirms data breach exposed FTP logins and webmail sessions</title>
+      <link>https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/</guid>
+      <description>[News] BleepingComputer: DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]</description>
+      <pubDate>Wed, 04 Nov 2026 19:05:19 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Cyberattack disrupts blood storage refrigeration systems in France</title>
@@ -726,14 +758,6 @@
       <description>[News] BleepingComputer: Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]</description>
       <pubDate>Tue, 03 Nov 2026 10:53:25 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 03 Nov 2026 10:03:48 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2382,30 +2406,6 @@
       <description>[News] BleepingComputer: Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]</description>
       <pubDate>Thu, 29 Oct 2026 22:08:04 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 21:53:04 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Polymarket halts trading after crypto-draining script breach, $2.5M traced</title>
-      <link>https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/</guid>
-      <description>[News] BleepingComputer: Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker wallet. [...]</description>
-      <pubDate>Thu, 29 Oct 2026 21:47:25 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 20:54:50 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
