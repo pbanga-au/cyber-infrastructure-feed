@@ -6391,6 +6391,54 @@
       "category": "Cloud",
       "published": "2026-11-04T13:17:31.382262+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software": {
+      "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-04T14:42:25+00:00",
+      "description": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]"
+    },
+    "url:https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents": {
+      "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
+      "url": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-04T14:34:44+00:00",
+      "description": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root": {
+      "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
+      "url": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-04T14:24:54+00:00",
+      "description": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million": {
+      "title": "Agentic Data Security Firm Sentra Raises $150 Million",
+      "url": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-04T14:09:20+00:00",
+      "description": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek ."
+    },
+    "page:1a5942558892e455f495a160": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T15:00:02.170117+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:9a1d342fa48270d19a7fd064": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T15:00:02.170117+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6399,8 +6447,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "ca8670155a4164827f7494a632e27ecf799067ea945f1a70a6b538daaa77917d",
-    "https://status.cloud.google.com/": "7c9c04cb9f2049ab07b6ed3d73368e0e17cbf927c1631685194478bdb2089f5c",
+    "https://azure.status.microsoft/en-us/status": "28965c4e649531fa5fb0d2138cf930a5e51e5336073cfb8dffa19cd237c71cc7",
+    "https://status.cloud.google.com/": "2bc5e9afe1c4a4ca90b5fbc1ca738fc36963e9dd7000e67213362823a7a2829c",
     "https://cloud.google.com/support/bulletins": "0f89577f96a971f59c386c37e30b34d8ccc3ac4fd6fbd89e31f2a4f9a6a1448b",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

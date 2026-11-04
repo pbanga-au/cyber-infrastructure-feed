@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:17:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 15:00:02 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 15:00:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 15:00:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>SonicWall warns of unpatched flaws in end-of-life GMS software</title>
+      <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/</guid>
+      <description>[News] BleepingComputer: SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]</description>
+      <pubDate>Wed, 04 Nov 2026 14:42:25 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Sysdig Adds Runtime Security and Governance for AI Agents</title>
+      <link>https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/</guid>
+      <description>[News] SecurityWeek: Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 04 Nov 2026 14:34:44 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Barracuda ESG Authentication Bypass Flaw Opens Path to Root</title>
+      <link>https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/</guid>
+      <description>[News] SecurityWeek: An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 04 Nov 2026 14:24:54 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Agentic Data Security Firm Sentra Raises $150 Million</title>
+      <link>https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/</guid>
+      <description>[News] SecurityWeek: The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 04 Nov 2026 14:09:20 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2358,54 +2406,6 @@
       <description>[PKI] Lets Encrypt Blog: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 29 Oct 2026 17:03:13 +0000</pubDate>
       <category>PKI</category>
-    </item>
-    <item>
-      <title>CVE-2026-119115 - Incorrect authorization in issuer resolution in AWS Private CA Connector for Kubernetes</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-156-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-156-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-156-AWS Publication Date: 10/29/2026 09:30 AM PDT Description: We are aware of CVE-2026-119115, an incorrect authorization issue in the issuer resolution logic. In affected versions, under certain conditions, an authenticated user whose approval policy only authorizes a namespace-scoped issuer could obtain certificates, including subordinate CA certificates, signed by a cluster-scoped issuer they are not authorized to use. Impacted versions: - aws-privateca-issuer before v1.10.1 - AWS Private CA Connector for Kubernetes EKS add-on before v1.10.1-eksbuild.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulleti</description>
-      <pubDate>Thu, 29 Oct 2026 16:45:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis</title>
-      <link>https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/</guid>
-      <description>[News] SecurityWeek: Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 16:30:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Chrome extensions with 13.4 million installs caught hijacking searches</title>
-      <link>https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/</guid>
-      <description>[News] BleepingComputer: A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]</description>
-      <pubDate>Thu, 29 Oct 2026 16:10:31 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 16:03:58 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 16:03:58 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 15:07:32 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
