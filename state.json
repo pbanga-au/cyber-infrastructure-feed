@@ -6439,6 +6439,38 @@
       "category": "Cloud",
       "published": "2026-11-04T15:00:02.170117+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings": {
+      "title": "mSecure password manager hack prompts password reset warnings",
+      "url": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-04T16:00:18+00:00",
+      "description": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa": {
+      "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
+      "url": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-04T15:00:10+00:00",
+      "description": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]"
+    },
+    "page:c44daa6197ffb546a94f7c6b": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T16:02:56.022998+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:7895dde68d383adcd80e044f": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T16:02:56.022998+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6447,8 +6479,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "28965c4e649531fa5fb0d2138cf930a5e51e5336073cfb8dffa19cd237c71cc7",
-    "https://status.cloud.google.com/": "2bc5e9afe1c4a4ca90b5fbc1ca738fc36963e9dd7000e67213362823a7a2829c",
+    "https://azure.status.microsoft/en-us/status": "1652b91310d9c5c4f50e29f0272ff0e1a2675e2435fee2ab6e237ca365702dc5",
+    "https://status.cloud.google.com/": "0585fba851151ca316328cfc5612e4a7d1865b0351560ef4c905b4f09aaaf3f6",
     "https://cloud.google.com/support/bulletins": "0f89577f96a971f59c386c37e30b34d8ccc3ac4fd6fbd89e31f2a4f9a6a1448b",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
