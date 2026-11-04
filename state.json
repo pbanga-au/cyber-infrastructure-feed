@@ -4597,7 +4597,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-02T20:53:44.738499+00:00",
+      "published": "2026-11-04T19:10:05.522659+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:3666028907419ec181b18c5b": {
@@ -6503,6 +6503,22 @@
       "category": "Cloud",
       "published": "2026-11-04T17:59:42.281944+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france": {
+      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
+      "url": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-04T18:02:56+00:00",
+      "description": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]"
+    },
+    "page:adbe51312f3b2bd895af1e14": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T19:10:05.522659+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6511,8 +6527,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "69eaa871483eca0553b4a22a6eac026f73137493c3d089aa91b72264f3c5eee5",
-    "https://status.cloud.google.com/": "8d7466a8c077dd8f1fbf7d420aef24693405737818bae8a38b84549cf19fe7ce",
+    "https://azure.status.microsoft/en-us/status": "1f7363588cf4cb213d777546d49a08f22e9a70abc94aa132e236747f5479afd6",
+    "https://status.cloud.google.com/": "039aefcebcf02b590253bb84ea5ba592518d6b4ff8dcd7e83feec76cd9c68f29",
     "https://cloud.google.com/support/bulletins": "0f89577f96a971f59c386c37e30b34d8ccc3ac4fd6fbd89e31f2a4f9a6a1448b",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
