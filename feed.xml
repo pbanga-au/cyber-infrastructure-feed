@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 11:27:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:17:31 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 13:17:31 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 13:17:31 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>US charges two Canadians accused of hacking US universities</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/</guid>
+      <description>[News] BleepingComputer: A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]</description>
+      <pubDate>Wed, 04 Nov 2026 13:13:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks</title>
+      <link>https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/</guid>
+      <description>[News] SecurityWeek: Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 04 Nov 2026 12:43:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers</title>
+      <link>https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/</guid>
+      <description>[News] SecurityWeek: A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 04 Nov 2026 12:27:58 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CISA flags WordPress RCE flaw as actively exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/</guid>
+      <description>[News] BleepingComputer: The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]</description>
+      <pubDate>Wed, 04 Nov 2026 12:11:05 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -717,14 +765,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 02 Nov 2026 22:52:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 02 Nov 2026 21:52:12 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2366,46 +2406,6 @@
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 29 Oct 2026 15:07:32 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 29 Oct 2026 15:07:32 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Says Gemini 4 Carbon Leads in Finding, Exploiting and Fixing Vulnerabilities</title>
-      <link>https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/</guid>
-      <description>[News] SecurityWeek: Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Says Gemini 4 Carbon Leads in Finding, Exploiting and Fixing Vulnerabilities appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 15:01:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI</title>
-      <link>https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/</guid>
-      <description>[News] SecurityWeek: Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 15:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Microsoft fixes Remote Desktop failures caused by recent Windows updates</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/</guid>
-      <description>[News] BleepingComputer: Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the "Administrator protection" security feature is enabled. [...]</description>
-      <pubDate>Thu, 29 Oct 2026 14:35:40 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps</title>
-      <link>https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/</guid>
-      <description>[News] SecurityWeek: Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 14:18:03 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
