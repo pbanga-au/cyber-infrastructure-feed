@@ -3845,7 +3845,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-02T07:40:40.787594+00:00",
+      "published": "2026-11-04T09:06:38.420003+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:25e682adbbcc0ba6f69f89e3": {
@@ -6279,16 +6279,40 @@
       "category": "Cloud",
       "published": "2026-11-04T07:28:29.228722+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million": {
+      "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+      "url": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-04T08:27:05+00:00",
+      "description": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek ."
+    },
+    "page:e8b4e39328df297e07cc2b51": {
+      "title": "Megaport Updates — official page changed (review required)",
+      "url": "https://docs.megaport.com/whatsnew/",
+      "source": "Megaport Updates",
+      "category": "Network",
+      "published": "2026-11-04T09:06:38.420003+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:5f590d1b978a0a11031f8f14": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-04T09:06:38.420003+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
-    "https://docs.megaport.com/whatsnew/": "fc72574d8c3ea1acdec15c41b6086160f30ac1da5bfeb53b5eb3fe6cb294e553",
+    "https://docs.megaport.com/whatsnew/": "000945faf0270f9f4dcb1a7e9289f380dc59190081e5ca8e471d56ee3e109d60",
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "f20b95bde1ae3d7ea68015b7a4d47f6a6d1bf51bc1d77cd367cb24d43951e7be",
-    "https://status.cloud.google.com/": "382a6f79affde20c429548f003bcb8f898a0268d4f013128edf507e2f6964aa3",
+    "https://azure.status.microsoft/en-us/status": "5a92349f8930e6f7f577a01566eb5e616999631993b0272833ca394d58b765b9",
+    "https://status.cloud.google.com/": "83d9c0998c44fccb52d555726ff538bb711a5561b3e0dd59b7d9610065e015b8",
     "https://cloud.google.com/support/bulletins": "0f89577f96a971f59c386c37e30b34d8ccc3ac4fd6fbd89e31f2a4f9a6a1448b",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

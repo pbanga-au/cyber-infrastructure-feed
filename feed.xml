@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Nov 2026 07:28:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 09:06:38 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 09:06:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Megaport Updates — official page changed (review required)</title>
+      <link>https://docs.megaport.com/whatsnew/</link>
+      <guid isPermaLink="false">https://docs.megaport.com/whatsnew/</guid>
+      <description>[Network] Megaport Updates: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 09:06:38 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 04 Nov 2026 09:06:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million</title>
+      <link>https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/</guid>
+      <description>[News] SecurityWeek: A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 04 Nov 2026 08:27:05 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -998,14 +1030,6 @@
       <description>[News] SecurityWeek: CISA has added CVE-2026-111357 and CVE-2026-118527 to its KEV catalog after the Ivanti VPN flaws were chained in zero-day attacks. The post Ivanti Patches Two More Zero-Days Exploited in Connect Secure Attack Chain appeared first on SecurityWeek .</description>
       <pubDate>Mon, 02 Nov 2026 07:57:49 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 02 Nov 2026 07:40:40 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2382,30 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 29 Oct 2026 13:09:12 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Massive leak exposes 41,000 DHS workers and undercover ICE agents</title>
-      <link>https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/massive-leak-exposes-41000-dhs-workers-and-undercover-ice-agents/</guid>
-      <description>[News] Ars Technica Security: The leak reveals undercover agents, surveillance groups, and sensitive DHS access.</description>
-      <pubDate>Thu, 29 Oct 2026 12:58:34 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Over 41,000 DHS Employee Records Leaked Online</title>
-      <link>https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/</guid>
-      <description>[News] SecurityWeek: The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 29 Oct 2026 12:54:14 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Windows 11 KB5127936 update released with 41 changes and fixes</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/</guid>
-      <description>[News] BleepingComputer: Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]</description>
-      <pubDate>Thu, 29 Oct 2026 12:00:07 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
