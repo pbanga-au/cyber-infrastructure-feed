@@ -3861,7 +3861,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-01T21:45:45.645890+00:00",
+      "published": "2026-11-05T01:19:23.548045+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:7b1fe3b76350f64026721159": {
@@ -6631,19 +6631,43 @@
       "category": "PKI",
       "published": "2026-11-04T23:51:57.478488+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:1dc7923c6cb5a8f89fe0cd05": {
+      "title": "GoDaddy Certificate Advisories — official page changed (review required)",
+      "url": "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095",
+      "source": "GoDaddy Certificate Advisories",
+      "category": "PKI",
+      "published": "2026-11-05T01:19:23.548045+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:2b9746daf197cf28f78084d7": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-05T01:19:23.548045+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:e09fcb8361029e6a4b396862": {
+      "title": "GoDaddy Help — official page changed (review required)",
+      "url": "https://www.godaddy.com/help/ssl-certificates-1000006",
+      "source": "GoDaddy Help",
+      "category": "PKI",
+      "published": "2026-11-05T01:19:23.548045+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
     "https://docs.megaport.com/whatsnew/": "000945faf0270f9f4dcb1a7e9289f380dc59190081e5ca8e471d56ee3e109d60",
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
-    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "1fd726b031f6a3513bbce7cd7432ac14d3aa2b0dfea8345520bb146c9a630a09",
+    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "15799c91011f41cf801d89681b2ff755a78c9c5aaf00be6a36177a9b3d002b3a",
-    "https://status.cloud.google.com/": "852c0629bd141871b1aeb2881c66332042f2878c976f1d3c5a33d6229172a32d",
+    "https://azure.status.microsoft/en-us/status": "463da8fb87d9a628c9dece339fd5f8a46245bd36b5bda35b56076b254657c3b0",
+    "https://status.cloud.google.com/": "406bd750a65ac5f38b3cca9cfb9e5a82cdd15703ef3ac22badf1111d0ca65518",
     "https://cloud.google.com/support/bulletins": "75964515a857f351b47dc5aa0a33574a43c895f75b09d7d6d2305f8b0da6c93d",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
-    "https://www.godaddy.com/help/ssl-certificates-1000006": "d8ff4313746b49cabd7325a73089dbc38710ad37590e11f7d70feb285ada9bb0"
+    "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }
 }
