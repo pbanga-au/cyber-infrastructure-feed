@@ -3861,7 +3861,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-05T01:19:23.548045+00:00",
+      "published": "2026-11-05T17:26:22.910843+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:7b1fe3b76350f64026721159": {
@@ -6847,6 +6847,30 @@
       "category": "Cloud",
       "published": "2026-11-05T16:15:09.499725+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-119083": {
+      "title": "CVE-2026-119083 - GluonTS arbitrary file write during archive extraction",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-171-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-05T16:43:41+00:00",
+      "description": "Bulletin ID: 2026-171-AWS Publication Date: 11/05/2026 08:30 AM PST Description: GluonTS is an open-source Python library for probabilistic time series modeling. We identified CVE-2026-119083, an issue in the archive extraction utility in GluonTS before 0.17.0. An actor who supplies a crafted tar archive containing symbolic or hard links might be able to write arbitrary files outside the intended extraction directory with the privileges of the extracting process. Impacted versions: < 0.17.0 Refer to the article below for the most up-to-date and complete information. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server": {
+      "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-05T16:24:26+00:00",
+      "description": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]"
+    },
+    "page:8b1a31313585834f799d7e5a": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-05T17:26:22.910843+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6855,8 +6879,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "703b4a37f548091ff2bde518b009dda9e99d78d132471c59e6399a6064e58d03",
-    "https://status.cloud.google.com/": "94ebccbbce3b925bfafcdc01590abc6f91b5de83d83c1ad79887b411bd0119d6",
+    "https://azure.status.microsoft/en-us/status": "463da8fb87d9a628c9dece339fd5f8a46245bd36b5bda35b56076b254657c3b0",
+    "https://status.cloud.google.com/": "26e457f9f1c53f607a37dc0c17598138f14dd79f29ca701bcbe322b8167dbe34",
     "https://cloud.google.com/support/bulletins": "75964515a857f351b47dc5aa0a33574a43c895f75b09d7d6d2305f8b0da6c93d",
     "https://www.sectigo.com/knowledge-base": "5a3f907e3b09e45f00df681476352798782302355f4cde16cd5c502e92294292",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
