@@ -4709,7 +4709,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-05T15:08:41.895316+00:00",
+      "published": "2026-11-05T20:58:56.075073+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:926b6861120cffab4bb730df": {
@@ -6919,6 +6919,22 @@
       "category": "Cloud",
       "published": "2026-11-05T20:02:11.907873+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets": {
+      "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+      "url": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-05T20:15:08+00:00",
+      "description": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]"
+    },
+    "page:99064bf50b5e0fc18f7e29cc": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-05T20:58:56.075073+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6927,8 +6943,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "9657b5733e813772f5401a630a245dca1696358105e972aee4974d4258d3c3c7",
-    "https://status.cloud.google.com/": "6ebde042f8f24be51a4937cea36b5899de52fa14a2523a3e45030ac657f747f8",
+    "https://azure.status.microsoft/en-us/status": "e1df69f86c7bef7e24308d394ed254d5d8a63495f1a45ea5d9dfee845dfcc0df",
+    "https://status.cloud.google.com/": "a2b471b1be18c16c08cef1eeff0f3245fede3d643ff46a7c5f688d675b370ef8",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "5a3f907e3b09e45f00df681476352798782302355f4cde16cd5c502e92294292",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
