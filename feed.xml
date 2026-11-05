@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 01:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 02:59:43 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 02:59:43 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 02:59:43 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -181,14 +197,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-169-AWS Publication Date: 11/04/2026 11:30 AM PST Description: We identified CVE-2026-122192, an issue in Firecracker v0.23.0 through v1.16.1 that, under certain host memory conditions, can let a root user in a guest read or modify memory of the Firecracker process. It affects VMs restored from a snapshot using the File memory backend with a balloon or virtio-mem device. Impacted versions: Firecracker v0.23.0 through v1.16.1, inclusive. Refer to the article below for the most up-to-date and complete information. Read this article</description>
       <pubDate>Wed, 04 Nov 2026 19:40:33 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 19:10:05 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2398,14 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 30 Oct 2026 09:02:56 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines</title>
-      <link>https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/</guid>
-      <description>[News] SecurityWeek: An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 30 Oct 2026 08:44:49 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
