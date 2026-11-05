@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:09:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 06:11:28 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 06:11:28 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 06:11:28 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1472,14 +1488,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 02 Nov 2026 05:12:27 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2397,14 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/</guid>
       <description>[News] SecurityWeek: Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .</description>
       <pubDate>Fri, 30 Oct 2026 09:41:36 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Max-Severity GitLab Vulnerability Exploited Against Alpine Linux</title>
-      <link>https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/</guid>
-      <description>[News] SecurityWeek: Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 30 Oct 2026 09:32:27 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
