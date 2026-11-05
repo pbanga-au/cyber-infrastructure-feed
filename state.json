@@ -6069,7 +6069,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-04T22:57:17.657547+00:00",
+      "published": "2026-11-05T13:24:40.922509+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:6a3da9bd5ebfa626b1a8d44f": {
@@ -6759,6 +6759,46 @@
       "category": "Cloud",
       "published": "2026-11-05T11:19:36.618871+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns": {
+      "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+      "url": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-05T13:22:12+00:00",
+      "description": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised": {
+      "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+      "url": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-05T12:58:32+00:00",
+      "description": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws": {
+      "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+      "url": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-05T12:33:49+00:00",
+      "description": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities": {
+      "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+      "url": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-05T11:15:00+00:00",
+      "description": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek ."
+    },
+    "page:3d897bdc16e5d6676e69f90e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-05T13:24:40.922509+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6767,8 +6807,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "ac2b4fac3f54006f247ac8de57200deb86e570574ee604ed627d8fff7e194be2",
-    "https://status.cloud.google.com/": "e3d0ad50e5dc574d6d6abf40c4b0798267a515a80800d390d69e39141cea8246",
+    "https://azure.status.microsoft/en-us/status": "281d978b295f5e5b8bed63478ad9fa86fe6a65191aa3196322f0cfce0b7caf32",
+    "https://status.cloud.google.com/": "644367f65d816153cf8a9eccf1333e0b97e2626dca679b9b03ae45d62076795f",
     "https://cloud.google.com/support/bulletins": "75964515a857f351b47dc5aa0a33574a43c895f75b09d7d6d2305f8b0da6c93d",
     "https://www.sectigo.com/knowledge-base": "ddd00071df11a95142f0d5b32eb690aa50c9bab2596dc9a8f6cb7b295f822bce",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

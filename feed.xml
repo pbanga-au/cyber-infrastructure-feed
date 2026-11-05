@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 11:19:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:24:40 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 13:24:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 13:24:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns</title>
+      <link>https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/</guid>
+      <description>[News] SecurityWeek: More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 05 Nov 2026 13:22:12 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised</title>
+      <link>https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/</guid>
+      <description>[News] SecurityWeek: The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 05 Nov 2026 12:58:32 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws</title>
+      <link>https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/</guid>
+      <description>[News] SecurityWeek: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 05 Nov 2026 12:33:49 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -22,6 +62,14 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 05 Nov 2026 11:19:36 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>The Agent Smith Dilemma: Governing Agentic Identities</title>
+      <link>https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/</guid>
+      <description>[News] SecurityWeek: Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 05 Nov 2026 11:15:00 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality</title>
@@ -230,14 +278,6 @@
       <description>[PKI] GoDaddy Help: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 04 Nov 2026 23:51:57 +0000</pubDate>
       <category>PKI</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 22:57:17 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/</guid>
       <description>[News] SecurityWeek: For decades, passwords have been one of cybersecurity’s most persistent weaknesses. Users forget them, reuse them, share them, and surrender them to convincing phishing sites. Attackers steal credentials, automate credential stuffing, and increasingly use artificial intelligence to make social engineering more effective. What are passkeys? Passkeys promise to eliminate much of this problem. Built on […] The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first on SecurityWeek .</description>
       <pubDate>Fri, 30 Oct 2026 14:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers steal $6.3 billion from Binance in record crypto heist</title>
-      <link>https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/10/hackers-steal-6-3-billion-from-binance-in-record-crypto-heist/</guid>
-      <description>[News] Ars Technica Security: Binance scrambles to freeze billions after record-breaking hack linked to North Korea.</description>
-      <pubDate>Fri, 30 Oct 2026 13:46:39 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Bulletproof Host Virtualine Loses Its Domain to FBI Seizure</title>
-      <link>https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/</guid>
-      <description>[News] SecurityWeek: It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 30 Oct 2026 13:36:12 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 13:06:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CISA says max severity GitLab flaw now exploited in the wild</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/</guid>
-      <description>[News] BleepingComputer: Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]</description>
-      <pubDate>Fri, 30 Oct 2026 13:00:32 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Fresh WordPress Vulnerability in Attackers’ Crosshairs</title>
-      <link>https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/</guid>
-      <description>[News] SecurityWeek: Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 30 Oct 2026 12:04:13 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
