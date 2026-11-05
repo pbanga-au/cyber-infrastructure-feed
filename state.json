@@ -6823,6 +6823,30 @@
       "category": "PKI",
       "published": "2026-11-05T15:08:41.895316+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents": {
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "url": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-05T16:12:46+00:00",
+      "description": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]"
+    },
+    "page:3eda5de913fa813ec11d1c9f": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-05T16:15:09.499725+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:2fec224e5208bdf12907bad4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-05T16:15:09.499725+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -6831,8 +6855,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "e1df69f86c7bef7e24308d394ed254d5d8a63495f1a45ea5d9dfee845dfcc0df",
-    "https://status.cloud.google.com/": "8b412dfe41da263e37c6a7c1ae6e4115f2128d9244eabe1b0a41845fd13959a9",
+    "https://azure.status.microsoft/en-us/status": "703b4a37f548091ff2bde518b009dda9e99d78d132471c59e6399a6064e58d03",
+    "https://status.cloud.google.com/": "94ebccbbce3b925bfafcdc01590abc6f91b5de83d83c1ad79887b411bd0119d6",
     "https://cloud.google.com/support/bulletins": "75964515a857f351b47dc5aa0a33574a43c895f75b09d7d6d2305f8b0da6c93d",
     "https://www.sectigo.com/knowledge-base": "5a3f907e3b09e45f00df681476352798782302355f4cde16cd5c502e92294292",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",

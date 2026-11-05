@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 15:08:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:15:09 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 16:15:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 05 Nov 2026 16:15:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>DigiCert data breach exposes customer information, identity documents</title>
+      <link>https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/</guid>
+      <description>[News] BleepingComputer: DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]</description>
+      <pubDate>Thu, 05 Nov 2026 16:12:46 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/</guid>
       <description>[News] SecurityWeek: Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek .</description>
       <pubDate>Fri, 30 Oct 2026 15:09:25 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 30 Oct 2026 15:04:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak</title>
-      <link>https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/</guid>
-      <description>[News] SecurityWeek: Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 30 Oct 2026 14:41:35 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Malicious Claude Code extension on Cursor planted SSH backdoors</title>
-      <link>https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/</guid>
-      <description>[News] BleepingComputer: A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH backdoors. [...]</description>
-      <pubDate>Fri, 30 Oct 2026 14:36:54 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
