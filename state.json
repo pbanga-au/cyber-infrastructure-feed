@@ -344,14 +344,6 @@
       "published": "2026-09-15T12:00:00+00:00",
       "description": "UK and allies provide advice to help organisations and individuals at risk detect and counter the threat from CHOSEN BRICK malware."
     },
-    "url:https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai": {
-      "title": "The hidden risks of shadow AI",
-      "url": "https://www.ncsc.gov.uk/blogs/the-hidden-risks-of-shadow-ai",
-      "source": "UK NCSC",
-      "category": "Security",
-      "published": "2026-09-07T12:00:00+00:00",
-      "description": "Understanding why staff use unapproved AI tools is key to managing the security challenges they can create."
-    },
     "cve:CVE-2026-109618,CVE-2026-109619": {
       "title": "CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products  (Severity: HIGH)",
       "url": "https://security.paloaltonetworks.com/CVE-2026-109618",
@@ -3181,7 +3173,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-06T10:13:09.677717+00:00",
+      "published": "2026-11-06T12:00:09.699691+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:21a1242d384aaf54d5d83963": {
@@ -7119,6 +7111,14 @@
       "category": "Cloud",
       "published": "2026-11-06T11:14:05.490030+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:c12be899c44bf7fc579b42e6": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-06T12:00:09.699691+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7127,8 +7127,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "0d8514a2087129c45511769283b3ddbc0e3612fc410a6d4a0b48b27260231fb8",
-    "https://status.cloud.google.com/": "45d4e8497af753dc4f625de0cc740e7f299b6501be900faef1c59ec3f68ca755",
+    "https://azure.status.microsoft/en-us/status": "32cc22e0d70b6b12406a72637c355266eb20f4d937d66d1673e2a971d2a5cc84",
+    "https://status.cloud.google.com/": "033f118b2a4ab5f5153d068b5e5e0d8ff74a461a8bcf22ab763cd332e9c62999",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
