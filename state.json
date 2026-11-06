@@ -3893,7 +3893,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-06T02:59:05.430229+00:00",
+      "published": "2026-11-06T19:03:46.841498+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:26e5b620da3ae9056cb816c1": {
@@ -7263,6 +7263,46 @@
       "category": "Cloud",
       "published": "2026-11-06T17:55:24.931752+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-119923,CVE-2026-119924": {
+      "title": "CVE-2026-119923 and CVE-2026-119924: Issues with Babelfish for Aurora PostgreSQL",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-06T18:46:27+00:00",
+      "description": "Bulletin ID: 2026-166-AWS Publication Date: 11/06/2026 10:00 AM PST Description: We identified two issues in the Babelfish TDS protocol layer: - CVE-2026-119923: A memory-safety issue in the TDS connection-handshake handling could allow a remote, unauthenticated actor to affect the database process. - CVE-2026-119924: A memory-safety issue in the TDS remote-procedure-call request handling could allow a remote, authenticated actor to read adjacent process memory or cause a denial of service. Refer to the article below for the most up-to-date and complete information. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers": {
+      "title": "Fake security tools on GitHub push backdoors and infostealers",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-06T18:46:52+00:00",
+      "description": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]"
+    },
+    "url:https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks": {
+      "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+      "url": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-06T18:28:41+00:00",
+      "description": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityWeek ."
+    },
+    "page:c3bebc1295349b37761f0a44": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-06T19:03:46.841498+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:bda710a8de71267b911d560a": {
+      "title": "Lets Encrypt Blog — official page changed (review required)",
+      "url": "https://letsencrypt.org/blog/",
+      "source": "Lets Encrypt Blog",
+      "category": "PKI",
+      "published": "2026-11-06T19:03:46.841498+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7271,11 +7311,11 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "4ab681faff8ec8258a4a1f251b694a0024aaa918f9f05084a733d47c81a099b7",
-    "https://status.cloud.google.com/": "429b1a682980264785dcc6d85847ee5ea72bf21d8b5b8648c15b8b9165d8e13a",
+    "https://azure.status.microsoft/en-us/status": "dfb6b981e652b1fbb0109d70352ec82f22ffc4d82275a5966909595e465db3de",
+    "https://status.cloud.google.com/": "2009ca6d6c7385db01a3b83787d63774feae59717cf6f58780f96b8e20a7351d",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
-    "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
+    "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }
 }
