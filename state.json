@@ -3925,7 +3925,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-06T05:08:35.644853+00:00",
+      "published": "2026-11-06T17:55:24.931752+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:d323b62b2b43eb8e83162d4f": {
@@ -7239,6 +7239,30 @@
       "category": "Cloud",
       "published": "2026-11-06T17:01:41.454653+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-122193": {
+      "title": "CVE-2026-122193 - Issue with Trusted Remote Execution Setup Guide - OS command injection in the example SSM documents in Trusted Remote Execution (REX)",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-173-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-06T17:19:55+00:00",
+      "description": "Bulletin ID: 2026-173-AWS Publication Date: 11/06/2026 09:00 AM PST Description: We identified CVE-2026-122193, an OS command injection issue in an example provided in the set-up documentation. The example included a script that creates AWS Systems Manager (SSM) documents (Rex-RO and Rex-RW) for running scripts on managed instances. Due to how the example script handled input parameters, a user with permissions to invoke the SSM document could supply crafted input that would run unintended operating system commands on the managed instance, outside of the REX sandbox. The scriptArgs parameter is affected by the same class of issue. Impacted versions: This is not an issue in a shipped REX arti"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks": {
+      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-06T17:04:23+00:00",
+      "description": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]"
+    },
+    "page:cce1ef6e6b270b67397dedf4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-06T17:55:24.931752+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7247,8 +7271,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "e44963055c9a208c1554f248a0a6184a642717ec57cbfe38d3fc11e011251f7f",
-    "https://status.cloud.google.com/": "7ad3af0cc5927c626cf1efc86a5bf88228550a52efd1342f26b63b7d79333c52",
+    "https://azure.status.microsoft/en-us/status": "4ab681faff8ec8258a4a1f251b694a0024aaa918f9f05084a733d47c81a099b7",
+    "https://status.cloud.google.com/": "429b1a682980264785dcc6d85847ee5ea72bf21d8b5b8648c15b8b9165d8e13a",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
