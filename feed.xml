@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:59:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:02:07 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 06 Nov 2026 04:02:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 06 Nov 2026 04:02:07 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-109518 - APT package manager that affects Ubuntu and Debian operating systems</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-172-AWS Publication Date: 11/05/2026 20:00 PM PST Description: An issue in the APT package manager (CVE-2026-109518) affects Ubuntu and Debian operating systems. Under specific conditions, when APT is configured to use HTTP package sources with retry settings enabled, a third party with a network position between the host and the package mirror could cause APT to install a package that did not pass verification. Updated APT packages are available from Canonical (USN-8996-1) and Debian (DSA-6607-1). The following fixed versions address this issue: - Ubuntu 22.04 LTS: apt 2.4.15ubuntu0.1 - Ubuntu 24.04 LTS: apt 2.8.4ubuntu0.1 - Ubuntu 26.04 LTS: apt 3.2.1ubuntu0.1 - Debian (D</description>
+      <pubDate>Fri, 06 Nov 2026 04:00:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million</title>
+      <link>https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/</guid>
+      <description>[News] SecurityWeek: The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 06 Nov 2026 03:03:29 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -326,14 +358,6 @@
       <description>[Security] CISA Advisories: Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, </description>
       <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 11:19:36 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 31 Oct 2026 07:58:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 07:03:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 05:51:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-98432 - Linux kernel IPv4 TCP use-after-free Issue</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-160-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-160-AWS Publication Date: 10/30/2026 22:15 PM PDT Description: AWS is aware of CVE-2026-98432, a memory issue in the Linux kernel IPv4 TCP handshake path affecting kernel versions 4.4 and later that could result in remote code execution. Updated kernel packages are available for Amazon Linux 2 and Amazon Linux 2023, and we recommend customers running self-managed Linux instances update and reboot. AWS is applying updates to managed services and no customer action is required for those services. For full details and per-service guidance, see the complete bulletin at https://aws.amazon.com/security/security-bulletins/2026-160-aws/ Please refer to the article below for the mos</description>
-      <pubDate>Sat, 31 Oct 2026 05:21:05 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
