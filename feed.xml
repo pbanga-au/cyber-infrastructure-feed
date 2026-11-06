@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Nov 2026 12:00:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 13:17:34 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 06 Nov 2026 13:17:34 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 06 Nov 2026 13:17:34 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>US Agencies Urge Organizations to Harden Refrigeration Controllers</title>
+      <link>https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/</guid>
+      <description>[News] SecurityWeek: The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 06 Nov 2026 13:02:26 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack</title>
+      <link>https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/</guid>
+      <description>[News] SecurityWeek: The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 06 Nov 2026 12:47:55 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>D-Link warns of multiple zero-days in DGS-3130 Series switches</title>
+      <link>https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/</guid>
+      <description>[News] BleepingComputer: D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]</description>
+      <pubDate>Fri, 06 Nov 2026 12:37:22 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Researchers Find Residential Proxies on White House Network</title>
+      <link>https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/</guid>
+      <description>[News] SecurityWeek: In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 06 Nov 2026 12:16:13 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass</title>
+      <link>https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</guid>
+      <description>[News] SecurityWeek: On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 06 Nov 2026 12:07:42 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2088,14 +2144,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 01 Nov 2026 16:46:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2357,54 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 31 Oct 2026 18:54:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Northflank security breach leads to abuse of customers' AI API keys</title>
-      <link>https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/</guid>
-      <description>[News] BleepingComputer: Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]</description>
-      <pubDate>Sat, 31 Oct 2026 18:01:12 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 17:42:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 16:46:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 15:45:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>New Android SMS of Death exploit can remotely crash unpatched phones</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/</guid>
-      <description>[News] BleepingComputer: A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed "SMS of Death" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specially crafted text message. [...]</description>
-      <pubDate>Sat, 31 Oct 2026 15:35:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 31 Oct 2026 14:46:32 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>

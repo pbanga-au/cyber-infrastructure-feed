@@ -4253,7 +4253,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-01T16:46:44.708756+00:00",
+      "published": "2026-11-06T13:17:34.579334+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:db63a2a2917cca435c621728": {
@@ -7119,6 +7119,54 @@
       "category": "Cloud",
       "published": "2026-11-06T12:00:09.699691+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches": {
+      "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+      "url": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-06T12:37:22+00:00",
+      "description": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]"
+    },
+    "url:https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers": {
+      "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+      "url": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-06T13:02:26+00:00",
+      "description": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack": {
+      "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+      "url": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-06T12:47:55+00:00",
+      "description": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network": {
+      "title": "Researchers Find Residential Proxies on White House Network",
+      "url": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-06T12:16:13+00:00",
+      "description": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass": {
+      "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+      "url": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-06T12:07:42+00:00",
+      "description": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek ."
+    },
+    "page:1e7562a27984920c545ba63b": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-06T13:17:34.579334+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7127,8 +7175,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "32cc22e0d70b6b12406a72637c355266eb20f4d937d66d1673e2a971d2a5cc84",
-    "https://status.cloud.google.com/": "033f118b2a4ab5f5153d068b5e5e0d8ff74a461a8bcf22ab763cd332e9c62999",
+    "https://azure.status.microsoft/en-us/status": "b1d04703c7431adeefadb788514ac5617dabf9f797f8e975010f6a420115f47b",
+    "https://status.cloud.google.com/": "2d9a987c61b10dfcf4f7559b3bcabc680242edd92b5b16c4edb85ddb3c550813",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "1e35d0369bbe6fed7760bdc099baaeee25bcb8950241ca90b607e35125096da1",
