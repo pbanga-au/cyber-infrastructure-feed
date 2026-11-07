@@ -4181,7 +4181,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-10-29T15:07:32.270820+00:00",
+      "published": "2026-11-07T01:12:11.962236+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:74fabcfd3f881f14451ab094": {
@@ -7375,6 +7375,22 @@
       "category": "Cloud",
       "published": "2026-11-06T23:48:09.726074+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks": {
+      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-07T00:00:55+00:00",
+      "description": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]"
+    },
+    "page:27094124d4659488bb7e340b": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-07T01:12:11.962236+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7383,8 +7399,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "bda2569fffc2a304f9760b6324bc70292f29aff3957a3aba7d7d5e5fdb0bc9b7",
-    "https://status.cloud.google.com/": "4224c70bb76d6d86103cca48ffccece4e65abda43ea07cee25a25385a6898278",
+    "https://azure.status.microsoft/en-us/status": "c9b4a21d276097d1b69a64a756794803b964c8473273593bda937d9ed72002c3",
+    "https://status.cloud.google.com/": "9ea7a8a0bf822a236e80fccd0a5be0bd12abf19897a4b8f9bd644257ab15e480",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
