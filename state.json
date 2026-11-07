@@ -3837,7 +3837,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-04T09:06:38.420003+00:00",
+      "published": "2026-11-07T10:52:44.892732+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:25e682adbbcc0ba6f69f89e3": {
@@ -7463,6 +7463,22 @@
       "category": "Cloud",
       "published": "2026-11-07T09:56:00.439563+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins": {
+      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+      "url": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-07T10:16:23+00:00",
+      "description": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek ."
+    },
+    "page:212e862c7e55902a43d32111": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-07T10:52:44.892732+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7471,8 +7487,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "69eaa871483eca0553b4a22a6eac026f73137493c3d089aa91b72264f3c5eee5",
-    "https://status.cloud.google.com/": "036fc66d123d5028f9c77879e78428e8ed1a575aa5b805e2591460f330ad24ec",
+    "https://azure.status.microsoft/en-us/status": "5a92349f8930e6f7f577a01566eb5e616999631993b0272833ca394d58b765b9",
+    "https://status.cloud.google.com/": "33f18d2311b2e60ec86bef53342168d8eb21d7930841881c2fc1a46b9047232d",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
