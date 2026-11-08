@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 09:01:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 09:56:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 08 Nov 2026 09:56:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 08 Nov 2026 09:56:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-october-2026/</guid>
       <description>[News] SecurityWeek: Significant cybersecurity deals were announced by Absolute Security, Aikido, Anthropic, Cohere, Hex-Rays, and Proofpoint. The post Cybersecurity M&amp;A Roundup: 37 Deals Announced in October 2026 appeared first on SecurityWeek .</description>
       <pubDate>Mon, 02 Nov 2026 15:01:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk</title>
-      <link>https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/florida-student-aid-website-hack-puts-data-of-4-9-million-people-at-risk/</guid>
-      <description>[News] SecurityWeek: The Florida Department of Education says SSNs and other personal data may have been exposed in a breach of its financial aid website. The post Florida Student Aid Website Hack Puts Data of 4.9 Million People at Risk appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 02 Nov 2026 14:44:18 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers disrupt refrigeration systems at European supermarkets</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/</guid>
-      <description>[News] BleepingComputer: A cyberattack on refrigeration systems has disrupted stores run by multiple supermarket chains across several European countries after hackers remotely changed temperature settings on freezers and cooling systems. [...]</description>
-      <pubDate>Mon, 02 Nov 2026 14:28:39 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
