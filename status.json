@@ -1,11 +1,10 @@
 {
-  "last_run_utc": "2026-11-08T11:50:10.730677+00:00",
-  "sources_successful": 21,
+  "last_run_utc": "2026-11-08T13:02:23.933110+00:00",
+  "sources_successful": 22,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
     "ACSC Advisories: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww",
     "Arista Security: No RSS/Atom entries returned",
-    "OpenSSL Releases: HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /openssl/openssl/releases.atom (Caused by ResponseError('too many 503 error res",
     "ZPE PSIRT: Page content unavailable or too short",
     "HPE Security Bulletins: HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne",
     "HPE Aruba Security Bulletins: Page content unavailable or too short",
@@ -89,8 +88,8 @@
     {
       "source": "OpenSSL Releases",
       "mode": "rss",
-      "status": "failed",
-      "error": "HTTPSConnectionPool(host='github.com', port=443): Max retries exceeded with url: /openssl/openssl/releases.atom (Caused by ResponseError('too many 503 error res"
+      "status": "ok",
+      "entries_available": 10
     },
     {
       "source": "AWS Service Health RSS",
@@ -161,7 +160,7 @@
       "source": "Azure Service Health",
       "mode": "page-change",
       "status": "ok",
-      "changed": true,
+      "changed": false,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {
