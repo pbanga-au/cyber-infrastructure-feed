@@ -512,38 +512,6 @@
       "published": "2026-09-12T00:30:00+00:00",
       "description": ""
     },
-    "cve:CVE-2026-0308": {
-      "title": "CVE-2026-0308 PAN-OS: Stored Cross-Site Scripting (XSS) Vulnerability in the Web Interface (Severity: LOW)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0308",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0309": {
-      "title": "CVE-2026-0309 PAN-OS: Authenticated Command Injection in CLI with Luna HSM Configuration (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0309",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0304": {
-      "title": "CVE-2026-0304 Cortex XDR Broker VM: Privilege Escalation Vulnerability (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0304",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0310": {
-      "title": "CVE-2026-0310 PAN-OS: Buffer Overflow Vulnerability via XML Processing  (Severity: HIGH)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0310",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
-    },
     "cve:CVE-2025-52989": {
       "title": "2025-07 Security Bulletin: Junos OS and Junos OS Evolved: Annotate configuration command can be used for privilege escalation (CVE-2025-52989)",
       "url": "https://supportportal.juniper.net/s/article/2025-07-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Annotate-configuration-command-can-be-used-for-privilege-escalation-CVE-2025-52989",
@@ -1520,22 +1488,6 @@
       "published": "2026-10-23T15:49:34.151424+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
-    "cve:CVE-2026-0305": {
-      "title": "CVE-2026-0305 Prisma Access Agent: Information Disclosure Vulnerability on Linux (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0305",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0303": {
-      "title": "CVE-2026-0303 Checkov by Prisma Cloud: Code Execution via Auto-Loaded Configuration File (Severity: LOW)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0303",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
-    },
     "url:https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records": {
       "title": "Quest Diagnostics confirms data breach exposed patient records",
       "url": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
@@ -1559,14 +1511,6 @@
       "category": "Cloud",
       "published": "2026-10-23T16:47:37.684053+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
-    },
-    "cve:CVE-2026-0306": {
-      "title": "CVE-2026-0306 Prisma Access Agent: EndPoint DLP Bypass Vulnerability on Windows (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0306",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-09T16:00:00+00:00",
-      "description": ""
     },
     "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january": {
       "title": "Microsoft: Windows Server 2016 reaches end of support in January",
@@ -3469,7 +3413,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-04T23:51:57.478488+00:00",
+      "published": "2026-11-08T16:49:47.062100+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:ef47eefb9cf2ca2021fcbc79": {
@@ -7735,6 +7679,14 @@
       "category": "Cloud",
       "published": "2026-11-08T15:47:02.656192+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:99dd3e78759669facc79b735": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-08T16:49:47.062100+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7743,8 +7695,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "a56edd86336552ee7db8ecdbe8c52be49d4c10a36f80d8ab7ec66caaff5b60cb",
-    "https://status.cloud.google.com/": "01f65ad03b81cfb844333232c218eef03a713ec358aa7129bb94546d43dca92b",
+    "https://azure.status.microsoft/en-us/status": "15799c91011f41cf801d89681b2ff755a78c9c5aaf00be6a36177a9b3d002b3a",
+    "https://status.cloud.google.com/": "d102b801c62861a1b571d5edc0f66e642d954baea7455693fd009bf6cb5fa4fc",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
