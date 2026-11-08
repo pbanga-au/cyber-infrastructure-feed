@@ -1488,14 +1488,6 @@
       "published": "2026-09-23T13:24:11+00:00",
       "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:"
     },
-    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-alpha1": {
-      "title": "OpenSSL 4.1.0-alpha1",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-alpha1",
-      "source": "OpenSSL Releases",
-      "category": "Infrastructure",
-      "published": "2026-09-09T13:28:44+00:00",
-      "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:"
-    },
     "url:https://status.aws.amazon.com/": {
       "title": "Service disruption: Increased Error Rates",
       "url": "https://status.aws.amazon.com/",
@@ -4477,7 +4469,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-08T09:56:18.241905+00:00",
+      "published": "2026-11-08T13:57:26.279587+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:352adc130bf6b0d4c4956e3a": {
@@ -7711,6 +7703,14 @@
       "category": "Cloud",
       "published": "2026-11-08T13:02:23.933110+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:3c52b18aa8d41a9405359aa6": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-08T13:57:26.279587+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7719,8 +7719,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "ca8670155a4164827f7494a632e27ecf799067ea945f1a70a6b538daaa77917d",
-    "https://status.cloud.google.com/": "0f3bfc77de9ad735abe6778416b11a89ad65f04aa6bf7e5e7e7876e0287c630d",
+    "https://azure.status.microsoft/en-us/status": "a56edd86336552ee7db8ecdbe8c52be49d4c10a36f80d8ab7ec66caaff5b60cb",
+    "https://status.cloud.google.com/": "f8a032687e3dd18e04a46254a44d8a47fd9e734a5cda338c512969ad5bdf7487",
     "https://cloud.google.com/support/bulletins": "74bf490e63c42a2d4611b6afd024394ce5d78aba3ce4fca3e314424fd11de1bd",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
