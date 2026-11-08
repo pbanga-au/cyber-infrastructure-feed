@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:14:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 08:13:52 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 08 Nov 2026 08:13:52 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 08 Nov 2026 08:13:52 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2224,14 +2240,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 02 Nov 2026 19:59:46 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2397,14 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-smart-app-control-broken-by-october-windows-update/</guid>
       <description>[News] BleepingComputer: Microsoft has resolved a known issue that prevented some users from activating the Smart App Control security feature after installing the October 2026 KB5127648 Windows 11 security update. [...]</description>
       <pubDate>Mon, 02 Nov 2026 13:57:29 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Revolve Data Breach Impacts at Least 180,000 People</title>
-      <link>https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/</guid>
-      <description>[News] SecurityWeek: Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 02 Nov 2026 13:35:21 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
