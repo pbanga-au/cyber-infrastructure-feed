@@ -4581,7 +4581,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-08T05:57:30.355265+00:00",
+      "published": "2026-11-09T20:03:37.199237+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:926b6861120cffab4bb730df": {
@@ -7943,6 +7943,22 @@
       "category": "Cloud",
       "published": "2026-11-09T19:06:06.258146+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation": {
+      "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+      "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-11-09T19:41:34+00:00",
+      "description": "\"*sshole\" poses a serious threat to Internet security."
+    },
+    "page:1330b66b9a4f1415f73ca447": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T20:03:37.199237+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7951,8 +7967,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "565cf200f8a1df078a23368064bf53f3c664e744cbff026159063595ebc10658",
-    "https://status.cloud.google.com/": "bc8454485be23a6a6e609af1e992d668e3299b84578fe8056a965a796d04a487",
+    "https://azure.status.microsoft/en-us/status": "e1df69f86c7bef7e24308d394ed254d5d8a63495f1a45ea5d9dfee845dfcc0df",
+    "https://status.cloud.google.com/": "e79a5191635fc280131469752f72023e3fd80e0a78755ef41eef5772538a58c0",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
