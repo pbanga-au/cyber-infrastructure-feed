@@ -4325,7 +4325,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-09T04:07:59.918979+00:00",
+      "published": "2026-11-09T15:06:17.517432+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:e9467991d4c1a14147634e79": {
@@ -7847,6 +7847,46 @@
       "category": "Cloud",
       "published": "2026-11-09T13:26:29.413640+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai": {
+      "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+      "url": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T15:05:15+00:00",
+      "description": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governance, and communication. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims": {
+      "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+      "url": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T14:34:03+00:00",
+      "description": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links": {
+      "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+      "url": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T13:28:56+00:00",
+      "description": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]"
+    },
+    "url:https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million": {
+      "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+      "url": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-09T14:08:08+00:00",
+      "description": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek ."
+    },
+    "page:10bf1064849a99e9814b2633": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T15:06:17.517432+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7855,8 +7895,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "407e2168302e59e87608255f637a65e6c3728822b866551c79f4a97d5dc40dfc",
-    "https://status.cloud.google.com/": "ffb473fbc2f3631a43558b366c972c3e5926b1be76710a96cb6be81ec84083e6",
+    "https://azure.status.microsoft/en-us/status": "526efe4fc4d63332a29d5d65fd6dd2c85abc2f9f563aebd4308485badd8b1887",
+    "https://status.cloud.google.com/": "a87a008384d15abf39b2d780e1905ce9c94ef109464ccb0679b8a9e463e8fc49",
     "https://cloud.google.com/support/bulletins": "cd81f376552f3a42344107eefb48246688713ccbb8a0743a1da522faa6563fe3",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
