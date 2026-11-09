@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 16:13:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 17:21:09 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 17:21:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 17:21:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -669,14 +685,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 07 Nov 2026 19:51:24 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 18:55:38 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2397,14 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</guid>
       <description>[News] SecurityWeek: The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .</description>
       <pubDate>Tue, 03 Nov 2026 12:21:49 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Critical Node-RED Flaw Exploited in Attacks</title>
-      <link>https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/</guid>
-      <description>[News] SecurityWeek: Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 03 Nov 2026 12:10:19 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
