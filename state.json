@@ -4381,7 +4381,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-09T19:06:06.258146+00:00",
+      "published": "2026-11-09T21:56:34.101265+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:5e1b1d2e4603d42200a14731": {
@@ -7975,6 +7975,38 @@
       "category": "Cloud",
       "published": "2026-11-09T21:01:35.471399+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-124033": {
+      "title": "CVE-2026-124033 - Relative path traversal in the log export commands in AWS ParallelCluster CLI",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-174-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-09T21:12:17+00:00",
+      "description": "Bulletin ID: 2026-174-AWS Publication Date: 11/09/2026 13:00 PM PST Description: AWS ParallelCluster CLI is an open source command line tool, distributed on PyPI as aws-parallelcluster. We identified CVE-2026-124033, an issue where the export-cluster-logs and export-image-logs commands in the AWS ParallelCluster CLI before version 3.16.0 contain a relative path traversal issue. An authenticated remote user with write access to the log export Amazon S3 bucket could use a crafted S3 object key to write files outside the intended export directory on the machine running the command. Impacted versions: >= 3.0.0 AND < 3.16.0 Refer to the article for the most up-to-date and complete information. Re"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published": {
+      "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+      "url": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T21:26:25+00:00",
+      "description": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let attackers take over vulnerable systems. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007": {
+      "title": "York University breach exposed personal information dating to 2007",
+      "url": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T21:22:31+00:00",
+      "description": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]"
+    },
+    "page:b0f023987d745b83999d5af6": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T21:56:34.101265+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7983,8 +8015,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "407e2168302e59e87608255f637a65e6c3728822b866551c79f4a97d5dc40dfc",
-    "https://status.cloud.google.com/": "06d3b685a932a1e94ed51fe73ead981447e8a3fc6cb2c1fff1b2025227f66177",
+    "https://azure.status.microsoft/en-us/status": "565cf200f8a1df078a23368064bf53f3c664e744cbff026159063595ebc10658",
+    "https://status.cloud.google.com/": "36465358e52fc9e24013b554aa5238279b09508d2bbfe4b2b1c9fd1ef2e926a7",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
