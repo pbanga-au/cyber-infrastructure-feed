@@ -4909,7 +4909,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-02T01:18:23.956090+00:00",
+      "published": "2026-11-09T11:07:48.191837+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:677759a24e01b3c40cef903a": {
@@ -7767,6 +7767,22 @@
       "category": "Cloud",
       "published": "2026-11-09T09:22:51.344503+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach": {
+      "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+      "url": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-09T10:09:02+00:00",
+      "description": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek ."
+    },
+    "page:0b4b0f4c7cd2b2ede549f2d4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T11:07:48.191837+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7775,8 +7791,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "8f864fe035d95bf83a4f93c7482e7f41fdb60c3fb2484606c1482ddbcb62931b",
-    "https://status.cloud.google.com/": "14aa97a3e8c764add914fd0262091deece9dfcd031c98059d285a3c09e7473cd",
+    "https://azure.status.microsoft/en-us/status": "34510d0b3e7d4625c0152433f5f5692f6ee7f68e510bac53db5d42bd14c4f67a",
+    "https://status.cloud.google.com/": "1caf3187a5b4572ae3d2f321d083db359d34cb2eaf8c9d70a1a7632d491baa2c",
     "https://cloud.google.com/support/bulletins": "cd81f376552f3a42344107eefb48246688713ccbb8a0743a1da522faa6563fe3",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
