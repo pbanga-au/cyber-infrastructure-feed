@@ -8007,6 +8007,30 @@
       "category": "Cloud",
       "published": "2026-11-09T21:56:34.101265+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-124034,CVE-2026-124035": {
+      "title": "CVE-2026-124034, CVE-2026-124035: Issues with Amazon Braket SDK",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-175-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-09T22:42:12+00:00",
+      "description": "Bulletin ID: 2026-175-AWS Publication Date: 11/09/2026 14:15 PM PST Description: Amazon Braket SDK is an open source Python library that customers use to run quantum tasks and hybrid jobs on Amazon Braket. We identified CVE-2026-124034, an issue in the local hybrid job input data download in the Amazon Braket SDK. And we identified CVE-2026-124035, an issue in the error mitigation schema validation in Amazon Braket Schemas, the library the Amazon Braket SDK uses to parse quantum task results. Impacted versions: - amazon-braket-sdk >= 1.10.0 AND < 1.127.7 - amazon-braket-schemas >= 1.17.0 AND < 1.32.2 Refer to the article for the most up-to-date and complete information. Read this article"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses": {
+      "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+      "url": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T22:09:33+00:00",
+      "description": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]"
+    },
+    "page:54ace4158482653da1067cdf": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T22:55:48.177218+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8016,7 +8040,7 @@
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://azure.status.microsoft/en-us/status": "565cf200f8a1df078a23368064bf53f3c664e744cbff026159063595ebc10658",
-    "https://status.cloud.google.com/": "36465358e52fc9e24013b554aa5238279b09508d2bbfe4b2b1c9fd1ef2e926a7",
+    "https://status.cloud.google.com/": "08d4d5e79ee6cce4e0ce1560bf07fe0a25f3ffb0140e2c148a09b1e2bc9d1b7f",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
