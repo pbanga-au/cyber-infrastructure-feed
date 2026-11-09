@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:58:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 04:07:59 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 04:07:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 04:07:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2390,22 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 02 Nov 2026 21:52:12 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-116635 - Improper limitation of a pathname to a restricted directory in the deployment status component of the AWS Serverless MCP Server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-164-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-164-AWS Publication Date: 11/02/2026 13:30 PM PST Description: We identified CVE-2026-116635. Under certain conditions, improper limitation of a pathname to a restricted directory in the deployment status component of the MCP server might allow an actor who can influence the MCP agent to read the contents of JSON files outside the intended deployment status directory. Where write access has been enabled, to create or overwrite JSON files outside that directory. Impacted versions: &lt; v0.2.1 of awslabs.aws-serverless-mcp-server Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin. Read this article</description>
-      <pubDate>Mon, 02 Nov 2026 21:43:24 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Chinese hackers use ARTEX AI in automated attacks against 200 orgs</title>
-      <link>https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/</guid>
-      <description>[News] BleepingComputer: Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]</description>
-      <pubDate>Mon, 02 Nov 2026 21:40:14 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
