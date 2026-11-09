@@ -5557,7 +5557,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-02T17:13:41.064176+00:00",
+      "published": "2026-11-09T09:22:51.344503+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:51918d071b0c3158e84c2c73": {
@@ -7751,6 +7751,22 @@
       "category": "Cloud",
       "published": "2026-11-09T07:39:12.706337+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack": {
+      "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+      "url": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-09T08:35:50+00:00",
+      "description": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on SecurityWeek ."
+    },
+    "page:4a38731f8d70b389ab48c24d": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T09:22:51.344503+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7759,8 +7775,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "b57db16038890930b8b96556d5048f6eaa41cf69ad15a81c3df34c1ff440d2f9",
-    "https://status.cloud.google.com/": "15b716315a979d106612a33acc2d314528f0576e45f3b6cf6c4e2bdbc27c3723",
+    "https://azure.status.microsoft/en-us/status": "8f864fe035d95bf83a4f93c7482e7f41fdb60c3fb2484606c1482ddbcb62931b",
+    "https://status.cloud.google.com/": "14aa97a3e8c764add914fd0262091deece9dfcd031c98059d285a3c09e7473cd",
     "https://cloud.google.com/support/bulletins": "cd81f376552f3a42344107eefb48246688713ccbb8a0743a1da522faa6563fe3",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
