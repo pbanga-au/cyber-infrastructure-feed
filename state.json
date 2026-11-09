@@ -6333,7 +6333,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-08T01:18:02.485384+00:00",
+      "published": "2026-11-09T23:49:46.224760+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:7895dde68d383adcd80e044f": {
@@ -8031,6 +8031,22 @@
       "category": "Cloud",
       "published": "2026-11-09T22:55:48.177218+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed": {
+      "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+      "url": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T23:52:12+00:00",
+      "description": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]"
+    },
+    "page:d0b3f843ae5a835ab6495ac1": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T23:49:46.224760+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8039,8 +8055,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "565cf200f8a1df078a23368064bf53f3c664e744cbff026159063595ebc10658",
-    "https://status.cloud.google.com/": "08d4d5e79ee6cce4e0ce1560bf07fe0a25f3ffb0140e2c148a09b1e2bc9d1b7f",
+    "https://azure.status.microsoft/en-us/status": "1652b91310d9c5c4f50e29f0272ff0e1a2675e2435fee2ab6e237ca365702dc5",
+    "https://status.cloud.google.com/": "70e45d53c80a19e1675ad8ee401116fcf8571bdf41ea7cade568fcff8f19e5c3",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
