@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Nov 2026 17:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 19:06:06 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 19:06:06 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 19:06:06 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 09 Nov 2026 19:06:06 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>France blames Iranian hackers for supermarket attacks that sparked fires</title>
+      <link>https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/</guid>
+      <description>[News] BleepingComputer: France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]</description>
+      <pubDate>Mon, 09 Nov 2026 18:32:42 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Russian cloud firm Beget rebuilds from scratch after data wiper attack</title>
+      <link>https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/</guid>
+      <description>[News] BleepingComputer: A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]</description>
+      <pubDate>Mon, 09 Nov 2026 17:50:32 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Claude Code is accidentally exposing secrets all over GitHub</title>
+      <link>https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/</link>
+      <guid isPermaLink="false">https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/</guid>
+      <description>[News] Ars Technica Security: "Do not ask again" prompt leads to passwords, API keys, and more being shared.</description>
+      <pubDate>Mon, 09 Nov 2026 17:24:26 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1376,14 +1424,6 @@
       <category>News</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 23:52:51 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2366,46 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 03 Nov 2026 14:26:38 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode</title>
-      <link>https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/</guid>
-      <description>[News] SecurityWeek: The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 03 Nov 2026 14:12:44 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>UK school estate hit by 3AM ransomware in suspected AI-assisted attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/</guid>
-      <description>[News] BleepingComputer: A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]</description>
-      <pubDate>Tue, 03 Nov 2026 14:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Police seizes over 100 servers in investment scam crackdown</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/</guid>
-      <description>[News] BleepingComputer: European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]</description>
-      <pubDate>Tue, 03 Nov 2026 13:33:49 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 03 Nov 2026 13:15:29 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Android’s November 2026 Updates Patch Over 200 Vulnerabilities</title>
-      <link>https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/</guid>
-      <description>[News] SecurityWeek: The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 03 Nov 2026 12:21:49 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>

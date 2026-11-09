@@ -680,14 +680,6 @@
       "published": "2026-10-15T19:03:20+00:00",
       "description": "Bulletin ID: 2026-137-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/15/2026 10:30 AM PDT Description: AWS is aware of an issue in the Linux kernel's virtio-net/TAP networking path (CVE-2026-99999) that affects KVM-based hypervisors running unpatched Linux kernel versions 4.4 through 6.18. This issue could allow an actor with privileged access inside a guest virtual machine to send specially crafted network packets that corrupt host kernel memory that could result in disclosure of host memory or a denial of service. AWS-managed compute and container services, including Amazon EC2 instances, AWS Lambda, and AWS Fargate, are not affected. There is no action re"
     },
-    "cve:CVE-2026-89049": {
-      "title": "CVE-2026-89049 - Server-side request forgery in the Session Manager port forwarding functionality in AWS Systems Manager Agent",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-107-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-10T18:44:24+00:00",
-      "description": "Bulletin ID: 2026-107-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/10/2026 11:30 AM PDT Description: AWS Systems Manager Agent (SSM Agent) is software that runs on managed nodes (EC2 instances, on-premises servers, and other supported machines) and processes requests from the AWS Systems Manager service, enabling capabilities including Session Manager port forwarding to remote hosts. We identified CVE-2026-89049, a server-side request forgery issue in the remote-host port forwarding functionality. Due to improper validation of equivalent address representations, an authenticated user with port-forwarding permission could bypass the remote destination denyl"
-    },
     "cve:CVE-2026-107783": {
       "title": "CVE-2026-107783 - Insertion of sensitive information into log file in AWS Tools for PowerShell",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-132-aws/",
@@ -4389,7 +4381,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-05T23:52:51.051301+00:00",
+      "published": "2026-11-09T19:06:06.258146+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:5e1b1d2e4603d42200a14731": {
@@ -7911,6 +7903,46 @@
       "category": "Cloud",
       "published": "2026-11-09T17:21:09.660842+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires": {
+      "title": "France blames Iranian hackers for supermarket attacks that sparked fires",
+      "url": "https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T18:32:42+00:00",
+      "description": "France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack": {
+      "title": "Russian cloud firm Beget rebuilds from scratch after data wiper attack",
+      "url": "https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T17:50:32+00:00",
+      "description": "A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]"
+    },
+    "url:https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github": {
+      "title": "Claude Code is accidentally exposing secrets all over GitHub",
+      "url": "https://arstechnica.com/ai/2026/11/claude-code-settings-files-expose-thousands-of-secrets-on-github/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-11-09T17:24:26+00:00",
+      "description": "\"Do not ask again\" prompt leads to passwords, API keys, and more being shared."
+    },
+    "page:c1a9c0ab486a845007bd3c53": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T19:06:06.258146+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:93f43ada559565dee0de6dd5": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-09T19:06:06.258146+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7919,9 +7951,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "3012426a90a177c1a030c5114be74fea3b874346dc266a969675fa022bdf929a",
-    "https://status.cloud.google.com/": "38592c4711b66f0d6c8b07b1fe9e68471390dbeee62acf66b1af00f4b15d5303",
-    "https://cloud.google.com/support/bulletins": "cd81f376552f3a42344107eefb48246688713ccbb8a0743a1da522faa6563fe3",
+    "https://azure.status.microsoft/en-us/status": "565cf200f8a1df078a23368064bf53f3c664e744cbff026159063595ebc10658",
+    "https://status.cloud.google.com/": "bc8454485be23a6a6e609af1e992d668e3299b84578fe8056a965a796d04a487",
+    "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
