@@ -4149,7 +4149,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-06T13:17:34.579334+00:00",
+      "published": "2026-11-09T16:13:31.789024+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:db63a2a2917cca435c621728": {
@@ -7887,6 +7887,30 @@
       "category": "Cloud",
       "published": "2026-11-09T15:06:17.517432+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims": {
+      "title": "Binance denies data breach after alleged ShinyHunters claims",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T16:12:39+00:00",
+      "description": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems": {
+      "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-09T16:04:57+00:00",
+      "description": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]"
+    },
+    "page:29f31fa94b3450a7c2c880bf": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-09T16:13:31.789024+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -7895,8 +7919,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "526efe4fc4d63332a29d5d65fd6dd2c85abc2f9f563aebd4308485badd8b1887",
-    "https://status.cloud.google.com/": "a87a008384d15abf39b2d780e1905ce9c94ef109464ccb0679b8a9e463e8fc49",
+    "https://azure.status.microsoft/en-us/status": "b1d04703c7431adeefadb788514ac5617dabf9f797f8e975010f6a420115f47b",
+    "https://status.cloud.google.com/": "49bb5676955aae07ce3fd15c57a0dde84f390e68d22110f898b5916fbc7cc428",
     "https://cloud.google.com/support/bulletins": "cd81f376552f3a42344107eefb48246688713ccbb8a0743a1da522faa6563fe3",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
