@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 17:55:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 19:06:34 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</guid>
+      <description>[News] BleepingComputer: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]</description>
+      <pubDate>Tue, 10 Nov 2026 19:07:36 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 19:06:34 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 19:06:34 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 19:06:34 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-177-AWS Publication Date: 11/10/2026 10:45 AM PST Description: Untrusted search path in the cross-user process launcher in Open Job Description (OpenJD) Sessions for Python before 0.11.0, as used in the AWS Deadline Cloud worker agent before 0.33.0, on Linux might allow an authenticated remote user with permission to submit jobs to a queue to execute arbitrary code as the worker agent OS user and obtain the AWS credentials held by the worker agent via a crafted job that modifies the PATH environment variable. Impacted versions: - openjd-sessions &lt; 0.11.0 - deadline-cloud-worker-agent &lt; 0.33.0 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Tue, 10 Nov 2026 18:53:11 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Windows 11 KB5132061 &amp; KB5131087 cumulative updates released</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/</guid>
+      <description>[News] BleepingComputer: Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]</description>
+      <pubDate>Tue, 10 Nov 2026 18:33:26 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Adobe Patches 110 Vulnerabilities Across 9 Products</title>
+      <link>https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/</guid>
+      <description>[News] SecurityWeek: Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 10 Nov 2026 18:11:54 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2350,62 +2406,6 @@
       <description>[News] BleepingComputer: Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]</description>
       <pubDate>Wed, 04 Nov 2026 20:58:19 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 20:06:25 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 20:06:25 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-122192 - Guest Access to Firecracker Process Memory After a Failed Memory Discard</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-169-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-169-AWS Publication Date: 11/04/2026 11:30 AM PST Description: We identified CVE-2026-122192, an issue in Firecracker v0.23.0 through v1.16.1 that, under certain host memory conditions, can let a root user in a guest read or modify memory of the Firecracker process. It affects VMs restored from a snapshot using the File memory backend with a balloon or virtio-mem device. Impacted versions: Firecracker v0.23.0 through v1.16.1, inclusive. Refer to the article below for the most up-to-date and complete information. Read this article</description>
-      <pubDate>Wed, 04 Nov 2026 19:40:33 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 19:10:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>DreamHost confirms data breach exposed FTP logins and webmail sessions</title>
-      <link>https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/</guid>
-      <description>[News] BleepingComputer: DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 19:05:19 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Cyberattack disrupts blood storage refrigeration systems in France</title>
-      <link>https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/</guid>
-      <description>[News] BleepingComputer: France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 18:02:56 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 17:59:42 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>

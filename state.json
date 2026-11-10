@@ -8511,6 +8511,62 @@
       "category": "Cloud",
       "published": "2026-11-10T17:55:40.438822+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-126087": {
+      "title": "CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-10T18:53:11+00:00",
+      "description": "Bulletin ID: 2026-177-AWS Publication Date: 11/10/2026 10:45 AM PST Description: Untrusted search path in the cross-user process launcher in Open Job Description (OpenJD) Sessions for Python before 0.11.0, as used in the AWS Deadline Cloud worker agent before 0.33.0, on Linux might allow an authenticated remote user with permission to submit jobs to a queue to execute arbitrary code as the worker agent OS user and obtain the AWS credentials held by the worker agent via a crafted job that modifies the PATH environment variable. Impacted versions: - openjd-sessions < 0.11.0 - deadline-cloud-worker-agent < 0.33.0 Refer to the article for the most up-to-date and complete information."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day": {
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T19:07:36+00:00",
+      "description": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released": {
+      "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T18:33:26+00:00",
+      "description": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]"
+    },
+    "url:https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products": {
+      "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
+      "url": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T18:11:54+00:00",
+      "description": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on SecurityWeek ."
+    },
+    "page:a75b30d59d6b94e6ce43e443": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T19:06:34.910640+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:f711e16c464b69bc959a78a5": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T19:06:34.910640+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:858cae3eff7ad7d7e7231040": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-10T19:06:34.910640+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8519,9 +8575,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "9ea2fed0e5f52e5a912c4ab32eaa1c6ac7a0c66a26a6a40f396825a0cb069636",
-    "https://azure.status.microsoft/en-us/status": "e6a00029c344b92e5d6a60ead2de1947c9b3ae05460fc76c64c9efc4ed434448",
-    "https://status.cloud.google.com/": "3a2343b6091b833f8644c5d9cab76682ba46ee59b306e0004be9d91ccfd69b71",
-    "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
+    "https://azure.status.microsoft/en-us/status": "565c37460bcecdd00b538741189ccce0420c1ea1e89b449d23d8cef6f712ed12",
+    "https://status.cloud.google.com/": "1ceb99bd31056bb9825df1437cec2defa2079f8dcd39b07cc2b82002787aac73",
+    "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
