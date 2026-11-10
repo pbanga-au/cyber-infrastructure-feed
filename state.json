@@ -4997,7 +4997,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-05T06:11:28.307368+00:00",
+      "published": "2026-11-10T07:23:21.116901+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:47292c4efa4abc8be486685d": {
@@ -8095,6 +8095,22 @@
       "category": "Cloud",
       "published": "2026-11-10T06:02:18.891234+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year": {
+      "title": "Chrome Update Patches Exploited XML Zero-Day, Eighth This Year",
+      "url": "https://www.securityweek.com/chrome-update-patches-exploited-xml-zero-day-eighth-this-year/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T06:12:24+00:00",
+      "description": "The high-severity use-after-free in Chrome’s XML component was reported anonymously on November 6 and is already exploited in attacks. The post Chrome Update Patches Exploited XML Zero-Day, Eighth This Year appeared first on SecurityWeek ."
+    },
+    "page:a6514ba95f8444d31ae0aa24": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T07:23:21.116901+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8103,8 +8119,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "5e0d9b7967823ce249f4a36d8c600e858fc2dde2d0182ddb775dfe60854da9fb",
-    "https://status.cloud.google.com/": "2b07bb29ffc9ea50e1c519c60c25550828e2d7df86c252f8c7c85346db3f91a3",
+    "https://azure.status.microsoft/en-us/status": "10ebbe5b8a9838bef92ece8fd592b97e84238cce0d835ea8a1bc39647288529f",
+    "https://status.cloud.google.com/": "c6389102d435cd4af72351955b5e6261b99e39bdedb24d008772638edf436b83",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
