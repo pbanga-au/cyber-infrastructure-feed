@@ -688,14 +688,6 @@
       "published": "2026-10-09T15:56:44+00:00",
       "description": "Bulletin ID: 2026-132-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/09/2026 08:30 AM PDT Description: AWS Tools for PowerShell V5 lets developers and administrators manage their AWS services from the PowerShell scripting environment. We identified CVE-2026-107783, where insertion of sensitive information into log file in AWS Tools for PowerShell before 5.0.306 might allow local users to recover an IAM user's cleartext AWS Management Console password from command output and log artifacts. Impacted versions: <= v5.0.305 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
     },
-    "cve:CVE-2026-89332": {
-      "title": "CVE-2026-89332 - Kiro IDE Sensitive Workspace Data Exfiltration via Agent-Written Workspace Configuration",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-111-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-11T19:08:25+00:00",
-      "description": "Bulletin ID: 2026-111-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 12:00 PM PDT Description: Kiro IDE is an agentic development environment that makes it easy for developers to ship real engineering work with the help of AI agents. We identified CVE-2026-89332, where the Kiro agent could modify a workspace's settings file in an untrusted workspace in Kiro IDE. A specially crafted repository could use this to point the Kiro Powers registry URL, which Kiro fetches when the Powers panel is opened, at an external endpoint, sending potentially sensitive workspace data to that endpoint. Kiro presented the edit to the user for approval, showing the insert"
-    },
     "cve:CVE-2026-103956,CVE-2026-103957,CVE-2026-103958": {
       "title": "CVE-2026-103956, CVE-2026-103957, and CVE-2026-103958 - Issues in Loom for AWS",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-124-aws/",
@@ -8567,6 +8559,190 @@
       "category": "Cloud",
       "published": "2026-11-10T19:06:34.910640+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25044-security-advisory-0222": {
+      "title": "Security Advisory 0222",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25044-security-advisory-0222",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:23:30+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nDescription\nThese vulnerabilities affect EOS’s Resource Public Key Infrastructure (RPKI) client, which obtains Route Origin Authorization(ROA) data from an external cache for Border Gateway Protocol (BGP) route validation. An attacker controlling the RPKI cache or router to cache traffic can send a crafted RPKI message that can cause incorrect validation results or reset the RPKI agen ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25043-security-advisory-0221": {
+      "title": "Security Advisory 0221",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25043-security-advisory-0221",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:23:06+00:00",
+      "description": "Date: November 10, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nDescription\nThis advisory covers two vulnerabilities in the Routing Information Protocol version 2 (RIPv2) MD5 authentication on Arista EOS-based products. An unauthenticated attacker with adjacent network access may be able to interrupt routing services or inject unauthorized routes.\nCVE-2026-121287\nAn unauthenticated attacker on an adjacent network segment can send crafted RIPv2 pack ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25042-security-advisory-0220": {
+      "title": "Security Advisory 0220",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25042-security-advisory-0220",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:22:27+00:00",
+      "description": "Date: November 10, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026 \nInitial release — draft for review\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-121367 CVSSv3.1 Base Score: 9.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:L/VI:H/VA:H/SC:N/SI:L/SA:L) Common Weakness Enumeration: CWE-440: Expected Behavior Violation This vulnerability is being tracked by BUG 1981966\nDescription\nOn affected Arista EOS platfo ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25041-security-advisory-0219": {
+      "title": "Security Advisory 0219",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25041-security-advisory-0219",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:21:35+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120974 CVSSv3.1 Base Score: 5.3 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L) CVSSv4.0 Base Score: 6.9 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:H/SA:L) Common Weakness Enumeration: CWE-294: Authentication Bypass by Capture-replay This vulnerability is being tracked by BUG 1570728\nDescription\nOn affected platforms running Aris ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25040-security-advisory-0218": {
+      "title": "Security Advisory 0218",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25040-security-advisory-0218",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:21:07+00:00",
+      "description": "Date: November 10, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-121371 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N) CVSSv4.0 Base Score: 8.7 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-22 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') This vulnerability is being tracked by BUG 2048764(EOS), BUG 2069 ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25039-security-advisory-0217": {
+      "title": "Security Advisory 0217",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25039-security-advisory-0217",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:20:31+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120977 CVSSv3.1 Base Score: 8.2 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:N) CVSSv4.0 Base Score: 7.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:N/SC:L/SI:H/SA:N) Common Weakness Enumeration: CWE-807: Reliance on Untrusted Inputs in a Security DecisionThis vulnerability is being tracked by BUG 2048764(EOS), BUG 2069205(DMF)\nDescription\n ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25038-security-advisory-0216": {
+      "title": "Security Advisory 0216",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25038-security-advisory-0216",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:20:04+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120976 CVSSv3.1 Base Score: 6.0 (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:N) CVSSv4.0 Base Score: 7.0 (CVSS:4.0/AV:L/AC:L/AT:P/PR:H/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-532: Insertion of Sensitive Information into Log File This vulnerability is being tracked by BUG 1899357\nDescription\nOn affected platforms run ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25037-security-advisory-0215": {
+      "title": "Security Advisory 0215",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25037-security-advisory-0215",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:19:37+00:00",
+      "description": "Date: November 10, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120983 CVSSv3.1 Base Score: 7.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:H/VI:L/VA:L/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-284: Improper Access Control This vulnerability is being tracked by BUG 903925\nDescription\nOn affected EOS platforms where 802.1x is configured i ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25036-security-advisory-0214": {
+      "title": "Security Advisory 0214",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25036-security-advisory-0214",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:19:07+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\n \nDescription\nAll of the CVEs covered in this advisory apply to affected platforms running Arista EOS with the Virtual Private LAN Service using BGP Signaling (VPLS-BGP) enabled on the Provider Edge (PE) routers. These issues primarily affect customers using VPLS-BGP to connect disparate customer L2 networks.\nThese issues were discovered internally by Arista, and the company is not  ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25035-security-advisory-0213": {
+      "title": "Security Advisory 0213",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25035-security-advisory-0213",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:18:43+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\n \nThe CVE-ID tracking this issue: CVE-2026-121286 CVSSv3.1 Base Score: 6.5 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.0 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-476: NULL Pointer Dereference This vulnerability is being tracked by BUG 1975990\nDescription\nOn affected platforms running Arista EOS in mu ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25034-security-advisory-0212": {
+      "title": "Security Advisory 0212",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25034-security-advisory-0212",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:17:59+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120979 CVSSv3.1 Base Score: 8.1 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-1289: Improper Validation of Unsafe Equivalence in Input This vulnerability is being tracked by BUG 2059581\nDescription\nThis vulnerability aff ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25033-security-advisory-0211": {
+      "title": "Security Advisory 0211",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25033-security-advisory-0211",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:17:35+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120978 CVSSv3.1 Base Score: 6.5 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.0 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration:  CWE-476  NULL Pointer Dereference, CWE-617 Reachable Assertion This vulnerability is being tracked by BUG 1924022\nDescription\nOn affected Arista  ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25032-security-advisory-0210": {
+      "title": "Security Advisory 0210",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25032-security-advisory-0210",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:17:02+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-121293 CVSSv3.1 Base Score: 4.4 (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.9 (CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration:  CWE-476 NULL Pointer Dereference This vulnerability is being tracked by BUG 1961865, 1961866\nDescription\nOn affected EOS-based platforms, an atta ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25031-security-advisory-0209": {
+      "title": "Security Advisory 0209",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25031-security-advisory-0209",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:16:30+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-121290 CVSSv3.1 Base Score: 8.2 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:H) CVSSv4.0 Base Score: 8.3 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-420: Unprotected Alternate Channel This vulnerability is being tracked by BUG 1977472\nDescription\nOn affected platforms running Arista EOS wit ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25030-security-advisory-0208": {
+      "title": "Security Advisory 0208",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25030-security-advisory-0208",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:16:03+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-121289 CVSSv3.1 Base Score: 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.3 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-121: Stack-based Buffer Overflow This vulnerability is being tracked by BUG 1927959\nDescription\nOn affected platforms running Arista EOS with  ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25029-security-advisory-0207": {
+      "title": "Security Advisory 0207",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25029-security-advisory-0207",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:15:35+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120982 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 8.7 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: [CWE-440] Expected Behavior Violation This vulnerability is being tracked by BUG 1927714\nDescription\nOn affected platforms running Arista EOS with ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25028-security-advisory-0206": {
+      "title": "Security Advisory 0206",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25028-security-advisory-0206",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:15:10+00:00",
+      "description": "Date: November 10, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-121368 CVSSv3.1 Base Score: 8.6 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 8.9 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration:  CWE-787: Out-of-bounds Write. This vulnerability is being tracked by BUG 1965007\nDescription\nOn affected platforms running Arista EOS with Bidirecti ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25027-security-advisory-0205": {
+      "title": "Security Advisory 0205",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25027-security-advisory-0205",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-06T07:14:40+00:00",
+      "description": "Date: November 10, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 10, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-120975 CVSSv3.1 Base Score: 3.1 (CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:N/I:L/A:L) CVSSv4.0 Base Score: 2.0 (CVSS:4.0/AV:N/AC:H/AT:N/PR:H/UI:P/VC:N/VI:L/VA:L/SC:N/SI:L/SA:L) Common Weakness Enumeration: CWE-197: Numeric Truncation Error This vulnerability is being tracked by BUG 2047420\nDescription\nOn affected platforms running Arista EOS with aut ..."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments": {
+      "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T19:31:11+00:00",
+      "description": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]"
+    },
+    "url:https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft": {
+      "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+      "url": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T19:19:46+00:00",
+      "description": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek ."
+    },
+    "page:8b19596fb4cb58933ee559c8": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-10T20:01:36.866773+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:1d4b17586fcb8fe6cdb1b598": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T20:01:36.866773+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:c14129a3cc21f31a46b42550": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T20:01:36.866773+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8574,9 +8750,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "9ea2fed0e5f52e5a912c4ab32eaa1c6ac7a0c66a26a6a40f396825a0cb069636",
-    "https://azure.status.microsoft/en-us/status": "565c37460bcecdd00b538741189ccce0420c1ea1e89b449d23d8cef6f712ed12",
-    "https://status.cloud.google.com/": "1ceb99bd31056bb9825df1437cec2defa2079f8dcd39b07cc2b82002787aac73",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
+    "https://azure.status.microsoft/en-us/status": "4214f6efb978159f143de2decee8ee7d47dcb7e7ec5bf38bdf4db3e93c702a3e",
+    "https://status.cloud.google.com/": "ae6dd230a44b6e66584eca2ca225339721f9424b6793ad7f7b24e982bcc70990",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

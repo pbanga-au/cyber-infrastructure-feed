@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 19:06:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:01:36 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista Security Advisories — official page changed (review required)</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory</guid>
+      <description>[Network] Arista Security Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 20:01:36 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 20:01:36 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 20:01:36 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Hackers exploit trusted AWS access to breach multiple cloud environments</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/</guid>
+      <description>[News] BleepingComputer: A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]</description>
+      <pubDate>Tue, 10 Nov 2026 19:31:11 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft</title>
+      <link>https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/</guid>
+      <description>[News] SecurityWeek: CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 10 Nov 2026 19:19:46 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</link>
@@ -1896,6 +1936,469 @@
       <category>Cloud</category>
     </item>
     <item>
+      <title>Security Advisory 0222</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25044-security-advisory-0222</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25044-security-advisory-0222</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+Description
+These vulnerabilities affect EOS’s Resource Public Key Infrastructure (RPKI) client, which obtains Route Origin Authorization(ROA) data from an external cache for Border Gateway Protocol (BGP) route validation. An attacker controlling the RPKI cache or router to cache traffic can send a crafted RPKI message that can cause incorrect validation results or reset the RPKI agen ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:23:30 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0221</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25043-security-advisory-0221</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25043-security-advisory-0221</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+Description
+This advisory covers two vulnerabilities in the Routing Information Protocol version 2 (RIPv2) MD5 authentication on Arista EOS-based products. An unauthenticated attacker with adjacent network access may be able to interrupt routing services or inject unauthorized routes.
+CVE-2026-121287
+An unauthenticated attacker on an adjacent network segment can send crafted RIPv2 pack ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:23:06 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0220</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25042-security-advisory-0220</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25042-security-advisory-0220</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026 
+Initial release — draft for review
+
+
+
+The CVE-ID tracking this issue: CVE-2026-121367 CVSSv3.1 Base Score: 9.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:H) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:L/VI:H/VA:H/SC:N/SI:L/SA:L) Common Weakness Enumeration: CWE-440: Expected Behavior Violation This vulnerability is being tracked by BUG 1981966
+Description
+On affected Arista EOS platfo ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:22:27 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0219</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25041-security-advisory-0219</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25041-security-advisory-0219</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120974 CVSSv3.1 Base Score: 5.3 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L) CVSSv4.0 Base Score: 6.9 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:L/SC:N/SI:H/SA:L) Common Weakness Enumeration: CWE-294: Authentication Bypass by Capture-replay This vulnerability is being tracked by BUG 1570728
+Description
+On affected platforms running Aris ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:21:35 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0218</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25040-security-advisory-0218</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25040-security-advisory-0218</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-121371 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N) CVSSv4.0 Base Score: 8.7 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:N/VA:N/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-22 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') This vulnerability is being tracked by BUG 2048764(EOS), BUG 2069 ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:21:07 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0217</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25039-security-advisory-0217</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25039-security-advisory-0217</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120977 CVSSv3.1 Base Score: 8.2 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:C/C:L/I:H/A:N) CVSSv4.0 Base Score: 7.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:N/VI:H/VA:N/SC:L/SI:H/SA:N) Common Weakness Enumeration: CWE-807: Reliance on Untrusted Inputs in a Security DecisionThis vulnerability is being tracked by BUG 2048764(EOS), BUG 2069205(DMF)
+Description
+ ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:20:31 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0216</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25038-security-advisory-0216</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25038-security-advisory-0216</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120976 CVSSv3.1 Base Score: 6.0 (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:N) CVSSv4.0 Base Score: 7.0 (CVSS:4.0/AV:L/AC:L/AT:P/PR:H/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-532: Insertion of Sensitive Information into Log File This vulnerability is being tracked by BUG 1899357
+Description
+On affected platforms run ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:20:04 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0215</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25037-security-advisory-0215</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25037-security-advisory-0215</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120983 CVSSv3.1 Base Score: 7.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:H/VI:L/VA:L/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-284: Improper Access Control This vulnerability is being tracked by BUG 903925
+Description
+On affected EOS platforms where 802.1x is configured i ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:19:37 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0214</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25036-security-advisory-0214</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25036-security-advisory-0214</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+ 
+Description
+All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with the Virtual Private LAN Service using BGP Signaling (VPLS-BGP) enabled on the Provider Edge (PE) routers. These issues primarily affect customers using VPLS-BGP to connect disparate customer L2 networks.
+These issues were discovered internally by Arista, and the company is not  ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:19:07 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0213</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25035-security-advisory-0213</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25035-security-advisory-0213</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+ 
+The CVE-ID tracking this issue: CVE-2026-121286 CVSSv3.1 Base Score: 6.5 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.0 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-476: NULL Pointer Dereference This vulnerability is being tracked by BUG 1975990
+Description
+On affected platforms running Arista EOS in mu ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:18:43 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0212</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25034-security-advisory-0212</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25034-security-advisory-0212</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120979 CVSSv3.1 Base Score: 8.1 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-1289: Improper Validation of Unsafe Equivalence in Input This vulnerability is being tracked by BUG 2059581
+Description
+This vulnerability aff ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:17:59 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0211</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25033-security-advisory-0211</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25033-security-advisory-0211</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120978 CVSSv3.1 Base Score: 6.5 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.0 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration:  CWE-476  NULL Pointer Dereference, CWE-617 Reachable Assertion This vulnerability is being tracked by BUG 1924022
+Description
+On affected Arista  ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:17:35 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0210</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25032-security-advisory-0210</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25032-security-advisory-0210</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-121293 CVSSv3.1 Base Score: 4.4 (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.9 (CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration:  CWE-476 NULL Pointer Dereference This vulnerability is being tracked by BUG 1961865, 1961866
+Description
+On affected EOS-based platforms, an atta ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:17:02 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0209</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25031-security-advisory-0209</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25031-security-advisory-0209</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-121290 CVSSv3.1 Base Score: 8.2 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:H) CVSSv4.0 Base Score: 8.3 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-420: Unprotected Alternate Channel This vulnerability is being tracked by BUG 1977472
+Description
+On affected platforms running Arista EOS wit ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:16:30 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0208</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25030-security-advisory-0208</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25030-security-advisory-0208</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-121289 CVSSv3.1 Base Score: 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.3 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-121: Stack-based Buffer Overflow This vulnerability is being tracked by BUG 1927959
+Description
+On affected platforms running Arista EOS with  ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:16:03 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0207</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25029-security-advisory-0207</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25029-security-advisory-0207</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120982 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 8.7 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: [CWE-440] Expected Behavior Violation This vulnerability is being tracked by BUG 1927714
+Description
+On affected platforms running Arista EOS with ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:15:35 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0206</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25028-security-advisory-0206</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25028-security-advisory-0206</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-121368 CVSSv3.1 Base Score: 8.6 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 8.9 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration:  CWE-787: Out-of-bounds Write. This vulnerability is being tracked by BUG 1965007
+Description
+On affected platforms running Arista EOS with Bidirecti ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:15:10 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0205</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25027-security-advisory-0205</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25027-security-advisory-0205</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-120975 CVSSv3.1 Base Score: 3.1 (CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:N/I:L/A:L) CVSSv4.0 Base Score: 2.0 (CVSS:4.0/AV:N/AC:H/AT:N/PR:H/UI:P/VC:N/VI:L/VA:L/SC:N/SI:L/SA:L) Common Weakness Enumeration: CWE-197: Numeric Truncation Error This vulnerability is being tracked by BUG 2047420
+Description
+On affected platforms running Arista EOS with aut ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:14:40 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2221,190 +2724,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/</guid>
       <description>[News] SecurityWeek: The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .</description>
       <pubDate>Thu, 05 Nov 2026 10:37:13 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 10:16:50 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks</title>
-      <link>https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/</guid>
-      <description>[News] SecurityWeek: OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 10:02:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>GhostMap Android flaw lets malicious app trigger persistent boot loop</title>
-      <link>https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/</guid>
-      <description>[News] BleepingComputer: Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]</description>
-      <pubDate>Thu, 05 Nov 2026 09:18:29 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 09:12:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 07:30:07 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 06:11:28 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 05:09:46 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 04:04:36 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 02:59:43 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>GoDaddy Certificate Advisories — official page changed (review required)</title>
-      <link>https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</link>
-      <guid isPermaLink="false">https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</guid>
-      <description>[PKI] GoDaddy Certificate Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 01:19:23 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 01:19:23 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>GoDaddy Help — official page changed (review required)</title>
-      <link>https://www.godaddy.com/help/ssl-certificates-1000006</link>
-      <guid isPermaLink="false">https://www.godaddy.com/help/ssl-certificates-1000006</guid>
-      <description>[PKI] GoDaddy Help: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 01:19:23 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>GoDaddy Certificate Advisories — official page changed (review required)</title>
-      <link>https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</link>
-      <guid isPermaLink="false">https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</guid>
-      <description>[PKI] GoDaddy Certificate Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 23:51:57 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 23:51:57 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>GoDaddy Help — official page changed (review required)</title>
-      <link>https://www.godaddy.com/help/ssl-certificates-1000006</link>
-      <guid isPermaLink="false">https://www.godaddy.com/help/ssl-certificates-1000006</guid>
-      <description>[PKI] GoDaddy Help: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 23:51:57 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 22:57:17 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Hackers exploited iOS and Android flaws to infect phones</title>
-      <link>https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/hackers-exploited-ios-and-android-flaws-to-infect-phones/</guid>
-      <description>[News] Ars Technica Security: Researchers say group may have been Kremlin-sponsored in search of diplomatic targets.</description>
-      <pubDate>Wed, 04 Nov 2026 22:26:49 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 21:56:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 21:56:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-122266 - Improper isolation of shared resources in aws-network-policy-agent in Amazon EKS</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-170-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-170-AWS Publication Date: 11/04/2026 13:30 PM PST Description: We identified CVE-2026-122266, an issue in Amazon EKS Network Policy Agent (aws-network-policy-agent). Improper isolation of shared eBPF connection tracking state might allow an authenticated adjacent user to bypass NetworkPolicy ingress enforcement on co-located pods. Impacted versions: - aws-network-policy-agent &lt; 1.3.7 - Amazon VPC CNI Managed Add-on &lt; 1.22.3 Refer to the article below for the most up-to-date and complete information. Read this article</description>
-      <pubDate>Wed, 04 Nov 2026 21:53:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Vercel rolls out new protection against stolen session cookie attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/</guid>
-      <description>[News] BleepingComputer: Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 21:31:18 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 21:00:36 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Zyxel fixes zero-day exploited to hack nearly 1,000 network switches</title>
-      <link>https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/</guid>
-      <description>[News] BleepingComputer: Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 20:58:19 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
