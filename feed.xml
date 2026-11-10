@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 22:53:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 23:45:46 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 23:45:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 23:45:46 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2801,22 +2817,6 @@ On affected platforms running Arista EOS with aut ...</description>
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-171-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-171-AWS Publication Date: 11/05/2026 08:30 AM PST Description: GluonTS is an open-source Python library for probabilistic time series modeling. We identified CVE-2026-119083, an issue in the archive extraction utility in GluonTS before 0.17.0. An actor who supplies a crafted tar archive containing symbolic or hard links might be able to write arbitrary files outside the intended extraction directory with the privileges of the extracting process. Impacted versions: &lt; 0.17.0 Refer to the article below for the most up-to-date and complete information. Read this article</description>
       <pubDate>Thu, 05 Nov 2026 16:43:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Hackers backdoor Linux servers using trojanized CWP web server</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/</guid>
-      <description>[News] BleepingComputer: A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]</description>
-      <pubDate>Thu, 05 Nov 2026 16:24:26 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 16:15:09 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
