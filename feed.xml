@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:00:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 11:58:38 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 11:58:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 11:58:38 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/chrome-157-rolls-out-with-213-security-fixes-seven-rated-critical/</guid>
       <description>[News] SecurityWeek: The browser update resolves dozens of memory safety bugs and incorrect/missing authorization issues. The post Chrome 157 Rolls Out With 213 Security Fixes, Seven Rated Critical appeared first on SecurityWeek .</description>
       <pubDate>Wed, 04 Nov 2026 10:38:46 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist</title>
-      <link>https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/rigged-coding-assignment-abused-ai-tool-opened-path-to-6-billion-binance-heist/</guid>
-      <description>[News] SecurityWeek: Binance’s first incident report traces the record theft to a months-long campaign that compromised three engineers’ computers. The post Rigged Coding Assignment, Abused AI Tool Opened Path to $6 Billion Binance Heist appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 04 Nov 2026 10:36:32 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers use n-day exploits in zero-click attacks on iOS, Android devices</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/</guid>
-      <description>[News] BleepingComputer: A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 09:39:54 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
