@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:56:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 21:51:24 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 21:51:24 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 21:51:24 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
+      <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</guid>
+      <description>[News] Ars Technica Security: Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
+      <pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2793,30 +2817,6 @@ On affected platforms running Arista EOS with aut ...</description>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 05 Nov 2026 15:08:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Sectigo Knowledge Base — official page changed (review required)</title>
-      <link>https://www.sectigo.com/knowledge-base</link>
-      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
-      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 15:08:41 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>Closing the Identity Gap at the Service Desk</title>
-      <link>https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/</guid>
-      <description>[News] BleepingComputer: Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficient and how organizations can secure account recovery against social engineering risks. [...]</description>
-      <pubDate>Thu, 05 Nov 2026 15:00:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 13:24:40 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>

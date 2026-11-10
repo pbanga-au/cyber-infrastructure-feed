@@ -8823,6 +8823,30 @@
       "category": "Cloud",
       "published": "2026-11-10T20:56:05.016144+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi": {
+      "title": "Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI",
+      "url": "https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-11-10T21:12:59+00:00",
+      "description": "Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them."
+    },
+    "page:bb4a7edac31ca8de5f2e37b9": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T21:51:24.593875+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:75dc46547b632ea33bcd4e3b": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T21:51:24.593875+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8831,8 +8855,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "380ed0d49ca7ff010dde5d1cb4a6cafcc689aaff2a3ec8652484bb36e7d3bab0",
-    "https://status.cloud.google.com/": "4a98817fd8fd649c4c647cd1a0478e3cef125d465ad30b469d877d228e96e75c",
+    "https://azure.status.microsoft/en-us/status": "0b6fa9c0921b47f18dc4e130a30e1253f7e369faa5a8fc511184030cda7d1d3a",
+    "https://status.cloud.google.com/": "a52710d18979ca163bbf4a6f58fa1ab498ca5e524c483a2c553f760cdf1d2d49",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
