@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 20:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 20:56:05 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 20:56:05 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 20:56:05 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Japanese furniture giant Nitori says hackers stole 37.6M customer records</title>
+      <link>https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/</guid>
+      <description>[News] BleepingComputer: Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]</description>
+      <pubDate>Tue, 10 Nov 2026 20:54:55 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-124848 - Incorrect default permissions on session transcripts and prompt history in Kiro CLI</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-178-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-178-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-178-AWS Publication Date: 11/10/2026 12:00 PM PST Description: Incorrect default file permissions in Kiro CLI before version 2.27.0 on macOS and Linux might allow other local users on the same host to read a user's session transcripts and prompt history, including any credentials or source code they contain. The CLI created its local session storage files with permissions that made them readable by all local users. Impacted versions: Kiro CLI &gt;= 1.16.0 AND &lt; 2.27.0 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Tue, 10 Nov 2026 20:05:36 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Microsoft releases Windows 10 KB5131096 extended security update</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/</guid>
+      <description>[News] BleepingComputer: Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]</description>
+      <pubDate>Tue, 10 Nov 2026 20:04:36 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Arista Security Advisories — official page changed (review required)</title>
       <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
@@ -286,6 +326,14 @@
       <description>[News] BleepingComputer: SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]</description>
       <pubDate>Tue, 10 Nov 2026 12:07:03 +0000</pubDate>
       <category>News</category>
+    </item>
+    <item>
+      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability CVE-2026-116606 Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-124194 Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability CVE-20</description>
+      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -1272,14 +1320,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 22:47:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -1934,6 +1974,139 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 06 Nov 2026 07:28:06 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>Security Advisory 0227</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25049-security-advisory-0227</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25049-security-advisory-0227</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+The CVE-ID tracking this issue: CVE-2026-102166 CVSSv3.1 Base Score: 8.8 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.4 (CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H) CWE: CWE-798: Use of Hard-coded Credentials This vulnerability is being tracked by BUG 1846906
+Description
+Arista C-260 and C-250 access points ship with fleet-wide static cry ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:26:11 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0226</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25048-security-advisory-0226</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25048-security-advisory-0226</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+Description
+Many of Arista's products utilize industry-standard server hardware platforms. Periodically, vulnerabilities are identified within the underlying server components, which are documented and published by the OEM hardware vendor as security advisories. This advisory provides a consolidated reference of such vulnerabilities affecting the server hardware used by specific Arist ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:25:45 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0225</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25047-security-advisory-0225</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25047-security-advisory-0225</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+ 
+The CVE-ID tracking this issue: CVE-2026-121369 CVSSv3.1 Base Score: 5.3 (CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.7 (CVSS:4.0/AV:P/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration: CWE-770: Allocation of Resources Without Limits or Throttling This vulnerability is being tracked by BUG 1880613
+Description
+On affected platfo ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:25:14 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0224</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25046-security-advisory-0224</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25046-security-advisory-0224</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+  
+The CVE-ID tracking this issue: CVE-2026-121370 CVSSv3.1 Base Score: 8.6 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 9.2 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration: CWE-770: Allocation of Resources Without Limits or Throttling This vulnerability is being tracked by BUG 1860051
+Description
+On affected platf ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:24:33 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Security Advisory 0223</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25045-security-advisory-0223</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25045-security-advisory-0223</guid>
+      <description>[Network] Arista Security: Date: November 10, 2026
+ 
+
+
+
+Revision
+Date
+Changes
+
+
+1.0
+November 10, 2026
+Initial release
+
+
+
+Description
+All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with the Seamless Bidirectional Forwarding Detection (S-BFD) feature configured.
+These issues were discovered internally by Arista, and the company is not aware of any malicious exploitation of this vulnerability in customer networks.
+CVE-2026-121294
+On affected platforms running Ari ...</description>
+      <pubDate>Fri, 06 Nov 2026 07:23:57 +0000</pubDate>
+      <category>Network</category>
     </item>
     <item>
       <title>Security Advisory 0222</title>
@@ -2645,86 +2818,6 @@ On affected platforms running Arista EOS with aut ...</description>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 05 Nov 2026 13:24:40 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns</title>
-      <link>https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/</guid>
-      <description>[News] SecurityWeek: More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 13:22:12 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised</title>
-      <link>https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/</guid>
-      <description>[News] SecurityWeek: The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 12:58:32 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws</title>
-      <link>https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/</guid>
-      <description>[News] SecurityWeek: Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 12:33:49 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Post-Quantum Questions to Ask Your Vendors</title>
-      <link>https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors</link>
-      <guid isPermaLink="false">https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors</guid>
-      <description>[Security] CISA Advisories: CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness for transitioning to post-quantum cryptography (PQC). As quantum computing advances, widely used public-key cryptography will become vulnerable to compromise from cryptographically relevant quantum computers (CRQCs). To protect their systems and data, organizations must plan for and transition to PQC—which includes algorithms capable of withstanding both classical computing and quantum-enabled threats—before CRQCs become available. Many organizations rely o</description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems</title>
-      <link>https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems</link>
-      <guid isPermaLink="false">https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems</guid>
-      <description>[Security] CISA Advisories: Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter referred to as “the authoring organizations”—are aware of malicious cyber activity targeting industrial refrigeration and cold chain monitoring systems globally. Organizations in the Healthcare and Public Health , Chemical , Food and Agriculture , and Transportation Systems Sectors widely use these systems, including in refrigerated transport services, for automated and remote monitoring of temperatures, continuous temperature logging, defrost cycle management, </description>
-      <pubDate>Thu, 05 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 05 Nov 2026 11:19:36 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>The Agent Smith Dilemma: Governing Agentic Identities</title>
-      <link>https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/</guid>
-      <description>[News] SecurityWeek: Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 11:15:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality</title>
-      <link>https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/</guid>
-      <description>[News] SecurityWeek: Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 11:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day</title>
-      <link>https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/</guid>
-      <description>[News] SecurityWeek: Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 10:56:41 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes</title>
-      <link>https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/</guid>
-      <description>[News] SecurityWeek: The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 05 Nov 2026 10:37:13 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
