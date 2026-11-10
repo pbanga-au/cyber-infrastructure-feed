@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 15:58:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 17:02:11 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 17:02:11 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 17:02:11 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next</title>
+      <link>https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/</guid>
+      <description>[News] SecurityWeek: SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it. The post Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 10 Nov 2026 16:45:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-125271 - AWS API MCP Server Security Policy Bypass via Incorrect Operation Name Normalization</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-176-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-176-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-176-AWS Publication Date: 11/10/2026 08:30 AM PST Description: We identified CVE-2026-125271 of AWS API MCP Server. The server normalized operation names incorrectly before comparing them to the operator ' s security policy, so operations whose names contain consecutive capital letters never matched a correctly written denyList or elicitList entry. This might allow an actor to execute AWS API operations that the operator's security policy was configured to deny or require elicitation for. Impacted versions: &gt;= 0.2.13 AND &lt; 1.5.1 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Tue, 10 Nov 2026 16:42:37 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code</title>
+      <link>https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/</guid>
+      <description>[News] SecurityWeek: Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees. The post Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 10 Nov 2026 16:42:02 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers</title>
+      <link>https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/</guid>
+      <description>[News] BleepingComputer: A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]</description>
+      <pubDate>Tue, 10 Nov 2026 16:17:16 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Binance warns of iOS flaw that could leak crypto wallet secrets</title>
       <link>https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/</link>
@@ -2357,54 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/</guid>
       <description>[News] BleepingComputer: The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]</description>
       <pubDate>Wed, 04 Nov 2026 16:58:46 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Binance says hackers who stole billions in crypto spent months planning heist</title>
-      <link>https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/</link>
-      <guid isPermaLink="false">https://arstechnica.com/information-technology/2026/11/binance-says-hackers-who-stole-billions-in-crypto-spent-months-planning-heist/</guid>
-      <description>[News] Ars Technica Security: Techniques included laptop infections, compromised internal tooling, and fake job interviews.</description>
-      <pubDate>Wed, 04 Nov 2026 16:06:03 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 16:02:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>mSecure password manager hack prompts password reset warnings</title>
-      <link>https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/</guid>
-      <description>[News] BleepingComputer: mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 16:00:18 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Calendar phishing campaign hijacks sessions, bypasses MFA</title>
-      <link>https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/</guid>
-      <description>[News] BleepingComputer: A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messages, and helped take down nearly 900 domains used by the attackers. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 15:00:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 04 Nov 2026 15:00:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>SonicWall warns of unpatched flaws in end-of-life GMS software</title>
-      <link>https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/</guid>
-      <description>[News] BleepingComputer: SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 14:42:25 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
