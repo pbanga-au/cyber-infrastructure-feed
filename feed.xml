@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 13:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:25:12 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 14:25:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 10 Nov 2026 14:25:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Over a Dozen Organizations Hit in Qubole Supply Chain Attack</title>
+      <link>https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/</guid>
+      <description>[News] SecurityWeek: Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 10 Nov 2026 13:27:44 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -357,14 +381,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-174-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-174-AWS Publication Date: 11/09/2026 13:00 PM PST Description: AWS ParallelCluster CLI is an open source command line tool, distributed on PyPI as aws-parallelcluster. We identified CVE-2026-124033, an issue where the export-cluster-logs and export-image-logs commands in the AWS ParallelCluster CLI before version 3.16.0 contain a relative path traversal issue. An authenticated remote user with write access to the log export Amazon S3 bucket could use a crafted S3 object key to write files outside the intended export directory on the machine running the command. Impacted versions: &gt;= 3.0.0 AND &lt; 3.16.0 Refer to the article for the most up-to-date and complete information. Re</description>
       <pubDate>Mon, 09 Nov 2026 21:12:17 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 09 Nov 2026 21:01:35 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2390,22 +2406,6 @@
       <description>[News] SecurityWeek: A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on SecurityWeek .</description>
       <pubDate>Wed, 04 Nov 2026 12:27:58 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>CISA flags WordPress RCE flaw as actively exploited in attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/</guid>
-      <description>[News] BleepingComputer: The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]</description>
-      <pubDate>Wed, 04 Nov 2026 12:11:05 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog</guid>
-      <description>[Security] CISA Advisories: CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, specifically </description>
-      <pubDate>Wed, 04 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>

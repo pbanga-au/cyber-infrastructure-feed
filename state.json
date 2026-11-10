@@ -5605,7 +5605,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-09T21:01:35.471399+00:00",
+      "published": "2026-11-10T14:25:12.331681+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:091fc83fdb6c6cfb163d502f": {
@@ -8223,6 +8223,22 @@
       "category": "Cloud",
       "published": "2026-11-10T13:15:29.298185+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack": {
+      "title": "Over a Dozen Organizations Hit in Qubole Supply Chain Attack",
+      "url": "https://www.securityweek.com/over-a-dozen-organizations-hit-in-qubole-supply-chain-attack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T13:27:44+00:00",
+      "description": "Hackers used compromised Qubole IAM credentials to steal customer files, secrets, keys, environment variables, and credentials. The post Over a Dozen Organizations Hit in Qubole Supply Chain Attack appeared first on SecurityWeek ."
+    },
+    "page:4a61679c13b6579f4eadad45": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T14:25:12.331681+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8231,8 +8247,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "6448326ed38410dc691ccb24fef54f3332554a6306198111719c06ea9140fd64",
-    "https://status.cloud.google.com/": "ac9058441cae9006184a4ba5083dfd90029e5f43f6fc8d7111703afefa687461",
+    "https://azure.status.microsoft/en-us/status": "407e2168302e59e87608255f637a65e6c3728822b866551c79f4a97d5dc40dfc",
+    "https://status.cloud.google.com/": "4e206a31ad6e1b1bca31a8524e93505d05c19511e23ebaf4616f05a061264db2",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
