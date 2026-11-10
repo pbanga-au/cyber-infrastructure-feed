@@ -3109,7 +3109,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-09T05:17:45.551063+00:00",
+      "published": "2026-11-10T09:02:02.147877+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:80a563f65cd8f88703f06734": {
@@ -8111,6 +8111,38 @@
       "category": "Cloud",
       "published": "2026-11-10T07:23:21.116901+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year": {
+      "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
+      "url": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T08:51:25+00:00",
+      "description": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack": {
+      "title": "Fireworks AI discloses new breach after cloud provider hack",
+      "url": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T07:49:58+00:00",
+      "description": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]"
+    },
+    "url:https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators": {
+      "title": "France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators",
+      "url": "https://www.securityweek.com/france-blames-iran-for-a-cyberattack-that-heated-supermarket-refrigerators/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T07:35:05+00:00",
+      "description": "France summoned the Iranian ambassador and said it would seek European sanctions against those responsible for the attack The post France Blames Iran for a Cyberattack That Heated Supermarket Refrigerators appeared first on SecurityWeek ."
+    },
+    "page:a73f30f16e97a1de6f4eef50": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T09:02:02.147877+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8119,8 +8151,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "10ebbe5b8a9838bef92ece8fd592b97e84238cce0d835ea8a1bc39647288529f",
-    "https://status.cloud.google.com/": "c6389102d435cd4af72351955b5e6261b99e39bdedb24d008772638edf436b83",
+    "https://azure.status.microsoft/en-us/status": "34a027e4b6b3c0bee83f361f2316ae832083a3ae8803d227fecf650ccc0551c2",
+    "https://status.cloud.google.com/": "5ff5a7e996293eb358ac1da92dadfa397507e5309fc0639f0d397d9e2d904520",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
