@@ -696,14 +696,6 @@
       "published": "2026-09-11T19:08:25+00:00",
       "description": "Bulletin ID: 2026-111-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 12:00 PM PDT Description: Kiro IDE is an agentic development environment that makes it easy for developers to ship real engineering work with the help of AI agents. We identified CVE-2026-89332, where the Kiro agent could modify a workspace's settings file in an untrusted workspace in Kiro IDE. A specially crafted repository could use this to point the Kiro Powers registry URL, which Kiro fetches when the Powers panel is opened, at an external endpoint, sending potentially sensitive workspace data to that endpoint. Kiro presented the edit to the user for approval, showing the insert"
     },
-    "cve:CVE-2026-89090": {
-      "title": "CVE-2026-89090 - Denial of service in the event stream header decoder in AWS SDK for Go v2",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-110-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-11T17:09:09+00:00",
-      "description": "Bulletin ID: 2026-110-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/11/2026 10:00 AM PDT Description: An issue exists in the the EventStream header decoder in AWS SDK for Go v2 in versions predating 2026-03-23. An actor can send a malformed EventStream response frame containing a crafted header value type byte outside the valid range, which can cause the host process to terminate. Impacted versions: < 2026-03-23 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
-    },
     "cve:CVE-2026-103956,CVE-2026-103957,CVE-2026-103958": {
       "title": "CVE-2026-103956, CVE-2026-103957, and CVE-2026-103958 - Issues in Loom for AWS",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-124-aws/",
@@ -8503,6 +8495,22 @@
       "category": "Cloud",
       "published": "2026-11-10T17:02:11.503636+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:37410e718eb2dfd95e55d18b": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T17:55:40.438822+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:621af13736f267cbe3f2e8d8": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T17:55:40.438822+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8511,8 +8519,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "9ea2fed0e5f52e5a912c4ab32eaa1c6ac7a0c66a26a6a40f396825a0cb069636",
-    "https://azure.status.microsoft/en-us/status": "ec94df4e37a8c65313e357d7b113de30c733d52f5eb04976bf01bf0996dc1cc2",
-    "https://status.cloud.google.com/": "f5b8e6f5dc953ea029b9fb0893d1282f2028a27eae00b78fb359341aa862e97c",
+    "https://azure.status.microsoft/en-us/status": "e6a00029c344b92e5d6a60ead2de1947c9b3ae05460fc76c64c9efc4ed434448",
+    "https://status.cloud.google.com/": "3a2343b6091b833f8644c5d9cab76682ba46ee59b306e0004be9d91ccfd69b71",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
