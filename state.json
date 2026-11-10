@@ -4669,7 +4669,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-10T11:00:34.619937+00:00",
+      "published": "2026-11-10T15:58:35.437925+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:646039f6cf83f9b4733c02ff": {
@@ -8239,6 +8239,238 @@
       "category": "Cloud",
       "published": "2026-11-10T14:25:12.331681+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25024-security-advisory-0204": {
+      "title": "Security Advisory 0204",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25024-security-advisory-0204",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-02T23:17:37+00:00",
+      "description": "Date: November 3, 2026\nAdvance Notice for Publication of November 10, 2026 Security Advisories Release\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 3, 2026\nInitial release\n\n\n\nUpdate Type:\nInformational\nOverview:\nAs part of Arista’s ongoing commitment to security and transparency, Arista is providing advance notice for multiple Security Advisories scheduled for publication on November 10, 2026.\nBackground:\nRecent enhancements to our vulnerability detection processes have resulte ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25023-security-advisory-0203": {
+      "title": "Security Advisory 0203",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25023-security-advisory-0203",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-02T19:07:11+00:00",
+      "description": "Date: November 2, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 2, 2026\nInitial release\n\n\n1.1\nNovember 3, 2026\nRemove Wifi-AP from affected products to unaffected products. Move additional products from under triage to unaffected products.\n\n\n1.2\nNovember 6, 2026\nAdd CloudVision Portal on-premises to unaffected products.Add mitigation options for EOS and NetVisor.\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-98432 CVSSv3.1 Base Score: 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24853-security-advisory-0202": {
+      "title": "Security Advisory 0202",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24853-security-advisory-0202",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-30T20:28:07+00:00",
+      "description": "Date: November 2, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 2, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-111497 CVSSv3.1 Base Score: 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.2 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-252 Unchecked Return Value , CWE-787 Out-of-bounds write This vulnerability is being tracked by BUG 2053049 (VeloCloud Orchestrator)\nDescription\nTh ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24847-security-advisory-0201": {
+      "title": "Security Advisory 0201",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24847-security-advisory-0201",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-24T02:50:35+00:00",
+      "description": "Date: October 23, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 23, 2026\nInitial release\n\n\n1.1\nOctober 26, 2026\nUpdated some mitigation details and added more Streaming Telemetry Agent fixed versions\n\n\n1.2\nOctober 29, 2026\nFurther clarifications and additional release versions provided\n\n\n1.3\nNovember 4, 2026\nFurther clarifications and additional release versions provided\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-111943 CVSSv3.1 Base Score: Not yet available (se ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24846-security-advisory-0200": {
+      "title": "Security Advisory 0200",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24846-security-advisory-0200",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-23T20:30:56+00:00",
+      "description": "Date: October 23, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 23, 2026\nInitial release\n\n\n1.1\nOctober 26, 2026\nAdded CloudVision Portal to platforms not affected and added CSAF file to advisory.\n\n\n\n \nDescription\nArista Networks is providing this security advisory in response to the following PHP vulnerabilities.\nThese vulnerabilities were discovered by external security researchers and disclosed on the PHP official website. Arista is not aware of any malicious exploita ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199": {
+      "title": "Security Advisory 0199",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24838-security-advisory-0199",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-21T23:12:55+00:00",
+      "description": "Date: October 22, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 22, 2026\nInitial release\n\n\n\n \nThe CVE-ID tracking this issue: CVE-2026-114625 CVSSv3.1 Base Score: 9.9 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.4 (CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H) Common Weakness Enumeration: CWE-89 Improper Neutralization of Special Elements used in an SQL Command ('SQL Injection') This vulnerability is being tracked by BUG2043622\nDescrip ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24814-security-advisory-0198": {
+      "title": "Security Advisory 0198",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24814-security-advisory-0198",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:32:39+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-102165 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H)CVSSv4.0 Base Score: 7.7 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N)Common Weakness Enumeration: CWE-121: Stack-based Buffer Overflow This vulnerability is being tracked by BUG 1846910\nDescription\nOn affected Arista Wi-Fi access points, an unauthentica ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24813-security-advisory-0197": {
+      "title": "Security Advisory 0197",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24813-security-advisory-0197",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:32:19+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-102167 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H)CVSSv4.0 Base Score: 9.0 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H)Common Weakness Enumeration: CWE-121: Stack-based Buffer Overflow This vulnerability is being tracked by BUG 1846909\nDescription\nOn affected Arista Wi-Fi access points, a memory corrup ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24812-security-advisory-0196": {
+      "title": "Security Advisory 0196",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24812-security-advisory-0196",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:31:57+00:00",
+      "description": "Date: October 6, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-102164 CVSSv3.1 Base Score: 3.1 (CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:L/I:N/A:N)CVSSv4.0 Base Score: 2.3 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:L/VI:N/VA:N/SC:N/SI:N/SA:N)Common Weakness Enumeration: CWE-125: Out-of-bounds ReadThis vulnerability is being tracked by BUG1774082.\nDescription\nOn affected Arista access points configured with VXLAN tunnell ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24811-security-advisory-0195": {
+      "title": "Security Advisory 0195",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24811-security-advisory-0195",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:31:37+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-102163 CVSSv3.1 Base Score: 8.8 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)CVSSv4.0 Base Score: 8.7 (CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:L/SI:L/SA:L)Common Weakness Enumeration: CWE-787: Out-of-bounds WriteThis vulnerability is being tracked by BUG 1774048\nDescription\nOn affected Arista access points with Wireless Intrusion Prevent ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24810-security-advisory-0194": {
+      "title": "Security Advisory 0194",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24810-security-advisory-0194",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:31:19+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nDescription\nTwo security vulnerabilities have been identified in Arista access point firmware affecting the Captive Portal feature. Both vulnerabilities allow an unauthenticated wireless client that is associated with a captive-portal-enabled SSID to crash the portal service with a single crafted HTTP request.\nAll of these issues were discovered internally by Arista, and the company is not  ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24808-security-advisory-0192": {
+      "title": "Security Advisory 0192",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24808-security-advisory-0192",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:30:40+00:00",
+      "description": "Date: October 6, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nDescription\nAll of the CVEs covered in this advisory affect only CloudVision-CUE on-premises. CV-CUE is Arista’s Wi-Fi management service and, in on-premises deployments, is hosted as a service on the CloudVision Portal on-premises platform. Customers running CV-CUE services should review the affected versions to assess their impact.\nThis issue was discovered internally by Arista, and th ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24809-security-advisory-0193": {
+      "title": "Security Advisory 0193",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24809-security-advisory-0193",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:30:40+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-102162 CVSSv3.1 Base Score: 8.8 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H)CVSSv4.0 Base Score: 9.4 (CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H)Common Weakness Enumeration: CWE-121: Stack-based Buffer OverflowThis vulnerability is being tracked by BUG 1774040\nDescription\nOn affected Arista Wi-Fi access points with captive port ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24807-security-advisory-0191": {
+      "title": "Security Advisory 0191",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24807-security-advisory-0191",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:30:18+00:00",
+      "description": "Date: October 6, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-102156 CVSSv3.1 Base Score: 6.8 (CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:C/C:H/I:N/A:N) CVSSv4.0 Base Score: 6.9 (CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:N/VI:N/VA:N/SC:H/SI:N/SA:N) Common Weakness Enumeration: CWE-74: Improper Neutralization of Special Elements in Output Used by a Downstream Component ('Injection')This vulnerability is being tracked by BUG 173 ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24806-security-advisory-0190": {
+      "title": "Security Advisory 0190",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24806-security-advisory-0190",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:29:51+00:00",
+      "description": "Date: October 6, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n\nDescription\nAll of the CVEs covered in this advisory affect only CloudVision-CUE on-premises. CV-CUE is Arista’s Wi-Fi management service and, in on-premises deployments, is hosted as a service on the CloudVision Portal on-premises platform. Customers running CV-CUE services should review the affected versions to assess their impact.\nThese issues were discovered internally by Arista, and ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24805-security-advisory-0189": {
+      "title": "Security Advisory 0189",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24805-security-advisory-0189",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:29:29+00:00",
+      "description": "Date: October 6, 2026\n \n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n1.1\nOctober 13, 2026\nUpdated Resolution section to include the 2026.3.0 release\n\n\n\nDescription\nAll CVEs covered in this advisory affect platforms running CloudVision Portal (On-Premises), where insufficient validations in the Software Management Studio Software Repository and the Network Provisioning Image Repository could allow an authenticated remote attacker with specific permissio ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24804-security-advisory-0188": {
+      "title": "Security Advisory 0188",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24804-security-advisory-0188",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:29:01+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n1.1\nOctober 13, 2026\nUpdated Resolution section to include the 2026.3.0 release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-101153 CVSSv3.1 Base Score: 8.0 (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H) CVSSv4.0 Base Score: 7.2 (CVSS:4.0/AV:N/AC:H/AT:N/PR:H/UI:N/VC:H/VI:N/VA:N/SC:H/SI:H/SA:H) Common Weakness Enumeration:CWE-22: Improper Limitation of a Pathname to a Restricted Directory ( ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24803-security-advisory-0187": {
+      "title": "Security Advisory 0187",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24803-security-advisory-0187",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:28:38+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n1.1\nOctober 13, 2026\nUpdated Resolution section to include the 2026.3.0 release\n\n\n\nDescription\nAll CVEs covered in this advisory affect CloudVision Portal (On-Premises), where specially crafted requests could result in user redirection to arbitrary URLs.\nThe below issues were discovered internally by Arista, and the company is not aware of any malicious exploitation of these vulnerabili ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24802-security-advisory-0186": {
+      "title": "Security Advisory 0186",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24802-security-advisory-0186",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:28:15+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n1.1\nOctober 13, 2026\nUpdated Resolution section to include the 2026.3.0 release\n\n\n\nDescription\nAll CVEs covered in this advisory affect platforms running CloudVision Portal (on-premises) where OpenID Connect (OIDC)-based single sign-on (SSO) is configured with an identity provider. OIDC SSO is an optional, explicitly configured authentication method. Deployments using non-OIDC SSO method ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24801-security-advisory-0185": {
+      "title": "Security Advisory 0185",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24801-security-advisory-0185",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-10-02T15:27:35+00:00",
+      "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n1.1\nOctober 13, 2026\nUpdated Resolution section to include the 2026.3.0 release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-101158 CVSSv3.1 Base Score: 8.4 (CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.3 (CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:A/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H) Common Weakness Enumeration: CWE-79: Improper Neutralization of Input During Web Page Generation  ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24776-security-advisory-0184": {
+      "title": "Security Advisory 0184",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24776-security-advisory-0184",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-09-28T22:55:19+00:00",
+      "description": "September 29, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nSeptember 29, 2026\nInitial release\n\n\n1.1\nOctober 6, 2026\nUpdated information\n\n\n\nUpdate Type:\nInformational\nBackground\nRecent enhancements to our vulnerability detection processes have resulted in a higher-than-usual volume of security updates. Arista is providing this advance notification to help our customers plan. To streamline remediation efforts and allow customers to address them in a consolidated maintenance window, ..."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183": {
+      "title": "Security Advisory 0183",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24765-security-advisory-0183",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-09-21T23:53:08+00:00",
+      "description": "Date: September 22, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nSeptember 22, 2026\nInitial release\n\n\n1.1\nSeptember 23, 2026\nCSAF JSON file added\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-93952 CVSSv3.1 Base Score: 10.0 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H CVSSv4.0 Base Score: 9.5 (CVSS:4.0/AV:N/AC:H/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H) Common Weakness Enumeration: CWE-20: Improper Input Validation This vulnerability is being tracked by BUG1907167, and BUG1937417 ..."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets": {
+      "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T15:59:19+00:00",
+      "description": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric": {
+      "title": "Ransomware recovery is now a client retention metric",
+      "url": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-10T15:01:11+00:00",
+      "description": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated workflows can improve response times, transparency, and client retention. [...]"
+    },
+    "url:https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders": {
+      "title": "Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders",
+      "url": "https://www.securityweek.com/today-ciso-forum-virtual-summit-2026-join-global-cybersecurity-leaders/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T15:00:00+00:00",
+      "description": "Designed for cybersecurity leaders, this immersive two-day virtual event is your premier destination to discuss, share, and learn innovative risk management and defense strategies defining the modern enterprise. The post Today: CISO Forum Virtual Summit 2026 – Join Global Cybersecurity Leaders appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding": {
+      "title": "WhiteMatter Raises $20 Million in Series A Funding",
+      "url": "https://www.securityweek.com/whitematter-raises-20-million-in-series-a-funding/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T14:58:19+00:00",
+      "description": "The cybersecurity startup deploys a dedicated guardian agent for every AI agent in an organization’s environment. The post WhiteMatter Raises $20 Million in Series A Funding appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities": {
+      "title": "SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities",
+      "url": "https://www.securityweek.com/sap-patches-critical-icm2shell-proxygate-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-10T14:46:28+00:00",
+      "description": "SAP has published 42 new and updated security advisories, including nine that address critical-severity vulnerabilities. The post SAP Patches Critical ICM2SHELL, ProxyGate Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "page:c913a22d6630e2896738eb0a": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-10T15:58:35.437925+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:151c310865a3554f6e0056f5": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-10T15:58:35.437925+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8246,9 +8478,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://azure.status.microsoft/en-us/status": "407e2168302e59e87608255f637a65e6c3728822b866551c79f4a97d5dc40dfc",
-    "https://status.cloud.google.com/": "4e206a31ad6e1b1bca31a8524e93505d05c19511e23ebaf4616f05a061264db2",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "9ea2fed0e5f52e5a912c4ab32eaa1c6ac7a0c66a26a6a40f396825a0cb069636",
+    "https://azure.status.microsoft/en-us/status": "ffff63be8d905d3ff59e988b779ef22160a59a03e17638004658c576a6bc53e0",
+    "https://status.cloud.google.com/": "d269969fc15d68466b2d04cbdbedc8fc861726e2903339cef0876f2c7824887e",
     "https://cloud.google.com/support/bulletins": "354c5f9625038e19e901447490db836e8c7d014f130f76d95eae32358721e55a",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

@@ -1,10 +1,9 @@
 {
-  "last_run_utc": "2026-11-10T14:25:12.331681+00:00",
-  "sources_successful": 22,
+  "last_run_utc": "2026-11-10T15:58:35.437925+00:00",
+  "sources_successful": 23,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
     "ACSC Advisories: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww",
-    "Arista Security: No RSS/Atom entries returned",
     "ZPE PSIRT: Page content unavailable or too short",
     "HPE Security Bulletins: HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne",
     "HPE Aruba Security Bulletins: Page content unavailable or too short",
@@ -58,8 +57,8 @@
     {
       "source": "Arista Security",
       "mode": "rss",
-      "status": "failed",
-      "error": "No RSS/Atom entries returned"
+      "status": "ok",
+      "entries_available": 40
     },
     {
       "source": "AWS Security",
@@ -141,7 +140,7 @@
       "source": "Arista Security Advisories",
       "mode": "page-change",
       "status": "ok",
-      "changed": false,
+      "changed": true,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {
