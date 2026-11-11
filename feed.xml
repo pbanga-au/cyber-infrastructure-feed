@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 21:44:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:00:47 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Baker Tilly notifies clients of data breach at third-party provider</title>
+      <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</guid>
+      <description>[News] BleepingComputer: The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 23:01:31 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 23:00:47 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 23:00:47 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Active ScreenConnect attacks breach MSPs, impact dozens of organizations</title>
+      <link>https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/</guid>
+      <description>[News] BleepingComputer: ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 22:56:21 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/</guid>
       <description>[News] BleepingComputer: QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]</description>
       <pubDate>Fri, 06 Nov 2026 17:04:23 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 17:01:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 15:58:26 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Veeam warns of Software Appliance boot failures on AMD EPYC hosts</title>
-      <link>https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/</guid>
-      <description>[News] BleepingComputer: ​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 15:25:31 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It</title>
-      <link>https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/</guid>
-      <description>[News] BleepingComputer: IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 15:00:10 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>

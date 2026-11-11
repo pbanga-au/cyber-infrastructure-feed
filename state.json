@@ -9383,6 +9383,38 @@
       "category": "Cloud",
       "published": "2026-11-11T21:44:59.735384+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider": {
+      "title": "Baker Tilly notifies clients of data breach at third-party provider",
+      "url": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T23:01:31+00:00",
+      "description": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations": {
+      "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T22:56:21+00:00",
+      "description": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]"
+    },
+    "page:28b12e85ca1f035e8ac3a5a9": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T23:00:47.188356+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:234342b4803700436fd97913": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T23:00:47.188356+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9391,8 +9423,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "c7a373ba115c89b7eb624edfa25482e49b53f7104f04ff432cd4bdac5300eeea",
-    "https://status.cloud.google.com/": "ef0fc9084491b532b2fb504be26c22e6339205a43b39f3c7ea8f7fe8c1eb2538",
+    "https://azure.status.microsoft/en-us/status": "dbd12e3950036bca30240de4faec39e23e94da432e19f928aaea7dc5288aed70",
+    "https://status.cloud.google.com/": "de202a2f61beba4d3243790bc5077cf109030a44d40cb51efab753f95e87c264",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
