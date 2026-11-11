@@ -472,46 +472,6 @@
       "published": "2026-10-02T08:15:00+00:00",
       "description": ""
     },
-    "cve:CVE-2026-0295": {
-      "title": "CVE-2026-0295 GlobalProtect App: Local Privilege Escalation via Race Condition on macOS (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0295",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-12T00:30:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0299": {
-      "title": "CVE-2026-0299 GlobalProtect App: Local Privilege Escalation Vulnerabilities (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0299",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-12T00:30:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0297": {
-      "title": "CVE-2026-0297 GlobalProtect App: Buffer Overflow Vulnerability during UDP Tunnel Handshake (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0297",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-12T00:30:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0298": {
-      "title": "CVE-2026-0298 GlobalProtect App: Code Execution Vulnerability in Windows Pre-Logon Access Provider (PLAP) (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0298",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-12T00:30:00+00:00",
-      "description": ""
-    },
-    "cve:CVE-2026-0296": {
-      "title": "CVE-2026-0296 GlobalProtect App: Improper Certificate Validation Bypass Vulnerability (Severity: MEDIUM)",
-      "url": "https://security.paloaltonetworks.com/CVE-2026-0296",
-      "source": "Palo Alto Networks",
-      "category": "Network",
-      "published": "2026-09-12T00:30:00+00:00",
-      "description": ""
-    },
     "cve:CVE-2025-52989": {
       "title": "2025-07 Security Bulletin: Junos OS and Junos OS Evolved: Annotate configuration command can be used for privilege escalation (CVE-2025-52989)",
       "url": "https://supportportal.juniper.net/s/article/2025-07-Security-Bulletin-Junos-OS-and-Junos-OS-Evolved-Annotate-configuration-command-can-be-used-for-privilege-escalation-CVE-2025-52989",
@@ -8879,6 +8839,22 @@
       "category": "Cloud",
       "published": "2026-11-10T23:45:46.306444+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:816dfea7b055c33f362f0212": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T01:17:01.843998+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:4ccf1e2d25c6837ac53a910e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T01:17:01.843998+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8887,8 +8863,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "e9ad9686551ca74841f3c9aca8f04f4a30cba037d5269893c63678baba3da2a9",
-    "https://status.cloud.google.com/": "2cdf65003e69091558ea8ee45ba47fc1ba095c19bf5ade4f7313699ab7e635c0",
+    "https://azure.status.microsoft/en-us/status": "c16461c395f6515b6424bd914db5a68f73372039b428daa08b2efdad49c614b6",
+    "https://status.cloud.google.com/": "c96701f4c2aa534d281dc0a2d13a9d97bcec9fc8fed18899b5d3b96d30ec1014",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
