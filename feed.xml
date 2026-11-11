@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 10:10:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 11:10:25 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NCSC scheme will help critical organisations test their cyber defences</title>
+      <link>https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</link>
+      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</guid>
+      <description>[Security] UK NCSC: New NCSC Cyber Adversary Simulation scheme will help critical organisations strengthen their resilience through rigorous, real-world testing by trusted providers.</description>
+      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 11:10:25 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 11:10:25 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure</title>
+      <link>https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/</guid>
+      <description>[News] SecurityWeek: Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 11 Nov 2026 10:35:15 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>CISA flags Cisco BroadWorks flaw as actively exploited in attacks</title>
       <link>https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/</link>
@@ -2751,73 +2783,6 @@ Description
 On affected platforms running Arista EOS with ...</description>
       <pubDate>Fri, 06 Nov 2026 07:15:35 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0206</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25028-security-advisory-0206</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25028-security-advisory-0206</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-121368 CVSSv3.1 Base Score: 8.6 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 8.9 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration:  CWE-787: Out-of-bounds Write. This vulnerability is being tracked by BUG 1965007
-Description
-On affected platforms running Arista EOS with Bidirecti ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:15:10 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0205</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25027-security-advisory-0205</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25027-security-advisory-0205</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-120975 CVSSv3.1 Base Score: 3.1 (CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:N/I:L/A:L) CVSSv4.0 Base Score: 2.0 (CVSS:4.0/AV:N/AC:H/AT:N/PR:H/UI:P/VC:N/VI:L/VA:L/SC:N/SI:L/SA:L) Common Weakness Enumeration: CWE-197: Numeric Truncation Error This vulnerability is being tracked by BUG 2047420
-Description
-On affected platforms running Arista EOS with aut ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:14:40 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 06:10:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 05:08:35 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>

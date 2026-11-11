@@ -9015,6 +9015,38 @@
       "category": "Cloud",
       "published": "2026-11-11T10:10:18.279229+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences": {
+      "title": "NCSC scheme will help critical organisations test their cyber defences",
+      "url": "https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-11-11T12:00:00+00:00",
+      "description": "New NCSC Cyber Adversary Simulation scheme will help critical organisations strengthen their resilience through rigorous, real-world testing by trusted providers."
+    },
+    "url:https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure": {
+      "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+      "url": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T10:35:15+00:00",
+      "description": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek ."
+    },
+    "page:63d86eacbb8ca8333c3cfb3d": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T11:10:25.759271+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:423bd2d942af499717797c87": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T11:10:25.759271+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9023,8 +9055,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "5482b88d8bf74cb979545b155728e50ef516c3dcb64147ef90701fb5486cf3f9",
-    "https://status.cloud.google.com/": "f4ee18cf6a8cf54a1be96e6baef322434529d64892da0d57ebb81ef9590dc952",
+    "https://azure.status.microsoft/en-us/status": "7568cc7fc4a6bb877d1ced8bd0ff275a8fee938d15103a9b8a7e0e2d98bbf783",
+    "https://status.cloud.google.com/": "bdf67aa85bde7e1c610b75c898784d7440a9cd8a0708f64c26e413ca11c69d1f",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
