@@ -8919,6 +8919,30 @@
       "category": "Cloud",
       "published": "2026-11-11T06:10:48.761150+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms": {
+      "title": "Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms",
+      "url": "https://www.securityweek.com/bluetooth-airplay-pairing-vulnerabilities-patched-across-apple-platforms/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T07:00:17+00:00",
+      "description": "Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek ."
+    },
+    "page:98f130656b560ae9ff7b8efe": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T07:27:54.747335+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:38d015b46c7f51b97d924f8c": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T07:27:54.747335+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8927,8 +8951,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "4214f6efb978159f143de2decee8ee7d47dcb7e7ec5bf38bdf4db3e93c702a3e",
-    "https://status.cloud.google.com/": "d477cc0f7d67291378f215f8047b579162178f9f1add0e05617e4ae6dc096789",
+    "https://azure.status.microsoft/en-us/status": "c7a373ba115c89b7eb624edfa25482e49b53f7104f04ff432cd4bdac5300eeea",
+    "https://status.cloud.google.com/": "f8121e058bb188ea4f8ebdd1875a4fc94ebed4bccbc7d51af04d2d9768565630",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
