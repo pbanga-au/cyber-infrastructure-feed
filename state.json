@@ -9127,6 +9127,54 @@
       "category": "Cloud",
       "published": "2026-11-11T13:23:23.579301+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice": {
+      "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+      "url": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T15:01:11+00:00",
+      "description": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]"
+    },
+    "url:https://www.securityweek.com/asus-zoom-release-security-patches": {
+      "title": "Asus, Zoom Release Security Patches",
+      "url": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T13:58:38+00:00",
+      "description": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities": {
+      "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+      "url": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T13:37:19+00:00",
+      "description": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "url:https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup": {
+      "title": "Google DeepMind just mathematically verified key parts of Signal",
+      "url": "https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-11-11T14:08:57+00:00",
+      "description": "The four-week project hints that AI could make formal verification far more practical."
+    },
+    "page:da1157f739c7e6ddfe2cdae0": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T15:02:01.653611+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:691230a4ab4a408f76397b1e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T15:02:01.653611+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9135,8 +9183,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "31206cb76a2a0831c619937a933b0d744ced69a41d2a4aced6769d3e3df3795d",
-    "https://status.cloud.google.com/": "9e3a0d9390d6bb6d0444fa37499f737c45b6c2430b1cd289f5a992debd6d3090",
+    "https://azure.status.microsoft/en-us/status": "490486500b5eae320f07bed0fda137b16dae011feb4db1020e2329995f3e3408",
+    "https://status.cloud.google.com/": "46ee6a1a5c3c90844cb730bb1d5713d8a7633c9146ee3a68abd93b3831768648",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
