@@ -9223,6 +9223,102 @@
       "category": "Cloud",
       "published": "2026-11-11T17:06:19.369677+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-0328": {
+      "title": "CVE-2026-0328 PAN-OS: User Impersonation through GlobalProtect Portal (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0328",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "url:https://security.paloaltonetworks.com/PAN-SA-2026-0014": {
+      "title": "PAN-SA-2026-0014 Chromium: Monthly Vulnerability Update (November 2026) (Severity: HIGH)",
+      "url": "https://security.paloaltonetworks.com/PAN-SA-2026-0014",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0325": {
+      "title": "CVE-2026-0325 PAN-OS: GlobalProtect Authorization Bypass Vulnerability (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0325",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0330": {
+      "title": "CVE-2026-0330 PAN-OS: Authenticated Remote Code Execution (RCE) in Panorama (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0330",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0327": {
+      "title": "CVE-2026-0327 PAN-OS: Privilege Escalation Vulnerability in GlobalProtect (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0327",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0329": {
+      "title": "CVE-2026-0329 PAN-OS: Buffer Overflow Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0329",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0326": {
+      "title": "CVE-2026-0326 PAN-OS: Buffer Overflow Vulnerability in Protocol and Service Processing (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0326",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0331": {
+      "title": "CVE-2026-0331 PAN-OS: Sensitive Information Disclosure Vulnerability (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0331",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0324": {
+      "title": "CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0324",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "cve:CVE-2026-0323": {
+      "title": "CVE-2026-0323 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-0323",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-11T17:00:00+00:00",
+      "description": ""
+    },
+    "page:b71245bef6e2161f8f8d6624": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T18:02:10.506610+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:19899413103d52c988d39883": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T18:02:10.506610+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9231,8 +9327,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "02d81f8d6955e449060adacefd4c02f65c677fcb27810a31312acd889b11bbff",
-    "https://status.cloud.google.com/": "69d0ec93172b5aaeb156aa1ad539f3e8f622028e05340796faf003848dfd9953",
+    "https://azure.status.microsoft/en-us/status": "918b54fc793557251a8d3a1083dafcf735e14f136ead94efa43d307e81f06ee2",
+    "https://status.cloud.google.com/": "d5acfe4b94172c9a7342a6b13eb87a242caba2565d98c3e3e28b7edf86698770",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

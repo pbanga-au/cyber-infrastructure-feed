@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:06:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 18:02:10 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 18:02:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 18:02:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -22,6 +38,86 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 11 Nov 2026 17:06:19 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-0328 PAN-OS: User Impersonation through GlobalProtect Portal (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0328</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0328</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>PAN-SA-2026-0014 Chromium: Monthly Vulnerability Update (November 2026) (Severity: HIGH)</title>
+      <link>https://security.paloaltonetworks.com/PAN-SA-2026-0014</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/PAN-SA-2026-0014</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0325 PAN-OS: GlobalProtect Authorization Bypass Vulnerability (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0325</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0325</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0330 PAN-OS: Authenticated Remote Code Execution (RCE) in Panorama (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0330</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0330</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0327 PAN-OS: Privilege Escalation Vulnerability in GlobalProtect (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0327</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0327</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0329 PAN-OS: Buffer Overflow Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0329</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0329</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0326 PAN-OS: Buffer Overflow Vulnerability in Protocol and Service Processing (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0326</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0326</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0331 PAN-OS: Sensitive Information Disclosure Vulnerability (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0331</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0331</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0324</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0324</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>CVE-2026-0323 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)</title>
+      <link>https://security.paloaltonetworks.com/CVE-2026-0323</link>
+      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0323</guid>
+      <description>[Network] Palo Alto Networks: </description>
+      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
+      <category>Network</category>
     </item>
     <item>
       <title>Maersk confirms data breach as WhiteArmor ransomware demands $5 million</title>
@@ -2310,102 +2406,6 @@
       <description>[News] SecurityWeek: The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on SecurityWeek .</description>
       <pubDate>Fri, 06 Nov 2026 12:47:55 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>D-Link warns of multiple zero-days in DGS-3130 Series switches</title>
-      <link>https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/</guid>
-      <description>[News] BleepingComputer: D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 12:37:22 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Researchers Find Residential Proxies on White House Network</title>
-      <link>https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/</guid>
-      <description>[News] SecurityWeek: In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 12:16:13 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass</title>
-      <link>https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/</guid>
-      <description>[News] SecurityWeek: On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 12:07:42 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 12:00:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CISA Adds One Known Exploited Vulnerability to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog</guid>
-      <description>[Security] CISA Advisories: CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and requires federal agencies to prioritize rapid remediation of high-risk vulnerabilities, </description>
-      <pubDate>Fri, 06 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 11:14:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 10:13:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions</title>
-      <link>https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/</guid>
-      <description>[News] SecurityWeek: After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 09:33:51 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>MetaMask says recent attack didn't affect wallet infrastructure</title>
-      <link>https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/</guid>
-      <description>[News] BleepingComputer: Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 09:22:28 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 09:07:20 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 09:07:20 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Sectigo Knowledge Base — official page changed (review required)</title>
-      <link>https://www.sectigo.com/knowledge-base</link>
-      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
-      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 09:07:20 +0000</pubDate>
-      <category>PKI</category>
     </item>
   </channel>
 </rss>
