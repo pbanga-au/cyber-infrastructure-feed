@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:06:19 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 17:06:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 17:06:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Maersk confirms data breach as WhiteArmor ransomware demands $5 million</title>
+      <link>https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/</guid>
+      <description>[News] BleepingComputer: Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 16:24:18 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2382,65 +2406,6 @@
       <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 06 Nov 2026 09:07:20 +0000</pubDate>
       <category>PKI</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 07:28:06 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Security Advisory 0227</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25049-security-advisory-0227</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25049-security-advisory-0227</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-102166 CVSSv3.1 Base Score: 8.8 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.4 (CVSS:4.0/AV:A/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H) CWE: CWE-798: Use of Hard-coded Credentials This vulnerability is being tracked by BUG 1846906
-Description
-Arista C-260 and C-250 access points ship with fleet-wide static cry ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:26:11 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0226</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25048-security-advisory-0226</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25048-security-advisory-0226</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-Description
-Many of Arista's products utilize industry-standard server hardware platforms. Periodically, vulnerabilities are identified within the underlying server components, which are documented and published by the OEM hardware vendor as security advisories. This advisory provides a consolidated reference of such vulnerabilities affecting the server hardware used by specific Arist ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:25:45 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
