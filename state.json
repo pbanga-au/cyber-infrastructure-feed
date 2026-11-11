@@ -9047,6 +9047,46 @@
       "category": "Cloud",
       "published": "2026-11-11T11:10:25.759271+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates": {
+      "title": "Microsoft fixes audio issues caused by September security updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T11:18:36+00:00",
+      "description": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]"
+    },
+    "url:https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do": {
+      "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
+      "url": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T11:30:00+00:00",
+      "description": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks": {
+      "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
+      "url": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T11:16:40+00:00",
+      "description": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek ."
+    },
+    "page:1b6ab1686deb7c42c1bdbc98": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T12:04:51.272211+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:096c45e24308cfb2d78b8886": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T12:04:51.272211+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9055,8 +9095,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "7568cc7fc4a6bb877d1ced8bd0ff275a8fee938d15103a9b8a7e0e2d98bbf783",
-    "https://status.cloud.google.com/": "bdf67aa85bde7e1c610b75c898784d7440a9cd8a0708f64c26e413ca11c69d1f",
+    "https://azure.status.microsoft/en-us/status": "f51d6feeef7e5117a045b8ca44fe6fa71120f078267a15d3b4ff4d794420dec8",
+    "https://status.cloud.google.com/": "b20be83eda5e288217a6dc2dc1b2e494058032857c2b321c5057ca063210a177",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

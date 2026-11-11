@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 11:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 12:04:51 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 12:04:51 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 12:04:51 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>NCSC scheme will help critical organisations test their cyber defences</title>
       <link>https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</link>
@@ -14,6 +30,30 @@
       <description>[Security] UK NCSC: New NCSC Cyber Adversary Simulation scheme will help critical organisations strengthen their resilience through rigorous, real-world testing by trusted providers.</description>
       <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Bay Raises $50 Million to Control What Enterprise AI Agents Can Do</title>
+      <link>https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/</guid>
+      <description>[News] SecurityWeek: Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 11 Nov 2026 11:30:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft fixes audio issues caused by September security updates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/</guid>
+      <description>[News] BleepingComputer: Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 11:18:36 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks</title>
+      <link>https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/</guid>
+      <description>[News] SecurityWeek: Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 11 Nov 2026 11:16:40 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -2652,136 +2692,6 @@ The CVE-ID tracking this issue: CVE-2026-120979 CVSSv3.1 Base Score: 8.1 (CVSS:3
 Description
 This vulnerability aff ...</description>
       <pubDate>Fri, 06 Nov 2026 07:17:59 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0211</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25033-security-advisory-0211</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25033-security-advisory-0211</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-120978 CVSSv3.1 Base Score: 6.5 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.0 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration:  CWE-476  NULL Pointer Dereference, CWE-617 Reachable Assertion This vulnerability is being tracked by BUG 1924022
-Description
-On affected Arista  ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:17:35 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0210</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25032-security-advisory-0210</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25032-security-advisory-0210</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-121293 CVSSv3.1 Base Score: 4.4 (CVSS:3.1/AV:N/AC:H/PR:H/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.9 (CVSS:4.0/AV:N/AC:H/AT:P/PR:H/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration:  CWE-476 NULL Pointer Dereference This vulnerability is being tracked by BUG 1961865, 1961866
-Description
-On affected EOS-based platforms, an atta ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:17:02 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0209</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25031-security-advisory-0209</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25031-security-advisory-0209</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-121290 CVSSv3.1 Base Score: 8.2 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:H) CVSSv4.0 Base Score: 8.3 (CVSS:4.0/AV:N/AC:L/AT:P/PR:N/UI:N/VC:N/VI:L/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-420: Unprotected Alternate Channel This vulnerability is being tracked by BUG 1977472
-Description
-On affected platforms running Arista EOS wit ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:16:30 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0208</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25030-security-advisory-0208</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25030-security-advisory-0208</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-121289 CVSSv3.1 Base Score: 9.8 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.3 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:H/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-121: Stack-based Buffer Overflow This vulnerability is being tracked by BUG 1927959
-Description
-On affected platforms running Arista EOS with  ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:16:03 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0207</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25029-security-advisory-0207</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25029-security-advisory-0207</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-120982 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 8.7 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: [CWE-440] Expected Behavior Violation This vulnerability is being tracked by BUG 1927714
-Description
-On affected platforms running Arista EOS with ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:15:35 +0000</pubDate>
       <category>Network</category>
     </item>
   </channel>
