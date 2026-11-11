@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 12:04:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 13:23:23 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 13:23:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 13:23:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>N-able releases security hotfixes for zero-day vulnerabilities</title>
+      <link>https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</guid>
+      <description>[News] BleepingComputer: N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 12:32:27 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices</title>
+      <link>https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/</guid>
+      <description>[News] SecurityWeek: The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 11 Nov 2026 12:24:33 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Fortinet Patches Nearly 100 Vulnerabilities</title>
+      <link>https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 11 Nov 2026 12:10:14 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2561,137 +2601,6 @@ The CVE-ID tracking this issue: CVE-2026-120977 CVSSv3.1 Base Score: 8.2 (CVSS:3
 Description
  ...</description>
       <pubDate>Fri, 06 Nov 2026 07:20:31 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0216</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25038-security-advisory-0216</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25038-security-advisory-0216</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-120976 CVSSv3.1 Base Score: 6.0 (CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:N) CVSSv4.0 Base Score: 7.0 (CVSS:4.0/AV:L/AC:L/AT:P/PR:H/UI:N/VC:H/VI:H/VA:N/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-532: Insertion of Sensitive Information into Log File This vulnerability is being tracked by BUG 1899357
-Description
-On affected platforms run ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:20:04 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0215</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25037-security-advisory-0215</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25037-security-advisory-0215</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-120983 CVSSv3.1 Base Score: 7.6 (CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:L) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:A/AC:L/AT:P/PR:N/UI:N/VC:H/VI:L/VA:L/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-284: Improper Access Control This vulnerability is being tracked by BUG 903925
-Description
-On affected EOS platforms where 802.1x is configured i ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:19:37 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0214</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25036-security-advisory-0214</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25036-security-advisory-0214</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
- 
-Description
-All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with the Virtual Private LAN Service using BGP Signaling (VPLS-BGP) enabled on the Provider Edge (PE) routers. These issues primarily affect customers using VPLS-BGP to connect disparate customer L2 networks.
-These issues were discovered internally by Arista, and the company is not  ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:19:07 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0213</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25035-security-advisory-0213</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25035-security-advisory-0213</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
- 
-The CVE-ID tracking this issue: CVE-2026-121286 CVSSv3.1 Base Score: 6.5 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.0 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-476: NULL Pointer Dereference This vulnerability is being tracked by BUG 1975990
-Description
-On affected platforms running Arista EOS in mu ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:18:43 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0212</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25034-security-advisory-0212</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25034-security-advisory-0212</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-The CVE-ID tracking this issue: CVE-2026-120979 CVSSv3.1 Base Score: 8.1 (CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H) CVSSv4.0 Base Score: 6.1 (CVSS:4.0/AV:N/AC:L/AT:P/PR:L/UI:N/VC:N/VI:H/VA:H/SC:N/SI:N/SA:N) Common Weakness Enumeration: CWE-1289: Improper Validation of Unsafe Equivalence in Input This vulnerability is being tracked by BUG 2059581
-Description
-This vulnerability aff ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:17:59 +0000</pubDate>
       <category>Network</category>
     </item>
   </channel>
