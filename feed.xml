@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 20:09:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 21:44:59 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 21:44:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 21:44:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>eMudhra revokes 8 more CA certificates after private key mishap</title>
+      <link>https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/</guid>
+      <description>[News] BleepingComputer: Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 21:27:40 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-125926 - Server-side request forgery in the server registration and update API in mcp-gateway-registry</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-180-AWS Publication Date: 11/11/2026 13:00 PM PST Description: MServer-side request forgery (SSRF) in the server registration and update API in Amazon mcp-gateway-registry before 1.35.0 might allow an authenticated remote user to send requests from the gateway to internal network services and cloud instance metadata endpoints and read the responses via a crafted request Impacted versions: &gt;= v1.0.3 AND &lt;= 1.34.0 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Wed, 11 Nov 2026 21:04:56 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-100307 - Missing authorization on the external management API in mcp-gateway-registry enables privilege escalation to registry administrator</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-179-AWS Publication Date: 11/11/2026 12:30 PM PST Description: Missing authorization in the external management API in Amazon mcp-gateway-registry 1.0.9 through 1.24.7 might allow an authenticated remote user to assign the registry administrator scope to their own identity group and obtain administrative control of every registered gateway asset via a crafted group import request. Impacted versions: &gt;= 1.0.9 AND &lt;= 1.24.7 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Wed, 11 Nov 2026 21:03:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Notion says Fireworks breach exposed customer AI chat transcripts</title>
+      <link>https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/</guid>
+      <description>[News] BleepingComputer: Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 20:54:20 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
@@ -414,14 +462,6 @@
       <description>[News] SecurityWeek: The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .</description>
       <pubDate>Wed, 11 Nov 2026 07:53:51 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 07:27:54 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/</guid>
       <description>[News] BleepingComputer: IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]</description>
       <pubDate>Fri, 06 Nov 2026 15:00:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 14:57:51 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days</title>
-      <link>https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/</guid>
-      <description>[News] SecurityWeek: Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 14:40:09 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Chainalysis says breach exposed credentials for all customers</title>
-      <link>https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/</guid>
-      <description>[News] BleepingComputer: Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 14:17:07 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>DigiCert Data Breach Impacts Business Customer Information</title>
-      <link>https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/</guid>
-      <description>[News] SecurityWeek: Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 14:00:07 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line</title>
-      <link>https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/</guid>
-      <description>[News] SecurityWeek: Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 13:19:52 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>

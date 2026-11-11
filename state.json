@@ -8933,7 +8933,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T07:27:54.747335+00:00",
+      "published": "2026-11-11T21:44:59.735384+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:38d015b46c7f51b97d924f8c": {
@@ -9343,6 +9343,46 @@
       "category": "Cloud",
       "published": "2026-11-11T20:09:55.020252+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-125926": {
+      "title": "CVE-2026-125926 - Server-side request forgery in the server registration and update API in mcp-gateway-registry",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-11T21:04:56+00:00",
+      "description": "Bulletin ID: 2026-180-AWS Publication Date: 11/11/2026 13:00 PM PST Description: MServer-side request forgery (SSRF) in the server registration and update API in Amazon mcp-gateway-registry before 1.35.0 might allow an authenticated remote user to send requests from the gateway to internal network services and cloud instance metadata endpoints and read the responses via a crafted request Impacted versions: >= v1.0.3 AND <= 1.34.0 Refer to the article for the most up-to-date and complete information."
+    },
+    "cve:CVE-2026-100307": {
+      "title": "CVE-2026-100307 - Missing authorization on the external management API in mcp-gateway-registry enables privilege escalation to registry administrator",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-11T21:03:02+00:00",
+      "description": "Bulletin ID: 2026-179-AWS Publication Date: 11/11/2026 12:30 PM PST Description: Missing authorization in the external management API in Amazon mcp-gateway-registry 1.0.9 through 1.24.7 might allow an authenticated remote user to assign the registry administrator scope to their own identity group and obtain administrative control of every registered gateway asset via a crafted group import request. Impacted versions: >= 1.0.9 AND <= 1.24.7 Refer to the article for the most up-to-date and complete information."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap": {
+      "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+      "url": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T21:27:40+00:00",
+      "description": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts": {
+      "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+      "url": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T20:54:20+00:00",
+      "description": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]"
+    },
+    "page:63bac158d71e73ab6493ddf0": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T21:44:59.735384+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9351,8 +9391,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "6770fb5fdfdc02be2842112b7ddf9cd4238ac4eac6a81015d0cf473744c14435",
-    "https://status.cloud.google.com/": "c193f5e2b22b8b9e0a1e70e700b13d03f1d31e209b81cef8c5d47266e8336ac5",
+    "https://azure.status.microsoft/en-us/status": "c7a373ba115c89b7eb624edfa25482e49b53f7104f04ff432cd4bdac5300eeea",
+    "https://status.cloud.google.com/": "ef0fc9084491b532b2fb504be26c22e6339205a43b39f3c7ea8f7fe8c1eb2538",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
