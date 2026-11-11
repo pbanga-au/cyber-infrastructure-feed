@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:02:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 16:00:41 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 16:00:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 16:00:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Critical Xen Orchestra Flaws Exploited in Attacks</title>
+      <link>https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/</guid>
+      <description>[News] SecurityWeek: The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 11 Nov 2026 15:42:47 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers use AntiFox AI agents in AWS credential-theft attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</guid>
+      <description>[News] BleepingComputer: Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 15:12:59 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -262,14 +294,6 @@
       <description>[News] SecurityWeek: Apple has patched Bluetooth and AirPlay pairing flaws, iMessage vulnerabilities, and an exploited Brotli bug across its platforms. The post Bluetooth, AirPlay Pairing Vulnerabilities Patched Across Apple Platforms appeared first on SecurityWeek .</description>
       <pubDate>Wed, 11 Nov 2026 07:00:17 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 06:10:48 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2416,88 +2440,6 @@ Initial release
 Description
 Many of Arista's products utilize industry-standard server hardware platforms. Periodically, vulnerabilities are identified within the underlying server components, which are documented and published by the OEM hardware vendor as security advisories. This advisory provides a consolidated reference of such vulnerabilities affecting the server hardware used by specific Arist ...</description>
       <pubDate>Fri, 06 Nov 2026 07:25:45 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0225</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25047-security-advisory-0225</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25047-security-advisory-0225</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
- 
-The CVE-ID tracking this issue: CVE-2026-121369 CVSSv3.1 Base Score: 5.3 (CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 6.7 (CVSS:4.0/AV:P/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration: CWE-770: Allocation of Resources Without Limits or Throttling This vulnerability is being tracked by BUG 1880613
-Description
-On affected platfo ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:25:14 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0224</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25046-security-advisory-0224</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25046-security-advisory-0224</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-  
-The CVE-ID tracking this issue: CVE-2026-121370 CVSSv3.1 Base Score: 8.6 (CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:N/I:N/A:H) CVSSv4.0 Base Score: 9.2 (CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:N/VA:H/SC:N/SI:N/SA:H) Common Weakness Enumeration: CWE-770: Allocation of Resources Without Limits or Throttling This vulnerability is being tracked by BUG 1860051
-Description
-On affected platf ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:24:33 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Security Advisory 0223</title>
-      <link>https://www.arista.com/en/support/advisories-notices/security-advisory/25045-security-advisory-0223</link>
-      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory/25045-security-advisory-0223</guid>
-      <description>[Network] Arista Security: Date: November 10, 2026
- 
-
-
-
-Revision
-Date
-Changes
-
-
-1.0
-November 10, 2026
-Initial release
-
-
-
-Description
-All of the CVEs covered in this advisory apply to affected platforms running Arista EOS with the Seamless Bidirectional Forwarding Detection (S-BFD) feature configured.
-These issues were discovered internally by Arista, and the company is not aware of any malicious exploitation of this vulnerability in customer networks.
-CVE-2026-121294
-On affected platforms running Ari ...</description>
-      <pubDate>Fri, 06 Nov 2026 07:23:57 +0000</pubDate>
       <category>Network</category>
     </item>
   </channel>

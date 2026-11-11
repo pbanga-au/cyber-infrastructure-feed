@@ -8693,7 +8693,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T06:10:48.761150+00:00",
+      "published": "2026-11-11T16:00:41.002957+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c14129a3cc21f31a46b42550": {
@@ -9175,6 +9175,30 @@
       "category": "Cloud",
       "published": "2026-11-11T15:02:01.653611+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks": {
+      "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T15:12:59+00:00",
+      "description": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]"
+    },
+    "url:https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks": {
+      "title": "Critical Xen Orchestra Flaws Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T15:42:47+00:00",
+      "description": "The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek ."
+    },
+    "page:aa2e0831fbc9b22cf65fed83": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T16:00:41.002957+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9183,8 +9207,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "490486500b5eae320f07bed0fda137b16dae011feb4db1020e2329995f3e3408",
-    "https://status.cloud.google.com/": "46ee6a1a5c3c90844cb730bb1d5713d8a7633c9146ee3a68abd93b3831768648",
+    "https://azure.status.microsoft/en-us/status": "4214f6efb978159f143de2decee8ee7d47dcb7e7ec5bf38bdf4db3e93c702a3e",
+    "https://status.cloud.google.com/": "e76526823b274c6d2bcfb3a13821806343462735ff2d73991e039ce44aff113b",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
