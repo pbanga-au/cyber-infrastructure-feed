@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 09:06:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 10:10:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CISA flags Cisco BroadWorks flaw as actively exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/</guid>
+      <description>[News] BleepingComputer: The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]</description>
+      <pubDate>Wed, 11 Nov 2026 10:12:08 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 10:10:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 11 Nov 2026 10:10:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Microsoft fixes Exchange sign-ins broken by Windows Server updates</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/</link>
@@ -2794,30 +2818,6 @@ On affected platforms running Arista EOS with aut ...</description>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 06 Nov 2026 05:08:35 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 04:02:07 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-109518 - APT package manager that affects Ubuntu and Debian operating systems</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-172-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-172-AWS Publication Date: 11/05/2026 20:00 PM PST Description: An issue in the APT package manager (CVE-2026-109518) affects Ubuntu and Debian operating systems. Under specific conditions, when APT is configured to use HTTP package sources with retry settings enabled, a third party with a network position between the host and the package mirror could cause APT to install a package that did not pass verification. Updated APT packages are available from Canonical (USN-8996-1) and Debian (DSA-6607-1). The following fixed versions address this issue: - Ubuntu 22.04 LTS: apt 2.4.15ubuntu0.1 - Ubuntu 24.04 LTS: apt 2.8.4ubuntu0.1 - Ubuntu 26.04 LTS: apt 3.2.1ubuntu0.1 - Debian (D</description>
-      <pubDate>Fri, 06 Nov 2026 04:00:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million</title>
-      <link>https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/</guid>
-      <description>[News] SecurityWeek: The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 03:03:29 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>

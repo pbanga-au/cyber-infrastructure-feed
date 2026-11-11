@@ -8991,6 +8991,30 @@
       "category": "Cloud",
       "published": "2026-11-11T09:06:24.501512+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks": {
+      "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T10:12:08+00:00",
+      "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]"
+    },
+    "page:9e010442b05a2caec0d0451a": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T10:10:18.279229+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:e75aeb6b0be2c6e8a1c061ab": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T10:10:18.279229+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8999,8 +9023,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "3e58f4f4b9f7738b6117f45b689c7010baa4d7e48b80da948540bc18f269762b",
-    "https://status.cloud.google.com/": "63081eb3d7a9bd1b1972888a2174897554ca899888ebd90951af0aa9ffa0be24",
+    "https://azure.status.microsoft/en-us/status": "5482b88d8bf74cb979545b155728e50ef516c3dcb64147ef90701fb5486cf3f9",
+    "https://status.cloud.google.com/": "f4ee18cf6a8cf54a1be96e6baef322434529d64892da0d57ebb81ef9590dc952",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
