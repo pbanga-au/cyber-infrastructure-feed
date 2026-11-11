@@ -8943,6 +8943,54 @@
       "category": "Cloud",
       "published": "2026-11-11T07:27:54.747335+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates": {
+      "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-11T09:07:27+00:00",
+      "description": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]"
+    },
+    "url:https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities": {
+      "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+      "url": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T09:01:07+00:00",
+      "description": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd": {
+      "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
+      "url": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T08:42:44+00:00",
+      "description": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks": {
+      "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
+      "url": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-11T07:53:51+00:00",
+      "description": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek ."
+    },
+    "page:ed5d76e621800d19676a4f13": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T09:06:24.501512+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:c27f50841b2d7d5af55cdb5d": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-11T09:06:24.501512+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -8951,8 +8999,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "c7a373ba115c89b7eb624edfa25482e49b53f7104f04ff432cd4bdac5300eeea",
-    "https://status.cloud.google.com/": "f8121e058bb188ea4f8ebdd1875a4fc94ebed4bccbc7d51af04d2d9768565630",
+    "https://azure.status.microsoft/en-us/status": "3e58f4f4b9f7738b6117f45b689c7010baa4d7e48b80da948540bc18f269762b",
+    "https://status.cloud.google.com/": "63081eb3d7a9bd1b1972888a2174897554ca899888ebd90951af0aa9ffa0be24",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
