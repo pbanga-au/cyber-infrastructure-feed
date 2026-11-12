@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 02:59:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:05:40 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 04:05:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 04:05:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/</guid>
       <description>[News] BleepingComputer: Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]</description>
       <pubDate>Fri, 06 Nov 2026 18:46:52 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-119923 and CVE-2026-119924: Issues with Babelfish for Aurora PostgreSQL</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-166-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-166-AWS Publication Date: 11/06/2026 10:00 AM PST Description: We identified two issues in the Babelfish TDS protocol layer: - CVE-2026-119923: A memory-safety issue in the TDS connection-handshake handling could allow a remote, unauthenticated actor to affect the database process. - CVE-2026-119924: A memory-safety issue in the TDS remote-procedure-call request handling could allow a remote, authenticated actor to read adjacent process memory or cause a denial of service. Refer to the article below for the most up-to-date and complete information. Read this article</description>
-      <pubDate>Fri, 06 Nov 2026 18:46:27 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks</title>
-      <link>https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/</guid>
-      <description>[News] SecurityWeek: The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 06 Nov 2026 18:28:41 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
