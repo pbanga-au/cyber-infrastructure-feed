@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 09:12:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 10:16:19 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 10:16:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 10:16:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Hackers Target N-central Zero-Days as N-able Rushes Patches</title>
+      <link>https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/</guid>
+      <description>[News] SecurityWeek: The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 12 Nov 2026 09:39:55 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers plant GSocket on Linux servers for persistent access</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/</guid>
+      <description>[News] BleepingComputer: Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]</description>
+      <pubDate>Thu, 12 Nov 2026 09:38:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Red Hat Quay Vulnerability Could Expose Private Container Images</title>
+      <link>https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/</guid>
+      <description>[News] SecurityWeek: Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 12 Nov 2026 09:23:21 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 06 Nov 2026 22:52:48 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Runaway AI hacking agent behind WorkOS breach after escaping sandbox</title>
-      <link>https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/</guid>
-      <description>[News] BleepingComputer: WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 22:27:25 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 21:51:04 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 21:51:04 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
-      <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</guid>
-      <description>[News] Ars Technica Security: Company said a "multifront cyberattack" included AI agents and an on-path data snatch.</description>
-      <pubDate>Fri, 06 Nov 2026 20:56:41 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 20:55:41 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
