@@ -9037,7 +9037,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T11:10:25.759271+00:00",
+      "published": "2026-11-12T11:19:37.087953+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:423bd2d942af499717797c87": {
@@ -9551,6 +9551,46 @@
       "category": "Cloud",
       "published": "2026-11-12T10:16:19.025279+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors": {
+      "title": "Microsoft confirms Windows security updates installation issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5132061-installation-issues-0x80070306-0x800f0989-0x800f0993-errors/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-12T10:24:07+00:00",
+      "description": "Microsoft has confirmed reports that the November 2026 security updates are failing to install on Windows 11 systems with the October preview update. [...]"
+    },
+    "url:https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack": {
+      "title": "Notion Customer Data Compromised in Fireworks AI Hack",
+      "url": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-12T11:08:52+00:00",
+      "description": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign": {
+      "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
+      "url": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-12T10:39:34+00:00",
+      "description": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek ."
+    },
+    "page:87a7ac6306c7572d4469ca49": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-12T11:19:37.087953+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:de36ca2eb340c839c77a122a": {
+      "title": "Sectigo Knowledge Base — official page changed (review required)",
+      "url": "https://www.sectigo.com/knowledge-base",
+      "source": "Sectigo Knowledge Base",
+      "category": "PKI",
+      "published": "2026-11-12T11:19:37.087953+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9559,10 +9599,10 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "ae751938b645b1d798f2ee549c0251dfb03b52454cc36aee5a801f168c8b5a66",
-    "https://status.cloud.google.com/": "3a127f1288326d998065e01318666d4ec93f1ab50200ffef02a3f7a2d6dce5fc",
+    "https://azure.status.microsoft/en-us/status": "7568cc7fc4a6bb877d1ced8bd0ff275a8fee938d15103a9b8a7e0e2d98bbf783",
+    "https://status.cloud.google.com/": "f447cc25011fcc1f695bac9d61b900e275ea00e751e309335ab0b449fec4c72e",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
-    "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
+    "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }
