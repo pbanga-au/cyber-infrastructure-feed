@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 15:06:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:14:06 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 16:14:06 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 16:14:06 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>New Windows SignDrop zero-day gives hackers SYSTEM privileges</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/</guid>
+      <description>[News] BleepingComputer: Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]</description>
+      <pubDate>Thu, 12 Nov 2026 16:04:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Apache Patches Critical HTTP Server RCE Found by Anthropic, Google</title>
+      <link>https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/apache-patches-critical-http-server-rce-found-by-anthropic-google/</guid>
+      <description>[News] SecurityWeek: The mod_http2 race condition, CVE-2026-119618, could let unauthenticated attackers execute code on servers with HTTP/2 enabled. The post Apache Patches Critical HTTP Server RCE Found by Anthropic, Google appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 12 Nov 2026 15:38:31 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Police dismantles Gootloader, CastleRAT, StealC malware infrastructure</title>
       <link>https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/</link>
@@ -877,14 +909,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 11 Nov 2026 01:17:01 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 23:45:46 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/</guid>
       <description>[News] Ars Technica Security: Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.</description>
       <pubDate>Sat, 07 Nov 2026 11:00:34 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 10:52:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 10:52:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins</title>
-      <link>https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/</guid>
-      <description>[News] SecurityWeek: CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on SecurityWeek .</description>
-      <pubDate>Sat, 07 Nov 2026 10:16:23 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
