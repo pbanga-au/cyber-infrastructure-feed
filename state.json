@@ -9757,7 +9757,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-12T17:15:47.216383+00:00",
+      "published": "2026-11-12T21:56:48.146155+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:cb0c95256210cc81dbf5741b": {
@@ -9863,6 +9863,22 @@
       "category": "Cloud",
       "published": "2026-11-12T20:59:23.514292+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-126793": {
+      "title": "CVE-2026-126793 - Privilege escalation in Aurora PostgreSQL dialect detection in AWS Advanced Go Wrapper",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-12T21:11:28+00:00",
+      "description": "Bulletin ID: 2026-182-AWS Publication Date: 11/12/2026 13:00 PM PST Description: An untrusted search path issue in Aurora PostgreSQL dialect detection in the AWS Advanced Go Wrapper from release 2026-04-06 (awssql/v2.0.0) and before release 2026-07-29 (awssql/v2.0.3) could allow a remote authenticated user to escalate privileges to those of another database user, including a member of the rds_superuser role, via a crafted function that runs when that user connects to an Aurora PostgreSQL cluster through an affected version of the wrapper. Impacted versions: AWS Advanced Go Wrapper >=2026-04-06, <2026-07-29 Refer to the article for the most up-to-date and complete information."
+    },
+    "page:535328eb5800eda8f19af74e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-12T21:56:48.146155+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9871,8 +9887,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "57706604f70e882dad45f6d6ab72e46d423df6996430ac788d7e3bd942092669",
-    "https://status.cloud.google.com/": "230e93988344dcbdc1af9efca6eb1af562c33f36b442c48811dbd567c5e1c316",
+    "https://azure.status.microsoft/en-us/status": "209aa436024995037cef078ecae240c686d63833348bab8de47d27b702ed2573",
+    "https://status.cloud.google.com/": "76d0842b48624d1b223f1bbac0a674a41f7212ebf6b267d2bd9aad1c79f49450",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
