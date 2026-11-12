@@ -5,13 +5,37 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 07:37:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 09:12:54 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 09:12:54 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 09:12:54 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Maersk Confirms Data Theft Amid $5 Million Extortion Attempt</title>
+      <link>https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/</guid>
+      <description>[News] SecurityWeek: The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 12 Nov 2026 08:38:47 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 12 Nov 2026 07:37:29 +0000</pubDate>
       <category>Cloud</category>
     </item>
@@ -53,14 +77,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 12 Nov 2026 05:12:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 04:05:40 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2389,22 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 06 Nov 2026 20:55:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs</title>
-      <link>https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/</guid>
-      <description>[News] BleepingComputer: OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]</description>
-      <pubDate>Fri, 06 Nov 2026 20:24:19 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 06 Nov 2026 19:58:02 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>

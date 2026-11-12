@@ -9453,7 +9453,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-12T04:05:40.986670+00:00",
+      "published": "2026-11-12T09:12:54.901187+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:7c338b094f0ed191d3b3aac5": {
@@ -9495,6 +9495,22 @@
       "category": "Cloud",
       "published": "2026-11-12T07:37:29.239657+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt": {
+      "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
+      "url": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-12T08:38:47+00:00",
+      "description": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek ."
+    },
+    "page:1e61d9a62377e95968c70dab": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-12T09:12:54.901187+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -9503,8 +9519,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "8414ed16ec08a78651fdedbc135b9449c888315644e340c151bf3b56c98b600a",
-    "https://azure.status.microsoft/en-us/status": "526efe4fc4d63332a29d5d65fd6dd2c85abc2f9f563aebd4308485badd8b1887",
-    "https://status.cloud.google.com/": "db3d6f583e2a5d81c512f6ba363a45f6a89fa01556da400366af357d6c7d1337",
+    "https://azure.status.microsoft/en-us/status": "3d5a061569b458bba6a1a8047531b699bf3a3c569e77b8ac83cdd3fac8391454",
+    "https://status.cloud.google.com/": "86e3544130c86e23948f4d28cc4a8847f20d9ee7eb6afc035c5881177597bf9c",
     "https://cloud.google.com/support/bulletins": "ef1796b63e0b0ca2af031aef02766019775fa2241b52729a6fad4c68c101110d",
     "https://www.sectigo.com/knowledge-base": "c4b12c0540977436762026d32b6fe8b47a74e9cae811ffc29e73b97e24bf8554",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
