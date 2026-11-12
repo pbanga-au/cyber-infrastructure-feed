@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 20:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 20:59:23 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 20:59:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 12 Nov 2026 20:59:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams</title>
+      <link>https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/</guid>
+      <description>[News] SecurityWeek: Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 12 Nov 2026 20:55:30 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/</guid>
+      <description>[News] BleepingComputer: Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]</description>
+      <pubDate>Thu, 12 Nov 2026 20:15:16 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -38,14 +70,6 @@
       <description>[News] BleepingComputer: A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]</description>
       <pubDate>Thu, 12 Nov 2026 19:12:55 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 19:08:23 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 07 Nov 2026 22:47:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 21:47:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 20:48:54 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 07 Nov 2026 20:48:54 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
