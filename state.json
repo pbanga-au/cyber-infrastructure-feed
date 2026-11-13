@@ -4061,7 +4061,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-10T03:05:48.873907+00:00",
+      "published": "2026-11-13T07:29:18.935207+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:db63a2a2917cca435c621728": {
@@ -6413,7 +6413,7 @@
       "url": "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095",
       "source": "GoDaddy Certificate Advisories",
       "category": "PKI",
-      "published": "2026-11-04T23:51:57.478488+00:00",
+      "published": "2026-11-13T07:29:18.935207+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:0b23cf260a50170eb54b922d": {
@@ -6429,7 +6429,7 @@
       "url": "https://www.godaddy.com/help/ssl-certificates-1000006",
       "source": "GoDaddy Help",
       "category": "PKI",
-      "published": "2026-11-04T23:51:57.478488+00:00",
+      "published": "2026-11-13T07:29:18.935207+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:1dc7923c6cb5a8f89fe0cd05": {
@@ -9999,19 +9999,35 @@
       "category": "Cloud",
       "published": "2026-11-13T06:11:18.747258+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication": {
+      "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+      "url": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T07:20:50+00:00",
+      "description": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek ."
+    },
+    "page:fd8b3ee05881539b2b996241": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T07:29:18.935207+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
     "https://docs.megaport.com/whatsnew/": "000945faf0270f9f4dcb1a7e9289f380dc59190081e5ca8e471d56ee3e109d60",
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
-    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
+    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "1fd726b031f6a3513bbce7cd7432ac14d3aa2b0dfea8345520bb146c9a630a09",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "32a41f2a7bacffdeed49876367af40853434fc8a7974a60550dac39b4a8ffbb5",
-    "https://status.cloud.google.com/": "7aeb16ac4d8cfa3ef939a4bfffde20febcac14b593aa3116efabfd91659d2e8e",
+    "https://azure.status.microsoft/en-us/status": "b1d04703c7431adeefadb788514ac5617dabf9f797f8e975010f6a420115f47b",
+    "https://status.cloud.google.com/": "36976348304f536ee0d52e153aa7e745decc8d6d42566690ea9f61f846e4b3d2",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
-    "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
+    "https://www.godaddy.com/help/ssl-certificates-1000006": "d8ff4313746b49cabd7325a73089dbc38710ad37590e11f7d70feb285ada9bb0"
   }
 }

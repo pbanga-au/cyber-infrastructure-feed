@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 06:11:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 07:29:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 07:29:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>GoDaddy Certificate Advisories — official page changed (review required)</title>
+      <link>https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</link>
+      <guid isPermaLink="false">https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</guid>
+      <description>[PKI] GoDaddy Certificate Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 07:29:18 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>GoDaddy Help — official page changed (review required)</title>
+      <link>https://www.godaddy.com/help/ssl-certificates-1000006</link>
+      <guid isPermaLink="false">https://www.godaddy.com/help/ssl-certificates-1000006</guid>
+      <description>[PKI] GoDaddy Help: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 07:29:18 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 07:29:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Hackers Exploit New N-central Zero-Day Hours After PoC Publication</title>
+      <link>https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/</guid>
+      <description>[News] SecurityWeek: Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 13 Nov 2026 07:20:50 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1736,14 +1776,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 03:05:48 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 08 Nov 2026 14:50:01 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 13:57:26 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 13:02:23 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Brava Security Emerges From Stealth With $15 Million in Funding</title>
-      <link>https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/</guid>
-      <description>[News] SecurityWeek: Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .</description>
-      <pubDate>Sun, 08 Nov 2026 12:14:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 11:50:10 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
