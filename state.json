@@ -864,14 +864,6 @@
       "published": "2026-10-02T20:25:48+00:00",
       "description": "Bulletin ID: 2026-125-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/02/2026 13:00 PM PDT Description: Amazon SageMaker Unified Studio is an AWS service that unifies data, analytics, and AI development. It lets you find and access your organization's data and act on it with integrated, purpose-built tools. We identified CVE-2026-104019, an issue with the startup of SageMaker Spaces in SageMaker Unified Studio. The startup script in a SageMaker Space performs a network validation against all the available SageMaker connections in a project. Under certain conditions, improper sanitization of connection details during this validation could allow arbitrary code "
     },
-    "cve:CVE-2026-86830": {
-      "title": "CVE-2026-86830 - Incorrect privilege assignment in Temporary Elevated Access Management (TEAM) for AWS IAM Identity Center",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-112-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-14T18:04:59+00:00",
-      "description": "Bulletin ID: 2026-112-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/14/2026 10:45 AM PDT Description: Temporary Elevated Access Management (TEAM) is an open source AWS sample solution for managing temporary elevated access via AWS IAM Identity Center. We identified CVE-2026-86830, where an authenticated user with application-level access could gain unintended temporary elevated access to AWS accounts managed by TEAM. Impacted versions: <1.5.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security Bulletin."
-    },
     "cve:CVE-2026-109587,CVE-2026-109588": {
       "title": "CVE-2026-109587 & CVE-2026-109588 - Issue with FreeRTOS-Kernel",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-138-aws/",
@@ -8453,7 +8445,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T05:11:48.062607+00:00",
+      "published": "2026-11-13T19:06:20.829832+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:621af13736f267cbe3f2e8d8": {
@@ -10271,6 +10263,14 @@
       "category": "Cloud",
       "published": "2026-11-13T17:58:32.041717+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:75c590031feafb4cb6a3cdf8": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T19:06:20.829832+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10279,8 +10279,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "e88ce628a8c51f67c3b4b6bfac9e0505c68cf4f07ecec8ee6dce94770ed09185",
-    "https://status.cloud.google.com/": "a623e6a117096a9d76b3d39aabdea19033ade2516e49946400526720c22a8464",
+    "https://azure.status.microsoft/en-us/status": "e6a00029c344b92e5d6a60ead2de1947c9b3ae05460fc76c64c9efc4ed434448",
+    "https://status.cloud.google.com/": "fc76dc38b7ad92d55feb7c9df6c93a4fae38370fbb274c62ae4b25f1ed1f4d88",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
