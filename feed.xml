@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 17:05:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 17:58:32 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 17:58:32 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 17:58:32 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>German military drone operations disrupted by cyberattack</title>
+      <link>https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/</guid>
+      <description>[News] BleepingComputer: German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by "hostile actors." [...]</description>
+      <pubDate>Fri, 13 Nov 2026 17:31:56 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/</guid>
       <description>[News] SecurityWeek: Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems. The post Amplifon Americas Data Breach Impacts 1.3 Million appeared first on SecurityWeek .</description>
       <pubDate>Mon, 09 Nov 2026 11:20:09 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 09 Nov 2026 11:07:48 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 09 Nov 2026 11:07:48 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Over 3 Million People Hit by Frontline Education Data Breach</title>
-      <link>https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/</guid>
-      <description>[News] SecurityWeek: Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 09 Nov 2026 10:09:02 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
