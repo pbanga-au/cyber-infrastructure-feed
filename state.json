@@ -8877,7 +8877,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T03:07:28.215976+00:00",
+      "published": "2026-11-13T10:11:42.890287+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:95528fedd298d02449890977": {
@@ -10055,6 +10055,38 @@
       "category": "Cloud",
       "published": "2026-11-13T09:10:13.463666+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates": {
+      "title": "Microsoft confirms Windows activation failures after November updates",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-13T09:36:18+00:00",
+      "description": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]"
+    },
+    "url:https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities": {
+      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+      "url": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T09:36:56+00:00",
+      "description": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools": {
+      "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+      "url": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T09:21:01+00:00",
+      "description": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek ."
+    },
+    "page:c19f3856e5c6f3585c836eca": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T10:11:42.890287+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10063,8 +10095,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "574a4e0590bab53ba2c87656531c4143a1bbfed598143a2666c4a3291324b521",
-    "https://status.cloud.google.com/": "da12f0f69752c1dc0e2a586d3cf52a6e5ec8b1078aa0915ef1052632094fd758",
+    "https://azure.status.microsoft/en-us/status": "2aad858eb71e5725eeed0eeb2f21feec0135da05e738f2d23357507da4e03763",
+    "https://status.cloud.google.com/": "2ce309fb20c626cda7cd150d1742a9cfa68387b039a9e407486b2bc8d182a0e4",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

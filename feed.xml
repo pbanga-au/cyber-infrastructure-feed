@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 09:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:11:42 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 10:11:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 13 Nov 2026 10:11:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Citrix Patches 10 Critical NetScaler Vulnerabilities</title>
+      <link>https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 13 Nov 2026 09:36:56 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft confirms Windows activation failures after November updates</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/</guid>
+      <description>[News] BleepingComputer: Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]</description>
+      <pubDate>Fri, 13 Nov 2026 09:36:18 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools</title>
+      <link>https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/</guid>
+      <description>[News] SecurityWeek: Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 13 Nov 2026 09:21:01 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>GoDaddy Certificate Advisories — official page changed (review required)</title>
       <link>https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095</link>
@@ -1248,14 +1288,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 03:07:28 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 08 Nov 2026 19:52:49 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 19:52:49 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 18:55:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 18:55:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 08 Nov 2026 17:45:27 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
