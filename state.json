@@ -9317,7 +9317,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T19:17:05.201539+00:00",
+      "published": "2026-11-13T21:56:10.049394+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:8df0928eb27d8f73c6266820": {
@@ -10303,6 +10303,22 @@
       "category": "Cloud",
       "published": "2026-11-13T21:01:35.262672+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances": {
+      "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
+      "url": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T21:33:27+00:00",
+      "description": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek ."
+    },
+    "page:2aca4bbe217c93b8d7dbac6e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T21:56:10.049394+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10311,8 +10327,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "ec94df4e37a8c65313e357d7b113de30c733d52f5eb04976bf01bf0996dc1cc2",
-    "https://status.cloud.google.com/": "ae3a64a18048999346a4e493dd8b3f5154ed0c4da7353a4f1513f91f0d3a8630",
+    "https://azure.status.microsoft/en-us/status": "6770fb5fdfdc02be2842112b7ddf9cd4238ac4eac6a81015d0cf473744c14435",
+    "https://status.cloud.google.com/": "daee1b6246cda8a85c1c33bb1a1d3bda842875d560c4b7142ca6bf2ad5ab14b8",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
