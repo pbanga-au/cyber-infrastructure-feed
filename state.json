@@ -10127,16 +10127,64 @@
       "category": "Cloud",
       "published": "2026-11-13T12:04:40.036608+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues": {
+      "title": "Microsoft says November security updates cause printing issues",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-13T12:27:40+00:00",
+      "description": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]"
+    },
+    "url:https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack": {
+      "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+      "url": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T12:41:01+00:00",
+      "description": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks": {
+      "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+      "url": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T12:20:28+00:00",
+      "description": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek ."
+    },
+    "page:67ba186f4b805adc4727ad60": {
+      "title": "Megaport Updates — official page changed (review required)",
+      "url": "https://docs.megaport.com/whatsnew/",
+      "source": "Megaport Updates",
+      "category": "Network",
+      "published": "2026-11-13T13:22:27.038391+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:0d28afed278730c7fce72c2f": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T13:22:27.038391+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:de71355abc9126bb6ac6a477": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T13:22:27.038391+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
-    "https://docs.megaport.com/whatsnew/": "000945faf0270f9f4dcb1a7e9289f380dc59190081e5ca8e471d56ee3e109d60",
+    "https://docs.megaport.com/whatsnew/": "2143df5ede96e0cff3c67142a9bd26070ef982338d489431a1b5a3e75b7c543b",
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "b95c3c49e80317c9aaac9a9b1129ccd2754d2b8fd9fecdaa96e65fb66d94ad8b",
-    "https://status.cloud.google.com/": "f66fd3d7f71cd988d03e7ddc0ea1e9368394757e8fed0c3684a939930c73a9cf",
+    "https://azure.status.microsoft/en-us/status": "71b75429cf093a736b9e5e06c376488670f5df6621cd78a1637cc3a73ead5166",
+    "https://status.cloud.google.com/": "2988130863dce4049bdc3468acb25c6749d67f67b1924ba1584a7a0a7961e15f",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
