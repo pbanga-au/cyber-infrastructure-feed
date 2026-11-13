@@ -6437,7 +6437,7 @@
       "url": "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095",
       "source": "GoDaddy Certificate Advisories",
       "category": "PKI",
-      "published": "2026-11-05T01:19:23.548045+00:00",
+      "published": "2026-11-13T09:10:13.463666+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:2b9746daf197cf28f78084d7": {
@@ -6453,7 +6453,7 @@
       "url": "https://www.godaddy.com/help/ssl-certificates-1000006",
       "source": "GoDaddy Help",
       "category": "PKI",
-      "published": "2026-11-05T01:19:23.548045+00:00",
+      "published": "2026-11-13T09:10:13.463666+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:5e63a11e14804bef5c50a9ed": {
@@ -10015,19 +10015,59 @@
       "category": "Cloud",
       "published": "2026-11-13T07:29:18.935207+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown": {
+      "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+      "url": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-13T08:34:20+00:00",
+      "description": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]"
+    },
+    "url:https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop": {
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+      "url": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T08:50:36+00:00",
+      "description": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks": {
+      "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+      "url": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T07:39:04+00:00",
+      "description": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek ."
+    },
+    "page:6101b3396918ab44d21bd56d": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T09:10:13.463666+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:8b41429afd179a47e0724fb6": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T09:10:13.463666+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
     "https://docs.megaport.com/whatsnew/": "000945faf0270f9f4dcb1a7e9289f380dc59190081e5ca8e471d56ee3e109d60",
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
-    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "1fd726b031f6a3513bbce7cd7432ac14d3aa2b0dfea8345520bb146c9a630a09",
+    "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "b1d04703c7431adeefadb788514ac5617dabf9f797f8e975010f6a420115f47b",
-    "https://status.cloud.google.com/": "36976348304f536ee0d52e153aa7e745decc8d6d42566690ea9f61f846e4b3d2",
+    "https://azure.status.microsoft/en-us/status": "574a4e0590bab53ba2c87656531c4143a1bbfed598143a2666c4a3291324b521",
+    "https://status.cloud.google.com/": "da12f0f69752c1dc0e2a586d3cf52a6e5ec8b1078aa0915ef1052632094fd758",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
-    "https://www.godaddy.com/help/ssl-certificates-1000006": "d8ff4313746b49cabd7325a73089dbc38710ad37590e11f7d70feb285ada9bb0"
+    "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }
 }
