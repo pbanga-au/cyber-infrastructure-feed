@@ -4213,7 +4213,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-10T06:02:18.891234+00:00",
+      "published": "2026-11-13T20:03:36.995211+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:091ee65fbf43f91ba9bf0ec0": {
@@ -10271,6 +10271,22 @@
       "category": "Cloud",
       "published": "2026-11-13T19:06:20.829832+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix": {
+      "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
+      "url": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-13T19:38:36+00:00",
+      "description": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers over cellular networks. [...]"
+    },
+    "page:4eb1c0d3ad168ad72dd19cb4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T20:03:36.995211+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10279,8 +10295,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "e6a00029c344b92e5d6a60ead2de1947c9b3ae05460fc76c64c9efc4ed434448",
-    "https://status.cloud.google.com/": "fc76dc38b7ad92d55feb7c9df6c93a4fae38370fbb274c62ae4b25f1ed1f4d88",
+    "https://azure.status.microsoft/en-us/status": "5e0d9b7967823ce249f4a36d8c600e858fc2dde2d0182ddb775dfe60854da9fb",
+    "https://status.cloud.google.com/": "96fe20eef2ac5d2e9d75ca1c386927ed6fd55b01a1b37cbe9623f6e85f4e89a9",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
