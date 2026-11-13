@@ -9165,7 +9165,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T15:02:01.653611+00:00",
+      "published": "2026-11-13T11:11:07.613337+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:691230a4ab4a408f76397b1e": {
@@ -10087,6 +10087,30 @@
       "category": "Cloud",
       "published": "2026-11-13T10:11:42.890287+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access": {
+      "title": "Check Point warns of zero-day flaw exploited for root access",
+      "url": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-13T10:44:22+00:00",
+      "description": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]"
+    },
+    "url:https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure": {
+      "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+      "url": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-13T10:48:40+00:00",
+      "description": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek ."
+    },
+    "page:0d4e12febc86dafe53ab7610": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-13T11:11:07.613337+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10095,8 +10119,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "2aad858eb71e5725eeed0eeb2f21feec0135da05e738f2d23357507da4e03763",
-    "https://status.cloud.google.com/": "2ce309fb20c626cda7cd150d1742a9cfa68387b039a9e407486b2bc8d182a0e4",
+    "https://azure.status.microsoft/en-us/status": "490486500b5eae320f07bed0fda137b16dae011feb4db1020e2329995f3e3408",
+    "https://status.cloud.google.com/": "b1d088812a8d8fd6b9a998e2b752e758ce2b437e272564d159d5cc62260bfef9",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
