@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-13T05:10:24.130568+00:00",
+  "last_run_utc": "2026-11-13T06:11:18.747258+00:00",
   "sources_successful": 23,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
@@ -94,7 +94,7 @@
       "source": "AWS Service Health RSS",
       "mode": "rss",
       "status": "ok",
-      "entries_available": 45
+      "entries_available": 38
     },
     {
       "source": "ZPE PSIRT",
@@ -140,7 +140,7 @@
       "source": "Arista Security Advisories",
       "mode": "page-change",
       "status": "ok",
-      "changed": true,
+      "changed": false,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {
