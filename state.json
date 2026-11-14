@@ -328,22 +328,6 @@
       "published": "2026-09-17T12:00:00+00:00",
       "description": "Our view of good cyber adversary simulation – and how assured providers can deliver it."
     },
-    "url:https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists": {
-      "title": "Iranian cyber targeting of dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/iranian-cyber-targeting-of-dissidents-activists-and-journalists",
-      "source": "UK NCSC",
-      "category": "Security",
-      "published": "2026-09-15T12:00:00+00:00",
-      "description": "Advisory on CHOSEN BRICK malware, including technical analysis and advice to help individuals and organisations protect themselves."
-    },
-    "url:https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists": {
-      "title": "UK and allies expose spyware used by Iranian state actors to target dissidents, activists and journalists",
-      "url": "https://www.ncsc.gov.uk/news/uk-allies-expose-spyware-iranian-state-actors-target-dissidents-activists-journalists",
-      "source": "UK NCSC",
-      "category": "Security",
-      "published": "2026-09-15T12:00:00+00:00",
-      "description": "UK and allies provide advice to help organisations and individuals at risk detect and counter the threat from CHOSEN BRICK malware."
-    },
     "cve:CVE-2026-109618,CVE-2026-109619": {
       "title": "CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products  (Severity: HIGH)",
       "url": "https://security.paloaltonetworks.com/CVE-2026-109618",
@@ -8437,7 +8421,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-13T19:06:20.829832+00:00",
+      "published": "2026-11-14T13:03:44.024612+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:621af13736f267cbe3f2e8d8": {
@@ -10503,6 +10487,14 @@
       "category": "Cloud",
       "published": "2026-11-14T11:49:42.584287+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:93c679da93702dc496e5fc48": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-14T13:03:44.024612+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10511,8 +10503,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "ddc479044216734363c9c3db54e2b67648d0c35d7cdce4d09834516bc9a284e8",
-    "https://status.cloud.google.com/": "82dc9c6cb85d726f00f6eab5f9387bb15c7589b48d5d343a7a4b44654af85bf3",
+    "https://azure.status.microsoft/en-us/status": "e6a00029c344b92e5d6a60ead2de1947c9b3ae05460fc76c64c9efc4ed434448",
+    "https://status.cloud.google.com/": "7c0eadc6063fbfa0a36d677c1d4283915c1e8ecc0fbee037941df1f3df6f3cb9",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
