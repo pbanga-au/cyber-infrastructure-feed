@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 07:15:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:15:14 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 14 Nov 2026 08:15:14 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 14 Nov 2026 08:15:14 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2390,22 +2406,6 @@
       <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 09 Nov 2026 19:06:06 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>France blames Iranian hackers for supermarket attacks that sparked fires</title>
-      <link>https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/france-blames-iranian-hackers-for-supermarket-attacks-that-sparked-fires/</guid>
-      <description>[News] BleepingComputer: France has linked October cyberattacks that disrupted refrigeration systems at more than 700 supermarkets and other retail locations to Iranian state-backed hackers, saying the attacks caused food losses and sparked at least 15 fires. [...]</description>
-      <pubDate>Mon, 09 Nov 2026 18:32:42 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Russian cloud firm Beget rebuilds from scratch after data wiper attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/russian-cloud-firm-beget-rebuilds-from-scratch-after-data-wiper-attack/</guid>
-      <description>[News] BleepingComputer: A data-wiping malware attack has forced Russian cloud services provider Beget to rebuild its cloud infrastructure from scratch, the company said. [...]</description>
-      <pubDate>Mon, 09 Nov 2026 17:50:32 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
