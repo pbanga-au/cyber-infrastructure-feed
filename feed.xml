@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 09:56:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 10:53:23 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 14 Nov 2026 10:53:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 14 Nov 2026 10:53:23 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -853,14 +869,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-181-AWS Publication Date: 11/12/2026 13:00 PM PST Description: We identified CVE-2026-127119, an issue in the EMR module of AWS SDK for pandas (awswrangler) from version 1.1.0 before 3.18.0. When a cluster is created without an explicit log location, the library uses a predictable default S3 bucket name for the cluster logs without verifying that the caller's account owns that bucket. A remote actor who creates that bucket first could read the cluster's logs, including job step output. Impacted versions: &gt;= 1.1.0 AND &lt; 3.18.0 Refer to the article for the most up-to-date and complete information.</description>
       <pubDate>Thu, 12 Nov 2026 19:07:08 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 18:05:56 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2397,14 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 09 Nov 2026 21:01:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 09 Nov 2026 20:03:37 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
