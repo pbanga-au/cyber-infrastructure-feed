@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 14:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 15:50:01 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 14 Nov 2026 15:50:01 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 14 Nov 2026 15:50:01 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>US disrupts North Korean campaign behind $400 million crypto theft</title>
+      <link>https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/</guid>
+      <description>[News] BleepingComputer: The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]</description>
+      <pubDate>Sat, 14 Nov 2026 15:15:49 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -22,6 +46,14 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 14 Nov 2026 14:52:56 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>Is AI Making Us Worse at Cybersecurity?</title>
+      <link>https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/</guid>
+      <description>[News] SecurityWeek: Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .</description>
+      <pubDate>Sat, 14 Nov 2026 14:00:00 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -2374,38 +2406,6 @@
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 09 Nov 2026 23:49:46 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 09 Nov 2026 23:49:46 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Mon, 09 Nov 2026 22:55:48 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-124034, CVE-2026-124035: Issues with Amazon Braket SDK</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-175-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-175-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-175-AWS Publication Date: 11/09/2026 14:15 PM PST Description: Amazon Braket SDK is an open source Python library that customers use to run quantum tasks and hybrid jobs on Amazon Braket. We identified CVE-2026-124034, an issue in the local hybrid job input data download in the Amazon Braket SDK. And we identified CVE-2026-124035, an issue in the error mitigation schema validation in Amazon Braket Schemas, the library the Amazon Braket SDK uses to parse quantum task results. Impacted versions: - amazon-braket-sdk &gt;= 1.10.0 AND &lt; 1.127.7 - amazon-braket-schemas &gt;= 1.17.0 AND &lt; 1.32.2 Refer to the article for the most up-to-date and complete information. Read this article</description>
-      <pubDate>Mon, 09 Nov 2026 22:42:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>SEGA newsletter data breach exposes 2.2 million email addresses</title>
-      <link>https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/</guid>
-      <description>[News] BleepingComputer: Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]</description>
-      <pubDate>Mon, 09 Nov 2026 22:09:33 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
