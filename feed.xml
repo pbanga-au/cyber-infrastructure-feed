@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 14:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 15:51:18 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 15 Nov 2026 15:51:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 15 Nov 2026 15:51:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>TSMC employee data breach linked to cloud provider</title>
+      <link>https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/</guid>
+      <description>[News] BleepingComputer: Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]</description>
+      <pubDate>Sun, 15 Nov 2026 15:23:48 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1512,14 +1536,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 05:12:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2390,22 +2406,6 @@
       <description>[News] SecurityWeek: Anthropic says Mythos 5.2 improves vulnerability discovery while showing a lower tendency to escape sandboxes in controlled tests. The post Anthropic Rolls Out Mythos 5.2 With Improved Bug Hunting, Fewer Sandbox Escapes appeared first on SecurityWeek .</description>
       <pubDate>Tue, 10 Nov 2026 12:17:13 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>SAP patches ICM2SHELL and PROXYGATE maximum severity flaws</title>
-      <link>https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/</guid>
-      <description>[News] BleepingComputer: SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 12:07:03 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CISA Adds Six Known Exploited Vulnerabilities to Catalog</title>
-      <link>https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog</guid>
-      <description>[Security] CISA Advisories: CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability CVE-2026-111560 Barracuda Networks Multiple Products OS Command Injection Vulnerability CVE-2026-111793 Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability CVE-2026-116606 Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-124194 Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability CVE-20</description>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>

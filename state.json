@@ -8661,7 +8661,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-12T05:12:09.283191+00:00",
+      "published": "2026-11-15T15:51:18.992484+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c14129a3cc21f31a46b42550": {
@@ -10767,6 +10767,22 @@
       "category": "Cloud",
       "published": "2026-11-15T14:53:50.727045+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider": {
+      "title": "TSMC employee data breach linked to cloud provider",
+      "url": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-15T15:23:48+00:00",
+      "description": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]"
+    },
+    "page:e5c7a85a360527463d6951bd": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-15T15:51:18.992484+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10775,8 +10791,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "b7064938f34ccf448f097875bfe2eacbef8dfca4e42ff135ef349fc05b57c2ac",
-    "https://status.cloud.google.com/": "582199748bc7355dbcadaaa4fe6fb29bd2d09555ffeae94c0de6f239293e83b4",
+    "https://azure.status.microsoft/en-us/status": "4214f6efb978159f143de2decee8ee7d47dcb7e7ec5bf38bdf4db3e93c702a3e",
+    "https://status.cloud.google.com/": "093b50b7fc8f9f2d47ebc1ee562267825f4f4b9568e23ade994bcde816abe97e",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
