@@ -10229,7 +10229,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-13T17:58:32.041717+00:00",
+      "published": "2026-11-15T13:05:36.557873+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:8f5607896e0b88e14b5c3b8c": {
@@ -10727,6 +10727,30 @@
       "category": "Cloud",
       "published": "2026-11-15T11:52:11.050744+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office": {
+      "title": "Pentagon Renames CDAO ‘Super Intelligence Office’",
+      "url": "https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-15T12:51:33+00:00",
+      "description": "The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek ."
+    },
+    "url:https://status.aws.amazon.com/": {
+      "title": "Service impact: Increased Connectivity issues in US-EAST-1",
+      "url": "https://status.aws.amazon.com/",
+      "source": "AWS Service Health RSS",
+      "category": "Cloud",
+      "published": "2026-11-15T12:38:02+00:00",
+      "description": "We are investigating reports of Connectivity issues in the US-EAST-1 Region. IAM Identity center sign-in requests and AWS SignUps are also impacted at this time."
+    },
+    "page:d3a8234a74c60321a7d48239": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-15T13:05:36.557873+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10735,8 +10759,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "e6a00029c344b92e5d6a60ead2de1947c9b3ae05460fc76c64c9efc4ed434448",
-    "https://status.cloud.google.com/": "7f95665bdb79c51b0201c0e73f2d6a91771544966b1e6d28721d9ec9e0d7dcdf",
+    "https://azure.status.microsoft/en-us/status": "e88ce628a8c51f67c3b4b6bfac9e0505c68cf4f07ecec8ee6dce94770ed09185",
+    "https://status.cloud.google.com/": "da766b5d66d69c364ca2842929dbb300e298e702da7efbffbecd166eae5bb8f5",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 11:52:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 13:05:36 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 15 Nov 2026 13:05:36 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sun, 15 Nov 2026 13:05:36 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Pentagon Renames CDAO ‘Super Intelligence Office’</title>
+      <link>https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/pentagon-renames-cdao-super-intelligence-office/</guid>
+      <description>[News] SecurityWeek: The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .</description>
+      <pubDate>Sun, 15 Nov 2026 12:51:33 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Service impact: Increased Connectivity issues in US-EAST-1</title>
+      <link>https://status.aws.amazon.com/</link>
+      <guid isPermaLink="false">https://status.aws.amazon.com/</guid>
+      <description>[Cloud] AWS Service Health RSS: We are investigating reports of Connectivity issues in the US-EAST-1 Region. IAM Identity center sign-in requests and AWS SignUps are also impacted at this time.</description>
+      <pubDate>Sun, 15 Nov 2026 12:38:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -653,14 +685,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 13 Nov 2026 19:06:20 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 17:58:32 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2382,30 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 10 Nov 2026 11:58:38 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 11:00:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Hackers now exploit critical Barracuda ESG flaws to gain root access</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/</guid>
-      <description>[News] BleepingComputer: Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 10:10:20 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Turla hackers use new Cereal malware to spy on govt Exchange servers</title>
-      <link>https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/</guid>
-      <description>[News] BleepingComputer: The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 10:04:32 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
