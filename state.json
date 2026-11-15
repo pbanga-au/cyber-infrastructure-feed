@@ -768,14 +768,6 @@
       "published": "2026-09-29T15:17:30+00:00",
       "description": "Bulletin ID: 2026-119-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/29/2026 08:00 AM PDT Description: GluonTS is an open source library for deep learning based time series models. We identified CVE-2026-100308 that allows arbitrary command execution upon deserialization of untrusted model artifacts. Deserialization of untrusted data in the model loading component in Amazon GluonTS before 0.17.0 might allow context-dependent attackers to execute arbitrary operating system commands with the privileges of the loading process via a crafted serialized model directory. The issue arises whenever a user calls Predictor.deserialize() or any RepresentablePredictor.de"
     },
-    "cve:CVE-2026-86831": {
-      "title": "CVE-2026-86831: Improper validation of pod identifier uniqueness in aws-network-policy-agent in Amazon EKS",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-113-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-16T20:16:23+00:00",
-      "description": "Bulletin ID: 2026-113-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/16/2026 12:30 PM PDT Description: Network Policy Agent is an EKS Policy management feature. We identified CVE-2026-86831, a cross-namespace NetworkPolicy bypass in Amazon EKS Network Policy Agent (aws-network-policy-agent) before v1.4.0. Pod identifiers are constructed by concatenating the pod name and namespace with a hyphen delimiter, which is a legal character in both Kubernetes pod names and namespace names. This ambiguity can produce identical identifiers for pods across different namespaces, potentially allowing NetworkPolicy enforcement to be bypassed. Impacted versions: - 1.14.0<1.2"
-    },
     "cve:CVE-2026-97662": {
       "title": "CVE-2026-97662 - Argument injection in AWS security-agent-mcp-server diff scan",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-121-aws/",
@@ -10597,7 +10589,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-14T20:49:51.742248+00:00",
+      "published": "2026-11-15T20:50:39.064241+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:49c2c51f79776cfffa09b305": {
@@ -10823,6 +10815,14 @@
       "category": "Cloud",
       "published": "2026-11-15T19:52:43.207780+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:7cb1bfd307009856209a3843": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-15T20:50:39.064241+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10831,8 +10831,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "dfce6dcbb3f9c4684cf34484d4aba40aff81475e05a3ebb89712b82972f20c6e",
-    "https://status.cloud.google.com/": "4da76b6cd3fa4ed2576c2ea7e0577442e411a86703a200328a2969dd97313ff7",
+    "https://azure.status.microsoft/en-us/status": "5f5d8ce5c42e9ae6329befc586174129e05a86ea407adf8a45fceb964b20f0d8",
+    "https://status.cloud.google.com/": "8acb239d5f34323d9cb7d2be1be851d7c8d660e33ad7706861c58286bfc09792",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
