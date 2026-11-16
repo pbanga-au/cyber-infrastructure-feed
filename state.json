@@ -10133,7 +10133,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-13T14:59:35.915318+00:00",
+      "published": "2026-11-16T17:24:19.502390+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:a7e36a14442218ffc48b82c9": {
@@ -11007,6 +11007,54 @@
       "category": "Cloud",
       "published": "2026-11-16T15:18:10.865759+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage": {
+      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T16:43:24+00:00",
+      "description": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages": {
+      "title": "Fandango says hackers stole payment card details from checkout pages",
+      "url": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T15:44:21+00:00",
+      "description": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]"
+    },
+    "url:https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks": {
+      "title": "Cursor Supply Chain Attack Started at Fireworks AI",
+      "url": "https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-16T15:45:43+00:00",
+      "description": "The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline": {
+      "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
+      "url": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-16T15:31:25+00:00",
+      "description": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek ."
+    },
+    "page:38730f77f1e5fffa40964a46": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-16T17:24:19.502390+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:315d9a11b37934b168afbbd2": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-16T17:24:19.502390+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11015,9 +11063,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "3e58f4f4b9f7738b6117f45b689c7010baa4d7e48b80da948540bc18f269762b",
-    "https://status.cloud.google.com/": "fd5de82769cbd93cac56eb267b708a274b5946d9c611adc5ca70e8f805869710",
-    "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
+    "https://azure.status.microsoft/en-us/status": "6f31f89e238c2a7206d6bdcfe2b2d1055cb447106de8c0baab5a59024f829db8",
+    "https://status.cloud.google.com/": "809dba1ffe45aa7fdbbb9e32e35d2b66cd0e20fe383f844ea708802b542bac1f",
+    "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"

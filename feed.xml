@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 15:18:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 17:24:19 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 17:24:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 17:24:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 17:24:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Microsoft says months-old bug caused global Microsoft 365 outage</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/</guid>
+      <description>[News] BleepingComputer: Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]</description>
+      <pubDate>Mon, 16 Nov 2026 16:43:24 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Cursor Supply Chain Attack Started at Fireworks AI</title>
+      <link>https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/</guid>
+      <description>[News] SecurityWeek: The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 15:45:43 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Fandango says hackers stole payment card details from checkout pages</title>
+      <link>https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/</guid>
+      <description>[News] BleepingComputer: Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]</description>
+      <pubDate>Mon, 16 Nov 2026 15:44:21 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Google Project Zero Sets Course for 30-Day Disclosure Deadline</title>
+      <link>https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/</guid>
+      <description>[News] SecurityWeek: It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 15:31:25 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1110,14 +1166,6 @@
       <description>[News] BleepingComputer: An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]</description>
       <pubDate>Fri, 13 Nov 2026 15:01:11 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 14:59:35 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2358,54 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 10 Nov 2026 22:53:49 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Railway breach leads to $740,000 in fraudulent AI charges</title>
-      <link>https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/</guid>
-      <description>[News] BleepingComputer: Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 workspaces. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 22:20:19 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 21:51:24 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Grok Build coding agent leaks oodles of confidential info, some belonging to SpaceXSI</title>
-      <link>https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/grok-build-coding-agent-leaks-oodles-of-confidential-info-some-belonging-to-spacexsi/</guid>
-      <description>[News] Ars Technica Security: Researcher finds 35,000 Grok Build apps wide open to anyone who looked for them.</description>
-      <pubDate>Tue, 10 Nov 2026 21:12:59 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 20:56:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 20:56:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Japanese furniture giant Nitori says hackers stole 37.6M customer records</title>
-      <link>https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/</guid>
-      <description>[News] BleepingComputer: Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 20:54:55 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
