@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 06:34:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:50:16 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 09:50:16 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 09:50:16 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>New NoisyTCP vulnerability lets attackers crash Linux servers</title>
+      <link>https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/</guid>
+      <description>[News] BleepingComputer: An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]</description>
+      <pubDate>Mon, 16 Nov 2026 09:30:04 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Tor Updates DoS Defenses Again as Relay Attacks Continue</title>
+      <link>https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/</guid>
+      <description>[News] SecurityWeek: Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 08:55:32 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft pushes Windows emergency updates to fix activation failures</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/</guid>
+      <description>[News] BleepingComputer: Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]</description>
+      <pubDate>Mon, 16 Nov 2026 08:26:52 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign</title>
+      <link>https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/</guid>
+      <description>[News] SecurityWeek: Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 08:15:12 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1216,14 +1264,6 @@
       <category>Cloud</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 04:04:17 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/</guid>
       <description>[News] SecurityWeek: Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on SecurityWeek .</description>
       <pubDate>Tue, 10 Nov 2026 18:11:54 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 17:55:40 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 17:02:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next</title>
-      <link>https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/</guid>
-      <description>[News] SecurityWeek: SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM data once they have it. The post Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 10 Nov 2026 16:45:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-125271 - AWS API MCP Server Security Policy Bypass via Incorrect Operation Name Normalization</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-176-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-176-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-176-AWS Publication Date: 11/10/2026 08:30 AM PST Description: We identified CVE-2026-125271 of AWS API MCP Server. The server normalized operation names incorrectly before comparing them to the operator ' s security policy, so operations whose names contain consecutive capital letters never matched a correctly written denyList or elicitList entry. This might allow an actor to execute AWS API operations that the operator's security policy was configured to deny or require elicitation for. Impacted versions: &gt;= 0.2.13 AND &lt; 1.5.1 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Tue, 10 Nov 2026 16:42:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code</title>
-      <link>https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/</guid>
-      <description>[News] SecurityWeek: Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees. The post Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 10 Nov 2026 16:42:02 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
