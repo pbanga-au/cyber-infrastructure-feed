@@ -312,22 +312,6 @@
       "published": "2026-09-21T12:00:00+00:00",
       "description": "Defenders can’t use AI in the same way attackers can, but there’s much they can do to unlock the potential of agentic cyber defence."
     },
-    "url:https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know": {
-      "title": "Adversary simulation: what you need to know",
-      "url": "https://www.ncsc.gov.uk/guidance/adversary-simulation-what-you-need-to-know",
-      "source": "UK NCSC",
-      "category": "Security",
-      "published": "2026-09-17T12:00:00+00:00",
-      "description": "Adversary simulation ('red teaming') tests your ability to prevent, detect and respond to cyber attacks."
-    },
-    "url:https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available": {
-      "title": "Cyber Adversary Simulation (CyAS): scheme documents now available",
-      "url": "https://www.ncsc.gov.uk/blogs/cyber-adversary-simulation-cyas-scheme-documents-now-available",
-      "source": "UK NCSC",
-      "category": "Security",
-      "published": "2026-09-17T12:00:00+00:00",
-      "description": "Our view of good cyber adversary simulation – and how assured providers can deliver it."
-    },
     "cve:CVE-2026-109618,CVE-2026-109619": {
       "title": "CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products  (Severity: HIGH)",
       "url": "https://security.paloaltonetworks.com/CVE-2026-109618",
@@ -8941,7 +8925,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T09:06:24.501512+00:00",
+      "published": "2026-11-16T15:18:10.865759+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c27f50841b2d7d5af55cdb5d": {
@@ -10975,6 +10959,54 @@
       "category": "Cloud",
       "published": "2026-11-16T11:33:27.207720+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements": {
+      "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+      "url": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T15:01:11+00:00",
+      "description": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, block compromised passwords, and maintain compliance. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon": {
+      "title": "Google warns that fully-automated AI attacks are coming soon",
+      "url": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T14:00:00+00:00",
+      "description": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days": {
+      "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T12:53:18+00:00",
+      "description": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]"
+    },
+    "url:https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks": {
+      "title": "Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks",
+      "url": "https://www.securityweek.com/barracuda-hacked-amid-surge-in-artex-powered-cyberattacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-16T15:07:32+00:00",
+      "description": "Chinese threat actors are broadly adopting the agentic AI penetration testing framework to accelerate their attacks. The post Barracuda Hacked Amid Surge in Artex-Powered Cyberattacks appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch": {
+      "title": "Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch",
+      "url": "https://www.securityweek.com/telegram-widgets-hit-by-rce-demos-malware-warning-days-after-launch/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-16T12:48:03+00:00",
+      "description": "Kaspersky suspects exploitation of Telegram’s new widgets to deliver WebRAT, as researchers demo RCE and Pavel Durov disputes the claims. The post Telegram Widgets Hit by RCE Demos, Malware Warning Days After Launch appeared first on SecurityWeek ."
+    },
+    "page:34b1dd37d20726c0b8f6a717": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-16T15:18:10.865759+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -10983,8 +11015,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "6770fb5fdfdc02be2842112b7ddf9cd4238ac4eac6a81015d0cf473744c14435",
-    "https://status.cloud.google.com/": "485a2e3b00f5ef1952800385cd8d742424ca64ddbc6c6b1cf1c0c6ed0df3224c",
+    "https://azure.status.microsoft/en-us/status": "3e58f4f4b9f7738b6117f45b689c7010baa4d7e48b80da948540bc18f269762b",
+    "https://status.cloud.google.com/": "fd5de82769cbd93cac56eb267b708a274b5946d9c611adc5ca70e8f805869710",
     "https://cloud.google.com/support/bulletins": "369ac52949260d45b88d25f0917e44e0546f7f90ac386eebb7a21d73277dd5a5",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
