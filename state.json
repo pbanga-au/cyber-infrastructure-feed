@@ -672,14 +672,6 @@
       "published": "2026-10-08T19:44:26+00:00",
       "description": "Bulletin ID: 2026-131-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/08/2026 12:30 PM PDT Description: AWS CDK is an open source framework that allows customers to build cloud infrastructure using their favorite programming language (Python, Typescript, C#, Go). That infrastructure is then able to be deployed with AWS CDK command line commands to AWS CloudFormation. We identified CVE-2026-107608, which is an issue where Docker files could be configured to insert symlinked files into the output of the AWS CDK asset bundling process when it was invoked with a Docker file. When bundling an asset using AWS CDK with a docker file, prior to 2.267.0, it was possibl"
     },
-    "cve:CVE-2026-92943": {
-      "title": "CVE-2026-92943 - Improper validation of certificate with host mismatch in AWS IoT Device SDK for Python",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-114-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-17T19:18:01+00:00",
-      "description": "Bulletin ID: 2026-115-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/17/2026 12:00 PM PDT Description: AWS IoT Device SDK for Python (AWSIoTPythonSDK) is an open source SDK that lets IoT devices and gateways connect to AWS IoT Core over MQTT. We identified CVE-2026-92943 in the MQTT client TLS connection layer, where the client did not validate that the server certificate matched the AWS IoT Core endpoint hostname. On Python 3.7 and later, an adversary-in-the-middle positioned on the network could present a certificate issued for an unrelated hostname by any certificate authority in the device trust store, impersonate the AWS IoT Core endpoint, read device t"
-    },
     "cve:CVE-2026-103505": {
       "title": "CVE-2026-103505 - Mount Option Injection in Amazon EFS CSI Driver",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-120-aws/",
@@ -9061,7 +9053,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-13T05:10:24.130568+00:00",
+      "published": "2026-11-16T20:06:19.402653+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:05e3a74514f9d3cc522baac7": {
@@ -11071,6 +11063,22 @@
       "category": "Cloud",
       "published": "2026-11-16T19:08:37.236581+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack": {
+      "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
+      "url": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T19:57:13+00:00",
+      "description": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]"
+    },
+    "page:d368a3543a9e46d663080d2e": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-16T20:06:19.402653+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11079,8 +11087,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "ba9441dbd1f466bd7edf7940bb9161b29275f7de03faef2a721e21268a5f3f17",
-    "https://status.cloud.google.com/": "c6f1667d83cc8512b8b569acfc3209d3d9707f8f27544776f85767cbf5bce3fe",
+    "https://azure.status.microsoft/en-us/status": "31206cb76a2a0831c619937a933b0d744ced69a41d2a4aced6769d3e3df3795d",
+    "https://status.cloud.google.com/": "48c50d1f8cdcf8c25fd8a1456c509ebed59ffdefd42621d14559d9257e1108dc",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
