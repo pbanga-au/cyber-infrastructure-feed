@@ -9357,7 +9357,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-16T03:08:30.000093+00:00",
+      "published": "2026-11-16T21:58:12.722638+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:ec2768f660183783b6d9a27e": {
@@ -11111,6 +11111,30 @@
       "category": "Cloud",
       "published": "2026-11-16T20:59:18.105602+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-126681": {
+      "title": "CVE-2026-126681 - Improper restriction of intended endpoints in AWS Labs Timestream for InfluxDB MCP Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-185-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-16T21:03:04+00:00",
+      "description": "Bulletin ID: 2026-185-AWS Publication Date: 11/16/2026 12:30 PM PST Description: Improper restriction of intended endpoints in the connection configuration handling of the AWS Labs Timestream for InfluxDB MCP Server (awslabs.timestream-for-influxdb-mcp-server) before 0.0.19 might allow a remote unauthenticated actor (via prompt injection) to obtain the InfluxDB API token configured on the server, sent to a crafted endpoint controlled through an InfluxDB URL introduced in the MCP client context. Impacted versions: >=0.0.12 AND <0.0.19 Refer to the article for the most up-to-date and complete information."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats": {
+      "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
+      "url": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-16T21:31:44+00:00",
+      "description": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]"
+    },
+    "page:7e867383a618ca4497a445a7": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-16T21:58:12.722638+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11119,8 +11143,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "dde0221267d41feb3d94ab5aab89a61fb16ebcc96fd19150214d17c10598af2a",
-    "https://status.cloud.google.com/": "9b5202a41cad05dfdab2792f9168e8d44ee65e09d096ca7bf4fe09532e1966da",
+    "https://azure.status.microsoft/en-us/status": "a5139781f8f9bbb4b42bcf4a08349e853fc27588957cd7dc6882ecb2944a0f9a",
+    "https://status.cloud.google.com/": "9710954c481e77d7a82b3d2e0b5b707fb736d501ae1aa59c1009df3304747382",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
