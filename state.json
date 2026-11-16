@@ -9421,7 +9421,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-15T08:58:34.831133+00:00",
+      "published": "2026-11-16T19:08:37.236581+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:2b49b0b65bafd35f8d8c9c64": {
@@ -11055,6 +11055,22 @@
       "category": "Cloud",
       "published": "2026-11-16T17:24:19.502390+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-129266": {
+      "title": "CVE-2026-129266 - Arbitrary local file read via unvalidated resource location in model archive metadata in Deep Java Library",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-183-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-16T18:37:04+00:00",
+      "description": "Bulletin ID: 2026-183-AWS Publication Date: 11/16/2026 10:30 AM PST Description: External control of a file path in Amazon Deep Java Library (DJL) versions 0.7.0 through 0.38.0 might allow a remote unauthenticated third party to read arbitrary files that the library process can access. To do this, the third party supplies a crafted model archive. Impacted versions: >=0.7.0, <=0.38.0 Refer to the article for the most up-to-date and complete information."
+    },
+    "page:52bc3b3bb1162ed5d501aea6": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-16T19:08:37.236581+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11063,8 +11079,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "6f31f89e238c2a7206d6bdcfe2b2d1055cb447106de8c0baab5a59024f829db8",
-    "https://status.cloud.google.com/": "809dba1ffe45aa7fdbbb9e32e35d2b66cd0e20fe383f844ea708802b542bac1f",
+    "https://azure.status.microsoft/en-us/status": "ba9441dbd1f466bd7edf7940bb9161b29275f7de03faef2a721e21268a5f3f17",
+    "https://status.cloud.google.com/": "c6f1667d83cc8512b8b569acfc3209d3d9707f8f27544776f85767cbf5bce3fe",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

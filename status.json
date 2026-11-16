@@ -1,9 +1,9 @@
 {
-  "last_run_utc": "2026-11-16T17:24:19.502390+00:00",
+  "last_run_utc": "2026-11-16T19:08:37.236581+00:00",
   "sources_successful": 23,
   "failures": [
-    "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
-    "ACSC Advisories: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww",
+    "ACSC Alerts: 403 Client Error: Forbidden for url: https://www.cyber.gov.au/rss/alerts",
+    "ACSC Advisories: 403 Client Error: Forbidden for url: https://www.cyber.gov.au/rss/advisories",
     "ZPE PSIRT: Page content unavailable or too short",
     "HPE Security Bulletins: HTTPSConnectionPool(host='www.hpe.com', port=443): Max retries exceeded with url: /us/en/support/security-bulletins.html (Caused by ReadTimeoutError(\"HTTPSConne",
     "HPE Aruba Security Bulletins: Page content unavailable or too short",
@@ -22,13 +22,13 @@
       "source": "ACSC Alerts",
       "mode": "rss",
       "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy"
+      "error": "403 Client Error: Forbidden for url: https://www.cyber.gov.au/rss/alerts"
     },
     {
       "source": "ACSC Advisories",
       "mode": "rss",
       "status": "failed",
-      "error": "HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/advisories (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='ww"
+      "error": "403 Client Error: Forbidden for url: https://www.cyber.gov.au/rss/advisories"
     },
     {
       "source": "UK NCSC",
@@ -64,7 +64,7 @@
       "source": "AWS Security",
       "mode": "rss",
       "status": "ok",
-      "entries_available": 44
+      "entries_available": 45
     },
     {
       "source": "BleepingComputer",
@@ -179,7 +179,7 @@
       "source": "Google Cloud Security Bulletins",
       "mode": "page-change",
       "status": "ok",
-      "changed": true,
+      "changed": false,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {
