@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 09:50:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 11:33:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 11:33:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Mon, 16 Nov 2026 11:33:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Australian retail giant Coles investigates cybersecurity incident</title>
+      <link>https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/</guid>
+      <description>[News] BleepingComputer: Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a "cyber security incident" that has not impacted the company's stores. [...]</description>
+      <pubDate>Mon, 16 Nov 2026 11:18:09 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Recent UnrealIRCd Vulnerability Exploited in Attacks</title>
+      <link>https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/</guid>
+      <description>[News] SecurityWeek: Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 11:15:48 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers</title>
+      <link>https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</guid>
+      <description>[News] SecurityWeek: Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 11:05:42 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Uber Data Breach Impacts 150,000 People</title>
+      <link>https://www.securityweek.com/uber-data-breach-impacts-150000-people/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/uber-data-breach-impacts-150000-people/</guid>
+      <description>[News] SecurityWeek: Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 16 Nov 2026 11:02:48 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/</guid>
+      <description>[News] BleepingComputer: Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]</description>
+      <pubDate>Mon, 16 Nov 2026 11:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -869,14 +925,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 13 Nov 2026 22:53:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 21:56:10 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2357,54 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/</guid>
       <description>[News] SecurityWeek: CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .</description>
       <pubDate>Tue, 10 Nov 2026 19:19:46 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/</guid>
-      <description>[News] BleepingComputer: Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 19:07:36 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 19:06:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 10 Nov 2026 19:06:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-126087 - Untrusted search path in OpenJD Sessions for Python and the AWS Deadline Cloud worker agent</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-177-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-177-AWS Publication Date: 11/10/2026 10:45 AM PST Description: Untrusted search path in the cross-user process launcher in Open Job Description (OpenJD) Sessions for Python before 0.11.0, as used in the AWS Deadline Cloud worker agent before 0.33.0, on Linux might allow an authenticated remote user with permission to submit jobs to a queue to execute arbitrary code as the worker agent OS user and obtain the AWS credentials held by the worker agent via a crafted job that modifies the PATH environment variable. Impacted versions: - openjd-sessions &lt; 0.11.0 - deadline-cloud-worker-agent &lt; 0.33.0 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Tue, 10 Nov 2026 18:53:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Windows 11 KB5132061 &amp; KB5131087 cumulative updates released</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/</guid>
-      <description>[News] BleepingComputer: Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]</description>
-      <pubDate>Tue, 10 Nov 2026 18:33:26 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Adobe Patches 110 Vulnerabilities Across 9 Products</title>
-      <link>https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/</guid>
-      <description>[News] SecurityWeek: Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 10 Nov 2026 18:11:54 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
