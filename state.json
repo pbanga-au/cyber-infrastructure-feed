@@ -9981,7 +9981,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-13T09:10:13.463666+00:00",
+      "published": "2026-11-17T20:17:56.428164+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:8b41429afd179a47e0724fb6": {
@@ -11551,6 +11551,38 @@
       "category": "Cloud",
       "published": "2026-11-17T19:15:41.224121+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-130621": {
+      "title": "CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-17T19:18:32+00:00",
+      "description": "Bulletin ID: 2026-186-AWS Publication Date: 11/17/2026 11:00 AM PST Description: A time-of-check time-of-use (TOCTOU) race condition in the local port selection in AWS efs-utils (amazon-efs-utils) before 3.3.5 might allow a user that can start EFS mounts on a shared host to read and write a different Amazon EFS or S3 Files file system that is mounted on that same host, under that mount's IAM identity and access point, via concurrent mount operations. Only file systems mounted on the same host at the same time can be affected. Impacted versions: - amazon-efs-utils < v3.3.5 - aws-efs-csi-driver < v3.5.4 Refer to the article for the most up-to-date and complete information."
+    },
+    "cve:CVE-2026-130622,CVE-2026-130623": {
+      "title": "CVE-2026-130622 and CVE-2026-130623 - Incorrect authorization in credential loading and handling for namespace-scoped issuers in AWS Private CA Connector for Kubernetes (aws-privateca-issuer)",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-187-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-17T20:11:26+00:00",
+      "description": "Bulletin ID: 2026-187-AWS Publication Date: 11/17/2026 12:00 PM PST Description: Incorrect authorization in the credential loading logic in AWS Private CA Connector for Kubernetes(aws-privateca-issuer) before 1.12.0 might allow an authenticated remote user with permission to create namespace-scoped issuers to obtain certificates, including subordinate CA certificates, signed by another namespace's AWS Private CA with that namespace's stored AWS credentials, via a namespace-scoped issuer that references a credentials Secret in that namespace. Impacted versions: - aws-privateca-issuer before v1.12.0 - AWS Private CA Connector for Kubernetes EKS add-on before v1.12.0-eksbuild.1 Refer to the art"
+    },
+    "url:https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more": {
+      "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
+      "url": "https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-17T19:24:07+00:00",
+      "description": "Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account & Sign In, Apple School Manager, and Schoolwork. [...]"
+    },
+    "page:9a58238f0539b46cca3c6a2b": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T20:17:56.428164+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11559,8 +11591,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "0b6fa9c0921b47f18dc4e130a30e1253f7e369faa5a8fc511184030cda7d1d3a",
-    "https://status.cloud.google.com/": "286ab9a0eb0f7934b2dc1095c9625a7de12cc994e9229cdec77fbd9618cc7ae1",
+    "https://azure.status.microsoft/en-us/status": "574a4e0590bab53ba2c87656531c4143a1bbfed598143a2666c4a3291324b521",
+    "https://status.cloud.google.com/": "e998bfa5cba829de35c8e8a11a9875e0c6c6980529e5a72d088381df38866641",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
