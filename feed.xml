@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 13:24:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 15:04:15 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 15:04:15 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 15:04:15 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Market Research Giant Ipsos Investigating Breach of Internal System</title>
+      <link>https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/</guid>
+      <description>[News] SecurityWeek: The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 14:55:30 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Fandango Warns Ticket Buyers of Payment Card Data Exposure</title>
+      <link>https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/</guid>
+      <description>[News] SecurityWeek: Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 14:14:24 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
+      <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
+      <description>[News] Ars Technica Security: AI agent takes unapproved actions even when laptop lid is closed and told not to.</description>
+      <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool</title>
+      <link>https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/</guid>
+      <description>[News] SecurityWeek: Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>MSP ScreenConnect Servers Targeted in Month-Long Campaign</title>
+      <link>https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/</guid>
+      <description>[News] SecurityWeek: More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 13:24:43 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2350,62 +2406,6 @@
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0326 PAN-OS: Buffer Overflow Vulnerability in Protocol and Service Processing (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0326</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0326</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0331 PAN-OS: Sensitive Information Disclosure Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0331</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0331</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0324 GlobalProtect App: Incorrect Privilege Management Vulnerability in OPSWAT MetaDefender Endpoint Security SDK on Windows (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0324</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0324</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0323 Checkov by Prisma Cloud: Server-Side Request Forgery Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0323</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0323</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Maersk confirms data breach as WhiteArmor ransomware demands $5 million</title>
-      <link>https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/</guid>
-      <description>[News] BleepingComputer: Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 16:24:18 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 16:00:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Critical Xen Orchestra Flaws Exploited in Attacks</title>
-      <link>https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/</guid>
-      <description>[News] SecurityWeek: The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 11 Nov 2026 15:42:47 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
