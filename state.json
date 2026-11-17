@@ -8797,7 +8797,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-11T02:15:42.655713+00:00",
+      "published": "2026-11-17T07:32:57.506940+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:5db0dc1ce8c316f1c50ffe1b": {
@@ -11215,6 +11215,22 @@
       "category": "Cloud",
       "published": "2026-11-17T06:12:28.937908+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison": {
+      "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-17T07:25:44+00:00",
+      "description": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]"
+    },
+    "page:a075488226e71c06388399a4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T07:32:57.506940+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11223,8 +11239,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "0b6fa9c0921b47f18dc4e130a30e1253f7e369faa5a8fc511184030cda7d1d3a",
-    "https://status.cloud.google.com/": "881d72b3cd6ab092fbf724eb0870499f9e19252888be146c28b9a431a2fe971b",
+    "https://azure.status.microsoft/en-us/status": "13022a0faf3c45a6d6b1a47d54326753f78886d8f865b5cd7a10a57c825ab468",
+    "https://status.cloud.google.com/": "a030c6a8d3d5746ef0ec3c4a707f37cf02fbbf54ba0d3f03bbef3002d57ee7bf",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
