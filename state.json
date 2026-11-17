@@ -10197,7 +10197,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-15T13:05:36.557873+00:00",
+      "published": "2026-11-17T18:13:05.060165+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:8f5607896e0b88e14b5c3b8c": {
@@ -11511,6 +11511,22 @@
       "category": "Cloud",
       "published": "2026-11-17T17:16:24.203430+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack": {
+      "title": "Tor releases emergency update amid ongoing DDoS attack",
+      "url": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-17T18:04:15+00:00",
+      "description": "[...]"
+    },
+    "page:30e4ddfa05488acc38e2090f": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T18:13:05.060165+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11519,8 +11535,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "ddc479044216734363c9c3db54e2b67648d0c35d7cdce4d09834516bc9a284e8",
-    "https://status.cloud.google.com/": "74b7a23d0fe826a64ad8f29e8b559d0694a3f7117694b1c119c40cff898e0e21",
+    "https://azure.status.microsoft/en-us/status": "e88ce628a8c51f67c3b4b6bfac9e0505c68cf4f07ecec8ee6dce94770ed09185",
+    "https://status.cloud.google.com/": "ef6678374e6adb6e4a7db033c7cb646aa70046f5b9bb68e0285bb4c6a4c1b51f",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
