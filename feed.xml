@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 15:04:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 16:07:21 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 16:07:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 16:07:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool</title>
+      <link>https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/</guid>
+      <description>[News] BleepingComputer: Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]</description>
+      <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -22,6 +46,14 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 17 Nov 2026 15:04:15 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions</title>
+      <link>https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/</guid>
+      <description>[News] BleepingComputer: Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]</description>
+      <pubDate>Tue, 17 Nov 2026 15:01:11 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Market Research Giant Ipsos Investigating Breach of Internal System</title>
@@ -869,14 +901,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 15 Nov 2026 14:53:50 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 14:01:03 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2379,30 +2403,6 @@
       <title>CVE-2026-0325 PAN-OS: GlobalProtect Authorization Bypass Vulnerability (Severity: LOW)</title>
       <link>https://security.paloaltonetworks.com/CVE-2026-0325</link>
       <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0325</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0330 PAN-OS: Authenticated Remote Code Execution (RCE) in Panorama (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0330</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0330</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0327 PAN-OS: Privilege Escalation Vulnerability in GlobalProtect (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0327</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0327</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0329 PAN-OS: Buffer Overflow Vulnerability (Severity: MEDIUM)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0329</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0329</guid>
       <description>[Network] Palo Alto Networks: </description>
       <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
       <category>Network</category>
