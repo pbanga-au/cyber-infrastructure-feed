@@ -8733,7 +8733,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-17T06:12:28.937908+00:00",
+      "published": "2026-11-17T10:23:33.353036+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:75dc46547b632ea33bcd4e3b": {
@@ -11247,6 +11247,30 @@
       "category": "Cloud",
       "published": "2026-11-17T09:14:52.122439+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board": {
+      "title": "Why threat hunting should matter to every board",
+      "url": "https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-11-17T12:00:00+00:00",
+      "description": "Monitoring alone cannot detect every threat. Proactive threat hunting can expose gaps in defences and help organisations learn from others facing common threats."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges": {
+      "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+      "url": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-17T09:44:22+00:00",
+      "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]"
+    },
+    "page:b9e46464ea6eeff0a90974c2": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T10:23:33.353036+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11255,8 +11279,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "b95c3c49e80317c9aaac9a9b1129ccd2754d2b8fd9fecdaa96e65fb66d94ad8b",
-    "https://status.cloud.google.com/": "94c2d3b043bc95af12816874e31690caa039cc7245f5cc883a1129433bfc99a5",
+    "https://azure.status.microsoft/en-us/status": "0b6fa9c0921b47f18dc4e130a30e1253f7e369faa5a8fc511184030cda7d1d3a",
+    "https://status.cloud.google.com/": "59c322ee9ca426766172a1ceacbd1933735f9eb51c58428320ce34f2573b55d6",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

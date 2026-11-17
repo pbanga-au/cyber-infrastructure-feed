@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 09:14:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:23:33 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why threat hunting should matter to every board</title>
+      <link>https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board</link>
+      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board</guid>
+      <description>[Security] UK NCSC: Monitoring alone cannot detect every threat. Proactive threat hunting can expose gaps in defences and help organisations learn from others facing common threats.</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 10:23:33 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 10:23:33 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Court clears brothers of $25 million Ethereum crypto heist charges</title>
+      <link>https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/</guid>
+      <description>[News] BleepingComputer: US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]</description>
+      <pubDate>Tue, 17 Nov 2026 09:44:22 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -54,14 +86,6 @@
       <description>[News] BleepingComputer: A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]</description>
       <pubDate>Tue, 17 Nov 2026 07:25:44 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 06:12:28 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2382,30 +2406,6 @@
       <description>[News] BleepingComputer: N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]</description>
       <pubDate>Wed, 11 Nov 2026 12:32:27 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices</title>
-      <link>https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/</guid>
-      <description>[News] SecurityWeek: The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 11 Nov 2026 12:24:33 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Fortinet Patches Nearly 100 Vulnerabilities</title>
-      <link>https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/</guid>
-      <description>[News] SecurityWeek: The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 11 Nov 2026 12:10:14 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 12:04:51 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>

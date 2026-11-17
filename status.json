@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-17T09:14:52.122439+00:00",
+  "last_run_utc": "2026-11-17T10:23:33.353036+00:00",
   "sources_successful": 23,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
