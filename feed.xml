@@ -5,7 +5,7 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:23:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 11:59:27 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why threat hunting should matter to every board</title>
@@ -14,6 +14,30 @@
       <description>[Security] UK NCSC: Monitoring alone cannot detect every threat. Proactive threat hunting can expose gaps in defences and help organisations learn from others facing common threats.</description>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 11:59:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 11:59:27 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Microsoft testing Remote Lock for lost or stolen Windows devices</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/</guid>
+      <description>[News] BleepingComputer: Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]</description>
+      <pubDate>Tue, 17 Nov 2026 11:19:51 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -30,6 +54,14 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 17 Nov 2026 10:23:33 +0000</pubDate>
       <category>Cloud</category>
+    </item>
+    <item>
+      <title>Optimizely Vulnerability Exploited to Serve Malware on Major Websites</title>
+      <link>https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/optimizely-vulnerability-exploited-to-serve-malware-on-major-websites/</guid>
+      <description>[News] SecurityWeek: Affected organizations include BBC, CNN, Zoom, GitLab, Salesforce, Equifax, HSBC, and IKEA. The post Optimizely Vulnerability Exploited to Serve Malware on Major Websites appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 10:22:20 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Court clears brothers of $25 million Ethereum crypto heist charges</title>
@@ -1126,14 +1158,6 @@
       <description>[News] SecurityWeek: The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .</description>
       <pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 10:53:23 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/asus-zoom-release-security-patches/</guid>
       <description>[News] SecurityWeek: Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .</description>
       <pubDate>Wed, 11 Nov 2026 13:58:38 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities</title>
-      <link>https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/</guid>
-      <description>[News] SecurityWeek: Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 11 Nov 2026 13:37:19 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 13:23:23 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>N-able releases security hotfixes for zero-day vulnerabilities</title>
-      <link>https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/</guid>
-      <description>[News] BleepingComputer: N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 12:32:27 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
