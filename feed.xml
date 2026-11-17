@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 18:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 19:15:41 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 19:15:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 19:15:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Researchers hijack Hugging Face account for popular Kokoro AI model</title>
+      <link>https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/</guid>
+      <description>[News] BleepingComputer: A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]</description>
+      <pubDate>Tue, 17 Nov 2026 18:21:24 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says</title>
+      <link>https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/</guid>
+      <description>[News] SecurityWeek: Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 18:16:17 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -302,14 +334,6 @@
       <description>[News] BleepingComputer: Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]</description>
       <pubDate>Tue, 17 Nov 2026 11:19:51 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 10:23:33 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2381,30 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 12 Nov 2026 01:25:57 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 23:56:39 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Baker Tilly notifies clients of data breach at third-party provider</title>
-      <link>https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/</guid>
-      <description>[News] BleepingComputer: The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 23:01:31 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 23:00:47 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
