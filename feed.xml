@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 07:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 09:14:52 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 09:14:52 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 09:14:52 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Uber notifies drivers of data breach affecting nearly 150,000 people</title>
+      <link>https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/</guid>
+      <description>[News] BleepingComputer: Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]</description>
+      <pubDate>Tue, 17 Nov 2026 08:35:42 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -77,14 +101,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 17 Nov 2026 04:05:22 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 02:58:41 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2390,22 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 11 Nov 2026 12:04:51 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>NCSC scheme will help critical organisations test their cyber defences</title>
-      <link>https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/news/ncsc-scheme-help-critical-organisations-test-their-cyber-defences</guid>
-      <description>[Security] UK NCSC: New NCSC Cyber Adversary Simulation scheme will help critical organisations strengthen their resilience through rigorous, real-world testing by trusted providers.</description>
-      <pubDate>Wed, 11 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Bay Raises $50 Million to Control What Enterprise AI Agents Can Do</title>
-      <link>https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/</guid>
-      <description>[News] SecurityWeek: Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 11 Nov 2026 11:30:00 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
