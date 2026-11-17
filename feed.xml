@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 17:16:24 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 17:16:24 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 17:16:24 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -150,6 +166,94 @@
       <description>[News] SecurityWeek: The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .</description>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
       <category>News</category>
+    </item>
+    <item>
+      <title>Siemens Mendix Studio Pro</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution, or system compromise. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix Studio Pro are affected: Mendix Studio Pro 11 vers:intdot/&gt;=11.15.0|&lt;11.16.0 (CVE-2026-112136, CVE-2026-112137) Mendix Studio Pro 11.12 vers:intdot/&gt;=11.12.6|&lt;11.12.7 (CVE-2026-112136, CVE-2026-112137) CVSS Vendor Equipment v3</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens .NET Client Library for SIMATIC S7 Webserver API</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens .NET Client Library for SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webserver API vers:intdot/&lt;3.3.61, vers:intdot/&lt;3.3.62 (CVE-2026-85114, CVE-2026-85115) CVSS Vendor Equipment v3 7.5 Siemens .NET Client Library for SIMATIC S7 Webserver API 2 Vulnerabilities Improper Lim</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens meta-iot2050</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens meta-iot2050 are affected: meta-iot2050 vers:intdot/&gt;=01.03.01 (CVE-2026-109830) CVSS Vendor Equipment v3 7.3 Siemens meta-iot2050 1 Vulnerability Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') Background Critical Infrastructure Sectors</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens SIMATIC WinCC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-09</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Graphics Designer of SIMATIC WinCC before V8.2 contains an implicit active content execution vulnerability upon opening files, which could allow an attacker to cause arbitrary code execution on the device. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC WinCC are affected: SIMATIC WinCC V7.5 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.0 vers:all/* (CVE-2026-59082) SIMATIC WinCC V8.1 vers:all/* (CVE-2026-59082) CVSS Vendor Equipment v3 7.8 Siemens SIMATIC WinCC V7.5 1 Vulnerability Insufficient UI Warning of Dangerous Operations Background Critical Infrastructure </description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens RUGGEDCOM APE1808</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the secure update recommendation procedure. Contact customer support to receive detailed information The following versions of Siemens RUGGEDCOM APE1808 are affected: RUGGEDCOM APE1808 vers:all/* (CVE-2026-106175) CVSS Vendor Equipment v3 2.3 Siemens RUGGEDCOM APE1808 1 Vulnerability Double Free Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-2026-106175</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Dorsett Controls InfoScan</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-01</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to retrieve sensitive system information, access application data without authorization, recover stored credentials, or intercept and manipulate network communications. The following versions of Dorsett Controls InfoScan are affected: InfoScan &lt;=1.45.0 (CVE-2026-117659, CVE-2026-120157, CVE-2026-120255, CVE-2026-120260, CVE-2026-120271, CVE-2026-120298) CVSS Vendor Equipment v3 8.1 Dorsett Controls InfoScan 5 Vulnerabilities Improper Certificate Validation, Exposure of Sensitive System Information to an Unauthorized Control Sphere, Use of Hard-coded Cryptographic Key, Missing Authentication for Critica</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens Industrial Software Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-04</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as "Node2Shell" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Please also have a look on following Software Field Bulletins: Teamcenter: https://support.sw.siemens.com/en-US/knowledge-base/PL8869204 Polarion: https://support.sw.siemens.com/en-US/knowledge-base/PL8869197 Manufacturing Operations Center (</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens Industrial Automation Software Products</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-03</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as "Node2Shell" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens products. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fixes and recommends specific mitigations for products where fixes are not or not yet available. The followin</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens SIMATIC</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-08</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim user. Siemens is preparing fixes and recommends specific mitigations for products where fixes are not or not yet available. The following versions of Siemens SIMATIC are affected: SIMATIC BATCH V9.1 vers:all/* (CVE-2026-58114) SIMATIC Information Server 2020 vers:all/* (CVE-2026-58114) SIMATIC Information Server 2022 vers:all/* (CVE-2026-58114) SIMATIC PCS 7 V9.1 vers:all/* (CVE-2026-58114) SIMATIC Process Historian 2020 vers:all/* (CVE-2026-58114) SIMATIC Proc</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens ROS#</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary ROS# before version 2.3.1 contains a code injection vulnerability that could allow an attacker that is able to pass a crafted message definition file to the user to inject arbitrary code into the generated program. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens ROS# are affected: ROS# vers:intdot/&lt;2.3.1 (CVE-2026-109097) CVSS Vendor Equipment v3 8.2 Siemens ROS# 1 Vulnerability Improper Control of Generation of Code ('Code Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabilities CVE-20</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Siemens Simcenter Femap</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-10</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Simcenter Femap is affected by an out of bounds read vulnerability that could be triggered when the application reads files in X_T format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions of Siemens Simcenter Femap are affected: Simcenter Femap vers:intdot/&lt;2606.0002 (CVE-2026-64629) CVSS Vendor Equipment v3 7.8 Siemens Simcenter Femap 1 Vulnerability Out-of-bounds Read Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany Vulnerabi</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -957,14 +1061,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 15 Nov 2026 11:52:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 10:54:52 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2310,102 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 11 Nov 2026 21:44:59 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>eMudhra revokes 8 more CA certificates after private key mishap</title>
-      <link>https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/</guid>
-      <description>[News] BleepingComputer: Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 21:27:40 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-125926 - Server-side request forgery in the server registration and update API in mcp-gateway-registry</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-180-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-180-AWS Publication Date: 11/11/2026 13:00 PM PST Description: MServer-side request forgery (SSRF) in the server registration and update API in Amazon mcp-gateway-registry before 1.35.0 might allow an authenticated remote user to send requests from the gateway to internal network services and cloud instance metadata endpoints and read the responses via a crafted request Impacted versions: &gt;= v1.0.3 AND &lt;= 1.34.0 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Wed, 11 Nov 2026 21:04:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-100307 - Missing authorization on the external management API in mcp-gateway-registry enables privilege escalation to registry administrator</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-179-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-179-AWS Publication Date: 11/11/2026 12:30 PM PST Description: Missing authorization in the external management API in Amazon mcp-gateway-registry 1.0.9 through 1.24.7 might allow an authenticated remote user to assign the registry administrator scope to their own identity group and obtain administrative control of every registered gateway asset via a crafted group import request. Impacted versions: &gt;= 1.0.9 AND &lt;= 1.24.7 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Wed, 11 Nov 2026 21:03:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Notion says Fireworks breach exposed customer AI chat transcripts</title>
-      <link>https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/</guid>
-      <description>[News] BleepingComputer: Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 20:54:20 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 20:09:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 19:17:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 18:02:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 18:02:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 17:06:19 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-0328 PAN-OS: User Impersonation through GlobalProtect Portal (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0328</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0328</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>PAN-SA-2026-0014 Chromium: Monthly Vulnerability Update (November 2026) (Severity: HIGH)</title>
-      <link>https://security.paloaltonetworks.com/PAN-SA-2026-0014</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/PAN-SA-2026-0014</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>CVE-2026-0325 PAN-OS: GlobalProtect Authorization Bypass Vulnerability (Severity: LOW)</title>
-      <link>https://security.paloaltonetworks.com/CVE-2026-0325</link>
-      <guid isPermaLink="false">https://security.paloaltonetworks.com/CVE-2026-0325</guid>
-      <description>[Network] Palo Alto Networks: </description>
-      <pubDate>Wed, 11 Nov 2026 17:00:00 +0000</pubDate>
-      <category>Network</category>
     </item>
   </channel>
 </rss>
