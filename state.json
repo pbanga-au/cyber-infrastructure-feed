@@ -8765,7 +8765,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-15T04:02:14.322029+00:00",
+      "published": "2026-11-17T13:24:08.227585+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:2271ae1576f2fae5ba08280d": {
@@ -11295,6 +11295,46 @@
       "category": "Cloud",
       "published": "2026-11-17T11:59:27.498444+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000": {
+      "title": "Access Dental Management Data Breach Impacts Over 340,000",
+      "url": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-17T12:59:04+00:00",
+      "description": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity": {
+      "title": "Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity",
+      "url": "https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-17T12:51:54+00:00",
+      "description": "Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days": {
+      "title": "N-able Kills Legacy APIs, Patches 17 N-central Zero-Days",
+      "url": "https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-17T12:28:45+00:00",
+      "description": "The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack": {
+      "title": "California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack",
+      "url": "https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-17T12:00:00+00:00",
+      "description": "The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek ."
+    },
+    "page:fd82a9ca09eb4185e469aceb": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T13:24:08.227585+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11303,8 +11343,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "40ae5a56faea9069edf2cb2417a6e64881786fbc20ee1c1c23b30f79dab5f1b1",
-    "https://status.cloud.google.com/": "86669e436715539431422dbc2aabf4f24d0ce6629e427db3776315c99f90e34e",
+    "https://azure.status.microsoft/en-us/status": "e9ad9686551ca74841f3c9aca8f04f4a30cba037d5269893c63678baba3da2a9",
+    "https://status.cloud.google.com/": "ad369dd351c46931d4b01a0d8eca66d81763eeb31f982dfca27217a3013122ce",
     "https://cloud.google.com/support/bulletins": "6f15fef2ec50b791504ddc1fb4fe05a048da4008ada7a7394761d23df97468c3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

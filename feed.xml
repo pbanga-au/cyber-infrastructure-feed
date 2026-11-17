@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 11:59:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 13:24:08 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 13:24:08 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 13:24:08 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Access Dental Management Data Breach Impacts Over 340,000</title>
+      <link>https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/</guid>
+      <description>[News] SecurityWeek: Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 12:59:04 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity</title>
+      <link>https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/</guid>
+      <description>[News] SecurityWeek: Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 12:51:54 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>N-able Kills Legacy APIs, Patches 17 N-central Zero-Days</title>
+      <link>https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/</guid>
+      <description>[News] SecurityWeek: The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 12:28:45 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Why threat hunting should matter to every board</title>
       <link>https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board</link>
@@ -14,6 +54,14 @@
       <description>[Security] UK NCSC: Monitoring alone cannot detect every threat. Proactive threat hunting can expose gaps in defences and help organisations learn from others facing common threats.</description>
       <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
+    </item>
+    <item>
+      <title>California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack</title>
+      <link>https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/</guid>
+      <description>[News] SecurityWeek: The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
+      <category>News</category>
     </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
@@ -926,14 +974,6 @@
       <description>[PKI] GoDaddy Help: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 15 Nov 2026 04:02:14 +0000</pubDate>
       <category>PKI</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 04:02:14 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://www.securityweek.com/critical-xen-orchestra-flaws-exploited-in-attacks/</guid>
       <description>[News] SecurityWeek: The authentication bypass allows attackers to execute arbitrary code as admin and take over XCP-ng nodes. The post Critical Xen Orchestra Flaws Exploited in Attacks appeared first on SecurityWeek .</description>
       <pubDate>Wed, 11 Nov 2026 15:42:47 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers use AntiFox AI agents in AWS credential-theft attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/</guid>
-      <description>[News] BleepingComputer: Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 15:12:59 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 11 Nov 2026 15:02:01 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>eBPF Rootkits: Why Underground Actors Are Taking Notice</title>
-      <link>https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/</guid>
-      <description>[News] BleepingComputer: Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, tutorials, and exploits targeting Linux systems. [...]</description>
-      <pubDate>Wed, 11 Nov 2026 15:01:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google DeepMind just mathematically verified key parts of Signal</title>
-      <link>https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</link>
-      <guid isPermaLink="false">https://arstechnica.com/ai/2026/11/signals-encryption-just-passed-an-ai-powered-mathematical-checkup/</guid>
-      <description>[News] Ars Technica Security: The four-week project hints that AI could make formal verification far more practical.</description>
-      <pubDate>Wed, 11 Nov 2026 14:08:57 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Asus, Zoom Release Security Patches</title>
-      <link>https://www.securityweek.com/asus-zoom-release-security-patches/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/asus-zoom-release-security-patches/</guid>
-      <description>[News] SecurityWeek: Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 11 Nov 2026 13:58:38 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
