@@ -11725,7 +11725,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-18T03:01:18.859680+00:00",
+      "published": "2026-11-18T15:08:36.712058+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:dd18021de8469299cd8c1129": {
@@ -11943,6 +11943,30 @@
       "category": "Cloud",
       "published": "2026-11-18T13:27:10.878869+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters": {
+      "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
+      "url": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-18T15:00:10+00:00",
+      "description": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]"
+    },
+    "url:https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization": {
+      "title": "Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization",
+      "url": "https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T13:33:47+00:00",
+      "description": "Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek ."
+    },
+    "page:fefe8a071e7d5025f7c69a3f": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T15:08:36.712058+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11951,8 +11975,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "482dee369a1c525f3951ea4d1d6c9cc20e5660df9c3c202a48b2d152b21f7958",
-    "https://status.cloud.google.com/": "85ddd22b9461b374ff25f3ba44d35fe67bb94f7a0ab966ec223fa19ad4470136",
+    "https://azure.status.microsoft/en-us/status": "861495c51882d9eec9911aa17fe4367fa9fba995b4bf9c48fca542977e8125ac",
+    "https://status.cloud.google.com/": "4d78ebaf3b663bea31aeb245a8259bce01b1e3acef28535bb802b9d7a59ad935",
     "https://cloud.google.com/support/bulletins": "f34f7e91cb18fd1333d608455da66379a05e334c1900d28631e7bff08e2c256b",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
