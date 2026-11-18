@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 15:08:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 16:12:42 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 16:12:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 16:12:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 16:12:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>VeroSecurity Raises $11 Million for AI Security Engineering Platform</title>
+      <link>https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/</guid>
+      <description>[News] SecurityWeek: AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 15:30:42 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2374,38 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 13 Nov 2026 01:22:05 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 23:53:58 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 22:56:54 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/</guid>
-      <description>[News] BleepingComputer: A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed networks. [...]</description>
-      <pubDate>Thu, 12 Nov 2026 22:53:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers compromise 4,800 GitHub accounts to steal cloud credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/</guid>
-      <description>[News] BleepingComputer: A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]</description>
-      <pubDate>Thu, 12 Nov 2026 22:25:30 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>

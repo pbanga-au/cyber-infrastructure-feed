@@ -11967,6 +11967,38 @@
       "category": "Cloud",
       "published": "2026-11-18T15:08:36.712058+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform": {
+      "title": "VeroSecurity Raises $11 Million for AI Security Engineering Platform",
+      "url": "https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T15:30:42+00:00",
+      "description": "AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek ."
+    },
+    "page:7fbdb99bcedbbd87ac3bdad0": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T16:12:42.535104+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:8959df8e217ef721bc9425e5": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T16:12:42.535104+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:b0fa7bacf2d90df8efb7916f": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-18T16:12:42.535104+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11975,9 +12007,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "861495c51882d9eec9911aa17fe4367fa9fba995b4bf9c48fca542977e8125ac",
-    "https://status.cloud.google.com/": "4d78ebaf3b663bea31aeb245a8259bce01b1e3acef28535bb802b9d7a59ad935",
-    "https://cloud.google.com/support/bulletins": "f34f7e91cb18fd1333d608455da66379a05e334c1900d28631e7bff08e2c256b",
+    "https://azure.status.microsoft/en-us/status": "d417f40ebeb8e4d35d57d2beb4eee23a1efbc8abf986cc369d58bc952372ab6d",
+    "https://status.cloud.google.com/": "ef55935e10c28db2eb713af586c050eefc2cad9985cd14c2273d1ff6d12979f4",
+    "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
