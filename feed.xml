@@ -5,8 +5,72 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 11:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:27:10 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 13:27:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 13:27:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 13:27:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Last of Five Defendants Sentenced in US Scattered Spider Hacking Case</title>
+      <link>https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/</guid>
+      <description>[News] SecurityWeek: British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 13:19:32 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft Takes Perception Agentic Security Platform Out of Preview</title>
+      <link>https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/</guid>
+      <description>[News] SecurityWeek: Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 12:14:23 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do</title>
+      <link>https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/</guid>
+      <description>[News] SecurityWeek: Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Dizigom illegal streaming service with 21M monthly visits shuts down</title>
+      <link>https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/</guid>
+      <description>[News] BleepingComputer: The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]</description>
+      <pubDate>Wed, 18 Nov 2026 11:50:25 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Chrome 158 Patches 204 Vulnerabilities</title>
+      <link>https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 11:43:22 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2341,70 +2405,6 @@
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-182-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-182-AWS Publication Date: 11/12/2026 13:00 PM PST Description: An untrusted search path issue in Aurora PostgreSQL dialect detection in the AWS Advanced Go Wrapper from release 2026-04-06 (awssql/v2.0.0) and before release 2026-07-29 (awssql/v2.0.3) could allow a remote authenticated user to escalate privileges to those of another database user, including a member of the rds_superuser role, via a crafted function that runs when that user connects to an Aurora PostgreSQL cluster through an affected version of the wrapper. Impacted versions: AWS Advanced Go Wrapper &gt;=2026-04-06, &lt;2026-07-29 Refer to the article for the most up-to-date and complete information.</description>
       <pubDate>Thu, 12 Nov 2026 21:11:28 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 20:59:23 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams</title>
-      <link>https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/</guid>
-      <description>[News] SecurityWeek: Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 12 Nov 2026 20:55:30 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/</guid>
-      <description>[News] BleepingComputer: Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]</description>
-      <pubDate>Thu, 12 Nov 2026 20:15:16 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 20:03:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 20:03:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>New N-able "4EverAble2Shell" zero-day exploited hours after PoC released</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/</guid>
-      <description>[News] BleepingComputer: Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed "4EverAble2Shell" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including 19 running the company's latest security update. [...]</description>
-      <pubDate>Thu, 12 Nov 2026 19:51:16 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Apache HTTP Server patches critical HTTP/2 remote code execution flaw</title>
-      <link>https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/</guid>
-      <description>[News] BleepingComputer: A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]</description>
-      <pubDate>Thu, 12 Nov 2026 19:12:55 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 19:08:23 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>

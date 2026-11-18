@@ -11879,6 +11879,70 @@
       "category": "Cloud",
       "published": "2026-11-18T11:19:29.290149+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down": {
+      "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
+      "url": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-18T11:50:25+00:00",
+      "description": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]"
+    },
+    "url:https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case": {
+      "title": "Last of Five Defendants Sentenced in US Scattered Spider Hacking Case",
+      "url": "https://www.securityweek.com/last-of-five-defendants-sentenced-in-us-scattered-spider-hacking-case/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T13:19:32+00:00",
+      "description": "British national Tyler Robert Buchanan has been sentenced to 6 years in prison in the United States, the DOJ announced. The post Last of Five Defendants Sentenced in US Scattered Spider Hacking Case appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview": {
+      "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
+      "url": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T12:14:23+00:00",
+      "description": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do": {
+      "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
+      "url": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T12:00:00+00:00",
+      "description": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/chrome-158-patches-204-vulnerabilities": {
+      "title": "Chrome 158 Patches 204 Vulnerabilities",
+      "url": "https://www.securityweek.com/chrome-158-patches-204-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T11:43:22+00:00",
+      "description": "Google handed out $11,000 for five externally reported flaws but has yet to determine the amounts to be paid for 36 bugs. The post Chrome 158 Patches 204 Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "page:2264b2f7793aad03d11541f9": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T13:27:10.878869+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:be47f4d30041bec2419c586b": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T13:27:10.878869+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:bc1053b6730b7090b2c112ec": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-18T13:27:10.878869+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11887,9 +11951,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "047c8a3b8a4ebea79ff9a2de4f8264e4f4c669d58652edb1a811f7c3d87d3d37",
-    "https://status.cloud.google.com/": "3ac82d015d75cd11280ce490947c6ef32c414e0255b9ea76aafe5e50dcd1960a",
-    "https://cloud.google.com/support/bulletins": "b5fe420a41e1d1e37e409632557380de41454f4314445812cf94543a54e179f3",
+    "https://azure.status.microsoft/en-us/status": "482dee369a1c525f3951ea4d1d6c9cc20e5660df9c3c202a48b2d152b21f7958",
+    "https://status.cloud.google.com/": "85ddd22b9461b374ff25f3ba44d35fe67bb94f7a0ab966ec223fa19ad4470136",
+    "https://cloud.google.com/support/bulletins": "f34f7e91cb18fd1333d608455da66379a05e334c1900d28631e7bff08e2c256b",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
