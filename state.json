@@ -12071,6 +12071,38 @@
       "category": "Cloud",
       "published": "2026-11-18T20:10:09.586696+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog": {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-18T12:00:00+00:00",
+      "description": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate Channel Vulnerability CVE-2026-90436 Apache Axis Unsafe Reflection Vulnerability CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Bas"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam": {
+      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+      "url": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-18T20:49:32+00:00",
+      "description": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]"
+    },
+    "page:863a5406de236f1cf8d2c93f": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T21:05:00.495265+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:94a705b876cf365ec4a01a91": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T21:05:00.495265+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12079,8 +12111,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "d00a72232ec74ebc42fb984e17cad6cdb856ac3eea3eda54c6de1c8834a9d1aa",
-    "https://status.cloud.google.com/": "ba1372c9669d385c823022ba7b4eaac1cb1baad9d685b9318db8bf783714ad6e",
+    "https://azure.status.microsoft/en-us/status": "d16ab8ef22f224aab807ab54a47b396ee8665155b32c1ee7a28bff95a478d3ca",
+    "https://status.cloud.google.com/": "2e33f8756be5f008771168ec9e8c4d5fbc6bd6726ac25ed15ce4de17059dba79",
     "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

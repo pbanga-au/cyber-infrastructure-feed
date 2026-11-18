@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 20:10:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 21:05:00 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 21:05:00 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 21:05:00 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam</title>
+      <link>https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/</guid>
+      <description>[News] BleepingComputer: Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]</description>
+      <pubDate>Wed, 18 Nov 2026 20:49:32 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -190,6 +214,14 @@
       <description>[News] SecurityWeek: Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .</description>
       <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
       <category>News</category>
+    </item>
+    <item>
+      <title>CISA Adds Four Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-10441 Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability CVE-2026-40217 BerriAI LiteLLM Unprotected Alternate Channel Vulnerability CVE-2026-90436 Apache Axis Unsafe Reflection Vulnerability CVE-2026-90817 Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Bas</description>
+      <pubDate>Wed, 18 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>Dizigom illegal streaming service with 21M monthly visits shuts down</title>
@@ -2373,38 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 13 Nov 2026 09:10:13 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’</title>
-      <link>https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/</guid>
-      <description>[News] SecurityWeek: It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 13 Nov 2026 08:50:36 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Police arrest 354 suspects in dark web cybercrime crackdown</title>
-      <link>https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/</guid>
-      <description>[News] BleepingComputer: Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]</description>
-      <pubDate>Fri, 13 Nov 2026 08:34:20 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>PHP2Shell Exploited in Destructive Check Point Gateway Attacks</title>
-      <link>https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/</guid>
-      <description>[News] SecurityWeek: PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 13 Nov 2026 07:39:04 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 07:29:18 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
