@@ -5,8 +5,48 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 11:19:29 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 11:19:29 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 11:19:29 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Microsoft Agent Framework Releases Poisoned With Credential Stealer</title>
+      <link>https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/microsoft-agent-framework-releases-poisoned-with-credential-stealer/</guid>
+      <description>[News] SecurityWeek: Versions 1.26.1 and 1.26.2 of agent-framework on PyPI steal Azure, Azure DevOps, and GitHub Actions credentials when Python starts. The post Microsoft Agent Framework Releases Poisoned With Credential Stealer appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 11:05:39 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Perforce Puppet RCE Exploited in Attacks</title>
+      <link>https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-perforce-puppet-rce-exploited-in-attacks/</guid>
+      <description>[News] SecurityWeek: Tracked as CVE-2026-115731, it allows a client that holds any CA-signed agent certificate to execute code on the server. The post Critical Perforce Puppet RCE Exploited in Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Wed, 18 Nov 2026 10:37:08 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Apache warns of Roller RCE vulnerability exploited in attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/</guid>
+      <description>[News] BleepingComputer: Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]</description>
+      <pubDate>Wed, 18 Nov 2026 10:35:05 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2366,46 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 12 Nov 2026 19:08:23 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-127119 - Unverified ownership of the default EMR cluster log location in AWS SDK for pandas</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-181-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-181-AWS Publication Date: 11/12/2026 13:00 PM PST Description: We identified CVE-2026-127119, an issue in the EMR module of AWS SDK for pandas (awswrangler) from version 1.1.0 before 3.18.0. When a cluster is created without an explicit log location, the library uses a predictable default S3 bucket name for the cluster logs without verifying that the caller's account owns that bucket. A remote actor who creates that bucket first could read the cluster's logs, including job step output. Impacted versions: &gt;= 1.1.0 AND &lt; 3.18.0 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Thu, 12 Nov 2026 19:07:08 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 18:05:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 17:15:47 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 16:14:06 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>New Windows SignDrop zero-day gives hackers SYSTEM privileges</title>
-      <link>https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/</guid>
-      <description>[News] BleepingComputer: Security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) has released a new Windows zero-day exploit that can let attackers gain SYSTEM privileges. [...]</description>
-      <pubDate>Thu, 12 Nov 2026 16:04:00 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
