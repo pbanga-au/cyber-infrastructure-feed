@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:01:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:07:21 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 04:07:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Wed, 18 Nov 2026 04:07:21 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2390,22 +2406,6 @@
       <description>[News] SecurityWeek: The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek .</description>
       <pubDate>Thu, 12 Nov 2026 13:12:11 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Microsoft: Recent Windows updates cause SQL Server performance issues</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/</guid>
-      <description>[News] BleepingComputer: Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]</description>
-      <pubDate>Thu, 12 Nov 2026 12:11:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Siemens Desigo, Gridscale</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as "Node2Shell" (tracked as CVE-2026-111497). The vulnerability is an out-of-bounds write that could allow a remote attacker to cause memory corruption and potentially execute arbitrary code. This advisory covers the status of impact of various Siemens software products. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Desigo, Gridscale are affected: Desigo CC family V8 vers:all/* (CVE-2026-111497) Desigo CC family V</description>
-      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>
