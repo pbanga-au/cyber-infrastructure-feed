@@ -11807,6 +11807,38 @@
       "category": "Cloud",
       "published": "2026-11-18T08:27:06.370763+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security": {
+      "title": "Microsoft announces Windows Server 2028 with hardened security",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-18T09:24:31+00:00",
+      "description": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]"
+    },
+    "url:https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu": {
+      "title": "Oracle Patches 950 Vulnerabilities With November 2026 CSPU",
+      "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T08:47:18+00:00",
+      "description": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 950 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek ."
+    },
+    "page:5d98ba5ccd208ded72e93cee": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T10:16:24.474063+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:1b94d141b495b50b8b1550b3": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T10:16:24.474063+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11815,8 +11847,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "cc4021904f5c2a2c195e962019ab5bbd6c7571d93209aabdcc1aa83ebd2faf1a",
-    "https://status.cloud.google.com/": "760d5d721fd242abb048c7369f65167ac1a70cd0dcda7a378ec0344ad5f22f36",
+    "https://azure.status.microsoft/en-us/status": "196c9e1bc82a5ef127fb2a7813f0b89c2d91bcd4d5f13649fcba263e0fd1f923",
+    "https://status.cloud.google.com/": "6a129d74562bc4b34dd913826b6bbe81b088d2788f128f861e0ce0ded191de18",
     "https://cloud.google.com/support/bulletins": "b5fe420a41e1d1e37e409632557380de41454f4314445812cf94543a54e179f3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
