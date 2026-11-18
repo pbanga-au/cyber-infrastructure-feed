@@ -11775,6 +11775,38 @@
       "category": "Cloud",
       "published": "2026-11-18T06:18:54.790253+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison": {
+      "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+      "url": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-18T08:24:18+00:00",
+      "description": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]"
+    },
+    "url:https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover": {
+      "title": "Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover",
+      "url": "https://www.securityweek.com/java4shell-vulnerability-puts-many-enterprise-applications-at-risk-of-takeover/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-18T07:43:34+00:00",
+      "description": "Calif demonstrated remote code execution in Jira, Jenkins and Keycloak, while VulnCheck says real-world RCE requires per-target work The post Java4Shell Vulnerability Puts Many Enterprise Applications at Risk of Takeover appeared first on SecurityWeek ."
+    },
+    "page:7d3d265c8fb6558b888267ff": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T08:27:06.370763+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:105f95fbc3cbacc265fb2797": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-18T08:27:06.370763+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11783,8 +11815,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "c853966c6b953e101a18ecb6a812cadcdad62c59a8e75535b3905c2571c5ae83",
-    "https://status.cloud.google.com/": "03bf8e8eddd877d0ec472f24324f99749f8ee6c766e9a39660b41857beed1f47",
+    "https://azure.status.microsoft/en-us/status": "cc4021904f5c2a2c195e962019ab5bbd6c7571d93209aabdcc1aa83ebd2faf1a",
+    "https://status.cloud.google.com/": "760d5d721fd242abb048c7369f65167ac1a70cd0dcda7a378ec0344ad5f22f36",
     "https://cloud.google.com/support/bulletins": "b5fe420a41e1d1e37e409632557380de41454f4314445812cf94543a54e179f3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
