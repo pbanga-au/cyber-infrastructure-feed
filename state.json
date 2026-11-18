@@ -11671,6 +11671,30 @@
       "category": "Cloud",
       "published": "2026-11-17T23:03:36.146665+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:face24bde7ec83c999cdf3eb": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T23:58:12.709187+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:633635f0bd6dc969b3350d1c": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-17T23:58:12.709187+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:2c71001a42d7f72bc586a207": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-17T23:58:12.709187+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -11679,9 +11703,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "f44ac51796b07c35b1d766cca3f399513638d04d8c4d80aac8297f2e7e7e1b2a",
-    "https://status.cloud.google.com/": "e7c45f2b2d9f8f6bfb97de529089ea417842da4d9cc4d83f8e79416f42cf41aa",
-    "https://cloud.google.com/support/bulletins": "7e8ded4601293ddff658067ccd6235fa6febd3c385cf62833cd8d755d09807c5",
+    "https://azure.status.microsoft/en-us/status": "03c3de967018b6d2c890b10fbf1e95a9b6618c7f47a43cc06f590e091d316b6f",
+    "https://status.cloud.google.com/": "24f8d2f88db40f20a015305a7272800d5d3720719ab1071bc772aace44602111",
+    "https://cloud.google.com/support/bulletins": "b5fe420a41e1d1e37e409632557380de41454f4314445812cf94543a54e179f3",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"

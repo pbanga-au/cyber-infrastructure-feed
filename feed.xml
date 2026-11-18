@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 23:03:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:58:12 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 23:58:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 23:58:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 17 Nov 2026 23:58:12 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Critical Java4Shell flaw allows RCE attacks on major Java applications</title>
       <link>https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</link>
@@ -2382,30 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 12 Nov 2026 11:19:37 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Sectigo Knowledge Base — official page changed (review required)</title>
-      <link>https://www.sectigo.com/knowledge-base</link>
-      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
-      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 12 Nov 2026 11:19:37 +0000</pubDate>
-      <category>PKI</category>
-    </item>
-    <item>
-      <title>Notion Customer Data Compromised in Fireworks AI Hack</title>
-      <link>https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/</guid>
-      <description>[News] SecurityWeek: The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 12 Nov 2026 11:08:52 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers Deploy Malware in Fresh ScreenConnect Campaign</title>
-      <link>https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/</guid>
-      <description>[News] SecurityWeek: The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 12 Nov 2026 10:39:34 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
