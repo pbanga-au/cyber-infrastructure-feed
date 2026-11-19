@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 09:18:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 11:11:03 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 11:11:03 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 11:11:03 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Sectigo Knowledge Base — official page changed (review required)</title>
+      <link>https://www.sectigo.com/knowledge-base</link>
+      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
+      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 11:11:03 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>Splunk Patches Nearly 140 Flaws Across Three Core Products</title>
+      <link>https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/splunk-patches-nearly-140-flaws-across-three-core-products/</guid>
+      <description>[News] SecurityWeek: The security updates resolve critical and high-severity issues leading to authentication bypass, remote code execution, and privilege escalation. The post Splunk Patches Nearly 140 Flaws Across Three Core Products appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 10:41:05 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft confirms app installation, launch issues after hotpatch</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-app-installation-launch-issues-after-hotpatch/</guid>
+      <description>[News] BleepingComputer: Microsoft has shared a workaround for installation and launch issues affecting Office and third-party applications after installing this month's Windows 11 hotpatch. [...]</description>
+      <pubDate>Thu, 19 Nov 2026 10:35:05 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public</title>
+      <link>https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/f5-patches-critical-nginx2root-flaws-as-poc-exploits-go-public/</guid>
+      <description>[News] SecurityWeek: The five NGINX2Root vulnerabilities could allow remote, unauthenticated attackers to execute arbitrary code. The post F5 Patches Critical NGINX2Root Flaws as PoC Exploits Go Public appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 10:26:51 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>NVIDIA investigating Gentlemen ransomware breach claims</title>
+      <link>https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/</guid>
+      <description>[News] BleepingComputer: NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]</description>
+      <pubDate>Thu, 19 Nov 2026 09:23:21 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2350,62 +2406,6 @@
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 13 Nov 2026 17:58:32 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>German military drone operations disrupted by cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/</guid>
-      <description>[News] BleepingComputer: German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by "hostile actors." [...]</description>
-      <pubDate>Fri, 13 Nov 2026 17:31:56 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 17:05:33 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Windows 0-day dropped by disgruntled researcher hands hackers System rights</title>
-      <link>https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/</guid>
-      <description>[News] Ars Technica Security: "SignDrop" exploit lets local users gain all-powerful System rights.</description>
-      <pubDate>Fri, 13 Nov 2026 16:26:32 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper</title>
-      <link>https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/</guid>
-      <description>[News] BleepingComputer: Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]</description>
-      <pubDate>Fri, 13 Nov 2026 16:21:43 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 15:58:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach</title>
-      <link>https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/</guid>
-      <description>[News] SecurityWeek: Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 13 Nov 2026 15:20:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>How one AI agent exposed five critical enterprise security gaps</title>
-      <link>https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/</guid>
-      <description>[News] BleepingComputer: An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]</description>
-      <pubDate>Fri, 13 Nov 2026 15:01:11 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
