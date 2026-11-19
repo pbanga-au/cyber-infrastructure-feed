@@ -12655,6 +12655,38 @@
       "category": "Cloud",
       "published": "2026-11-19T21:08:44.094088+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-132607": {
+      "title": "CVE-2026-132607 - GCM authentication tag length downgrade in Amazon S3 Encryption Client for PHP",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-191-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-19T21:46:07+00:00",
+      "description": "Bulletin ID: 2026-191-AWS Publication Date: 11/19/2026 13:00 PM PST Description: We identified CVE-2026-132607, an issue in the decryption component of Amazon S3 Encryption Client for PHP in the AWS SDK for PHP. The client did not verify the length of the AES-GCM authentication tag recorded in an object's metadata. A user with read and write access to an encrypted object, who knows or can guess its plaintext, might craft a ciphertext that decrypts to plaintext of their choice of the same length. This requires repeated writes to the object. The issue does not disclose the plaintext or the encryption key. Refer to the article for the most up-to-date and complete information."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express": {
+      "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+      "url": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-19T21:15:59+00:00",
+      "description": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]"
+    },
+    "page:867c85c9d5660e21a2fd6c9e": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T22:00:10.064093+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:94d251f6930a1c394bb8e391": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T22:00:10.064093+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12663,8 +12695,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "18c40f052a449117db9391d6485a8962927c80c5aefafd61091384ea96dcbef8",
-    "https://status.cloud.google.com/": "7a21ea50869dfd831897f38a1b4867cdaea50606cde29f765060da4ef8b0fedd",
+    "https://azure.status.microsoft/en-us/status": "0b6d0e6dc4e6f592ff69a96bb37801d1590453f386ba120cefddb621fc2a5d17",
+    "https://status.cloud.google.com/": "7e4186d619ace174314ee56fb22aa80fb178b778271d986695caf7674d135256",
     "https://cloud.google.com/support/bulletins": "8442da64bef8d6c05d6265deca59e373f70fc42a05fe204d82949914b8917f34",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
