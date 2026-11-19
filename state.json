@@ -12167,6 +12167,30 @@
       "category": "Cloud",
       "published": "2026-11-19T01:26:31.597585+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-114938": {
+      "title": "CVE-2026-114938 - OpenJDK Base64 Decoder Intrinsic Out-of-Bounds Write Issue",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-189-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-19T03:02:28+00:00",
+      "description": "Bulletin ID: 2026-189-AWS Publication Date: 11/18/2026 17:00 PM PST Description: AWS is aware of CVE-2026-114938, a memory issue in the Base64 decoder intrinsic of OpenJDK 17.0.6 and later on x86-64 processors that support AVX-512 VBMI. A fix is available in the November 2026 OpenJDK updates. AWS is working to deploy the fix to affected AWS services Refer to the article for the most up-to-date and complete information."
+    },
+    "page:266e292674086c04d84c20fb": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T03:01:57.976219+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:ba0c0a414b690a3f8f2aa8be": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T03:01:57.976219+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12175,8 +12199,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "f44ac51796b07c35b1d766cca3f399513638d04d8c4d80aac8297f2e7e7e1b2a",
-    "https://status.cloud.google.com/": "bf5ed5436b5ba4b8f25687b4a02f8931a7045f0d23c83ae3e6183a4412034893",
+    "https://azure.status.microsoft/en-us/status": "d00237bec18bc7e230a1a3b236868b7a7c8fe2eeabcc7c5d7deac9fc30bf18cb",
+    "https://status.cloud.google.com/": "e4a8e45094928d472e687876109805e0f7078d86b7123f374b1bdc97bd8ed256",
     "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
