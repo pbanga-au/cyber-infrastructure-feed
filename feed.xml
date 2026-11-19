@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 22:00:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 22:59:02 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 22:59:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 22:59:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Issue with nginx HTTP/2 Implementation</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-192-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-192-AWS Publication Date: 11/19/2026 15:00 PM PST Description: AWS is aware of the nginx issues published on November 18, 2026 (CVE-2026-123007, CVE-2026-123633, CVE-2026-123634, CVE-2026-113425, CVE-2026-121810 and CVE-2026-118899). These issues have been addressed in nginx version 1.30.7 (stable) and 1.31.9 (mainline). We recommend upgrading to the latest version. We are actively deploying mitigations worldwide to address these issues. Because these issues can be leveraged at the HTTP/2 protocol layer before a complete HTTP request is formed, AWS WAF managed and custom rules cannot effectively detect or block them. Refer to the article for the most up-to-date and complete</description>
+      <pubDate>Thu, 19 Nov 2026 22:48:05 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Hackers steal data of 1.6 million SBC Medical Group customers</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/</guid>
+      <description>[News] BleepingComputer: SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]</description>
+      <pubDate>Thu, 19 Nov 2026 22:25:42 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2392,38 +2424,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 14 Nov 2026 21:47:31 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 20:49:51 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 19:52:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 19:52:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook</title>
-      <link>https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/meta-fined-887-million-in-italy-over-android-gallery-photos-and-videos-on-facebook/</guid>
-      <description>[News] SecurityWeek: The directive protects smartphones as part of a person’s private sphere and requires “free and informed consent” for such access, the authority said. The post Meta Fined $887 Million in Italy Over Android Gallery Photos and Videos on Facebook appeared first on SecurityWeek .</description>
-      <pubDate>Sat, 14 Nov 2026 19:00:00 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
