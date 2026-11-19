@@ -1,5 +1,5 @@
 {
-  "last_run_utc": "2026-11-19T20:16:07.538487+00:00",
+  "last_run_utc": "2026-11-19T21:08:44.094088+00:00",
   "sources_successful": 23,
   "failures": [
     "ACSC Alerts: HTTPSConnectionPool(host='www.cyber.gov.au', port=443): Max retries exceeded with url: /rss/alerts (Caused by ReadTimeoutError(\"HTTPSConnectionPool(host='www.cy",
@@ -179,7 +179,7 @@
       "source": "Google Cloud Security Bulletins",
       "mode": "page-change",
       "status": "ok",
-      "changed": false,
+      "changed": true,
       "note": "Page monitoring only; no individual advisories extracted"
     },
     {
