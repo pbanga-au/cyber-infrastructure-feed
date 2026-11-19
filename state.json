@@ -11829,7 +11829,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-18T10:16:24.474063+00:00",
+      "published": "2026-11-19T04:10:08.612780+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:1b94d141b495b50b8b1550b3": {
@@ -12191,6 +12191,22 @@
       "category": "Cloud",
       "published": "2026-11-19T03:01:57.976219+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion": {
+      "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+      "url": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-19T03:25:23+00:00",
+      "description": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek ."
+    },
+    "page:6a38b320abb82625ffb828b1": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T04:10:08.612780+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12199,8 +12215,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "d00237bec18bc7e230a1a3b236868b7a7c8fe2eeabcc7c5d7deac9fc30bf18cb",
-    "https://status.cloud.google.com/": "e4a8e45094928d472e687876109805e0f7078d86b7123f374b1bdc97bd8ed256",
+    "https://azure.status.microsoft/en-us/status": "196c9e1bc82a5ef127fb2a7813f0b89c2d91bcd4d5f13649fcba263e0fd1f923",
+    "https://status.cloud.google.com/": "3965c6c883d8ff6e83a8aaf273e3c8286ddc75402fa636a2f2ba3ee6b79cbeb8",
     "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
     "https://www.sectigo.com/knowledge-base": "ccb46dacf5aa1a47fa5f3a69220f5a274a3c58109b47407d7fed893d19a85c2b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
