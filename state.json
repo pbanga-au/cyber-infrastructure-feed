@@ -12351,6 +12351,54 @@
       "category": "Cloud",
       "published": "2026-11-19T12:10:15.763029+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly": {
+      "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-19T13:08:08+00:00",
+      "description": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]"
+    },
+    "url:https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release": {
+      "title": "Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release",
+      "url": "https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-19T13:12:20+00:00",
+      "description": "Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection": {
+      "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
+      "url": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-19T12:23:34+00:00",
+      "description": "The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks": {
+      "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-19T12:13:24+00:00",
+      "description": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek ."
+    },
+    "page:580b10c54ff65a7ab4c03f0d": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T13:30:00.348473+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:479e8e9594bbaf822fc3f8d3": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T13:30:00.348473+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12359,8 +12407,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "24d158c41df52ab811a9914891d27081d475f12a01cddf96c993e78a628ca6ad",
-    "https://status.cloud.google.com/": "cbdabc5f2b8f3993f75c7f5b4140cd99ff97ae695c34e82a1531aa85ae6e405f",
+    "https://azure.status.microsoft/en-us/status": "2458ffe7c26111045f87fbd58c8e676dd8a4f54bd0ce3fb309bf32f06e6047e1",
+    "https://status.cloud.google.com/": "a6ea911ef9a72e636b0d21ec1b08e1a29f25cc8cd22943426292bef3a56c2b29",
     "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

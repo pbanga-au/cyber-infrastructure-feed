@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 12:10:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 13:30:00 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 13:30:00 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release</title>
+      <link>https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/hackers-exploit-cisco-expressway-vulnerability-soon-after-poc-release/</guid>
+      <description>[News] SecurityWeek: Attackers hacked clustered Cisco Expressway devices at a Russian organization and prepared tooling for lateral movement. The post Hackers Exploit Cisco Expressway Vulnerability Soon After PoC Release appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 13:12:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Drupal patches critical RCE flaw, warns exploits may surface quickly</title>
+      <link>https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/</guid>
+      <description>[News] BleepingComputer: The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]</description>
+      <pubDate>Thu, 19 Nov 2026 13:08:08 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>StepSecurity Secures $20 Million to Expand Supply Chain Protection</title>
+      <link>https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/</guid>
+      <description>[News] SecurityWeek: The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 12:23:34 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks</title>
+      <link>https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/</guid>
+      <description>[News] SecurityWeek: Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 12:13:24 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2357,54 +2405,6 @@
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Fri, 13 Nov 2026 23:49:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 22:53:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 21:56:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’</title>
-      <link>https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/</guid>
-      <description>[News] SecurityWeek: Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 13 Nov 2026 21:33:27 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 21:01:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 21:01:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 20:03:36 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
