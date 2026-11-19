@@ -12575,6 +12575,54 @@
       "category": "Cloud",
       "published": "2026-11-19T19:12:09.789780+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-149-aws": {
+      "title": "jcr:content",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-149-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:34:45+00:00",
+      "description": ""
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws": {
+      "title": "jcr:content",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-150-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:34:44+00:00",
+      "description": ""
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws": {
+      "title": "jcr:content",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-148-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:34:44+00:00",
+      "description": ""
+    },
+    "url:https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt": {
+      "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
+      "url": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-19T19:21:06+00:00",
+      "description": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on SecurityWeek ."
+    },
+    "page:d8e347a90c47686964e4d097": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T20:16:07.538487+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:db75fe6de8d303dcfc2a8673": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T20:16:07.538487+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12583,8 +12631,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "ea9b0a9568e32369f071c6fc6f2cb9e16cacbc4db152dc7cab9c1b8867bb062b",
-    "https://status.cloud.google.com/": "94cadcacf99b706b8bdc290f34c52ac9dd239a68b1dd5bd08776028d73b02297",
+    "https://azure.status.microsoft/en-us/status": "0ff269fec58e3c31d1c4e0b5a4657f5e2110104588c49d23b556c7239cc01ad1",
+    "https://status.cloud.google.com/": "310771da94de9faf67480ee28c0656628c4bff76bc12921eb81a89a9ac56ade2",
     "https://cloud.google.com/support/bulletins": "268a3cda2088855afbad96e853794985af8093f723a2756c8c2c886da48cb057",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
