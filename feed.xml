@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 07:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 09:18:43 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 09:18:43 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 09:18:43 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories</title>
+      <link>https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/java4shell-exploitation-attempts-begin-as-vendors-rush-out-advisories/</guid>
+      <description>[News] SecurityWeek: GreyNoise, WatchTowr and Cloudflare report probing and exploit attempts, while Cisco, Elastic, Red Hat and Siemens detail impact. The post Java4Shell Exploitation Attempts Begin as Vendors Rush Out Advisories appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 09:10:58 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>PHP Readies Critical Security Updates to Patch Another RCE Flaw</title>
+      <link>https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/php-readies-critical-security-updates-to-patch-another-rce-flaw/</guid>
+      <description>[News] SecurityWeek: Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 07:45:17 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2374,38 +2406,6 @@
       <description>[News] BleepingComputer: An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps and shares practical guidance from industry security leaders on preventing them. [...]</description>
       <pubDate>Fri, 13 Nov 2026 15:01:11 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 14:59:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Microsoft Struggles to Restore Email and Other Services in a Global Outage</title>
-      <link>https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/</guid>
-      <description>[News] SecurityWeek: Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other Services in a Global Outage appeared first on SecurityWeek .</description>
-      <pubDate>Fri, 13 Nov 2026 13:47:42 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Megaport Updates — official page changed (review required)</title>
-      <link>https://docs.megaport.com/whatsnew/</link>
-      <guid isPermaLink="false">https://docs.megaport.com/whatsnew/</guid>
-      <description>[Network] Megaport Updates: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 13:22:27 +0000</pubDate>
-      <category>Network</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 13 Nov 2026 13:22:27 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
