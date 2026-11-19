@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 15:10:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 16:14:35 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 16:14:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 16:14:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>PHP Patches Seven Critical RCE Vulnerabilities</title>
+      <link>https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/php-patches-seven-critical-rce-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: Successful exploitation could allow attackers to crash the worker process and execute code with the PHP worker’s privileges. The post PHP Patches Seven Critical RCE Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 19 Nov 2026 15:54:20 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -120,6 +144,30 @@
       <category>News</category>
     </item>
     <item>
+      <title>Elecbrakes EB2, VM1, ELBC2000</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical safety features. The following versions of Elecbrakes EB2, VM1, ELBC2000 are affected: EB2 &lt;=3.0.4.2.0 (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805) ELBC2000 vers:all/* (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805) VM1 &lt;1.3.4.2.1 (CVE-2026-124281, CVE-2026-125273, CVE-2026-96805) CVSS Vendor Equipment v3 9.6 Elecbrakes EB2 3 Vulnerabilities Exposed Dangerous Method or Function, Authentication Bypass by Capture-replay, Missing Authentication for Criti</description>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>libumqtt</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt &lt;=1.1.1 (CVE-2026-125132) CVSS Vendor Equipment v3 8.6 libumqtt libumqtt 1 Vulnerability Integer Underflow (Wrap or Wraparound) Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Information Technology, Transportation Systems, Water and Wastewater Countries/Areas Deployed: Worldwide Company Headquarters Location: China Vulnerabilities CVE-2026-125132 The affected product is vulnerable to an integer underflow which may allow a remote attacker t</description>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Autonomy Logic OpenPLC Runtime</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime &lt;=4.2.4 (CVE-2026-126088) CVSS Vendor Equipment v3 8.1 Autonomy Logic OpenPLC Runtime 1 Vulnerability Concurrent Execution using Shared Resource with Improper Synchronization ('Race Condition') Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Transportation Systems, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities CVE-2026-126088 In Autonomy Logic OpenPLC Runtime versions 4.2.</description>
+      <pubDate>Thu, 19 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
       <title>Microsoft tests new Edge Lockdown Mode that disables GPU APIs</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/</link>
       <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/</guid>
@@ -134,14 +182,6 @@
       <description>[News] Ars Technica Security: When everything goes down, don’t assume it’s a cyberattack.</description>
       <pubDate>Thu, 19 Nov 2026 11:13:01 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 11:11:03 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2365,46 +2405,6 @@
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 14 Nov 2026 07:15:07 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 07:15:07 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 05:58:45 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 05:02:39 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 04:01:57 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 04:01:57 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
