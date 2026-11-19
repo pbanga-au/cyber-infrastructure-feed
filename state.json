@@ -11701,7 +11701,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-18T01:29:02.485743+00:00",
+      "published": "2026-11-19T12:10:15.763029+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:e8607766185173c1d0fa9a2e": {
@@ -12319,6 +12319,38 @@
       "category": "PKI",
       "published": "2026-11-19T11:11:03.468839+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis": {
+      "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-19T11:46:00+00:00",
+      "description": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]"
+    },
+    "url:https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it": {
+      "title": "The Governance Gap in Open-Weight AI and What to Do About It",
+      "url": "https://www.securityweek.com/the-governance-gap-in-open-weight-ai-and-what-to-do-about-it/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-19T12:00:00+00:00",
+      "description": "Lower costs, data privacy, and greater control are driving open-weight AI adoption, but many organizations are not addressing the risks that come with it. The post The Governance Gap in Open-Weight AI and What to Do About It appeared first on SecurityWeek ."
+    },
+    "url:https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage": {
+      "title": "How to tell a cyberattack from a plain old outage",
+      "url": "https://arstechnica.com/security/2026/11/how-to-tell-a-cyberattack-from-a-plain-old-outage/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-11-19T11:13:01+00:00",
+      "description": "When everything goes down, don’t assume it’s a cyberattack."
+    },
+    "page:76831494591c37b3849a7df5": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T12:10:15.763029+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12327,8 +12359,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "9eb2be2d37237be3b33740d58da9580983578280bcf09694779c89ae744c23e3",
-    "https://status.cloud.google.com/": "f5250be5b4b3efd605c922c94f15b6fb2ed3e4aac51798e2a10a7727984fc665",
+    "https://azure.status.microsoft/en-us/status": "24d158c41df52ab811a9914891d27081d475f12a01cddf96c993e78a628ca6ad",
+    "https://status.cloud.google.com/": "cbdabc5f2b8f3993f75c7f5b4140cd99ff97ae695c34e82a1531aa85ae6e405f",
     "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
