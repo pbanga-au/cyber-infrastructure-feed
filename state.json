@@ -12719,6 +12719,30 @@
       "category": "Cloud",
       "published": "2026-11-19T22:59:02.930599+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-132825": {
+      "title": "CVE-2026-132825 and related issues – Ruby regular expression engine and string case conversion",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-193-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-19T23:06:34+00:00",
+      "description": "Bulletin ID: 2026-193-AWS Publication Date: 11/19/2026 15:05 PM PST Description: On November 18, 2026, the Ruby maintainers published fixes for seven issues in CRuby's regular expression engine and string case conversion, including CVE-2026-132825. These issues affect Ruby versions before 4.0.10, 3.4.13, and 3.3.14 and could allow remote code execution in some configurations. These issues are memory-safety issues in Ruby's regular expression engine and in string case conversion on certain non-UTF-8 encodings. When an application processes third party-controlled input through these code paths, a remote, unauthenticated actor might be able to crash the process, read memory, or run arbitrary co"
+    },
+    "page:afea007e01142caaf3ec085e": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T23:54:35.550692+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:22fd535d9c723c51dd29dbb2": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T23:54:35.550692+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12727,8 +12751,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "beb7948c986ae373cd3983d149904dc1abae06bb68b074ff79cc2f182c33571c",
-    "https://status.cloud.google.com/": "d76000068b41e20b4e0a6651a210baae7e3ff07ed966fe2d2750ded15285b3aa",
+    "https://azure.status.microsoft/en-us/status": "a02e50a5a32de5e2c2f1c7b5766dea5f83c8f74918054417b63413278e64b781",
+    "https://status.cloud.google.com/": "a0923dca273ccb8e18a4e763265e24c93161379618c22c2402c339564bd240b2",
     "https://cloud.google.com/support/bulletins": "8442da64bef8d6c05d6265deca59e373f70fc42a05fe204d82949914b8917f34",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
