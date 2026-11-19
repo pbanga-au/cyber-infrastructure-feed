@@ -12479,6 +12479,54 @@
       "category": "Cloud",
       "published": "2026-11-19T16:14:35.490228+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25219-security-advisory-0228": {
+      "title": "Security Advisory 0228",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25219-security-advisory-0228",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-19T16:19:13+00:00",
+      "description": "Date: November 19, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 19, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-114938\nDescription\nThis security advisory is in response to the “Java4Shell” vulnerability (CVE-2026-114938), which affects software that uses the base64 decoder running on certain versions of the Java runtime on x86-64 systems with AVX-512 VBMI extensions enabled.\nArista is not currently aware of any malicious exploitation of this vulnerability ..."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs": {
+      "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+      "url": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-19T16:28:23+00:00",
+      "description": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]"
+    },
+    "page:deedceb2b71308da555917ff": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-19T17:19:27.858583+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:544d132288063bcefacfe358": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T17:19:27.858583+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:37064523f0b4e7652411d54a": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T17:19:27.858583+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:c789e254818aa1a9f0060b10": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-19T17:19:27.858583+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12486,10 +12534,10 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "a1f0789b806d892fecc1d8feaf6dfa8795bc8972f6c659326a645301b9a30eb1",
-    "https://azure.status.microsoft/en-us/status": "9eb2be2d37237be3b33740d58da9580983578280bcf09694779c89ae744c23e3",
-    "https://status.cloud.google.com/": "39e7618854de2bc0e13139b64ced26352c4d2c1b6b28052bed9e6340e73934a7",
-    "https://cloud.google.com/support/bulletins": "41f0ba14949df150ad94e939dc50dc56c4734654e5fe40a01dce2cd7eceaa0a1",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
+    "https://azure.status.microsoft/en-us/status": "e3da2f0358153984b796272429b821c048c76d77fe165b95e759af303d667814",
+    "https://status.cloud.google.com/": "3177aff39977c2c3f024f7110c9fdbba4e3d62896c9f4d322f45f7dc943cdb9b",
+    "https://cloud.google.com/support/bulletins": "268a3cda2088855afbad96e853794985af8093f723a2756c8c2c886da48cb057",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
