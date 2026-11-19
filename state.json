@@ -12527,6 +12527,54 @@
       "category": "Cloud",
       "published": "2026-11-19T17:19:27.858583+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws": {
+      "title": "jcr:content",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:34:44+00:00",
+      "description": ""
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws": {
+      "title": "PHP Foundation Security Releases – November 19, 2026",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-19T18:30:09+00:00",
+      "description": "Bulletin ID: 2026-190-AWS Publication Date: 11/19/2026 10:00 AM PST Description: AWS is aware of security releases that the PHP Foundation published on November 19, 2026. PHP versions 8.2.36, 8.3.37, 8.4.28, and 8.5.13 address 17 issues across the PHP 8.2, 8.3, 8.4, and 8.5 branches. The issues are in the following components: - The PHP engine - PHP-FPM and the PHP CGI binary - The SOAP, Phar, session, DOM, and date extensions - The HTTP and FTP stream wrappers - The PHP 8.5 RFC 3986 URI implementation Patching the affected software remains the only complete fix and should be the first priority. We will update this bulletin as more information becomes available. Refer to the article for the "
+    },
+    "url:https://aws.amazon.com/security/security-bulletins/rss/2026-147-aws": {
+      "title": "jcr:content",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-147-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-03T18:34:44+00:00",
+      "description": ""
+    },
+    "url:https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data": {
+      "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+      "url": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-19T18:20:01+00:00",
+      "description": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]"
+    },
+    "page:763fed218f4d2911912a53af": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T19:12:09.789780+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:c8cbb7e8694c85dae1915077": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-19T19:12:09.789780+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12535,8 +12583,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "e3da2f0358153984b796272429b821c048c76d77fe165b95e759af303d667814",
-    "https://status.cloud.google.com/": "3177aff39977c2c3f024f7110c9fdbba4e3d62896c9f4d322f45f7dc943cdb9b",
+    "https://azure.status.microsoft/en-us/status": "ea9b0a9568e32369f071c6fc6f2cb9e16cacbc4db152dc7cab9c1b8867bb062b",
+    "https://status.cloud.google.com/": "94cadcacf99b706b8bdc290f34c52ac9dd239a68b1dd5bd08776028d73b02297",
     "https://cloud.google.com/support/bulletins": "268a3cda2088855afbad96e853794985af8093f723a2756c8c2c886da48cb057",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

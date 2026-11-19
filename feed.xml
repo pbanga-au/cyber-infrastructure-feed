@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 17:19:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 19:12:09 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 19:12:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 19 Nov 2026 19:12:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>PHP Foundation Security Releases – November 19, 2026</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-190-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-190-AWS Publication Date: 11/19/2026 10:00 AM PST Description: AWS is aware of security releases that the PHP Foundation published on November 19, 2026. PHP versions 8.2.36, 8.3.37, 8.4.28, and 8.5.13 address 17 issues across the PHP 8.2, 8.3, 8.4, and 8.5 branches. The issues are in the following components: - The PHP engine - PHP-FPM and the PHP CGI binary - The SOAP, Phar, session, DOM, and date extensions - The HTTP and FTP stream wrappers - The PHP 8.5 RFC 3986 URI implementation Patching the affected software remains the only complete fix and should be the first priority. We will update this bulletin as more information becomes available. Refer to the article for the </description>
+      <pubDate>Thu, 19 Nov 2026 18:30:09 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Transport for London breach exposes 265,000 Oyster card users' data</title>
+      <link>https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/</guid>
+      <description>[News] BleepingComputer: Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]</description>
+      <pubDate>Thu, 19 Nov 2026 18:20:01 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Arista Security Advisories — official page changed (review required)</title>
       <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
@@ -2391,38 +2423,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sat, 14 Nov 2026 13:03:44 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 11:49:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Apple Reveals How Secure Exclaves Shield Camera and Microphone Data</title>
-      <link>https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/</guid>
-      <description>[News] SecurityWeek: The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .</description>
-      <pubDate>Sat, 14 Nov 2026 11:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 10:53:23 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sat, 14 Nov 2026 09:56:43 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
