@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 16:08:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 17:10:02 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 17:10:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 17:10:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 17:10:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-133199 - Incorrect privilege assignment on reused e-mail addresses or group names in AWS ssosync</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-194-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-194-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-194-AWS Publication Date: 11/20/2026 08:30 AM PST Description: Incorrect privilege assignment in the user and group reconciliation logic in AWS ssosync before 2.9.5 might allow an authenticated remote user who is assigned a reused Google Workspace e-mail address or group name to inherit the IAM Identity Center group memberships and permission set assignments of a previously synchronized, unrelated identity, via automatic synchronization of that Google Workspace account or group. Impacted versions: &lt; 2.9.5 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Fri, 20 Nov 2026 16:41:29 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
@@ -366,14 +398,6 @@
       <description>[News] BleepingComputer: SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]</description>
       <pubDate>Thu, 19 Nov 2026 22:25:42 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 22:00:10 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2400,30 +2424,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 15 Nov 2026 19:52:43 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 18:56:54 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 18:56:54 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>FBI warns ARTEX AI hacking tool is powering global cyberattacks</title>
-      <link>https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/</guid>
-      <description>[News] BleepingComputer: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]</description>
-      <pubDate>Sun, 15 Nov 2026 18:29:53 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>

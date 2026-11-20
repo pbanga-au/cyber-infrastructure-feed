@@ -12669,7 +12669,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-19T22:00:10.064093+00:00",
+      "published": "2026-11-20T17:10:02.122467+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:94d251f6930a1c394bb8e391": {
@@ -12999,6 +12999,30 @@
       "category": "PKI",
       "published": "2026-11-20T16:08:08.115044+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-133199": {
+      "title": "CVE-2026-133199 - Incorrect privilege assignment on reused e-mail addresses or group names in AWS ssosync",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-194-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-20T16:41:29+00:00",
+      "description": "Bulletin ID: 2026-194-AWS Publication Date: 11/20/2026 08:30 AM PST Description: Incorrect privilege assignment in the user and group reconciliation logic in AWS ssosync before 2.9.5 might allow an authenticated remote user who is assigned a reused Google Workspace e-mail address or group name to inherit the IAM Identity Center group memberships and permission set assignments of a previously synchronized, unrelated identity, via automatic synchronization of that Google Workspace account or group. Impacted versions: < 2.9.5 Refer to the article for the most up-to-date and complete information."
+    },
+    "page:be79d8397cb67803a8a28f85": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T17:10:02.122467+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:e2506faa205c450b522aeaac": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-20T17:10:02.122467+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13007,9 +13031,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "d00a72232ec74ebc42fb984e17cad6cdb856ac3eea3eda54c6de1c8834a9d1aa",
-    "https://status.cloud.google.com/": "c1a3e16244998e684e3e16a4a02e4f5fd6100d98ea5677a7d220cac15fbba87c",
-    "https://cloud.google.com/support/bulletins": "4fc4c3b479ddfc9f9b4d5462a01f891f8fa8616b56243408cc16597b63754fe1",
+    "https://azure.status.microsoft/en-us/status": "0b6d0e6dc4e6f592ff69a96bb37801d1590453f386ba120cefddb621fc2a5d17",
+    "https://status.cloud.google.com/": "6ab6e45f6bb0069b32d4fc1a213f0e1123761c58f845f4d674deac6c37336937",
+    "https://cloud.google.com/support/bulletins": "dafcb4b5c644f1a76f9c3324801a8384fa86674920953b17f6a62c8c956ae963",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
