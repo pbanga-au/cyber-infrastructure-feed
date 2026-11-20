@@ -12053,7 +12053,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-20T15:07:34.598645+00:00",
+      "published": "2026-11-20T20:12:27.453521+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c4fabd2ba137401a8fac2fc0": {
@@ -13063,6 +13063,38 @@
       "category": "Cloud",
       "published": "2026-11-20T19:13:43.484745+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog": {
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-20T12:00:00+00:00",
+      "description": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-42884 SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability CVE-2026-76466 Cisco Expressway Series Use of Hard-coded Credentials Vulnerability CVE-2026-123890 VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability CVE-2026-129448 Apache Roller Deserialization of Untrusted Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritiz"
+    },
+    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/25220-security-advisory-0229": {
+      "title": "Security Advisory 0229",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/25220-security-advisory-0229",
+      "source": "Arista Security",
+      "category": "Network",
+      "published": "2026-11-19T23:50:24+00:00",
+      "description": "Date: November 20, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nNovember 20, 2026\nInitial release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-99288 CVSSv3.1 Base Score: 7.5 (CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H) Common Weakness Enumeration: CWE-476 - Null Pointer Dereference This vulnerability is being tracked by BUG2077060 (EOS), BUG2089900 (VCO/VCG)\nDescription\nArista Networks is providing this security update in response to a vulnerability affecting the use of IPv4 in the Li ..."
+    },
+    "page:4443cf592730a6743470146b": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-20T20:12:27.453521+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:686e8b230b7a88d92df95747": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T20:12:27.453521+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13070,9 +13102,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "5c8525ee9f37ee5de5377044350ddf0e151e3c6f887be290847506c852bee438",
-    "https://status.cloud.google.com/": "5c8ee1bea982dc4bd8c506e1b055641c896aa97579ce3b8be5d7a921c9fd4d92",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
+    "https://azure.status.microsoft/en-us/status": "d00a72232ec74ebc42fb984e17cad6cdb856ac3eea3eda54c6de1c8834a9d1aa",
+    "https://status.cloud.google.com/": "3dddbe76c4feae618c5f83d8c5163bf807a19bf90a82223906bc453a03f59c59",
     "https://cloud.google.com/support/bulletins": "dafcb4b5c644f1a76f9c3324801a8384fa86674920953b17f6a62c8c956ae963",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
