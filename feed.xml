@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 10:17:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:08:20 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 12:08:20 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 12:08:20 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>SBC Medical Group Data Breach Impacts Over 2 Million</title>
+      <link>https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/</guid>
+      <description>[News] SecurityWeek: Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 20 Nov 2026 11:36:51 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>F5 releases emergency patches for critical BIG-IP RCE flaws</title>
+      <link>https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/</guid>
+      <description>[News] BleepingComputer: US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]</description>
+      <pubDate>Fri, 20 Nov 2026 10:57:43 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>European Commission Confirms AI-Assisted Cyberattack Disrupted Services</title>
+      <link>https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/</guid>
+      <description>[News] SecurityWeek: The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 20 Nov 2026 10:51:42 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE</title>
+      <link>https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/ruby-patches-ruby2shell-vulnerability-that-could-lead-to-rce/</guid>
+      <description>[News] SecurityWeek: Tracked as CVE-2026-132825, the bug is a heap-based buffer overflow that could lead to remote code execution (RCE). The post Ruby Patches Ruby2Shell Vulnerability That Could Lead to RCE appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 20 Nov 2026 10:34:10 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -791,14 +839,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 18 Nov 2026 22:00:32 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 21:05:00 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2384,46 +2424,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] SecurityWeek: The move follows President Trump’s order to replace “artificial intelligence” with “super intelligence” in executive branch communications. The post Pentagon Renames CDAO ‘Super Intelligence Office’ appeared first on SecurityWeek .</description>
       <pubDate>Sun, 15 Nov 2026 12:51:33 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Service impact: Increased Connectivity issues in US-EAST-1</title>
-      <link>https://status.aws.amazon.com/</link>
-      <guid isPermaLink="false">https://status.aws.amazon.com/</guid>
-      <description>[Cloud] AWS Service Health RSS: We are investigating reports of Connectivity issues in the US-EAST-1 Region. IAM Identity center sign-in requests and AWS SignUps are also impacted at this time.</description>
-      <pubDate>Sun, 15 Nov 2026 12:38:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 11:52:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 11:52:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 10:54:52 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 09:56:53 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
