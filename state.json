@@ -12743,6 +12743,38 @@
       "category": "Cloud",
       "published": "2026-11-19T23:54:35.550692+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september": {
+      "title": "VMware patches vCenter zero-day exploited in attacks since September",
+      "url": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-20T00:26:25+00:00",
+      "description": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]"
+    },
+    "page:4c689b90a3ab88357259bf7d": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T01:21:11.148015+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:89b44b5c5a86e07e68c334c8": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T01:21:11.148015+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:352871156b68f4f7ffe89544": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-20T01:21:11.148015+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12751,9 +12783,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "a02e50a5a32de5e2c2f1c7b5766dea5f83c8f74918054417b63413278e64b781",
-    "https://status.cloud.google.com/": "a0923dca273ccb8e18a4e763265e24c93161379618c22c2402c339564bd240b2",
-    "https://cloud.google.com/support/bulletins": "8442da64bef8d6c05d6265deca59e373f70fc42a05fe204d82949914b8917f34",
+    "https://azure.status.microsoft/en-us/status": "7b2d17ae232c2fbc4f12d367de1dd3917e7279ca1cd2e6e2d274dc7c8bcc70e3",
+    "https://status.cloud.google.com/": "df40f36338bd0bfa71b8a1e09b4c31c042e73e638cb16749e195ab6c90e41b59",
+    "https://cloud.google.com/support/bulletins": "59f6099691b40bf58a1a8ec577e3533b272b49da523ea91da9d8f55edfabf29d",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
