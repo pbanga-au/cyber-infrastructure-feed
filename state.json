@@ -12967,6 +12967,38 @@
       "category": "Cloud",
       "published": "2026-11-20T15:07:34.598645+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info": {
+      "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
+      "url": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-20T15:58:06+00:00",
+      "description": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]"
+    },
+    "url:https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign": {
+      "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
+      "url": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-20T16:01:02+00:00",
+      "description": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek ."
+    },
+    "page:6e12615acee8ca0a93968550": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T16:08:08.115044+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:d728e8690eb3198ad25e4868": {
+      "title": "Sectigo Knowledge Base — official page changed (review required)",
+      "url": "https://www.sectigo.com/knowledge-base",
+      "source": "Sectigo Knowledge Base",
+      "category": "PKI",
+      "published": "2026-11-20T16:08:08.115044+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12976,9 +13008,9 @@
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
     "https://azure.status.microsoft/en-us/status": "d00a72232ec74ebc42fb984e17cad6cdb856ac3eea3eda54c6de1c8834a9d1aa",
-    "https://status.cloud.google.com/": "393d664675839c14b9898ebb6caf0a6b39b4878b14884aefd5e80c3c1bfbbc7e",
+    "https://status.cloud.google.com/": "c1a3e16244998e684e3e16a4a02e4f5fd6100d98ea5677a7d220cac15fbba87c",
     "https://cloud.google.com/support/bulletins": "4fc4c3b479ddfc9f9b4d5462a01f891f8fa8616b56243408cc16597b63754fe1",
-    "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
+    "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }

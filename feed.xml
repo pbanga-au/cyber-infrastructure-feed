@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 15:07:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 16:08:08 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 16:08:08 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Sectigo Knowledge Base — official page changed (review required)</title>
+      <link>https://www.sectigo.com/knowledge-base</link>
+      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
+      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 16:08:08 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign</title>
+      <link>https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/</guid>
+      <description>[News] SecurityWeek: Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 20 Nov 2026 16:01:02 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Vendor data breach exposes Chase, Visa, Mastercard customer info</title>
+      <link>https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/</guid>
+      <description>[News] BleepingComputer: J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]</description>
+      <pubDate>Fri, 20 Nov 2026 15:58:06 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2392,38 +2424,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] BleepingComputer: The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer environments. [...]</description>
       <pubDate>Sun, 15 Nov 2026 18:29:53 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 17:47:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 17:47:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 16:52:32 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 16:52:32 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
