@@ -12053,7 +12053,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-18T20:10:09.586696+00:00",
+      "published": "2026-11-20T15:07:34.598645+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c4fabd2ba137401a8fac2fc0": {
@@ -12943,6 +12943,30 @@
       "category": "Cloud",
       "published": "2026-11-20T13:26:24.830654+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind": {
+      "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
+      "url": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-20T15:00:10+00:00",
+      "description": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve credential visibility, identify security risks, and simplify secure password sharing. [...]"
+    },
+    "url:https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit": {
+      "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
+      "url": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-20T14:56:23+00:00",
+      "description": "Noteworthy stories that might have slipped under the radar:  EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit appeared first on SecurityWeek ."
+    },
+    "page:57bb7a4890a4e37259427ebb": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T15:07:34.598645+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12951,8 +12975,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "03c3de967018b6d2c890b10fbf1e95a9b6618c7f47a43cc06f590e091d316b6f",
-    "https://status.cloud.google.com/": "2a3aeb33149b6228fd012b05d675a9bc100aa74d3e93f8c22934b1e84a6685ae",
+    "https://azure.status.microsoft/en-us/status": "d00a72232ec74ebc42fb984e17cad6cdb856ac3eea3eda54c6de1c8834a9d1aa",
+    "https://status.cloud.google.com/": "393d664675839c14b9898ebb6caf0a6b39b4878b14884aefd5e80c3c1bfbbc7e",
     "https://cloud.google.com/support/bulletins": "4fc4c3b479ddfc9f9b4d5462a01f891f8fa8616b56243408cc16597b63754fe1",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
