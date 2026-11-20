@@ -12253,7 +12253,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-19T09:18:43.638218+00:00",
+      "published": "2026-11-20T10:17:50.401176+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:d923a6ddf060b4449d3e0cfc": {
@@ -12855,6 +12855,30 @@
       "category": "Cloud",
       "published": "2026-11-20T08:26:40.810826+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes": {
+      "title": "Windows 11 KB5132057 update released with 28 changes and fixes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-20T09:25:35+00:00",
+      "description": "Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]"
+    },
+    "url:https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack": {
+      "title": "N-able Blames Service Disruption on Cyberattack",
+      "url": "https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-20T09:08:35+00:00",
+      "description": "The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek ."
+    },
+    "page:01ec1b8f00b236f1618c7f9c": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-20T10:17:50.401176+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -12863,8 +12887,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "3507a2de07fa294f75d908327bf8f31e78fc9c5359685b6d4e1f2955cb36c94e",
-    "https://azure.status.microsoft/en-us/status": "bd1dba55e14b94275a25452c0745728717c86828141afb423eb19b2aa05dff44",
-    "https://status.cloud.google.com/": "c94cfdc3569f83a231ff7c3230f1d2cf6e4aac488e59208d689fc4ee3f803677",
+    "https://azure.status.microsoft/en-us/status": "85345c0034e3d3521909712fa0430ef17d74836ff2099c5ad3c8298a9936dc4d",
+    "https://status.cloud.google.com/": "add03c3916565fb053f8624504b607ed27b2dd323f3ed0de672df0656528f3d8",
     "https://cloud.google.com/support/bulletins": "4fc4c3b479ddfc9f9b4d5462a01f891f8fa8616b56243408cc16597b63754fe1",
     "https://www.sectigo.com/knowledge-base": "3770752c1ac84713713a6586aca4aabc68775d8ae6479bf6df6ba391b2448bd8",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 08:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 10:17:50 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 10:17:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 10:17:50 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Windows 11 KB5132057 update released with 28 changes and fixes</title>
+      <link>https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132057-update-released-with-28-changes-and-fixes/</guid>
+      <description>[News] BleepingComputer: Microsoft released the KB5132057 November Windows 11 preview update, which comes with 28 changes, including improvements to Windows Search, Windows Hello, and the Run dialog. [...]</description>
+      <pubDate>Fri, 20 Nov 2026 09:25:35 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>N-able Blames Service Disruption on Cyberattack</title>
+      <link>https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/n-able-blames-service-disruption-on-cyberattack/</guid>
+      <description>[News] SecurityWeek: The incident affected Mail Assure and SpamExperts Hosted Cloud and could have led to credential theft. The post N-able Blames Service Disruption on Cyberattack appeared first on SecurityWeek .</description>
+      <pubDate>Fri, 20 Nov 2026 09:08:35 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -592,14 +624,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] BleepingComputer: NVIDIA is investigating claims of a security breach after the Gentlemen ransomware group has added the company to its dark web data leak site. [...]</description>
       <pubDate>Thu, 19 Nov 2026 09:23:21 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 09:18:43 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2399,30 +2423,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Sun, 15 Nov 2026 09:56:53 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 09:56:53 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 08:58:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Sun, 15 Nov 2026 07:17:30 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
