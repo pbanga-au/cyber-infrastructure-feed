@@ -11653,7 +11653,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-21T05:05:52.246703+00:00",
+      "published": "2026-11-21T18:59:32.790041+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:633635f0bd6dc969b3350d1c": {
@@ -13367,6 +13367,22 @@
       "category": "Cloud",
       "published": "2026-11-21T17:53:11.278918+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data": {
+      "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-21T18:01:58+00:00",
+      "description": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]"
+    },
+    "page:1271c7d898cb9541940a0e55": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-21T18:59:32.790041+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13375,8 +13391,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "0f713bf66ff9d14b6e6422d8d37b1ba49ba3ce301fc6dd68ebadede68646e151",
-    "https://status.cloud.google.com/": "ec08d9c84734e6156f43a23fbc748709e55d0a2855a7456d269d9b42b8acefcf",
+    "https://azure.status.microsoft/en-us/status": "03c3de967018b6d2c890b10fbf1e95a9b6618c7f47a43cc06f590e091d316b6f",
+    "https://status.cloud.google.com/": "98bbbb0c34a4ff6782e81d018ca348866b4a2ace48018a2b42a7b08158ff7641",
     "https://cloud.google.com/support/bulletins": "87392eebebfc709aa0797ea7c8313651bb9638757c0649945554723dae449f62",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
