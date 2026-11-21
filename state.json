@@ -616,14 +616,6 @@
       "published": "2026-10-02T19:21:29+00:00",
       "description": "Bulletin ID: 2026-124-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/02/2026 12:00 PM PDT Description: Loom is an AWS Labs open-source AI agent orchestration platform. We have identified and addressed three issues in Loom for AWS, described below. We recommend upgrading to the latest version (1.7.0) and ensuring any forked or derivative code is patched to incorporate the new fixes. - CVE-2026-103956 ‐ Authentication bypass in Loom for AWS (CWE-306, CWE-1188) An issue in the authentication dependency in Loom for AWS versions <1.6.1 allowed any network client to obtain full administrative authority over the agent control plane ‐ including registering tool serv"
     },
-    "cve:CVE-2026-94450": {
-      "title": "CVE-2026-94450 - Potential denial of service when configured to send Retry packets in s2n-quic",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-116-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-22T20:08:17+00:00",
-      "description": "Bulletin ID: 2026-116-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/22/2026 13:00 PM PDT Description: s2n-quic is a Rust implementation of the QUIC protocol. We identified CVE-2026-94450, an issue with improper validation of the Destination Connection ID length when a server is configured to send Retry packets. s2n-quic 1.88.0 and earlier allow an unauthenticated user to shut down a server endpoint via a single crafted UDP datagram. No AWS services are affected by this issue, and customers of AWS services do not need to take action. Only server endpoints specifically configured to issue Retry packets are affected. Impacted versions: <= v1.88.0 Please refer "
-    },
     "cve:CVE-2026-115419": {
       "title": "CVE-2026-115419 - Unintended disclosure of data element to wrong session in Strands Agents SDK A2A Server",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-146-aws/",
@@ -13245,7 +13237,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-21T09:58:36.207207+00:00",
+      "published": "2026-11-21T20:53:26.784188+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:f406ca6a01114a6a832862ee": {
@@ -13399,6 +13391,14 @@
       "category": "Cloud",
       "published": "2026-11-21T19:55:28.648651+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:5d4d1d14f49906f966ee2ec4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-21T20:53:26.784188+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13407,8 +13407,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "3152c7f7f09b8ae274aa5dd1349619a7b6bdcf4b3badb57684f1d26669cf65b7",
-    "https://status.cloud.google.com/": "cce28f61ed54978451fc9c931d6d16c0f5f118b63738480f40db9029933ce54c",
+    "https://azure.status.microsoft/en-us/status": "4271f5af33861b5d8e28beb08717495466c1cd777182d659947b9078d647df1c",
+    "https://status.cloud.google.com/": "d203bb383c04348fdc452c7956ff203bbb5d137aeb3250efd986c792b5203db0",
     "https://cloud.google.com/support/bulletins": "87392eebebfc709aa0797ea7c8313651bb9638757c0649945554723dae449f62",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
