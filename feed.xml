@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 01:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:57:56 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 02:57:56 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 02:57:56 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2424,22 +2440,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <guid isPermaLink="false">https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/</guid>
       <description>[News] SecurityWeek: Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .</description>
       <pubDate>Mon, 16 Nov 2026 11:15:48 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers</title>
-      <link>https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/</guid>
-      <description>[News] SecurityWeek: Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 16 Nov 2026 11:05:42 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Uber Data Breach Impacts 150,000 People</title>
-      <link>https://www.securityweek.com/uber-data-breach-impacts-150000-people/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/uber-data-breach-impacts-150000-people/</guid>
-      <description>[News] SecurityWeek: Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 16 Nov 2026 11:02:48 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
