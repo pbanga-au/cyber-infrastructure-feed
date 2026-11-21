@@ -12165,7 +12165,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-19T03:01:57.976219+00:00",
+      "published": "2026-11-21T01:25:34.555250+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:ba0c0a414b690a3f8f2aa8be": {
@@ -13159,6 +13159,30 @@
       "category": "Cloud",
       "published": "2026-11-20T23:57:35.122097+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "cve:CVE-2026-123007,CVE-2026-123633": {
+      "title": "CVE-2026-123633 Portfolio Status: Impact of NGINX Vulnerabilities (CVE-2026-123633, CVE-2026-123007) on Palo Alto Networks Products (Severity: CRITICAL)",
+      "url": "https://security.paloaltonetworks.com/CVE-2026-123633",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-20T23:00:00+00:00",
+      "description": ""
+    },
+    "page:f56a32b1704c2b55ad805e48": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-21T01:25:34.555250+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:ca4e0ac25b8591b2b4162d0a": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-21T01:25:34.555250+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13167,9 +13191,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "24acdcdd773750972d49b28b060d9061978ce620a32979cd6050d196fd11eeb9",
-    "https://status.cloud.google.com/": "40ce3b596a19616d469a7f4d72e82eab7011bbe24a035a2960e2a531be2d46f3",
-    "https://cloud.google.com/support/bulletins": "afc1b32ac44b6b16522c499d607cc73ad7994adf9289c61d2680f0f1d175ef3d",
+    "https://azure.status.microsoft/en-us/status": "d00237bec18bc7e230a1a3b236868b7a7c8fe2eeabcc7c5d7deac9fc30bf18cb",
+    "https://status.cloud.google.com/": "656b7e51725537bf96943f28a1f435303c3423b4874363ee15415f679bd6f36b",
+    "https://cloud.google.com/support/bulletins": "87392eebebfc709aa0797ea7c8313651bb9638757c0649945554723dae449f62",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
