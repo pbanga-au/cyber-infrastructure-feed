@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 04:02:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:05:52 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 05:05:52 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 05:05:52 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
@@ -302,14 +318,6 @@
       <description>[News] SecurityWeek: Noteworthy stories that might have slipped under the radar:  EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit appeared first on SecurityWeek .</description>
       <pubDate>Fri, 20 Nov 2026 14:56:23 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 20 Nov 2026 13:26:24 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2433,14 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 16 Nov 2026 11:33:27 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Australian retail giant Coles investigates cybersecurity incident</title>
-      <link>https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/</guid>
-      <description>[News] BleepingComputer: Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a "cyber security incident" that has not impacted the company's stores. [...]</description>
-      <pubDate>Mon, 16 Nov 2026 11:18:09 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
