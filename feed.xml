@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 21:53:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:52:30 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 22:52:30 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 22:52:30 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1049,14 +1065,6 @@ This security advisory is in response to the “Java4Shell” vulnerability (CVE
 Arista is not currently aware of any malicious exploitation of this vulnerability ...</description>
       <pubDate>Thu, 19 Nov 2026 16:19:13 +0000</pubDate>
       <category>Network</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 16:14:35 +0000</pubDate>
-      <category>Cloud</category>
     </item>
     <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
@@ -2433,14 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] BleepingComputer: Google Project Zero will replace its "90+30" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]</description>
       <pubDate>Mon, 16 Nov 2026 21:31:44 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-126681 - Improper restriction of intended endpoints in AWS Labs Timestream for InfluxDB MCP Server</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-185-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-185-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-185-AWS Publication Date: 11/16/2026 12:30 PM PST Description: Improper restriction of intended endpoints in the connection configuration handling of the AWS Labs Timestream for InfluxDB MCP Server (awslabs.timestream-for-influxdb-mcp-server) before 0.0.19 might allow a remote unauthenticated actor (via prompt injection) to obtain the InfluxDB API token configured on the server, sent to a crafted endpoint controlled through an InfluxDB URL introduced in the MCP client context. Impacted versions: &gt;=0.0.12 AND &lt;0.0.19 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Mon, 16 Nov 2026 21:03:04 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
