@@ -5,8 +5,32 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Nov 2026 11:55:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:10:08 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 13:10:08 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Sat, 21 Nov 2026 13:10:08 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day</title>
+      <link>https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/</guid>
+      <description>[News] SecurityWeek: A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .</description>
+      <pubDate>Sat, 21 Nov 2026 12:08:50 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -686,14 +710,6 @@ Arista Networks is providing this security update in response to a vulnerability
       <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-193-aws/</guid>
       <description>[Cloud] AWS Security: Bulletin ID: 2026-193-AWS Publication Date: 11/19/2026 15:05 PM PST Description: On November 18, 2026, the Ruby maintainers published fixes for seven issues in CRuby's regular expression engine and string case conversion, including CVE-2026-132825. These issues affect Ruby versions before 4.0.10, 3.4.13, and 3.3.14 and could allow remote code execution in some configurations. These issues are memory-safety issues in Ruby's regular expression engine and in string case conversion on certain non-UTF-8 encodings. When an application processes third party-controlled input through these code paths, a remote, unauthenticated actor might be able to crash the process, read memory, or run arbitrary co</description>
       <pubDate>Thu, 19 Nov 2026 23:06:34 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 22:59:02 +0000</pubDate>
       <category>Cloud</category>
     </item>
     <item>
@@ -2424,22 +2440,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <guid isPermaLink="false">https://www.securityweek.com/cursor-supply-chain-attack-started-at-fireworks/</guid>
       <description>[News] SecurityWeek: The attacker stole an access key from Fireworks and used it to exfiltrate credentials that enabled them to push malicious Claude Code extension copies. The post Cursor Supply Chain Attack Started at Fireworks AI appeared first on SecurityWeek .</description>
       <pubDate>Mon, 16 Nov 2026 15:45:43 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Fandango says hackers stole payment card details from checkout pages</title>
-      <link>https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/</guid>
-      <description>[News] BleepingComputer: Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]</description>
-      <pubDate>Mon, 16 Nov 2026 15:44:21 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Project Zero Sets Course for 30-Day Disclosure Deadline</title>
-      <link>https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/</guid>
-      <description>[News] SecurityWeek: It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 16 Nov 2026 15:31:25 +0000</pubDate>
       <category>News</category>
     </item>
   </channel>
