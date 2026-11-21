@@ -5,8 +5,24 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 22:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:57:35 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 23:57:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 20 Nov 2026 23:57:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -2425,22 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Mon, 16 Nov 2026 09:50:16 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>New NoisyTCP vulnerability lets attackers crash Linux servers</title>
-      <link>https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/</guid>
-      <description>[News] BleepingComputer: An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]</description>
-      <pubDate>Mon, 16 Nov 2026 09:30:04 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Tor Updates DoS Defenses Again as Relay Attacks Continue</title>
-      <link>https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/</guid>
-      <description>[News] SecurityWeek: Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek .</description>
-      <pubDate>Mon, 16 Nov 2026 08:55:32 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
