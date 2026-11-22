@@ -12085,7 +12085,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-18T23:01:37.532758+00:00",
+      "published": "2026-11-22T01:22:33.526920+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c2f1824ecc6e33411ba00259": {
@@ -13447,6 +13447,30 @@
       "category": "Cloud",
       "published": "2026-11-21T23:50:04.023176+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says": {
+      "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+      "url": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-22T00:53:02+00:00",
+      "description": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director": {
+      "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+      "url": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-21T13:00:00+00:00",
+      "description": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek ."
+    },
+    "page:748f1f836dae384f131d7b91": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-22T01:22:33.526920+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13455,8 +13479,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "345abd6b7d0247586305028c402a9063d9d7ce34baca1614fb21aedb1d3b52e9",
-    "https://status.cloud.google.com/": "21cdc147b68e9a204419d6ed15c8329c89c359158115c1b1c59443bdab22db36",
+    "https://azure.status.microsoft/en-us/status": "327968e8c86bf61d3643172a07456a8cc2fec79fbed3c42aed2a15ba12040f92",
+    "https://status.cloud.google.com/": "ea3d3d3c95641444e63adad9d4717b81d7fb19ae43edfe2f13c07529b82567d5",
     "https://cloud.google.com/support/bulletins": "87392eebebfc709aa0797ea7c8313651bb9638757c0649945554723dae449f62",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
