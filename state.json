@@ -1240,14 +1240,6 @@
       "published": "2026-09-29T14:19:12+00:00",
       "description": "OpenSSL 3.4.8 is a security patch release.  The most severe CVE fixed in this release is High. This release incorporates the following bug fixes and mitigations: Fixed DTLS retransmissions of handshake messages from a stale buffer offset. ( CVE-2026-84782 ) Fixed excessive memory allocation in relative CRLDP processing. ( CVE-2026-35189 ) Fixed potential CPU DoS via O(n^2) fragment reassembly in QUIC. ( CVE-2026-42772 ) Fixed a timing side-channel in scalar multiplication for mon-NIST EC curves. ( CVE-2026-54872 ) Fixed QUIC STREAM fragment metadata DoS. ( CVE-2026-54873 ) Fixed non-constant-time SM2 scalar multiplication on ARM64 and RISC-V. ( CVE-2026-54875 ) Fixed out-of-bounds access aft"
     },
-    "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta1": {
-      "title": "OpenSSL 4.1.0-beta1",
-      "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0-beta1",
-      "source": "OpenSSL Releases",
-      "category": "Infrastructure",
-      "published": "2026-09-23T13:24:11+00:00",
-      "description": "OpenSSL 4.1.0 is a feature release adding significant new functionality to OpenSSL. This release incorporates the following potentially significant or incompatible changes: Added VC-WIN32-MSVC2013 and VC-WIN64A-MSVC2013 build targets to provide internal functions for bridging the gaps in C99 standard support that are present in MSVC 2013. Added optimized ML-DSA and ML-KEM NTT operations on ppc64le ; optimized ML-DSA operations on s390x , and x86_64 ; AVX-512-optimized SHAKE x4 operations for ML-DSA on x86_64 ; AVX-512 and VAES optimizations for AES-CBC decryption on x86_64 . Changed tsget utility to use Net::Curl::Easy (from the Net-Curl CPAN distribution) instead of the abandoned WWW::Curl:"
-    },
     "url:https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability": {
       "title": "PHP shares mitigation for new RCE vulnerability with no patch",
       "url": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
@@ -12477,7 +12469,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-19T17:19:27.858583+00:00",
+      "published": "2026-11-22T14:07:49.984234+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:37064523f0b4e7652411d54a": {
@@ -13559,6 +13551,14 @@
       "category": "Cloud",
       "published": "2026-11-22T13:08:04.798853+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:6c80951c7facfa2cb5755d49": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-22T14:07:49.984234+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13567,8 +13567,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "7b2d17ae232c2fbc4f12d367de1dd3917e7279ca1cd2e6e2d274dc7c8bcc70e3",
-    "https://status.cloud.google.com/": "f17cdce186088951ab844e66b4df6a3a238fa56455cd0ddcfc81640536142d1e",
+    "https://azure.status.microsoft/en-us/status": "e3da2f0358153984b796272429b821c048c76d77fe165b95e759af303d667814",
+    "https://status.cloud.google.com/": "f4080327151dc5da68f4fec16a509707854cdb7e3e15c98909b9a349ba741945",
     "https://cloud.google.com/support/bulletins": "87392eebebfc709aa0797ea7c8313651bb9638757c0649945554723dae449f62",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
