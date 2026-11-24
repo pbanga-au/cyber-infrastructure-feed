@@ -768,14 +768,6 @@
       "published": "2026-10-21T21:32:10+00:00",
       "description": "Bulletin ID: 2026-142-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/21/2026 12:30 PM PDT Description: The Amazon SageMaker Python SDK is an open-source library for training and deploying machine learning models on Amazon SageMaker. We identified CVE-2026-112408, an issue in the default_bucket() function. The SDK uses a predictably named Amazon S3 bucket and does not check that the caller's AWS account owns it. A remote actor who creates that bucket first could achieve code execution in a remote SageMaker execution environment and obtain IAM credentials. Impacted versions: - V2: < 2.257.3 - V3: >= 3.0.0 and < 3.10.0 Please refer to the article below for the "
     },
-    "cve:CVE-2026-96883": {
-      "title": "CVE-2026-96883 - Type confusion in AWS pgcollection allows remote code execution",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-118-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-24T19:17:16+00:00",
-      "description": "Bulletin ID: 2026-118-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/24/2026 12:00 PM PDT Description: pgcollection is an open source extension to PostgreSQL. We identified CVE-2026-96883, an issue in pgcollection's type coercion logic. When requesting a stored icollection value as a type incompatible with how it was actually stored causes the extension to misinterprets the datum's representation, allowing an authenticated database user to crash the PostgreSQL backend or execute arbitrary code. Impacted versions: pgcollection v2.0.0 through v2.1.1 Please refer to the article below for the most up-to-date and complete information related to this AWS Security "
-    },
     "cve:CVE-2026-115416": {
       "title": "CVE-2026-115416 - Incorrect authorization checks in Amazon Athena engine version 3 query processing",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-144-aws/",
@@ -815,14 +807,6 @@
       "category": "Cloud",
       "published": "2026-10-14T18:38:55+00:00",
       "description": "Bulletin ID: 2026-134-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 10/14/2026 11:30 AM PDT Description: Amazon SageMaker Python SDK is an open source library for training and deploying machine learning models on Amazon SageMaker. We identified CVE-2026-110248, an issue in the git_utils.py component of Amazon SageMaker Python SDK. When a Git clone operation fails, repository credentials in subprocess error output are written to CloudWatch Logs without redaction. An authenticated remote user with access to those logs is able to obtain the plaintext credentials. Impacted versions: - Amazon SageMaker Python SDK V2 versions before 2.257.3 - Amazon SageMaker Python"
-    },
-    "cve:CVE-2026-95985": {
-      "title": "CVE-2026-95985 - Kiro IDE Allows Agentic Writes to Global Configurations While Working in Untrusted Workspaces",
-      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-117-aws/",
-      "source": "AWS Security",
-      "category": "Cloud",
-      "published": "2026-09-24T17:21:34+00:00",
-      "description": "Bulletin ID: 2026-117-AWS Scope: AWS Content Type: Important (requires attention) Publication Date: 09/24/2026 10:00 AM PDT Description: Kiro is an agentic IDE that users install on their desktop. We identified CVE-2026-95985. The file write tool in Kiro IDE before version 1.0.242 might allow remote unauthenticated actors to execute arbitrary commands and to inject crafted instructions into the agent's context. When a user runs the agent in a crafted repository as an untrusted workspace, sending any message can cause agent modifications to auto-loaded global configuration paths. Impacted versions: < 1.0.242 Please refer to the article below for the most up-to-date and complete information re"
     },
     "cve:CVE-2026-107322": {
       "title": "CVE-2026-107322 - OS command injection in Amazon Agent Plugins for AWS databases-on-aws",
@@ -13727,6 +13711,118 @@
       "category": "Cloud",
       "published": "2026-11-23T14:39:56.139378+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog": {
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-23T12:00:00+00:00",
+      "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and req"
+    },
+    "cve:CVE-2026-134056": {
+      "title": "CVE-2026-134056 - Out-of-bounds write in padded block cipher decryption in AWS-LC",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-23T20:29:41+00:00",
+      "description": "Bulletin ID: 2026-196-AWS Publication Date: 11/23/2026 12:00 PM PST Description: We identified CVE-2026-134056, an out-of-bounds write issue in AWS-LC's padded block cipher decryption. It affects applications that decrypt CBC or ECB ciphertext with PKCS7 padding over multiple update calls. If the output buffer is the minimum documented size, AWS-LC can write one byte past its end. This might crash the application or corrupt adjacent memory. This issue does not disclose data. The aws-lc-rs StreamingDecryptingKey API has a similar issue with cbc_pkcs7 and ecb_pkcs7. Its less_safe_update function can write up to one block (16 bytes for AES) past the buffer. Single-call decryption is not affecte"
+    },
+    "cve:CVE-2026-134069": {
+      "title": "CVE-2026-134069 - Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-23T21:54:18+00:00",
+      "description": "Bulletin ID: 2026-197-AWS Publication Date: 11/23/2026 13:30 PM PST Description: Amazon SSM Agent is the AWS Systems Manager agent that runs on EC2 instances so they can be managed through Systems Manager. We identified CVE-2026-134069, an issue in Amazon SSM Agent on AWS-provided Windows Server AMIs released before 2026-09-09, where instances launched from the same AMI shared one instance registration key. On instances managed through Default Host Management Configuration, a local user without administrative privileges might be able to obtain the instance's Default Host Management Configuration role credentials. Impacted versions: Amazon SSM Agent < 3.3.5226.0 on AWS Windows Server AMIs rel"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million": {
+      "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+      "url": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-23T20:54:51+00:00",
+      "description": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets": {
+      "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+      "url": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-23T20:00:20+00:00",
+      "description": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials": {
+      "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+      "url": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-23T19:42:20+00:00",
+      "description": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data": {
+      "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
+      "url": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-23T18:38:40+00:00",
+      "description": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards": {
+      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
+      "url": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-23T16:50:01+00:00",
+      "description": "A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap": {
+      "title": "AI Agents Are Creating a Shared Responsibility Gap",
+      "url": "https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-23T15:00:10+00:00",
+      "description": "AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]"
+    },
+    "url:https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms": {
+      "title": "Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms",
+      "url": "https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-23T15:47:40+00:00",
+      "description": "Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack": {
+      "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+      "url": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-23T15:06:49+00:00",
+      "description": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek ."
+    },
+    "page:418b7fd194df43fcd3b974c4": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-24T02:13:42.732580+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:2bce8729c4ddc0e6e2936d67": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-24T02:13:42.732580+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:a17f3a4ac9c68da40c57a63e": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-24T02:13:42.732580+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13735,9 +13831,9 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "85d495953fa100f9872676cd72edf30b9fb4b25c0d95371564846f668faa0a7d",
-    "https://status.cloud.google.com/": "fe7be4f3a7debcfde86884b215592dd71e14b6ec38edb365ec92f88ef7185aa8",
-    "https://cloud.google.com/support/bulletins": "87392eebebfc709aa0797ea7c8313651bb9638757c0649945554723dae449f62",
+    "https://azure.status.microsoft/en-us/status": "2b9b1d83287550aab04a2dcb437cb2d2aac3c9dad2bc67eb191c7ce11b5d8538",
+    "https://status.cloud.google.com/": "fdda2ef94c45baa7006700e68e5ac44a8056529ebd6765b12c45979bb19c8508",
+    "https://cloud.google.com/support/bulletins": "4fd73ae9a09a3280399fe86cc07de2f798c9b27e0bafe885e7c7c01f451ba16c",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"

@@ -5,8 +5,112 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:39:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 02:13:42 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 02:13:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 02:13:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 02:13:42 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-134069 - Use of a default cryptographic key in the instance registration of Amazon SSM Agent on AWS Windows Server AMIs</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-197-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-197-AWS Publication Date: 11/23/2026 13:30 PM PST Description: Amazon SSM Agent is the AWS Systems Manager agent that runs on EC2 instances so they can be managed through Systems Manager. We identified CVE-2026-134069, an issue in Amazon SSM Agent on AWS-provided Windows Server AMIs released before 2026-09-09, where instances launched from the same AMI shared one instance registration key. On instances managed through Default Host Management Configuration, a local user without administrative privileges might be able to obtain the instance's Default Host Management Configuration role credentials. Impacted versions: Amazon SSM Agent &lt; 3.3.5226.0 on AWS Windows Server AMIs rel</description>
+      <pubDate>Mon, 23 Nov 2026 21:54:18 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>South Korea’s power giant KEPCO confirms data breach impacting 1.5 million</title>
+      <link>https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/</guid>
+      <description>[News] BleepingComputer: A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]</description>
+      <pubDate>Mon, 23 Nov 2026 20:54:51 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-134056 - Out-of-bounds write in padded block cipher decryption in AWS-LC</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-196-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-196-AWS Publication Date: 11/23/2026 12:00 PM PST Description: We identified CVE-2026-134056, an out-of-bounds write issue in AWS-LC's padded block cipher decryption. It affects applications that decrypt CBC or ECB ciphertext with PKCS7 padding over multiple update calls. If the output buffer is the minimum documented size, AWS-LC can write one byte past its end. This might crash the application or corrupt adjacent memory. This issue does not disclose data. The aws-lc-rs StreamingDecryptingKey API has a similar issue with cbc_pkcs7 and ecb_pkcs7. Its less_safe_update function can write up to one block (16 bytes for AES) past the buffer. Single-call decryption is not affecte</description>
+      <pubDate>Mon, 23 Nov 2026 20:29:41 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>OpenRouter drops AI providers over leaked prompts and secrets</title>
+      <link>https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/</guid>
+      <description>[News] BleepingComputer: OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]</description>
+      <pubDate>Mon, 23 Nov 2026 20:00:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Microsoft Azure flaw exploited to steal customers' API credentials</title>
+      <link>https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/</guid>
+      <description>[News] BleepingComputer: Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]</description>
+      <pubDate>Mon, 23 Nov 2026 19:42:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Spanish LaLiga confirms hackers stole soccer fans’ personal data</title>
+      <link>https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/</guid>
+      <description>[News] BleepingComputer: LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]</description>
+      <pubDate>Mon, 23 Nov 2026 18:38:40 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>GlobeTopper loses $2.5 million after hackers steal $70k in gift cards</title>
+      <link>https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/</guid>
+      <description>[News] BleepingComputer: A cyberattack disrupted operations at B2B top-up solutions provider GlobeTopper, causing an estimated $2.5 million in lost revenue, while the attacker redeemed digital gift cards worth $70,000. [...]</description>
+      <pubDate>Mon, 23 Nov 2026 16:50:01 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms</title>
+      <link>https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/azure-flaw-exploited-to-target-secrets-at-norwegian-energy-firms/</guid>
+      <description>[News] SecurityWeek: Microsoft closed an Azure API Management flaw exploited to target secrets at Norwegian energy companies, with other sectors also affected. The post Azure Flaw Exploited to Target Secrets at Norwegian Energy Firms appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 23 Nov 2026 15:47:40 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack</title>
+      <link>https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/</guid>
+      <description>[News] SecurityWeek: The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .</description>
+      <pubDate>Mon, 23 Nov 2026 15:06:49 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>AI Agents Are Creating a Shared Responsibility Gap</title>
+      <link>https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ai-agents-are-creating-a-shared-responsibility-gap/</guid>
+      <description>[News] BleepingComputer: AI agents operate across multiple platforms, creating security gaps when no single vendor can see or control their actions. Token Security examines the shared responsibility problem and explains how organizations can better manage agent identities, permissions, and accountability. [...]</description>
+      <pubDate>Mon, 23 Nov 2026 15:00:10 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -62,6 +166,14 @@
       <description>[News] BleepingComputer: A Peruvian call center operator was sentenced to eight years in prison for helping steal millions of dollars from over 30,000 Spanish-speaking US residents in a years-long government-impersonation fraud scheme. [...]</description>
       <pubDate>Mon, 23 Nov 2026 12:02:23 +0000</pubDate>
       <category>News</category>
+    </item>
+    <item>
+      <title>CISA Adds Two Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/23/cisa-adds-two-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-133968 Project MONAI MONAI Label Path Traversal Vulnerability CVE-2026-134624 N-able Mail Assure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (FCEB) agencies. BOD 26-04 reinforces the importance of the KEV Catalog and req</description>
+      <pubDate>Mon, 23 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>BadBox 3.0 Ad Fraud Operation Generating 40 Billion Daily Bid Requests Disrupted</title>
@@ -2329,118 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] SecurityWeek: The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .</description>
       <pubDate>Tue, 17 Nov 2026 14:55:30 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Fandango Warns Ticket Buyers of Payment Card Data Exposure</title>
-      <link>https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/fandango-warns-ticket-buyers-of-payment-card-data-exposure/</guid>
-      <description>[News] SecurityWeek: Card numbers, CVVs, expiration dates, and email addresses used at Fandango’s ticketing checkout over four days in October may have been exposed. The post Fandango Warns Ticket Buyers of Payment Card Data Exposure appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 14:14:24 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Grok Bot took unapproved actions, ignored orders to stop, and then denied it</title>
-      <link>https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it/</guid>
-      <description>[News] Ars Technica Security: AI agent takes unapproved actions even when laptop lid is closed and told not to.</description>
-      <pubDate>Tue, 17 Nov 2026 14:00:29 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool</title>
-      <link>https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/pretxt-emerges-stealth-with-5m-seed-and-an-ai-supervision-tool/</guid>
-      <description>[News] SecurityWeek: Pretxt provides technology to prevent AI agents escaping their guardrails and causing unintended harm. The post Pretxt Emerges Stealth With $5M Seed and an AI Supervision Tool appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 14:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>MSP ScreenConnect Servers Targeted in Month-Long Campaign</title>
-      <link>https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/</guid>
-      <description>[News] SecurityWeek: More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 13:24:43 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 13:24:08 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 13:24:08 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Access Dental Management Data Breach Impacts Over 340,000</title>
-      <link>https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/</guid>
-      <description>[News] SecurityWeek: Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 12:59:04 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity</title>
-      <link>https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/corma-receives-125-million-to-train-foundation-models-for-defensive-cybersecurity/</guid>
-      <description>[News] SecurityWeek: Led by NEA and supported by existing investors, the funding brings the company’s valuation to $1 billion. The post Corma Receives $125 Million to Train Foundation Models for Defensive Cybersecurity appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 12:51:54 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>N-able Kills Legacy APIs, Patches 17 N-central Zero-Days</title>
-      <link>https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/n-able-kills-legacy-apis-patches-17-n-central-zero-days/</guid>
-      <description>[News] SecurityWeek: The patches target recently disclosed zero-days, as well as vulnerabilities already exploited in the wild. The post N-able Kills Legacy APIs, Patches 17 N-central Zero-Days appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 12:28:45 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Why threat hunting should matter to every board</title>
-      <link>https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board</link>
-      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/why-threat-hunting-should-matter-to-every-board</guid>
-      <description>[Security] UK NCSC: Monitoring alone cannot detect every threat. Proactive threat hunting can expose gaps in defences and help organisations learn from others facing common threats.</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack</title>
-      <link>https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/california-sues-openai-seeking-court-ordered-changes-after-the-hugging-face-hack/</guid>
-      <description>[News] SecurityWeek: The lawsuit alleges that OpenAI misled and endangered the public and users by knowingly developing advanced AI models without necessary safeguards. The post California Sues OpenAI, Seeking Court-Ordered Changes After the Hugging Face Hack appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Siemens Mendix Studio Pro</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-05</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary Mendix Studio Pro contains multiple vulnerabilities in the MCP Server, that could allow an attacker with network access to interact with the server remotely or trick a user's browser into sending unauthorized requests, potentially leading to unauthorized data access, tool execution, or system compromise. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Mendix Studio Pro are affected: Mendix Studio Pro 11 vers:intdot/&gt;=11.15.0|&lt;11.16.0 (CVE-2026-112136, CVE-2026-112137) Mendix Studio Pro 11.12 vers:intdot/&gt;=11.12.6|&lt;11.12.7 (CVE-2026-112136, CVE-2026-112137) CVSS Vendor Equipment v3</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens .NET Client Library for SIMATIC S7 Webserver API</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-02</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has released a new version for .NET Client Library for SIMATIC S7 Webserver API and recommends to update to the latest version. The following versions of Siemens .NET Client Library for SIMATIC S7 Webserver API are affected: .NET Client Library for SIMATIC S7 Webserver API vers:intdot/&lt;3.3.61, vers:intdot/&lt;3.3.62 (CVE-2026-85114, CVE-2026-85115) CVSS Vendor Equipment v3 7.5 Siemens .NET Client Library for SIMATIC S7 Webserver API 2 Vulnerabilities Improper Lim</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
-    </item>
-    <item>
-      <title>Siemens meta-iot2050</title>
-      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11</link>
-      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11</guid>
-      <description>[Security] CISA Advisories: View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to have arbitrary commands run as root. Siemens is preparing fixes and recommends mitigations for products where fixes are not or not yet available. The following versions of Siemens meta-iot2050 are affected: meta-iot2050 vers:intdot/&gt;=01.03.01 (CVE-2026-109830) CVSS Vendor Equipment v3 7.3 Siemens meta-iot2050 1 Vulnerability Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') Background Critical Infrastructure Sectors</description>
-      <pubDate>Tue, 17 Nov 2026 12:00:00 +0000</pubDate>
-      <category>Security</category>
     </item>
   </channel>
 </rss>
