@@ -1168,14 +1168,6 @@
       "published": "2026-09-30T11:15:14+00:00",
       "description": "The move will be part of a major overhaul of the ecosystem for website authentication."
     },
-    "url:https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users": {
-      "title": "Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?",
-      "url": "https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/",
-      "source": "Ars Technica Security",
-      "category": "News",
-      "published": "2026-09-25T19:38:59+00:00",
-      "description": "Ads appearing all over the Internet are trying to scam people."
-    },
     "url:https://github.com/openssl/openssl/releases/tag/openssl-4.1.0": {
       "title": "OpenSSL 4.1.0",
       "url": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
@@ -13887,6 +13879,230 @@
       "category": "Cloud",
       "published": "2026-11-24T12:31:35.232225+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog": {
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "url": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-24T12:00:00+00:00",
+      "description": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web Experimentation External Control of Critical State Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch ("
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03": {
+      "title": "Danfoss AK-SM 8xxA Series",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-24T12:00:00+00:00",
+      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-129713 A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to me"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02": {
+      "title": "Schneider Electric EcoStruxure Power Build Rapsody software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-24T12:00:00+00:00",
+      "description": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local attackers being able to exploit these issues to potentially execute arbitrary code. The following versions of Schneider Electric EcoStruxure Power Build Rapsody software are affected: EcoStruxure Power B"
+    },
+    "url:https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01": {
+      "title": "AutomationDirect C-More EA9 Programming Software",
+      "url": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+      "source": "CISA Advisories",
+      "category": "Security",
+      "published": "2026-11-24T12:00:00+00:00",
+      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software <=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United State"
+    },
+    "cve:CVE-2026-134068": {
+      "title": "CVE-2026-134068 - Stack-based buffer overflow in replication origin name parsing in AWS pgactive",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-198-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-24T18:09:02+00:00",
+      "description": "Bulletin ID: 2026-198-AWS Publication Date: 11/24/2026 10:00 AM PST Description: pgactive is an open source PostgreSQL extension from AWS that provides active-active replication between PostgreSQL databases. We identified CVE-2026-134068, an issue in the replication origin name parsing component of pgactive. Under certain circumstances, an authenticated database user with specific privileges might be able to execute arbitrary operating system commands as the database operating system user. Impacted versions: >= 2.1.0 AND < 2.1.10 Refer to the article for the most up-to-date and complete information."
+    },
+    "cve:CVE-2026-134066": {
+      "title": "CVE-2026-134066 - Query injection via schema-derived identifiers in Graph Explorer",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-199-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-24T18:44:47+00:00",
+      "description": "Bulletin ID: 2026-199-AWS Publication Date: 11/24/2026 10:30 AM PST Description: Graph Explorer is an open-source tool for browsing and searching graph data, which customers self-host against Amazon Neptune or other graph databases. We identified CVE-2026-134066, an issue in the query construction of Graph Explorer before version 3.2.1. Graph Explorer inserted property keys and labels read from the connected graph database into Gremlin, openCypher and SPARQL query text without escaping. A user with write access to the connected graph database could create a crafted property key or label that, when another user performs a search, causes Graph Explorer to run unintended query logic that access"
+    },
+    "cve:CVE-2026-135614": {
+      "title": "CVE-2026-135614 - Sensitive data redaction bypass in the troubleshooting tool in Amazon ECS MCP Server",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-24T19:27:19+00:00",
+      "description": "Bulletin ID: 2026-200-AWS Publication Date: 11/24/2026 11:00 AM PST Description: Amazon ECS MCP Server is an open-source Model Context Protocol server that lets AI agents and assistants manage and troubleshoot Amazon ECS workloads using the operator's AWS credentials. We identified CVE-2026-135614, an issue in the troubleshooting tool of the Amazon ECS MCP Server (awslabs.ecs-mcp-server) before 0.1.36. With the sensitive data setting at its default, the troubleshooting tool returned container environment variable values and secret references from ECS task definitions without the redaction the setting is intended to apply. This might allow a remote actor who can influence the agent's input, f"
+    },
+    "cve:CVE-2026-135414": {
+      "title": "CVE-2026-135414 - Server-side request forgery in snapshot repository registration in Amazon OpenSearch Service",
+      "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-201-aws/",
+      "source": "AWS Security",
+      "category": "Cloud",
+      "published": "2026-11-24T19:27:19+00:00",
+      "description": "Bulletin ID: 2026-201-AWS Publication Date: 11/24/2026 11:15 AM PST Description: Amazon OpenSearch Service is a managed service for deploying, operating, and scaling OpenSearch clusters in the AWS Cloud. We identified CVE-2026-135414, an issue in snapshot repository registration in Amazon OpenSearch Service. A user with snapshot management permissions on a domain could set a repository endpoint that caused the domain's service-operated nodes to send requests to network destinations that the user specified. This issue is addressed in service software R20260720. We recommend that customers update their domains to R20260720 or later. Impacted versions: Amazon OpenSearch Service service software"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach": {
+      "title": "Rackspace shuts down Spot cloud platform after security breach",
+      "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T21:37:30+00:00",
+      "description": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign": {
+      "title": "New Inception extortion gang launches large-scale vishing campaign",
+      "url": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T20:21:20+00:00",
+      "description": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems": {
+      "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+      "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T18:59:52+00:00",
+      "description": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys": {
+      "title": "Radware discloses breach exposing customer cloud access keys",
+      "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T17:49:05+00:00",
+      "description": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof": {
+      "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+      "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T16:30:19+00:00",
+      "description": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach": {
+      "title": "European Commission confirms data theft in EU Academy breach",
+      "url": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T16:22:44+00:00",
+      "description": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations": {
+      "title": "Hackers compromise Check Point Servers in 22 organizations",
+      "url": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T16:15:23+00:00",
+      "description": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits": {
+      "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+      "url": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T15:10:10+00:00",
+      "description": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era": {
+      "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+      "url": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T15:01:11+00:00",
+      "description": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information": {
+      "title": "McDonald's Japan data breach exposes customer location information",
+      "url": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T14:09:37+00:00",
+      "description": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits": {
+      "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+      "url": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-24T13:34:23+00:00",
+      "description": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]"
+    },
+    "url:https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says": {
+      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+      "url": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T22:41:58+00:00",
+      "description": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities": {
+      "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
+      "url": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T16:32:56+00:00",
+      "description": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation": {
+      "title": "European Commission Uncovers Data Breach in Cyberattack Investigation",
+      "url": "https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T14:49:59+00:00",
+      "description": "Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign": {
+      "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
+      "url": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T14:21:56+00:00",
+      "description": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse": {
+      "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
+      "url": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T13:30:23+00:00",
+      "description": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek ."
+    },
+    "page:6bba1537a29482b72bdb5de2": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-24T23:01:37.182605+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:0581bb433ce4b7981ab857c4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-24T23:01:37.182605+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:7c12d0f1975a213f8ef28631": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-24T23:01:37.182605+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:69dcf5aa9f82b24890edb8c9": {
+      "title": "Sectigo Knowledge Base — official page changed (review required)",
+      "url": "https://www.sectigo.com/knowledge-base",
+      "source": "Sectigo Knowledge Base",
+      "category": "PKI",
+      "published": "2026-11-24T23:01:37.182605+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13895,10 +14111,10 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "17b6ebb92b870e346c844fc94b677551c0aa7870f4dd7071dd68222b1305560d",
-    "https://status.cloud.google.com/": "8d7d96601c7af195de05daa8c81cd8806d1c7ada9324a35b6bc6e7376a06f631",
-    "https://cloud.google.com/support/bulletins": "4fd73ae9a09a3280399fe86cc07de2f798c9b27e0bafe885e7c7c01f451ba16c",
-    "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
+    "https://azure.status.microsoft/en-us/status": "3de739d87c4d1831ab0c30308b65a1fca64ffba5add81d768bac87d7eab7566e",
+    "https://status.cloud.google.com/": "d32791d676ae9781c40725b09da42c09303862365e88042b8299e7ac8d2e0fe0",
+    "https://cloud.google.com/support/bulletins": "f9dbff2212297a1516b63756c529f4f0129ff50a39ca8cfce3ce50d055e9eca1",
+    "https://www.sectigo.com/knowledge-base": "16008877816397d2b186fac5c4fa326764554c9c546ad723bb20878479403682",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }

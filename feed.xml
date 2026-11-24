@@ -5,8 +5,200 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 12:31:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:01:37 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 23:01:37 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 23:01:37 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 23:01:37 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Sectigo Knowledge Base — official page changed (review required)</title>
+      <link>https://www.sectigo.com/knowledge-base</link>
+      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
+      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 23:01:37 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says</title>
+      <link>https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/</guid>
+      <description>[News] SecurityWeek: It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 22:41:58 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Rackspace shuts down Spot cloud platform after security breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/</guid>
+      <description>[News] BleepingComputer: Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 21:37:30 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>New Inception extortion gang launches large-scale vishing campaign</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/</guid>
+      <description>[News] BleepingComputer: A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 20:21:20 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-135614 - Sensitive data redaction bypass in the troubleshooting tool in Amazon ECS MCP Server</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-200-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-200-AWS Publication Date: 11/24/2026 11:00 AM PST Description: Amazon ECS MCP Server is an open-source Model Context Protocol server that lets AI agents and assistants manage and troubleshoot Amazon ECS workloads using the operator's AWS credentials. We identified CVE-2026-135614, an issue in the troubleshooting tool of the Amazon ECS MCP Server (awslabs.ecs-mcp-server) before 0.1.36. With the sensitive data setting at its default, the troubleshooting tool returned container environment variable values and secret references from ECS task definitions without the redaction the setting is intended to apply. This might allow a remote actor who can influence the agent's input, f</description>
+      <pubDate>Tue, 24 Nov 2026 19:27:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-135414 - Server-side request forgery in snapshot repository registration in Amazon OpenSearch Service</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-201-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-201-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-201-AWS Publication Date: 11/24/2026 11:15 AM PST Description: Amazon OpenSearch Service is a managed service for deploying, operating, and scaling OpenSearch clusters in the AWS Cloud. We identified CVE-2026-135414, an issue in snapshot repository registration in Amazon OpenSearch Service. A user with snapshot management permissions on a domain could set a repository endpoint that caused the domain's service-operated nodes to send requests to network destinations that the user specified. This issue is addressed in service software R20260720. We recommend that customers update their domains to R20260720 or later. Impacted versions: Amazon OpenSearch Service service software</description>
+      <pubDate>Tue, 24 Nov 2026 19:27:19 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Turnitin discloses cyberattack affecting customer-facing systems</title>
+      <link>https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/</guid>
+      <description>[News] BleepingComputer: Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 18:59:52 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-134066 - Query injection via schema-derived identifiers in Graph Explorer</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-199-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-199-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-199-AWS Publication Date: 11/24/2026 10:30 AM PST Description: Graph Explorer is an open-source tool for browsing and searching graph data, which customers self-host against Amazon Neptune or other graph databases. We identified CVE-2026-134066, an issue in the query construction of Graph Explorer before version 3.2.1. Graph Explorer inserted property keys and labels read from the connected graph database into Gremlin, openCypher and SPARQL query text without escaping. A user with write access to the connected graph database could create a crafted property key or label that, when another user performs a search, causes Graph Explorer to run unintended query logic that access</description>
+      <pubDate>Tue, 24 Nov 2026 18:44:47 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>CVE-2026-134068 - Stack-based buffer overflow in replication origin name parsing in AWS pgactive</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-198-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-198-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-198-AWS Publication Date: 11/24/2026 10:00 AM PST Description: pgactive is an open source PostgreSQL extension from AWS that provides active-active replication between PostgreSQL databases. We identified CVE-2026-134068, an issue in the replication origin name parsing component of pgactive. Under certain circumstances, an authenticated database user with specific privileges might be able to execute arbitrary operating system commands as the database operating system user. Impacted versions: &gt;= 2.1.0 AND &lt; 2.1.10 Refer to the article for the most up-to-date and complete information.</description>
+      <pubDate>Tue, 24 Nov 2026 18:09:02 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Radware discloses breach exposing customer cloud access keys</title>
+      <link>https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/</guid>
+      <description>[News] BleepingComputer: Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 17:49:05 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>VMware Updates Patch Critical ESX, vCenter Vulnerabilities</title>
+      <link>https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/</guid>
+      <description>[News] SecurityWeek: The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 16:32:56 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof</title>
+      <link>https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/</guid>
+      <description>[News] BleepingComputer: The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 16:30:19 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>European Commission confirms data theft in EU Academy breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/</guid>
+      <description>[News] BleepingComputer: The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 16:22:44 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Hackers compromise Check Point Servers in 22 organizations</title>
+      <link>https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/</guid>
+      <description>[News] BleepingComputer: Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 16:15:23 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Police disrupt 57 illegal streaming services with 7.3 million visits</title>
+      <link>https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/</guid>
+      <description>[News] BleepingComputer: Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 15:10:10 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>From Vulnerability Noise to Resilience: Rethinking Security in the AI Era</title>
+      <link>https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/</guid>
+      <description>[News] BleepingComputer: AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation can reduce vulnerability noise and improve software resilience. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 15:01:11 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>European Commission Uncovers Data Breach in Cyberattack Investigation</title>
+      <link>https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/european-commission-uncovers-data-breach-in-cyberattack-investigation/</guid>
+      <description>[News] SecurityWeek: Names and email addresses of EU Academy users were exposed in the AI-assisted cyberattack the European Commission detected in October. The post European Commission Uncovers Data Breach in Cyberattack Investigation appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 14:49:59 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Check Point Security Management Servers Hacked in AI-Assisted Campaign</title>
+      <link>https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/</guid>
+      <description>[News] SecurityWeek: The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 14:21:56 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>McDonald's Japan data breach exposes customer location information</title>
+      <link>https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/</guid>
+      <description>[News] BleepingComputer: McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 14:09:37 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>New Shirudo tool uses AI to shield unpatched Linux systems from exploits</title>
+      <link>https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/</guid>
+      <description>[News] BleepingComputer: OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]</description>
+      <pubDate>Tue, 24 Nov 2026 13:34:23 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Anthropic Expands Enterprise Safeguards for Detecting AI Misuse</title>
+      <link>https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/</guid>
+      <description>[News] SecurityWeek: EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 13:30:23 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -52,6 +244,38 @@
       <link>https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc</link>
       <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc</guid>
       <description>[Security] UK NCSC: The NCSC is seeking industry feedback on a new delivery model for modernising external cyber security services.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>CISA Adds Three Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165 Drupal Core Remote Code Execution Vulnerability CVE-2026-132224 Optimizely Web Experimentation External Control of Critical State Data Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executive Branch (</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Danfoss AK-SM 8xxA Series</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA &lt;=5.4.0 (CVE-2026-129713) CVSS Vendor Equipment v3 9.8 Danfoss AK-SM8xxA 1 Vulnerability Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Location: Denmark Vulnerabilities CVE-2026-129713 A stack-based buffer overflow in an unauthenticated CGI handler of the Danfoss AK-SM 8xxA Series controller allows remote attackers to send specially crafted HTTP/S POST requests, leading to me</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Schneider Electric EcoStruxure Power Build Rapsody software</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-02</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Schneider Electric is aware of a vulnerability in its EcoStruxure™ Power Build Rapsody product. The EcoStruxure™ Power Build Rapsody is used to enter or import the single line diagram, to get the extensive bill of material of your switchboard, including all devices, connection items, and mounting components. Failure to apply the remediations provided below may risk memory corruption, heap-based buffer overflow, and/or stack-based buffer overflow, which could result in local attackers being able to exploit these issues to potentially execute arbitrary code. The following versions of Schneider Electric EcoStruxure Power Build Rapsody software are affected: EcoStruxure Power B</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>AutomationDirect C-More EA9 Programming Software</title>
+      <link>https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01</guid>
+      <description>[Security] CISA Advisories: View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a malicious file. The following versions of AutomationDirect C-More EA9 Programming Software are affected: C-More EA9 Programming Software &lt;=V6.80 (CVE-2026-127280) CVSS Vendor Equipment v3 7.8 AutomationDirect C-More EA9 Programming Software 1 Vulnerability Heap-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Systems Countries/Areas Deployed: Worldwide Company Headquarters Location: United State</description>
       <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
       <category>Security</category>
     </item>
@@ -2216,230 +2440,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 18 Nov 2026 05:13:53 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 05:13:53 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 04:07:21 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 04:07:21 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 03:01:18 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Classified Communications Network at the National Security Agency Goes Down, Defense Official Says</title>
-      <link>https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/</guid>
-      <description>[News] SecurityWeek: The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 18 Nov 2026 02:15:07 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 01:29:02 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 23:58:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 23:58:12 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Critical Java4Shell flaw allows RCE attacks on major Java applications</title>
-      <link>https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/</guid>
-      <description>[News] BleepingComputer: A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloak. [...]</description>
-      <pubDate>Tue, 17 Nov 2026 23:04:21 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 23:03:36 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Hundreds of websites deliver potent malware cocktail to unsuspecting visitors</title>
-      <link>https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/</link>
-      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/</guid>
-      <description>[News] Ars Technica Security: Malware cocktail delivers cryptocurrency theft payloads and iOS exploits, among other things.</description>
-      <pubDate>Tue, 17 Nov 2026 22:32:16 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 22:02:29 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 22:02:29 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Cloud keys leaked in Docker Hub images are stolen within seconds</title>
-      <link>https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/</guid>
-      <description>[News] BleepingComputer: Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]</description>
-      <pubDate>Tue, 17 Nov 2026 21:27:17 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Japan takes Fugaku supercomputer offlline after cyberattack</title>
-      <link>https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/</guid>
-      <description>[News] BleepingComputer: The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]</description>
-      <pubDate>Tue, 17 Nov 2026 20:51:21 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 20:17:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 20:17:56 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-130622 and CVE-2026-130623 - Incorrect authorization in credential loading and handling for namespace-scoped issuers in AWS Private CA Connector for Kubernetes (aws-privateca-issuer)</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-187-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-187-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-187-AWS Publication Date: 11/17/2026 12:00 PM PST Description: Incorrect authorization in the credential loading logic in AWS Private CA Connector for Kubernetes(aws-privateca-issuer) before 1.12.0 might allow an authenticated remote user with permission to create namespace-scoped issuers to obtain certificates, including subordinate CA certificates, signed by another namespace's AWS Private CA with that namespace's stored AWS credentials, via a namespace-scoped issuer that references a credentials Secret in that namespace. Impacted versions: - aws-privateca-issuer before v1.12.0 - AWS Private CA Connector for Kubernetes EKS add-on before v1.12.0-eksbuild.1 Refer to the art</description>
-      <pubDate>Tue, 17 Nov 2026 20:11:26 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Apple reports outages affecting iCloud Mail, AppleCare and more</title>
-      <link>https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/apple/apple-reports-outages-affecting-icloud-mail-applecare-and-more/</guid>
-      <description>[News] BleepingComputer: Apple is reporting service disruptions affecting several of its services, including iCloud Mail, iCloud Account &amp; Sign In, Apple School Manager, and Schoolwork. [...]</description>
-      <pubDate>Tue, 17 Nov 2026 19:24:07 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-130621- Time-of-check time-of-use race condition in the port selection in AWS efs-utils</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-186-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-186-AWS Publication Date: 11/17/2026 11:00 AM PST Description: A time-of-check time-of-use (TOCTOU) race condition in the local port selection in AWS efs-utils (amazon-efs-utils) before 3.3.5 might allow a user that can start EFS mounts on a shared host to read and write a different Amazon EFS or S3 Files file system that is mounted on that same host, under that mount's IAM identity and access point, via concurrent mount operations. Only file systems mounted on the same host at the same time can be affected. Impacted versions: - amazon-efs-utils &lt; v3.3.5 - aws-efs-csi-driver &lt; v3.5.4 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Tue, 17 Nov 2026 19:18:32 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 19:15:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 19:15:41 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Researchers hijack Hugging Face account for popular Kokoro AI model</title>
-      <link>https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/researchers-hijack-hugging-face-account-for-popular-kokoro-ai-model/</guid>
-      <description>[News] BleepingComputer: A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]</description>
-      <pubDate>Tue, 17 Nov 2026 18:21:24 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says</title>
-      <link>https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/ai-framework-autonomously-weaponized-flaws-in-real-attacks-google-says/</guid>
-      <description>[News] SecurityWeek: Threat actors are deploying multi-agent offensive frameworks to increase the velocity of multi-stage intrusions. The post AI Framework Autonomously Weaponized Flaws in Real Attacks, Google Says appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 18:16:17 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 18:13:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 18:13:05 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Tor releases emergency update amid ongoing DDoS attack</title>
-      <link>https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/</guid>
-      <description>[News] BleepingComputer: [...]</description>
-      <pubDate>Tue, 17 Nov 2026 18:04:15 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 17:16:24 +0000</pubDate>
       <category>Cloud</category>
     </item>
   </channel>
