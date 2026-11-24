@@ -5,8 +5,80 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 02:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 12:31:35 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 12:31:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Tue, 24 Nov 2026 12:31:35 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Amazon says hackers' AI agents found and exploited 0-day with little human input</title>
+      <link>https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</link>
+      <guid isPermaLink="false">https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/</guid>
+      <description>[News] Ars Technica Security: The Cairn AI framework is proving to be a boon for defenders and attackers.</description>
+      <pubDate>Tue, 24 Nov 2026 12:30:05 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems</title>
+      <link>https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/</guid>
+      <description>[News] SecurityWeek: OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 12:20:41 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Familiar weaknesses, exploited faster: defending against agentic cyber attacks</title>
+      <link>https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks</link>
+      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks</guid>
+      <description>[Security] UK NCSC: How to protect your organisation from cyber attacks created using ‘agentic offensive frameworks’.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>Introducing CORNERSTONE: delivering external services for the NCSC</title>
+      <link>https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc</link>
+      <guid isPermaLink="false">https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc</guid>
+      <description>[Security] UK NCSC: The NCSC is seeking industry feedback on a new delivery model for modernising external cyber security services.</description>
+      <pubDate>Tue, 24 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
+    </item>
+    <item>
+      <title>1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO</title>
+      <link>https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/</guid>
+      <description>[News] SecurityWeek: Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 11:50:21 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking</title>
+      <link>https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/</guid>
+      <description>[News] SecurityWeek: Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 10:44:44 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine</title>
+      <link>https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/</guid>
+      <description>[News] SecurityWeek: The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .</description>
+      <pubDate>Tue, 24 Nov 2026 10:35:04 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Azure Service Health — official page changed (review required)</title>
       <link>https://azure.status.microsoft/en-us/status</link>
@@ -1192,14 +1264,6 @@
       <category>News</category>
     </item>
     <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Fri, 20 Nov 2026 06:18:55 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
       <title>Google Cloud Service Health — official page changed (review required)</title>
       <link>https://status.cloud.google.com/</link>
       <guid isPermaLink="false">https://status.cloud.google.com/</guid>
@@ -2377,70 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Tue, 17 Nov 2026 17:16:24 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 17:16:24 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 16:07:21 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 16:07:21 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool</title>
-      <link>https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/</guid>
-      <description>[News] BleepingComputer: Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]</description>
-      <pubDate>Tue, 17 Nov 2026 16:00:00 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 15:04:15 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Tue, 17 Nov 2026 15:04:15 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions</title>
-      <link>https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/</guid>
-      <description>[News] BleepingComputer: Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]</description>
-      <pubDate>Tue, 17 Nov 2026 15:01:11 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Market Research Giant Ipsos Investigating Breach of Internal System</title>
-      <link>https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/market-research-giant-ipsos-investigating-breach-of-internal-system/</guid>
-      <description>[News] SecurityWeek: The company made the incident public on Monday, November 16, five days after filing a complaint with authorities. The post Market Research Giant Ipsos Investigating Breach of Internal System appeared first on SecurityWeek .</description>
-      <pubDate>Tue, 17 Nov 2026 14:55:30 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>

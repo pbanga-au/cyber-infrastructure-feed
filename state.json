@@ -12765,7 +12765,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-20T06:18:55.996687+00:00",
+      "published": "2026-11-24T12:31:35.232225+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:c3345eb8bf32d95c9985ef37": {
@@ -13823,6 +13823,70 @@
       "category": "Cloud",
       "published": "2026-11-24T02:13:42.732580+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks": {
+      "title": "Familiar weaknesses, exploited faster: defending against agentic cyber attacks",
+      "url": "https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-11-24T12:00:00+00:00",
+      "description": "How to protect your organisation from cyber attacks created using ‘agentic offensive frameworks’."
+    },
+    "url:https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc": {
+      "title": "Introducing CORNERSTONE: delivering external services for the NCSC",
+      "url": "https://www.ncsc.gov.uk/blogs/introducing-cornerstone-delivering-external-services-for-the-ncsc",
+      "source": "UK NCSC",
+      "category": "Security",
+      "published": "2026-11-24T12:00:00+00:00",
+      "description": "The NCSC is seeking industry feedback on a new delivery model for modernising external cyber security services."
+    },
+    "url:https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems": {
+      "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+      "url": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T12:20:41+00:00",
+      "description": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco": {
+      "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+      "url": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T11:50:21+00:00",
+      "description": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking": {
+      "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+      "url": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T10:44:44+00:00",
+      "description": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine": {
+      "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+      "url": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-24T10:35:04+00:00",
+      "description": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek ."
+    },
+    "url:https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input": {
+      "title": "Amazon says hackers' AI agents found and exploited 0-day with little human input",
+      "url": "https://arstechnica.com/security/2026/11/amazon-says-hackers-ai-agents-found-and-exploited-0-day-with-little-human-input/",
+      "source": "Ars Technica Security",
+      "category": "News",
+      "published": "2026-11-24T12:30:05+00:00",
+      "description": "The Cairn AI framework is proving to be a boon for defenders and attackers."
+    },
+    "page:2a5eb11e059dc0ef767a4dd4": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-24T12:31:35.232225+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -13831,8 +13895,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "2b9b1d83287550aab04a2dcb437cb2d2aac3c9dad2bc67eb191c7ce11b5d8538",
-    "https://status.cloud.google.com/": "fdda2ef94c45baa7006700e68e5ac44a8056529ebd6765b12c45979bb19c8508",
+    "https://azure.status.microsoft/en-us/status": "17b6ebb92b870e346c844fc94b677551c0aa7870f4dd7071dd68222b1305560d",
+    "https://status.cloud.google.com/": "8d7d96601c7af195de05daa8c81cd8806d1c7ada9324a35b6bc6e7376a06f631",
     "https://cloud.google.com/support/bulletins": "4fd73ae9a09a3280399fe86cc07de2f798c9b27e0bafe885e7c7c01f451ba16c",
     "https://www.sectigo.com/knowledge-base": "f783ffea26c8452cc0f474a9210cc9a9a75efb151fbab14a642fa5f15da8dbf3",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
