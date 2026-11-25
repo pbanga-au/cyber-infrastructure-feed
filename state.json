@@ -13141,7 +13141,7 @@
       "url": "https://azure.status.microsoft/en-us/status",
       "source": "Azure Service Health",
       "category": "Cloud",
-      "published": "2026-11-21T06:05:48.728919+00:00",
+      "published": "2026-11-25T05:26:53.046152+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     },
     "page:afa5265909cc5421d1177f47": {
@@ -14103,6 +14103,30 @@
       "category": "PKI",
       "published": "2026-11-24T23:01:37.182605+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://security.paloaltonetworks.com/PAN-SA-2026-0015": {
+      "title": "PAN-SA-2026-0015 Security Bulletin: OSS CVEs Fixed in PAN-OS (Severity: INFORMATIONAL)",
+      "url": "https://security.paloaltonetworks.com/PAN-SA-2026-0015",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-24T23:10:00+00:00",
+      "description": ""
+    },
+    "url:https://security.paloaltonetworks.com/PAN-SA-2026-0005": {
+      "title": "PAN-SA-2026-0005 Informational Bulletin: Precautionary Fixes for Non-Exploitable OSS CVEs in PAN-OS (Severity: INFORMATIONAL)",
+      "url": "https://security.paloaltonetworks.com/PAN-SA-2026-0005",
+      "source": "Palo Alto Networks",
+      "category": "Network",
+      "published": "2026-11-24T19:00:00+00:00",
+      "description": ""
+    },
+    "page:3e76981c41756abfb851256f": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-25T05:26:53.046152+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14111,8 +14135,8 @@
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
     "https://www.arista.com/en/support/advisories-notices/security-advisory": "4e4fea8f131456f83c8c75b7fa9f01e5108cf5fa61416b684933760c13d378dd",
-    "https://azure.status.microsoft/en-us/status": "3de739d87c4d1831ab0c30308b65a1fca64ffba5add81d768bac87d7eab7566e",
-    "https://status.cloud.google.com/": "d32791d676ae9781c40725b09da42c09303862365e88042b8299e7ac8d2e0fe0",
+    "https://azure.status.microsoft/en-us/status": "123c0d9b26ad9e54b4884042ca252580d29e941002d207facb6b9b4d1eac207a",
+    "https://status.cloud.google.com/": "a84b69917f66e5a34283c77c3f54129e9b7d3499cdcea6d269dd81d67852d5f0",
     "https://cloud.google.com/support/bulletins": "f9dbff2212297a1516b63756c529f4f0129ff50a39ca8cfce3ce50d055e9eca1",
     "https://www.sectigo.com/knowledge-base": "16008877816397d2b186fac5c4fa326764554c9c546ad723bb20878479403682",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
