@@ -14399,6 +14399,94 @@
       "category": "Cloud",
       "published": "2026-11-26T09:31:59.366430+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026": {
+      "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+      "url": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-26T17:58:42+00:00",
+      "description": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins": {
+      "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+      "url": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-26T17:15:27+00:00",
+      "description": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension": {
+      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+      "url": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-26T15:23:28+00:00",
+      "description": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook": {
+      "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+      "url": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-26T11:50:17+00:00",
+      "description": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]"
+    },
+    "url:https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information": {
+      "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+      "url": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-26T17:06:55+00:00",
+      "description": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks": {
+      "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+      "url": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-26T13:04:06+00:00",
+      "description": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks": {
+      "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+      "url": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-26T11:35:25+00:00",
+      "description": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek ."
+    },
+    "page:384c13689681a38dd6c77500": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-26T19:37:53.076910+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:f9809191e7c9b3760b13d4ae": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-26T19:37:53.076910+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:5620472b4ab16afa73545748": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-26T19:37:53.076910+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:6a5fedbc744c60032bdcde30": {
+      "title": "Sectigo Knowledge Base — official page changed (review required)",
+      "url": "https://www.sectigo.com/knowledge-base",
+      "source": "Sectigo Knowledge Base",
+      "category": "PKI",
+      "published": "2026-11-26T19:37:53.076910+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14406,11 +14494,11 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "70cb65283a31b94110532bd5cb89b2d3a04cab0a8f9cfb744f47931899676855",
-    "https://azure.status.microsoft/en-us/status": "1c0c4a2fd22e3596f887608d5e4774652bf616007ecb7d12088c684b3a3ad22d",
-    "https://status.cloud.google.com/": "0ba8d000bd666b6cae8c781149f2a15e5e97e287f8e360690afa013a71441281",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "7c89cffdd4a8639847706d35276ce2f405eb64b20efdc45fa073596983f42f5d",
+    "https://azure.status.microsoft/en-us/status": "cfd1c150da92ec22122769b47ae8602826a7b3126dd1c979526334e4e2462e54",
+    "https://status.cloud.google.com/": "5cbff820c4c2cdea6d39c9156d8f99200cc9d00535c32e48c593fc0a08f8d41c",
     "https://cloud.google.com/support/bulletins": "6f6a7c988ea9eed038cb84ccc5c6bb556783d3012444ddfb53a27ad232f0d85b",
-    "https://www.sectigo.com/knowledge-base": "16008877816397d2b186fac5c4fa326764554c9c546ad723bb20878479403682",
+    "https://www.sectigo.com/knowledge-base": "30db804e9d16e9708221fff010e6cd3cd42b329190f38e067836efed0886e20b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
   }

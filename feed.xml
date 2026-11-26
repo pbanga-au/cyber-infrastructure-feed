@@ -5,8 +5,96 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 09:31:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 19:37:53 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista Security Advisories — official page changed (review required)</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory</guid>
+      <description>[Network] Arista Security Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 19:37:53 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 19:37:53 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 19:37:53 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Sectigo Knowledge Base — official page changed (review required)</title>
+      <link>https://www.sectigo.com/knowledge-base</link>
+      <guid isPermaLink="false">https://www.sectigo.com/knowledge-base</guid>
+      <description>[PKI] Sectigo Knowledge Base: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 19:37:53 +0000</pubDate>
+      <category>PKI</category>
+    </item>
+    <item>
+      <title>NordVPN Black Friday Deal: Get 78% off VPN plans in 2026</title>
+      <link>https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/</guid>
+      <description>[News] BleepingComputer: NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]</description>
+      <pubDate>Thu, 26 Nov 2026 17:58:42 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Fake paid expert interviews impersonate brands to steal Google logins</title>
+      <link>https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/</guid>
+      <description>[News] BleepingComputer: An ongoing phishing campaign dubbed "GoodGuys" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]</description>
+      <pubDate>Thu, 26 Nov 2026 17:15:27 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’</title>
+      <link>https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/</guid>
+      <description>[News] SecurityWeek: FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 26 Nov 2026 17:06:55 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Remus malware steals Gmail messages via fake Google Sheets extension</title>
+      <link>https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/</guid>
+      <description>[News] BleepingComputer: The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]</description>
+      <pubDate>Thu, 26 Nov 2026 15:23:28 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Critical Juniper Session Smart Conductor Flaw Exploited in Attacks</title>
+      <link>https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/</guid>
+      <description>[News] SecurityWeek: Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 26 Nov 2026 13:04:06 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>SYS010 malware abuses browser management to spy on Gmail, Outlook</title>
+      <link>https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/</guid>
+      <description>[News] BleepingComputer: A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]</description>
+      <pubDate>Thu, 26 Nov 2026 11:50:17 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks</title>
+      <link>https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/</guid>
+      <description>[News] SecurityWeek: Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 26 Nov 2026 11:35:25 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Arista Security Advisories — official page changed (review required)</title>
       <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
@@ -2353,94 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Thu, 19 Nov 2026 04:10:08 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion</title>
-      <link>https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/</guid>
-      <description>[News] SecurityWeek: The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared first on SecurityWeek .</description>
-      <pubDate>Thu, 19 Nov 2026 03:25:23 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>CVE-2026-114938 - OpenJDK Base64 Decoder Intrinsic Out-of-Bounds Write Issue</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-189-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-189-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-189-AWS Publication Date: 11/18/2026 17:00 PM PST Description: AWS is aware of CVE-2026-114938, a memory issue in the Base64 decoder intrinsic of OpenJDK 17.0.6 and later on x86-64 processors that support AVX-512 VBMI. A fix is available in the November 2026 OpenJDK updates. AWS is working to deploy the fix to affected AWS services Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Thu, 19 Nov 2026 03:02:28 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 03:01:57 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 01:26:31 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 23:58:54 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 23:58:54 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms</title>
-      <link>https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/</guid>
-      <description>[News] BleepingComputer: Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]</description>
-      <pubDate>Wed, 18 Nov 2026 23:08:33 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 23:01:37 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 22:00:32 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 21:05:00 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam</title>
-      <link>https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/</guid>
-      <description>[News] BleepingComputer: Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]</description>
-      <pubDate>Wed, 18 Nov 2026 20:49:32 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
