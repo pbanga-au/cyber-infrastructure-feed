@@ -5,8 +5,56 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 01:00:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 09:31:59 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista Security Advisories — official page changed (review required)</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory</guid>
+      <description>[Network] Arista Security Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 09:31:59 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 09:31:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 09:31:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
+      <link>https://cloud.google.com/support/bulletins</link>
+      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
+      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 09:31:59 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Drupal Installer Patch Left a Gap Attackers Are Already Exploiting</title>
+      <link>https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/</guid>
+      <description>[News] SecurityWeek: Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 26 Nov 2026 09:12:26 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>1Password Breach Exposes Customer Data, Internal Source Code</title>
+      <link>https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/</link>
+      <guid isPermaLink="false">https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/</guid>
+      <description>[News] SecurityWeek: A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .</description>
+      <pubDate>Thu, 26 Nov 2026 08:32:10 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Arista Security Advisories — official page changed (review required)</title>
       <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
@@ -2393,54 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] BleepingComputer: Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]</description>
       <pubDate>Wed, 18 Nov 2026 20:49:32 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 20:10:09 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Data breach impacts 40 Irish credit unions in reported IT provider hack</title>
-      <link>https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/</guid>
-      <description>[News] BleepingComputer: A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]</description>
-      <pubDate>Wed, 18 Nov 2026 19:39:33 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 19:09:33 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 19:09:33 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>CVE-2026-130638 - Path traversal in the object detection dataset preparation tool in AutoGluon MultiModal</title>
-      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-188-aws/</link>
-      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-188-aws/</guid>
-      <description>[Cloud] AWS Security: Bulletin ID: 2026-188-AWS Publication Date: 11/18/2026 10:00 AM PST Description: Relative path traversal in the object detection dataset preparation tool in AutoGluon Multimodal before 1.6.0 might allow adversary-in-the-middle attackers to write arbitrary files with the privileges of the user running the tool via a crafted dataset archive substituted for a dataset downloaded over plaintext HTTP. Impacted versions: &lt; 1.6.0 Refer to the article for the most up-to-date and complete information.</description>
-      <pubDate>Wed, 18 Nov 2026 18:18:11 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 17:17:41 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>

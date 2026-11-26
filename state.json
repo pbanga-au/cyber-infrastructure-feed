@@ -14351,6 +14351,54 @@
       "category": "Cloud",
       "published": "2026-11-26T01:00:40.189508+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting": {
+      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+      "url": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-26T09:12:26+00:00",
+      "description": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code": {
+      "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+      "url": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-26T08:32:10+00:00",
+      "description": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek ."
+    },
+    "page:f739e7ca0f1765db804cf92c": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-26T09:31:59.366430+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:03cc7910aa6639415e311998": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-26T09:31:59.366430+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:32318f0f63d6d971822df9ba": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-26T09:31:59.366430+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:ec889effaadda0d44d327448": {
+      "title": "Google Cloud Security Bulletins — official page changed (review required)",
+      "url": "https://cloud.google.com/support/bulletins",
+      "source": "Google Cloud Security Bulletins",
+      "category": "Cloud",
+      "published": "2026-11-26T09:31:59.366430+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14358,10 +14406,10 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "35e8bcaccb158df9cebea541f2d0e26f28c12aed32762af4324d91a50efb735d",
-    "https://azure.status.microsoft/en-us/status": "ed903bdf2313709ae69371a29043715a0d83d7cffa5e3429c729482291dfd5a6",
-    "https://status.cloud.google.com/": "160d45d55aacd4e605933893568634d40704f9ba763458f1717dc55b4c709d98",
-    "https://cloud.google.com/support/bulletins": "f9dbff2212297a1516b63756c529f4f0129ff50a39ca8cfce3ce50d055e9eca1",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "70cb65283a31b94110532bd5cb89b2d3a04cab0a8f9cfb744f47931899676855",
+    "https://azure.status.microsoft/en-us/status": "1c0c4a2fd22e3596f887608d5e4774652bf616007ecb7d12088c684b3a3ad22d",
+    "https://status.cloud.google.com/": "0ba8d000bd666b6cae8c781149f2a15e5e97e287f8e360690afa013a71441281",
+    "https://cloud.google.com/support/bulletins": "6f6a7c988ea9eed038cb84ccc5c6bb556783d3012444ddfb53a27ad232f0d85b",
     "https://www.sectigo.com/knowledge-base": "16008877816397d2b186fac5c4fa326764554c9c546ad723bb20878479403682",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
     "https://www.godaddy.com/help/ssl-certificates-1000006": "482713561b5a08da478014c2bc6ccb3c9f2c3c41e2d43414573ba6c1ce50aa32"
