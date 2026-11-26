@@ -5,8 +5,64 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 17:15:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 01:00:40 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista Security Advisories — official page changed (review required)</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory</guid>
+      <description>[Network] Arista Security Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 01:00:40 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 01:00:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Thu, 26 Nov 2026 01:00:40 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/</guid>
+      <description>[News] BleepingComputer: Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]</description>
+      <pubDate>Wed, 25 Nov 2026 22:05:09 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>1Password customer data stolen after employee GitHub account breach</title>
+      <link>https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/</guid>
+      <description>[News] BleepingComputer: 1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]</description>
+      <pubDate>Wed, 25 Nov 2026 21:33:33 +0000</pubDate>
+      <category>News</category>
+    </item>
+    <item>
+      <title>CVE-2026-134070 - Improper input sanitization in the AWS Config remediation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3</title>
+      <link>https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/</link>
+      <guid isPermaLink="false">https://aws.amazon.com/security/security-bulletins/rss/2026-203-aws/</guid>
+      <description>[Cloud] AWS Security: Bulletin ID: 2026-203-AWS Publication Date: 11/25/2026 11:30 AM PST Description: AWS Systems Manager Automation provides AWS-managed runbooks that customers can run directly or through integrations such as AWS Config remediation. Session Manager, a capability of AWS Systems Manager, stores each account's regional session preferences in the SSM-SessionManagerRunShell document. We identified CVE-2026-134070, where improper input validation in the AWS-managed AWS Systems Manager Automation runbook AWSConfigRemediation-EnableSystemsManagerSessionManagerAuditLogsToS3 might allow an authenticated remote user who is permitted to run the runbook to set unintended configuration in the account's Regio</description>
+      <pubDate>Wed, 25 Nov 2026 19:41:20 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Italy and Switzerland warn of autonomous AI-driven cyberattacks</title>
+      <link>https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/</guid>
+      <description>[News] BleepingComputer: Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]</description>
+      <pubDate>Wed, 25 Nov 2026 19:39:31 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Arista Security Advisories — official page changed (review required)</title>
       <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
@@ -102,6 +158,14 @@
       <description>[News] SecurityWeek: Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek .</description>
       <pubDate>Wed, 25 Nov 2026 13:30:00 +0000</pubDate>
       <category>News</category>
+    </item>
+    <item>
+      <title>CISA Adds 10 Known Exploited Vulnerabilities to Catalog</title>
+      <link>https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog</link>
+      <guid isPermaLink="false">https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog</guid>
+      <description>[Security] CISA Advisories: CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A Series Improper Input Validation Vulnerability CVE-2025-41450 Danfoss AK-SM 800A Series Improper Authentication Vulnerability CVE-2026-103406 Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability CVE-2026-133275 Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability CVE-2026-133303 Mitel MiCollab XML Injection Vulnerability CVE-2026-133311 Mitel MiCollab Weak Authen</description>
+      <pubDate>Wed, 25 Nov 2026 12:00:00 +0000</pubDate>
+      <category>Security</category>
     </item>
     <item>
       <title>Microsoft fixes Microsoft 365 bug blocking access to Office apps</title>
@@ -2377,70 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
       <pubDate>Wed, 18 Nov 2026 17:17:41 +0000</pubDate>
       <category>Cloud</category>
-    </item>
-    <item>
-      <title>Microsoft’s Agent Framework PyPI package compromised to steal credentials</title>
-      <link>https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/</guid>
-      <description>[News] BleepingComputer: Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]</description>
-      <pubDate>Wed, 18 Nov 2026 16:58:42 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 16:12:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 16:12:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Security Bulletins — official page changed (review required)</title>
-      <link>https://cloud.google.com/support/bulletins</link>
-      <guid isPermaLink="false">https://cloud.google.com/support/bulletins</guid>
-      <description>[Cloud] Google Cloud Security Bulletins: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 16:12:42 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>VeroSecurity Raises $11 Million for AI Security Engineering Platform</title>
-      <link>https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/verosecurity-raises-11-million-for-ai-security-engineering-platform/</guid>
-      <description>[News] SecurityWeek: AI Security Engineering is a new and essential security discipline now being brought into focus by VeroSecurity. The post VeroSecurity Raises $11 Million for AI Security Engineering Platform appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 18 Nov 2026 15:30:42 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Wed, 18 Nov 2026 15:08:36 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters</title>
-      <link>https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/</link>
-      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/</guid>
-      <description>[News] BleepingComputer: Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification can help organizations prevent social engineering threats. [...]</description>
-      <pubDate>Wed, 18 Nov 2026 15:00:10 +0000</pubDate>
-      <category>News</category>
-    </item>
-    <item>
-      <title>Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization</title>
-      <link>https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/</link>
-      <guid isPermaLink="false">https://www.securityweek.com/russian-apt-poses-as-employee-of-hacked-firm-to-breach-another-us-organization/</guid>
-      <description>[News] SecurityWeek: Star Blizzard weaponized data and identities stolen in late 2025 to phish and compromise a US organization. The post Russian APT Poses as Employee of Hacked Firm to Breach Another US Organization appeared first on SecurityWeek .</description>
-      <pubDate>Wed, 18 Nov 2026 13:33:47 +0000</pubDate>
-      <category>News</category>
     </item>
   </channel>
 </rss>
