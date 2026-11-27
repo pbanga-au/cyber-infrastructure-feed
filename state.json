@@ -296,14 +296,6 @@
       "published": "2026-10-06T12:00:00+00:00",
       "description": "ASOS has said it is investigating a cyber incident and that some customer personal information may have been accessed."
     },
-    "url:https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway": {
-      "title": "Exploitation of vulnerabilities affecting Citrix NetScaler ADC and Citrix NetScaler Gateway",
-      "url": "https://www.ncsc.gov.uk/news/exploitation-of-vulnerabilities-affecting-citrix-netscaler-adc-and-citrix-netscaler-gateway",
-      "source": "UK NCSC",
-      "category": "Security",
-      "published": "2026-09-28T12:00:00+00:00",
-      "description": "The NCSC is urging UK organisations to promptly mitigate vulnerabilities affecting Citrix NetScaler ADC and Gateway, two of which are being actively exploited."
-    },
     "cve:CVE-2026-109618,CVE-2026-109619": {
       "title": "CVE-2026-109618 Impact of Critical Vulnerabilities in PHP (CVE-2026-109618, CVE-2026-109619) on Palo Alto Networks Products  (Severity: HIGH)",
       "url": "https://security.paloaltonetworks.com/CVE-2026-109618",
@@ -14511,6 +14503,110 @@
       "category": "Cloud",
       "published": "2026-11-27T02:51:10.331060+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH": {
+      "title": "2025-08 Updated Reference Advisory: Junos OS and Junos OS Evolved: Multiple CVEs reported in OpenSSH",
+      "url": "https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH",
+      "source": "Juniper Security",
+      "category": "Network",
+      "published": "2026-11-16T00:00:00+00:00",
+      "description": ""
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028": {
+      "title": "Microsoft removes WSUS server role in Windows Server 2028",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wsus-server-role-in-windows-server-2028/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-27T11:18:36+00:00",
+      "description": "Microsoft will remove the WSUS server role from Windows Server 2028, the next major release of its server operating system. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks": {
+      "title": "Drupal warns of new site takeover flaw exploited in attacks",
+      "url": "https://www.bleepingcomputer.com/news/security/drupal-warns-of-new-access-bypass-flaw-exploited-in-attacks/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-27T10:10:15+00:00",
+      "description": "The Drupal security team says attackers are exploiting a second critical vulnerability that lets them breach and hijack unpatched websites. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity": {
+      "title": "SAP confirms security incident after suspicious GitHub activity",
+      "url": "https://www.bleepingcomputer.com/news/security/sap-confirms-security-incident-after-suspicious-github-activity/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-27T09:56:36+00:00",
+      "description": "SAP has confirmed to BleepingComputer that it took urgent action to protect its customers after detecting suspicious activity in its IT environment. [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes": {
+      "title": "Microsoft pushes emergency hotpatch to fix Windows Server crashes",
+      "url": "https://www.bleepingcomputer.com/news/microsoft/new-out-of-band-oob-emergency-hotpatch-fixes-windows-server-2025-crashes/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-27T09:08:16+00:00",
+      "description": "Microsoft has released an emergency hotpatch update to address Windows Server 2025 crashes triggered after installing this month's security hotpatch update (KB5131077). [...]"
+    },
+    "url:https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges": {
+      "title": "New NFS2ROOT Linux flaw can let attackers gain root privileges",
+      "url": "https://www.bleepingcomputer.com/news/security/new-nfs2root-linux-flaw-can-let-attackers-gain-root-privileges/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-27T08:06:58+00:00",
+      "description": "​A 12-year-old critical vulnerability in the Linux kernel's Network File System (NFS) server, tracked as CVE-2026-99362, allows remote attackers to gain root privileges. [...]"
+    },
+    "url:https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities": {
+      "title": "In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities",
+      "url": "https://www.securityweek.com/in-other-news-tanker-cyberattacks-eu-quantum-act-new-virustotal-capabilities/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-27T11:00:00+00:00",
+      "description": "Noteworthy stories that might have slipped under the radar: RansomwareHelp accused of profiting from ransom payments, USDA payment systems breach, cybersecurity firm Radware hacked. The post In Other News: Tanker Cyberattacks, EU Quantum Act, New VirusTotal Capabilities appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach": {
+      "title": "100,000 Potentially Impacted by Colorado Data Breach",
+      "url": "https://www.securityweek.com/100000-potentially-impacted-by-colorado-data-breach/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-27T09:30:54+00:00",
+      "description": "Hackers breached the digital identification and document storage application myColorado and accessed user-uploaded data. The post 100,000 Potentially Impacted by Colorado Data Breach appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach": {
+      "title": "Hex Package Manager Warns of Potential Data Breach",
+      "url": "https://www.securityweek.com/hex-package-manager-warns-of-potential-data-breach/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-27T07:44:49+00:00",
+      "description": "A vulnerability in hex.pm allowed hackers to run commands on web servers. No evidence of data modification was found, but database reads are not logged. The post Hex Package Manager Warns of Potential Data Breach appeared first on SecurityWeek ."
+    },
+    "url:https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised": {
+      "title": "SAP Confirms Cyberattack, Source Code Reportedly Compromised",
+      "url": "https://www.securityweek.com/sap-confirms-cyberattack-source-code-reportedly-compromised/",
+      "source": "SecurityWeek",
+      "category": "News",
+      "published": "2026-11-27T07:36:14+00:00",
+      "description": "SAP has detected suspicious activity on GitHub, where hackers reportedly used stolen employee tokens to copy and alter source code. The post SAP Confirms Cyberattack, Source Code Reportedly Compromised appeared first on SecurityWeek ."
+    },
+    "page:2aec9b728eb1e61ec10a1437": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-27T12:22:40.938410+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:2f302d975c817017e04bad10": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-27T12:22:40.938410+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:536f6071b5aa410e178d9804": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-27T12:22:40.938410+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14518,9 +14614,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "af5e9e66032b509af663741f6d4fff88beb6a98a7aa66a02a8db522883bb38b8",
-    "https://azure.status.microsoft/en-us/status": "506e5b6a67ed453b42b0a0937ccf80e76d69becfef259ef3d8ac423f0f825143",
-    "https://status.cloud.google.com/": "83023d7975a79b8b576c4fcfe8f6c960b87a4f9abc9eb0ef041298f77fde6031",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "aa7260b5fd329b659d1d36bbc5951143b8a1e87dbf8dc289fc8289fd926f2ad6",
+    "https://azure.status.microsoft/en-us/status": "9aacc25f8e04fa670d71a310eb3b0d014c020c30c7135fb85db215404311d063",
+    "https://status.cloud.google.com/": "e96ede70dc117878beb0abc60f5c1514b6774bd3e2ed2cc10d936de81ea176d6",
     "https://cloud.google.com/support/bulletins": "6f6a7c988ea9eed038cb84ccc5c6bb556783d3012444ddfb53a27ad232f0d85b",
     "https://www.sectigo.com/knowledge-base": "30db804e9d16e9708221fff010e6cd3cd42b329190f38e067836efed0886e20b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
