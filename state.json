@@ -584,14 +584,6 @@
       "published": "2026-10-14T00:00:00+00:00",
       "description": ""
     },
-    "url:https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH": {
-      "title": "2025-08 Updated Reference Advisory: Junos OS and Junos OS Evolved: Multiple CVEs reported in OpenSSH",
-      "url": "https://supportportal.juniper.net/s/article/2024-05-Reference-Advisory-Junos-OS-and-Junos-OS-Evolved-Multiple-CVEs-reported-in-OpenSSH",
-      "source": "Juniper Security",
-      "category": "Network",
-      "published": "2026-09-28T00:00:00+00:00",
-      "description": ""
-    },
     "url:https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws": {
       "title": "Issue in the Linux kernel virtio-net/TAP networking path affecting KVM-based hypervisors",
       "url": "https://aws.amazon.com/security/security-bulletins/rss/2026-137-aws/",
@@ -14487,6 +14479,38 @@
       "category": "PKI",
       "published": "2026-11-26T19:37:53.076910+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "url:https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug": {
+      "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+      "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+      "source": "BleepingComputer",
+      "category": "News",
+      "published": "2026-11-26T21:06:22+00:00",
+      "description": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]"
+    },
+    "page:990519d3996f5a59d02efa56": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-27T02:51:10.331060+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:25dc6e87fe85c833e7bbd007": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-27T02:51:10.331060+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:f18eb79421f0f340cdc7a492": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-27T02:51:10.331060+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14494,9 +14518,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "7c89cffdd4a8639847706d35276ce2f405eb64b20efdc45fa073596983f42f5d",
-    "https://azure.status.microsoft/en-us/status": "cfd1c150da92ec22122769b47ae8602826a7b3126dd1c979526334e4e2462e54",
-    "https://status.cloud.google.com/": "5cbff820c4c2cdea6d39c9156d8f99200cc9d00535c32e48c593fc0a08f8d41c",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "af5e9e66032b509af663741f6d4fff88beb6a98a7aa66a02a8db522883bb38b8",
+    "https://azure.status.microsoft/en-us/status": "506e5b6a67ed453b42b0a0937ccf80e76d69becfef259ef3d8ac423f0f825143",
+    "https://status.cloud.google.com/": "83023d7975a79b8b576c4fcfe8f6c960b87a4f9abc9eb0ef041298f77fde6031",
     "https://cloud.google.com/support/bulletins": "6f6a7c988ea9eed038cb84ccc5c6bb556783d3012444ddfb53a27ad232f0d85b",
     "https://www.sectigo.com/knowledge-base": "30db804e9d16e9708221fff010e6cd3cd42b329190f38e067836efed0886e20b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",

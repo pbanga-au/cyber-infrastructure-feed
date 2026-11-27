@@ -5,8 +5,40 @@
     <link>https://pbanga-au.github.io/cyber-infrastructure-feed/</link>
     <description>Security, cloud, network, PKI and infrastructure advisories from official and selected news sources.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Nov 2026 19:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 02:51:10 +0000</lastBuildDate>
     <atom:link href="https://pbanga-au.github.io/cyber-infrastructure-feed/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Arista Security Advisories — official page changed (review required)</title>
+      <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
+      <guid isPermaLink="false">https://www.arista.com/en/support/advisories-notices/security-advisory</guid>
+      <description>[Network] Arista Security Advisories: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 27 Nov 2026 02:51:10 +0000</pubDate>
+      <category>Network</category>
+    </item>
+    <item>
+      <title>Azure Service Health — official page changed (review required)</title>
+      <link>https://azure.status.microsoft/en-us/status</link>
+      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
+      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 27 Nov 2026 02:51:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>Google Cloud Service Health — official page changed (review required)</title>
+      <link>https://status.cloud.google.com/</link>
+      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
+      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
+      <pubDate>Fri, 27 Nov 2026 02:51:10 +0000</pubDate>
+      <category>Cloud</category>
+    </item>
+    <item>
+      <title>OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug</title>
+      <link>https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/</link>
+      <guid isPermaLink="false">https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/</guid>
+      <description>[News] BleepingComputer: OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]</description>
+      <pubDate>Thu, 26 Nov 2026 21:06:22 +0000</pubDate>
+      <category>News</category>
+    </item>
     <item>
       <title>Arista Security Advisories — official page changed (review required)</title>
       <link>https://www.arista.com/en/support/advisories-notices/security-advisory</link>
@@ -2409,38 +2441,6 @@ Arista is not currently aware of any malicious exploitation of this vulnerabilit
       <description>[News] SecurityWeek: Affecting the session upload progress, CVE-2026-115560 was publicly disclosed two days after PHP2Shell patches landed. The post PHP Readies Critical Security Updates to Patch Another RCE Flaw appeared first on SecurityWeek .</description>
       <pubDate>Thu, 19 Nov 2026 07:45:17 +0000</pubDate>
       <category>News</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 07:31:35 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 05:18:10 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Azure Service Health — official page changed (review required)</title>
-      <link>https://azure.status.microsoft/en-us/status</link>
-      <guid isPermaLink="false">https://azure.status.microsoft/en-us/status</guid>
-      <description>[Cloud] Azure Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 04:10:08 +0000</pubDate>
-      <category>Cloud</category>
-    </item>
-    <item>
-      <title>Google Cloud Service Health — official page changed (review required)</title>
-      <link>https://status.cloud.google.com/</link>
-      <guid isPermaLink="false">https://status.cloud.google.com/</guid>
-      <description>[Cloud] Google Cloud Service Health: A monitored official page changed. This is a change notification, not a verified new security advisory.</description>
-      <pubDate>Thu, 19 Nov 2026 04:10:08 +0000</pubDate>
-      <category>Cloud</category>
     </item>
   </channel>
 </rss>
