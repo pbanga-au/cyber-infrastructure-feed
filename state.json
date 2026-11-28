@@ -14703,6 +14703,30 @@
       "category": "Cloud",
       "published": "2026-11-28T03:54:24.991304+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:0c6d499a8a48bd1462a4663b": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-28T12:59:48.157306+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:5bba558552f51a168fd42a9c": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-28T12:59:48.157306+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:efa849f77973c71618466028": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-28T12:59:48.157306+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14710,9 +14734,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "c19fd68b845199976274cf68b1e0c477cea9d0274eeeac3bae6e4d85f1f4501b",
-    "https://azure.status.microsoft/en-us/status": "cf0c02054a97b7a009d6883833e5bbf0d81a987382339d7a4ab9911143db72de",
-    "https://status.cloud.google.com/": "cd46211aaf8d544ba47d1c2228032cfd26765af3e760e7f153370708b727e293",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "2a66f9c52a415da63940a59137f756ac6a6e875f78263f28e9048c4bc645f8d7",
+    "https://azure.status.microsoft/en-us/status": "d19819d08547be4443571921b33b6d123ec38f037b03029d04baa7ae51dd83d1",
+    "https://status.cloud.google.com/": "2cfe6fffa9b9dc567532917ce10352178f11f91056832138b232556aae35757a",
     "https://cloud.google.com/support/bulletins": "6f6a7c988ea9eed038cb84ccc5c6bb556783d3012444ddfb53a27ad232f0d85b",
     "https://www.sectigo.com/knowledge-base": "30db804e9d16e9708221fff010e6cd3cd42b329190f38e067836efed0886e20b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
