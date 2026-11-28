@@ -8192,14 +8192,6 @@
       "published": "2026-10-02T15:27:35+00:00",
       "description": "Date: October 6, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nOctober 6, 2026\nInitial release\n\n\n1.1\nOctober 13, 2026\nUpdated Resolution section to include the 2026.3.0 release\n\n\n\nThe CVE-ID tracking this issue: CVE-2026-101158 CVSSv3.1 Base Score: 8.4 (CVSS:3.1/AV:N/AC:L/PR:H/UI:R/S:C/C:H/I:H/A:H) CVSSv4.0 Base Score: 9.3 (CVSS:4.0/AV:N/AC:L/AT:N/PR:L/UI:A/VC:H/VI:H/VA:H/SC:H/SI:H/SA:H) Common Weakness Enumeration: CWE-79: Improper Neutralization of Input During Web Page Generation  ..."
     },
-    "url:https://www.arista.com/en/support/advisories-notices/security-advisory/24776-security-advisory-0184": {
-      "title": "Security Advisory 0184",
-      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory/24776-security-advisory-0184",
-      "source": "Arista Security",
-      "category": "Network",
-      "published": "2026-09-28T22:55:19+00:00",
-      "description": "September 29, 2026\n\n\n\nRevision\nDate\nChanges\n\n\n1.0\nSeptember 29, 2026\nInitial release\n\n\n1.1\nOctober 6, 2026\nUpdated information\n\n\n\nUpdate Type:\nInformational\nBackground\nRecent enhancements to our vulnerability detection processes have resulted in a higher-than-usual volume of security updates. Arista is providing this advance notification to help our customers plan. To streamline remediation efforts and allow customers to address them in a consolidated maintenance window, ..."
-    },
     "url:https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets": {
       "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
       "url": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
@@ -14687,6 +14679,30 @@
       "category": "Cloud",
       "published": "2026-11-27T21:58:18.239247+00:00",
       "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:c33a5454313b009fdb2d853b": {
+      "title": "Arista Security Advisories — official page changed (review required)",
+      "url": "https://www.arista.com/en/support/advisories-notices/security-advisory",
+      "source": "Arista Security Advisories",
+      "category": "Network",
+      "published": "2026-11-28T03:54:24.991304+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:e26ac6e1aa94f847fd94d08b": {
+      "title": "Azure Service Health — official page changed (review required)",
+      "url": "https://azure.status.microsoft/en-us/status",
+      "source": "Azure Service Health",
+      "category": "Cloud",
+      "published": "2026-11-28T03:54:24.991304+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
+    },
+    "page:6b194a10be5f8b345c8feb53": {
+      "title": "Google Cloud Service Health — official page changed (review required)",
+      "url": "https://status.cloud.google.com/",
+      "source": "Google Cloud Service Health",
+      "category": "Cloud",
+      "published": "2026-11-28T03:54:24.991304+00:00",
+      "description": "A monitored official page changed. This is a change notification, not a verified new security advisory."
     }
   },
   "pages": {
@@ -14694,9 +14710,9 @@
     "https://azure.microsoft.com/en-us/updates/": "b19a5ef7a7fc75edb7ae225ecb6cda008c9b242e7d319d13d1885cc593e9bb5f",
     "https://www.godaddy.com/help/what-is-the-cpcps-certificate-profile-bug-43095": "d879838c1d0e23246afe3a4d0519dd85927fda9927f7fed9f5248b5ece5851a0",
     "https://bugzilla.mozilla.org/buglist.cgi?product=CA%20Program&resolution=---": "06e81e7bec076f1dd7043c18f1e5e270299fcadf035d7852b7d72c7593fb214d",
-    "https://www.arista.com/en/support/advisories-notices/security-advisory": "c65f2e14361eb1a8e4627256d25717d3784dff7f3ddd8584d4cc057bdeda3520",
-    "https://azure.status.microsoft/en-us/status": "5025f65f446b34b165e06b50484ed2e468857715aa0053e3f395c6d2959530e6",
-    "https://status.cloud.google.com/": "61b663b22b087300b9ef9f67897a1ea2ef195b4f4a46dd8c16a81f4b2112de88",
+    "https://www.arista.com/en/support/advisories-notices/security-advisory": "c19fd68b845199976274cf68b1e0c477cea9d0274eeeac3bae6e4d85f1f4501b",
+    "https://azure.status.microsoft/en-us/status": "cf0c02054a97b7a009d6883833e5bbf0d81a987382339d7a4ab9911143db72de",
+    "https://status.cloud.google.com/": "cd46211aaf8d544ba47d1c2228032cfd26765af3e760e7f153370708b727e293",
     "https://cloud.google.com/support/bulletins": "6f6a7c988ea9eed038cb84ccc5c6bb556783d3012444ddfb53a27ad232f0d85b",
     "https://www.sectigo.com/knowledge-base": "30db804e9d16e9708221fff010e6cd3cd42b329190f38e067836efed0886e20b",
     "https://letsencrypt.org/blog/": "235843324d147c526083ae60a681c07e763a8148d5e44907be1c59283444c338",
